@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html>
+<head>
+</head>
+<body>
+  <para id="0">
+    <se lang="russian" variant_id="0">по вычитании суммы обоих углов FDE и FED из 180° остаток составит 1°48′; вычтя его из 1°52′, получим разность углов BMD и DFE = 4′.</se>
+    <se lang="latin" variant_id="1">utriusque anguli FDE et FED summa ex 180° subtracta erit residuum 1°48′, quibus ex 1°52′ subtractis, habebis differentiam inter angulos BMD et DFE = 4′.</se>
+    <weight variant_id="1">1,04936</weight>
+  </para>
+  <para id="1">
+    <se lang="russian" variant_id="0">Положив отрезок BD = DE = 1000, будем иметь по правилам тригонометрии DM : DF =...</se>
+    <se lang="latin" variant_id="1">Posita autem linea BD = DE = 1000 erit per regulas trigonometricas DM : DF =...</se>
+    <weight variant_id="1">1,69792</weight>
+  </para>
+  <para id="2">
+    <se lang="russian" variant_id="0">Далее, отверстие зеркала, служащего объективом, возрастает в меньшей пропорции, чем длина трубы, согласно правилу Гюйгенса.</se>
+    <se lang="latin" variant_id="1">Porro apertura speculi objectivi crescit in minore ratione. quam longitudo tubi, juxta regulam Hugenianam.</se>
+    <weight variant_id="1">0,248936</weight>
+  </para>
+  <para id="3">
+    <se lang="russian" variant_id="0">Напр., отверстие ньютоновой трубы в один фут относится к фокусному расстоянию как 7 к 60; отверстие же такой трубы, как наша, в 14 футов, относится к фокусному расстоянию приблизительно, как 1 к 16.</se>
+    <se lang="latin" variant_id="1">Ex. gr. apertura tubi Newtoniani unius pedis est ad distantiam foci ut 7 ad 60; apertura vero tubi, ut noster est, 14′ pedum habet rationem ad distantiam foci ut 1 ad 16 circiter.</se>
+    <weight variant_id="1">0,526192</weight>
+  </para>
+  <para id="4">
+    <se lang="" variant_id="0">§ 14</se>
+    <se lang="" variant_id="1">§ 14</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="5">
+    <se lang="russian" variant_id="0">Посмотрим теперь, какое нарушение порядка лучей в фокусе оказывает отклонение оси светового конуса от оси трубы.</se>
+    <se lang="latin" variant_id="1">Quantum autem deflexio axis coni luminosi ab axe tubi ad turbandum ordinem radiorum in foco faciat, videamus.</se>
+    <weight variant_id="1">0,287234</weight>
+  </para>
+  <para id="6">
+    <se lang="russian" variant_id="0">Пусть BDE — служащее объективом зеркало, образуемое дугой круга, полудиаметр которого CD имеет длину в 28 лондонских футов; пусть оно имеет отверстие в 11 дюймов и отклонено на один градус от перпендикуляра BQ к направлению падающих на него лучей AB, DG, EH, параллельных оси трубы.</se>
+    <se lang="latin" variant_id="1">Sit BDE speculum objectivum descriptium arcu circuli, ejus semidiameter CD 28 pedes londinensis est longus, cujus apertura est 11 pollicum; atque gradum unicum a perpendiculo BQ radiorum incidentium, AB, DG, EH eum axe tubi parallelorum inclinatum.</se>
+    <weight variant_id="1">1,64333</weight>
+  </para>
+  <para id="7">
+    <se lang="russian" variant_id="0">Получится, следовательно, CD : BLE = 336 : 11; но та же линия CD : BL = 336 : 5½ = 3360 : 55; откуда, согласно тригонометрическим правилам, угол BCE = 1°52′ и BCD = 56′.</se>
+    <se lang="latin" variant_id="1">Erit ergo CD : BLE = 336 : 11; at eadem linea CD : BL = 336 : 5½ = 3360 : 55; unde per regulas trigonometricas angulus BCE = 1°52′ et BCD = 56′.</se>
+    <weight variant_id="1">3,06847</weight>
+  </para>
+  <para id="8">
+    <se lang="russian" variant_id="0">Далее, CBE = CEB будет равно 89°4′ и отсюда CBD = CDB = CDE = CED = 89°32′.</se>
+    <se lang="latin" variant_id="1">Porto CBE = CEB erit 89°4′ indeque CBD = CDB = CDE = CED = 89°32′.</se>
+    <weight variant_id="1">2,55373</weight>
+  </para>
+  <para id="9">
+    <se lang="russian" variant_id="0">Итак, пусть параллельный оси трубы луч AB падает на зеркало в точке B; он встретит его поверхность, отклоненную от перпендикуляра к лучам BQ на угол 1°56′, как равный отклонению зеркала от перпендикуляра к углу LB ... ~~~ = 56′, который заключен между BL и касательной n.</se>
+    <se lang="latin" variant_id="1">Incidat ergo radius axi tubi parallelus AB in speculi punctum B: feriet superficiem ejus a radiorum perpendiculo BQ inclinatam l°56′; nempe aequalem inclinationi speculi a perpendiculo et angulo LBT = 56′, quem comprehendit BL cum tangente n.</se>
+    <weight variant_id="1">0,067313</weight>
+  </para>
+  <para id="10">
+    <se lang="russian" variant_id="0">4 радиуса BC и равен BCD.</se>
+    <se lang="latin" variant_id="1">4 radii BC, aequalem BCD.</se>
+    <weight variant_id="1">6,28571</weight>
+  </para>
+  <para id="11">
+    <se lang="russian" variant_id="0">Отражаясь же по направлению к M, он образует угол ABM = 3°52′.</se>
+    <se lang="latin" variant_id="1">Repercussus autem versus M efficiet angulum ABM = 3°52′.</se>
+    <weight variant_id="1">1,18163</weight>
+  </para>
+  <para id="12">
+    <se lang="russian" variant_id="0">Затем луч DC, падая в D, встречает поверхность, отклоненную от перпендикуляра на 1°, и при отражении удваивает этот угол.</se>
+    <se lang="latin" variant_id="1">Deinde ubi radius DC incidit in D, ferit superficiem a perpendiculo 1° inclinatem et reflexus eundem duplicat.</se>
+    <weight variant_id="1">0,438246</weight>
+  </para>
+  <para id="13">
+    <se lang="russian" variant_id="0">Отсюда получим: угол MBD = CBD — CBM = 89°32′ — 1°56′ = 87°36′; а угол MBD = CDB + CDM = 89°32′ + 1° = 90°32′.</se>
+    <se lang="latin" variant_id="1">Hinc autem erit angulus MBD = CBD — CBM = 89°32′ — 1°56′ = 87°36′; angulus autem MBD = CDB + CDM = 89°32′ — 1° = 90°32′.</se>
+    <weight variant_id="1">2,51824</weight>
+  </para>
+  <para id="14">
+    <se lang="russian" variant_id="0">Так как сумма того и другого составляет 178°8′, то вычтя ее из 180°, получим для угла BMD остаток 1°52′.</se>
+    <se lang="latin" variant_id="1">Utriusque summa cum sit 178°8′: ea subtracta ex 180°, manebit residuum pro angulo BMD 1°52′.</se>
+    <weight variant_id="1">0,83212</weight>
+  </para>
+  <para id="15">
+    <se lang="russian" variant_id="0">Далее, угол FDE = = CDE — CDF = 89°32′ — 1° = 88°32′; луч EH также падает в E; он встречает отклоненную от перпендикуляра BQ поверхность под углом QBE — BES = 1° — 56′ = 4′, и, отразившись, удваивает этот угол; откуда угол FED = 89°32′ + 8′ = 89°40′.</se>
+    <se lang="latin" variant_id="1">Coeterum angulus FDE est = CDE — CDF = 89°32′ — 1° = 88°32′; etiam radius EH incidit in E; ferit superficiem a perpendiculo BQ inclinatem angulo QBE — BES = 1° — 56′ = 4′, atque reflexus eundem duplicat; unde angulus FED = 89°32′ + 8′ = 89°40′.</se>
+    <weight variant_id="1">2,09543</weight>
+  </para>
+  <para id="16">
+    <se lang="russian" variant_id="0">Вычитание суммы обоих углов FDE и FED из 180° дает в остатке 1°48′; и таким образом разность углов BMD и DFE составит 4′.</se>
+    <se lang="latin" variant_id="1">Utriusque anguli FDE et FED summa ex 180° subtracta dabit residuum 1°48′; adeoque inter angulos BMD et EFE differentia habebit 4′.</se>
+    <weight variant_id="1">1,08518</weight>
+  </para>
+</body>
+</html>

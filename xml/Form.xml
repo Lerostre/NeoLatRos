@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html>
+<head>
+</head>
+<body>
+  <para id="0">
+    <se lang="russian" variant_id="0">Ученейшему высокочтимому мужу Формею, непременному секретарю королевской Берлинской академии и члену императорской Академии Наук в С.-Петербурге и Ученого королевского общества в Лондоне, Михаил Ломоносов шлет нижайший привет.</se>
+    <se lang="latin" variant_id="1">Viro doctissimo atque celeberrimo Formeyo, Academiae Regiae Berolinensis secretario perpetuo, Imperatoriae Academie scientiarum Petropolitanae nec non societatis scientiarum Regiae Londinensis membro, Michael Lomonosow ~~~ S. P.. D. ~~~ </se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="1">
+    <se lang="russian" variant_id="0">По получении вашего любезнейшего письма я обязан был уже давно ответить вам, к чему побуждало меня и доставленное им удовольствие. ~~~ Однако исполнить это помешали мне некоторые обстоятельства.</se>
+    <se lang="latin" variant_id="1">Litteris Tuis humanissimis acceptis jam pridem Tibi respondere officium meum postulabat et voluptas quae ex iis orta est incitabat; verum in hoc exequendo fuerunt quaedam mihi impedimenta.</se>
+    <weight variant_id="1">-0,153681</weight>
+  </para>
+  <para id="2">
+    <se lang="russian" variant_id="0">Во-первых, я ждал ответа от его превосходительства г. президента с уведомлением о благополучной к нему доставке ваших писем. ~~~</se>
+    <se lang="latin" variant_id="1">Primo expectabam responsum ab excellentissimo Praeside quo de Tuis ad ilium tuto perlatis certior essem factus;</se>
+    <weight variant_id="1">-0,00427046</weight>
+  </para>
+  <para id="3">
+    <se lang="russian" variant_id="0">Далее, я ждал случая послать вам вместе с ответом моим и речь, недавно мною произнесенную. Теперь, обманувшись в своих ожиданиях, я раскаиваюсь, что промешкал и уклонился на столько времени от должного ответа.</se>
+    <se lang="latin" variant_id="1">porro occasionem quaerebam simul cum responsione mea etiam orationem nuper a me habitam ad Te mittendi, sed utriusque spe frustratum poenitet tam diu officium meum distulisse, tantumque ab eo observando declinasse.</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="4">
+    <se lang="russian" variant_id="0">Если вами до сих пор не получено ответа от его превосходительства г. президента, то я не замедлю узнать, дошли ли до него ваши письма.</se>
+    <se lang="latin" variant_id="1">Si nullum adhuc responsum ab Excellentissimo Praeside accepisti contendam quantum potero ut cognoscam utrum litterae Tuae ad illum pervenerint.</se>
+    <weight variant_id="1">0,2625</weight>
+  </para>
+  <para id="5">
+    <se lang="russian" variant_id="0">За ваш благосклонный отзыв касательно моего рассуждения о светлости металлов приношу глубочайшую благодарность.</se>
+    <se lang="latin" variant_id="1">Pro favore quem in recensendis meditationibus meis de tincturis metallorum Te fecisse indicasti gratias ago quam maximas.</se>
+    <weight variant_id="1">0,282</weight>
+  </para>
+  <para id="6">
+    <se lang="russian" variant_id="0">Самой книжки «Bibliotheca germanica» [«Германская библиотека»] мне еще не удалось видеть.</se>
+    <se lang="latin" variant_id="1">Volumen illud Bibliothecae Germanicae videre mihi nondum contigit.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="7">
+    <se lang="russian" variant_id="0">Во всяком случае я готов по мере моих сил исполнять все ваши желания и всегда буду чтить и ценить ваше дружеское ко мне расположение.</se>
+    <se lang="latin" variant_id="1">Caeterum si quo votis Tuis satisfacere possim, paratissimum me ad omnia officia habebis ac Te Tuamque amicitiam omni cultu atque observantia semper prosequuturum.</se>
+    <weight variant_id="1">0,218919</weight>
+  </para>
+  <para id="8">
+    <se lang="russian" variant_id="0">Покорнейше прошу не отказать в передаче г. ~~~ Сантороцкому моего привета и сообщить ему, что его приезд в Петербург может облегчить получение денег от Фитингофа.</se>
+    <se lang="latin" variant_id="1">Salutem meo nomine D.. Santorockio dicere ne graveris officiosissime rogo eumque monere accessu illius Petropolim pecuniam a Fittinhoffio facilius repeti posse.</se>
+    <weight variant_id="1">-0,00326087</weight>
+  </para>
+  <para id="9">
+    <se lang="russian" variant_id="0">Будьте здоровы, знаменитый муж, и не оставьте меня и впредь вашим расположением.</se>
+    <se lang="latin" variant_id="1">Vale, vir clarissime, atque mihi favere ut coepisti non desiste.</se>
+    <weight variant_id="1">0,225</weight>
+  </para>
+  <para id="10">
+    <se lang="russian" variant_id="0">С.-Петербург. Февраля 12 (23) 1754 года</se>
+    <se lang="latin" variant_id="1">Dabam Petropoli Februarii 12 (23) An. 1754</se>
+    <weight variant_id="1">-0,107143</weight>
+  </para>
+</body>
+</html>

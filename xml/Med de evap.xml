@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html>
+<head>
+</head>
+<body>
+  <para id="0">
+    <se lang="russian" variant_id="0">На предыдущем заседании академической Конференции, а именно 4 мая, шла речь о переходе ртути в пары не только при умеренной теплоте, при которой животные могут находиться, не испытывая неудобств от жара или холода, но даже и в самой торричеллиевой пустоте.</se>
+    <se lang="latin" variant_id="1">Praeterito conventu academico, die nimirum quarto Maji sermo fuit de mercurio in vapores resoluto, non solum temperato caloris gradu, quo animalia sine incommodo ab aestu aut frigore versari possunt, verum etiam in ipso vacuo Torricelliano.</se>
+    <weight variant_id="1">0,284058</weight>
+  </para>
+  <para id="1">
+    <se lang="russian" variant_id="0">Это мнение, — то есть, что ртуть может перейти в пары при умеренной теплоте даже в случае удаления воздуха, — опирается на наблюдение ртути, оседающей в форме шариков на стенках сосудов или стеклянной трубки.</se>
+    <se lang="latin" variant_id="1">Nititur haec opinio, scilicet mercurium temperato calore etiam subducto aere in vapores resolvi posse, observato mercurio in forma globulorum lateribus vasis aut tubuli vitrei adhaerere.</se>
+    <weight variant_id="1">0,276074</weight>
+  </para>
+  <para id="2">
+    <se lang="russian" variant_id="0">Истинность этого наблюдения становится очевидной в шаре универсального барометра, который поставлен, по моему предложению, как в моем доме, так и в здании Академии, но самое испарение является почти или совершенно неправдоподобным, —</se>
+    <se lang="latin" variant_id="1">Observationis veritas ob oculos ponitur in globo Barometri universalis, quod me auctore cum domi meae, tum in aedibus academicis constitutum est, ut ipsa evaporatio vix aut ne vix quidem veri est similis.</se>
+    <weight variant_id="1">-0,0348285</weight>
+  </para>
+  <para id="3">
+    <se lang="russian" variant_id="0">ввиду того что для подобного рода восхождения имеется, помимо воздуха или пустого пространства, другой путь, гораздо более медленный, неизмеримо более твердый, не таящий в себе ничего неожиданного, именно — самые стенки сосуда или стеклянной трубки, которыми поднимающаяся ртуть пользуется как лестницей.</se>
+    <se lang="latin" variant_id="1">Quandoquidem ad ascensum ejusmodi praeter aerem aut spatium vacuum datur via alia multo lentior, immensum quantum solidior, nulla involvens paradoxa; nempe latera ipsa vasis seu tubuli vitrei quibus pro scala utitur scandens mercurius.</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="4">
+    <se lang="russian" variant_id="0">Хочу доказать это примерами, теорией и подтвердить опытами, которые должны быть произведены впоследствии.</se>
+    <se lang="latin" variant_id="1">Rem exemplis, theoria probare et in posterum instituendis experimentis confirmare lubet.</se>
+    <weight variant_id="1">0,243038</weight>
+  </para>
+  <para id="5">
+    <se lang="russian" variant_id="0">Физикам хорошо известно, что жидкие тела ползут и вверх по стенкам сосудов, особенно в узком пространстве, каковы плоские стекла, почти соприкасающиеся друг с другом, капиллярные трубки, пористые тела и др.</se>
+    <se lang="latin" variant_id="1">Notissimum est Physicis liquida Corpora juxta latera vasorum serpere etiam in altum, praesertim vero in spatio angusto, ut sunt vitra plana fere in contactu posita, tubuli capillares, porosa corpora etc.</se>
+    <weight variant_id="1">0,294857</weight>
+  </para>
+  <para id="6">
+    <se lang="russian" variant_id="0">Все это справедливо следует приписать не давлению атмосферы, но некоей аналогии вещества твердого сосуда и жидкого вещества; это совершается благодаря взаимодействию со стенками, а не внешнему толчку, так как восхождение жидкостей по капиллярным полостям происходит в пустоте.</se>
+    <se lang="latin" variant_id="1">Quae omnia non prementis Atmosphaerae sed cuidam analogiae materiarum vasis solidi et materiae fluidae jure tribuenda sunt; quaeque actione mutua cum lateribus quam impulsione quadam externa peraguntur,quippe ascensus fluidorum per cavitates capillares fit in vacuo.</se>
+    <weight variant_id="1">0,2897</weight>
+  </para>
+  <para id="7">
+    <se lang="russian" variant_id="0">Далее, я много раз замечал, что щелочная соль, тело очень прочное, а сверх того — твердое, если хранить ее в стеклянном сосуде в течение продолжительного времени, она поднимается к пробке и заполняет широкое пространство под выходным отверстием.</se>
+    <se lang="latin" variant_id="1">Porro multoties expertus sum, salem alcalinum, corpus adeo fixum, super hoc solidum, cum in vase vitreo conservatur longiore tempore, sursum ad obturaculum ascendit, et spatium largius infra orificii explet.</se>
+    <weight variant_id="1">0,25</weight>
+  </para>
+  <para id="8">
+    <se lang="russian" variant_id="0">Можно было бы подумать, что это постоянное тело перешло в пары и поднялось вверх по воздуху, если бы вся внутренняя поверхность сосуда, покрытая тонкой щелочной корой, не выдавала следов и самого пути восхождения.</se>
+    <se lang="latin" variant_id="1">Equidem crederes fixum hoc corpus se in vapores resolvisse et per aerem sursum ascendisse, nisi tota interna vasis superficies tenui crusta alcalina obducta vestigia et ipsam viam ascensus prodidisset.</se>
+    <weight variant_id="1">0,286207</weight>
+  </para>
+  <para id="9">
+    <se lang="russian" variant_id="0">Уже это делает очень сомнительным вышеупомянутое испарение ртути. ~~~ Для подтверждения моего мнения к этому присоединяются и теоретические соображения.</se>
+    <se lang="latin" variant_id="1">Haec jam maxime dubiam reddunt evaporationem superius dictam mercurii; theoretica igitur ad corrob[or]andam sententiam meam adjunguntur.</se>
+    <weight variant_id="1">-0,0147541</weight>
+  </para>
+  <para id="10">
+    <se lang="russian" variant_id="0">Именно — в моем Слове о происхождении света и цве́тов содержится новооткрытый в природе вещей принцип, который я обозначил названием совмещение.</se>
+    <se lang="latin" variant_id="1">Nempe exstat in oratione mea de origine lucis et colorum novum in rerum natura revelatum principium, quod congruentiae titulo salutavi.</se>
+    <weight variant_id="1">0,279487</weight>
+  </para>
+  <para id="11">
+    <se lang="russian" variant_id="0">Господа коллеги могут помнить это объяснение или перечитать его.</se>
+    <se lang="latin" variant_id="1">Explanationis illius aut meminisse aut relegere clarissimi collegae possunt.</se>
+    <weight variant_id="1">0,236842</weight>
+  </para>
+  <para id="12">
+    <se lang="russian" variant_id="0">Но кто поверит, что эти части ртути и стекла — совершенно не сходных тел — совместимы?</se>
+    <se lang="latin" variant_id="1">Quis autem partes has mercurii et vitri corporum dissimillimorum congruere credat?</se>
+    <weight variant_id="1">0,295833</weight>
+  </para>
+  <para id="13">
+    <se lang="russian" variant_id="0">Однако известно, что зола, из которой выплавляются стекла, содержит металлические части, однородные с ртутью.</se>
+    <se lang="latin" variant_id="1">At notum est cineres ex quibus vitra conflantur, continere partes metallicas, mercurio homogeneas.</se>
+    <weight variant_id="1">0,265517</weight>
+  </para>
+  <para id="14">
+    <se lang="russian" variant_id="0">Мало того, почти всегда в смеси для стекла добавляется сурик, то есть пережженный свинец, металл, аналогичный ртути.</se>
+    <se lang="latin" variant_id="1">Imo vero fere semper accedit mixtioni vitri minium, nempe plumbum ustum, metallum argento vivo analogum.</se>
+    <weight variant_id="1">0,267033</weight>
+  </para>
+  <para id="15">
+    <se lang="russian" variant_id="0">Кроме того, в какой степени селитра — душа наилучшего стекла — совмещается с металлами, совершенно очевидно из того, что они растворяются в ее спирте.</se>
+    <se lang="latin" variant_id="1">Praeterea Nitrum optimi vitri animam, quod quantum cum metallis congruat, per solutionem eorum in ipsius spiritu manifesto patet.</se>
+    <weight variant_id="1">0,260177</weight>
+  </para>
+  <para id="16">
+    <se lang="russian" variant_id="0">Итак, едва ли можно сомневаться в том, что ртуть не поднимается вверх по воздуху или даже в пустоте, переходя в пары, а ползет по стенкам сосудов.</se>
+    <se lang="latin" variant_id="1">Vix igitur dubitari potest mercurium non in vapores resolutum per aera aut etiam per vacuum, sed serpendo per vasorum latera sursum scandere.</se>
+    <weight variant_id="1">0,297521</weight>
+  </para>
+  <para id="17">
+    <se lang="russian" variant_id="0">Для полного же устранения сомнений должны быть произведены следующие опыты:</se>
+    <se lang="latin" variant_id="1">Ad omnem autem scrupulum evellendum sequentia instituantur experimenta.</se>
+    <weight variant_id="1">0,290769</weight>
+  </para>
+  <para id="18">
+    <se lang="russian" variant_id="0">1) Взять ртуть в количестве, например, одного фунта, выставить на открытый воздух в широком сосуде, чтобы поверхность ее была больше; спустя несколько недель взвесить.</se>
+    <se lang="latin" variant_id="1">1) Sumatur quantitas mercurii unius e. gr. librae, exponatur libero aeri, in vase largo, quo superficies ejus fiat amplior; post tempus aliquot septimanarum ponderetur.</se>
+    <weight variant_id="1">0,417931</weight>
+  </para>
+  <para id="19">
+    <se lang="russian" variant_id="0">Уменьшение веса будет доказательством против моего мнения.</se>
+    <se lang="latin" variant_id="1">Decrementum ponderis arguet contrarium sententiae meae.</se>
+    <weight variant_id="1">0,288235</weight>
+  </para>
+  <para id="20">
+    <se lang="russian" variant_id="0">2) Над поверхностью ртути, выставленной для испарения, повесить опрокинутый стеклянный сосуд так, чтобы он нигде не касался стеклянного сосуда, содержащего в себе ртуть, и самой ртути, но чтобы он покрывал собою все это.</se>
+    <se lang="latin" variant_id="1">2) Supra superficiem mercurii ad evaporandum expositae suspendatur vas vitreum inversum, ita ut nullibi vas vitreum continens aut mercurium attingat, totam autem materiam tegat.</se>
+    <weight variant_id="1">0,354194</weight>
+  </para>
+  <para id="21">
+    <se lang="russian" variant_id="0">Нахождение ртутных шариков в опрокинутом сосуде будет свидетельствовать против меня.</se>
+    <se lang="latin" variant_id="1">Inventi globuli mercuriales in vase inverso contra me testes erunt.</se>
+    <weight variant_id="1">0,213559</weight>
+  </para>
+</body>
+</html>

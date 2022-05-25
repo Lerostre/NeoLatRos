@@ -1,0 +1,217 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html>
+<head>
+</head>
+<body>
+  <para id="0">
+    <se lang="russian" variant_id="0">1. Обращение к Брауну, который первый открыл, и ранее обещал приложить труд.</se>
+    <se lang="latin" variant_id="1">1. Alloquutio ad Br. quod primus invenerit, et promisit ante operam daturum.</se>
+    <weight variant_id="1">0,530769</weight>
+  </para>
+  <para id="1">
+    <se lang="russian" variant_id="0">Поэтому напрасно другие.</se>
+    <se lang="latin" variant_id="1">Igitur frustra alii.</se>
+    <weight variant_id="1">0,236842</weight>
+  </para>
+  <para id="2">
+    <se lang="russian" variant_id="0">2. О возрожденном воздухе в метеорологии.</se>
+    <se lang="latin" variant_id="1">2. De aëre regenerato in meteorologia.</se>
+    <weight variant_id="1">0,702857</weight>
+  </para>
+  <para id="3">
+    <se lang="russian" variant_id="0">Расчет, какова и какой величины была бы атмосфера, если бы хотя бы один миллиарий [тела] плотности воды превратился в пары.</se>
+    <se lang="latin" variant_id="1">Calculus, quae esset athmosphaera et quam magna si vel unum milliare aquae crassicie resolveretur in vapores.</se>
+    <weight variant_id="1">0,268421</weight>
+  </para>
+  <para id="4">
+    <se lang="russian" variant_id="0">3. Здесь не обращают как бы в некую религию каких-то ветеранов, притом чуждых математике, ненавистников науки, покоящейся на твердых основаниях, полагающих, что они создали все блага для потомства.</se>
+    <se lang="latin" variant_id="1">3. Non hic quasi ad religionem aliquam convertere veteranos quosdam praesertim in mathesi amusos et osores solidioris scientiae, qui omnia posteritatis bona se fecisse putant.</se>
+    <weight variant_id="1">0,37813</weight>
+  </para>
+  <para id="5">
+    <se lang="russian" variant_id="0">4. Они засели в теле Академии, как зловредные язвы.</se>
+    <se lang="latin" variant_id="1">4. Insident visceribus Academiae tanquam virulenta ulcera.</se>
+    <weight variant_id="1">0,615</weight>
+  </para>
+  <para id="6">
+    <se lang="russian" variant_id="0">7. Центроскопический маятник.</se>
+    <se lang="latin" variant_id="1">7. Pendulum centroscopicum.</se>
+    <weight variant_id="1">1,02778</weight>
+  </para>
+  <para id="7">
+    <se lang="russian" variant_id="0">8. Универсальный барометр.</se>
+    <se lang="latin" variant_id="1">8. Barometrum universale.</se>
+    <weight variant_id="1">1,038</weight>
+  </para>
+  <para id="8">
+    <se lang="russian" variant_id="0">9. Термометр за чечевицей.</se>
+    <se lang="latin" variant_id="1">9. Thermometrum post lentem.</se>
+    <weight variant_id="1">0,876</weight>
+  </para>
+  <para id="9">
+    <se lang="russian" variant_id="0">12. Ртуть кипятить в пустоте и лишить ее воды, а затем выставить на холод.</se>
+    <se lang="latin" variant_id="1">12. Mercurius coquatur in vacuo et aqua spolietur, et tandem frigori exponatur.</se>
+    <weight variant_id="1">0,0987179</weight>
+  </para>
+  <para id="10">
+    <se lang="russian" variant_id="0">13. Мои опыты к произведению искусственного холода, сделанные (28) в 1747 году.</se>
+    <se lang="latin" variant_id="1">13. Experimenta mea ad producendum frigus artificiale facta (28) anno 1747.</se>
+    <weight variant_id="1">0,786567</weight>
+  </para>
+  <para id="11">
+    <se lang="russian" variant_id="0">14. О приведении термометров к одному и тому же делению.</se>
+    <se lang="latin" variant_id="1">14. De thermometris ad eandem divisionem reducendis.</se>
+    <weight variant_id="1">0,66875</weight>
+  </para>
+  <para id="12">
+    <se lang="russian" variant_id="0">16. Жидкость и твердость насколько зависят от изменения теплоты и стужи, общеизвестно, слушатели.</se>
+    <se lang="latin" variant_id="1">16. Liquiditas et solid[it]as quantum a caloris et frigoris variatione dependeat in confesso est apud omnes: auditores.</se>
+    <weight variant_id="1">0,452217</weight>
+  </para>
+  <para id="13">
+    <se lang="russian" variant_id="0">17. Какими способами жидкости делаются из твердого.</se>
+    <se lang="latin" variant_id="1">17. Fluida ex solido quot modis fiant.</se>
+    <weight variant_id="1">0,560294</weight>
+  </para>
+  <para id="14">
+    <se lang="russian" variant_id="0">Мушенбрек, Прибавления.</se>
+    <se lang="latin" variant_id="1">Musschenbr[oek], Ad[d]it.</se>
+    <weight variant_id="1">0,273913</weight>
+  </para>
+  <para id="15">
+    <se lang="russian" variant_id="0">Растворения, разбавления, перегонки.</se>
+    <se lang="latin" variant_id="1">Solutiones, dilutiones, destillationes.</se>
+    <weight variant_id="1">0,274286</weight>
+  </para>
+  <para id="16">
+    <se lang="russian" variant_id="0">18. Определение твердого [тела].</se>
+    <se lang="latin" variant_id="1">18. Definitio solidi.</se>
+    <weight variant_id="1">0,907143</weight>
+  </para>
+  <para id="17">
+    <se lang="russian" variant_id="0">Сохранение фигуры.</se>
+    <se lang="latin" variant_id="1">Conservatio figurae.</se>
+    <weight variant_id="1">0,266667</weight>
+  </para>
+  <para id="18">
+    <se lang="russian" variant_id="0">19. Клей, преимущественно из животных.</se>
+    <se lang="latin" variant_id="1">19. Glutina quid, ex animalibus praesertim.</se>
+    <weight variant_id="1">0,766667</weight>
+  </para>
+  <para id="19">
+    <se lang="russian" variant_id="0">20. Насколько тело может сжаться из расположения квадратного в треугольное, то есть от замерзания до непрерывного перехода в пары.</se>
+    <se lang="latin" variant_id="1">20. Quantum corpus a situ quadrato ad situm triangularem contrahi possit. ~~~ Hoc est a congelatione ad dissipationem continuam in vapores.</se>
+    <weight variant_id="1">0,0119231</weight>
+  </para>
+  <para id="20">
+    <se lang="russian" variant_id="0">21. Опровержение притяжения из письма к Эйлеру.</se>
+    <se lang="latin" variant_id="1">21. Refutatio attractionis ex epistola ad Eulerum.</se>
+    <weight variant_id="1">0,65407</weight>
+  </para>
+  <para id="21">
+    <se lang="russian" variant_id="0">22. Все это о сцеплении ведет к тому, что открывается возможность расширения до 1200.</se>
+    <se lang="latin" variant_id="1">22. Omnia haec de cohaesione hunc tendunt, ut possibilitas extensionis ad 1200 eruatur.</se>
+    <weight variant_id="1">0,502124</weight>
+  </para>
+  <para id="22">
+    <se lang="russian" variant_id="0">23. Ртуть кипит при… ~~~ Надо сравнить расширение и сжатие воды между двумя пределами, именно: кипения и замерзания, с расширением ртути. ~~~ Такие же опыты проделать с воском, смолою, канифолью, серою, маслом, оловом, свинцом и отсюда вывести наибольшую вероятность того, насколько опускается ртуть.</se>
+    <se lang="latin" variant_id="1">23. ius ebullit ad hunc gradum Comparetur extensio et contractio aquae inter duos terminos nempe ebullitionis et congelationis cum extensione mercurii, item factis experimentis in cera, pice, califonio, sulphure, butyro, stanno, plumbo, et hinc probabilitas summa inferatur, quantum descendat Mercurius.</se>
+    <weight variant_id="1">-0,111765</weight>
+  </para>
+  <para id="23">
+    <se lang="russian" variant_id="0">24. Пузырьки поднимаются, когда, находясь в квадратном расположении, соединяют включенный воздух.</se>
+    <se lang="latin" variant_id="1">24. Bullae surgunt, quando in situ quadrato positae communicant inclusum aërem.</se>
+    <weight variant_id="1">0,473944</weight>
+  </para>
+  <para id="24">
+    <se lang="russian" variant_id="0">25. Как из простейших круглых ниток, не различающихся толщиною, и т. д.</se>
+    <se lang="latin" variant_id="1">25. Ut ex simplicissimis filis rotundis crassitie etiam non inter se differentibus etc.</se>
+    <weight variant_id="1">0,458189</weight>
+  </para>
+  <para id="25">
+    <se lang="russian" variant_id="0">26. Совмещение. А именно термометры не изо всех жидкостей одинаково служат.</se>
+    <se lang="latin" variant_id="1">26. Congruentia, nempe thermometra non omnium liquorum pariter obediunt.</se>
+    <weight variant_id="1">0,3625</weight>
+  </para>
+  <para id="26">
+    <se lang="russian" variant_id="0">Всеми признано, слушатели, насколько твердость и жидкость тел зависят от изменений теплоты и стужи.</se>
+    <se lang="latin" variant_id="1">Soliditas et fluiditas corporum quantum a variationibus caloris et frigoris dependeant, in confesso est apud omnes, auditores.</se>
+    <weight variant_id="1">-0,0391892</weight>
+  </para>
+  <para id="27">
+    <se lang="russian" variant_id="0">Поэтому я счел уместным на этом торжественном собрании, где коллега Браун, муж в философских и физических делах весьма прилежный и ученый, искусный в опытах, счастливый удачами, говорит о замороженной им ртути, предложить и мои размышления, касающиеся причин различного сцепления тел, обусловливающего различную твердость и жидкость их, и отсюда вывести, до какого градуса термометра ртуть должна опуститься, прежде чем замерзнет;</se>
+    <se lang="latin" variant_id="1">Quapropter non incongruum esse judicavi, ut hac solemni celebritate, qua cl. collega Braun, vir in rebus philosophicis et physicis diligentissimus, doctissimus, in experimentis instituendis dexter, in successu felix, de congelato a se mercurio disserit, etiam meas meditationes proponerem causam spectantes variae corporum cohaesionis, unde varia soliditas atque fluiditas eorum proficiscitur, indeque deducerem ad quantum thermometri gradum Mercurius debeat descendere priusquam congeletur.</se>
+    <weight variant_id="1">-0,0121528</weight>
+  </para>
+  <para id="28">
+    <se lang="russian" variant_id="0">так как опыты, поставленные прошлой зимой, весьма разноречивы, именно от градусов около 500 до 1260 градусов.</se>
+    <se lang="latin" variant_id="1">Quandoquidem experimenta praeterlapsa hieme instituta admodum variant, nempe a gradu 500 circiter ad gradum 1260.</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="29">
+    <se lang="russian" variant_id="0">Как из простейших нитей одной и той же формы и толшины искусство производит различнейшие ткани, так из различного расположения шариков (монад) может произойти бесконечное разнообразие.</se>
+    <se lang="latin" variant_id="1">Ut ex simplicissimis filis ejusdem figurae et crassitiei diversissimae telae arte producuntur, sic ex vario situ globulorum (monadam) infinita diversitas potest produci.</se>
+    <weight variant_id="1">0,275839</weight>
+  </para>
+  <para id="30">
+    <se lang="russian" variant_id="0">Сколь недостаточна до сих пор геометрия положения, которой техника по праву может требовать от математиков.</se>
+    <se lang="latin" variant_id="1">Quam adhuc manca est Geometria situs! quam a mathematicis artes jure poscere possunt.</se>
+    <weight variant_id="1">0,218919</weight>
+  </para>
+  <para id="31">
+    <se lang="russian" variant_id="0">Порошки.</se>
+    <se lang="latin" variant_id="1">Pulveres.</se>
+    <weight variant_id="1">0,266667</weight>
+  </para>
+  <para id="32">
+    <se lang="russian" variant_id="0">1) Снег, 2) белый песок, 3) измельченная смола, 4) оловянные стружки, 5) свинцовые стружки, 6) бронзовые стружки, 7) препарированное стекло, 8) селитра, 9) поваренная соль, 10) нашатырь, 11) камфора, 12) ладан.</se>
+    <se lang="latin" variant_id="1">1) Nix, 2) arena alba, 3) pix pulverisata, 4) scobs stanni, 5) scobs plumbi, 6) scobs orichalci, 7) vitrum praeparatum, 8) nitrum, 9) c, 10) x, 11) camphora, 12) ladanum.</se>
+    <weight variant_id="1">1,3789</weight>
+  </para>
+  <para id="33">
+    <se lang="russian" variant_id="0">Первая составная часть</se>
+    <se lang="latin" variant_id="1">Miscela prima</se>
+    <weight variant_id="1">0,115385</weight>
+  </para>
+  <para id="34">
+    <se lang="russian" variant_id="0">Градус теплоты</se>
+    <se lang="latin" variant_id="1">Gradus caloris</se>
+    <weight variant_id="1">0,3</weight>
+  </para>
+  <para id="35">
+    <se lang="russian" variant_id="0">Вторая составная часть</se>
+    <se lang="latin" variant_id="1">Miscela altera</se>
+    <weight variant_id="1">0,15</weight>
+  </para>
+  <para id="36">
+    <se lang="russian" variant_id="0">Какой термометр</se>
+    <se lang="latin" variant_id="1">Qualet herm.</se>
+    <weight variant_id="1">0,225</weight>
+  </para>
+  <para id="37">
+    <se lang="russian" variant_id="0">На сколько градусов опустился</se>
+    <se lang="latin" variant_id="1">Gradus descens.</se>
+    <weight variant_id="1">0,18</weight>
+  </para>
+  <para id="38">
+    <se lang="russian" variant_id="0">Скорость опускания</se>
+    <se lang="latin" variant_id="1">Celeritas descensus</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="39">
+    <se lang="russian" variant_id="0">Примечания</se>
+    <se lang="latin" variant_id="1">Circumstantiae</se>
+    <weight variant_id="1">0,28</weight>
+  </para>
+  <para id="40">
+    <se lang="russian" variant_id="0">Жидкости.</se>
+    <se lang="latin" variant_id="1">Liquores.</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="41">
+    <se lang="russian" variant_id="0">1) Купоросное масло, 2) купоросный спирт, 3) селитряный спирт, 4) соляной спирт, 5) царская водка, 6) винный спирт, 7) камфарный спирт, 8) раствор селитры, 9) раствор поваренной соли, 10) раствор нашатыря, 11) раствор аммония, 12) скипидарное масло, 13) постоянная щелочь, 14) раствор постоянной щелочи.</se>
+    <se lang="latin" variant_id="1">1) li, 2) Sp. li, 3) Sp. r. f., 4) Sp. C, 5) , 6) Sp. , 7) Sp. camphar., 8) Sol. ri, 9) Sol. C, 10) Sol. Xi, 11) Solut. xci, 12) thereb., 13) Alcali fixum, 14) Solut.</se>
+    <weight variant_id="1">-0,0789474</weight>
+  </para>
+</body>
+</html>

@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html>
+<head>
+</head>
+<body>
+  <para id="0">
+    <se lang="russian" variant_id="0">Что в философии римляне сделали сами и что они переняли у греков?</se>
+    <se lang="latin" variant_id="1">In Philosophia quid Romani ipsi effecerint, quid a Graecis assumserint?</se>
+    <weight variant_id="1">0,121875</weight>
+  </para>
+  <para id="1">
+    <se lang="russian" variant_id="0">Философия, называемая у нас древней (а под словом философия мы ~~~ понимаем познавательную способность человеческого разума, исследование законов, данных богом нам и природе), — есть всецело, так сказать, плод греческого гения.</se>
+    <se lang="latin" variant_id="1">Philosophia, quae apud nos: antiqua vocatur (et sub voce: Philosophia intelligimus scientiam mentis humanae, indagationem legum nobis et naturae a Deo insitarum) — est omnino, ut ita dicam, fructus Graeci ingenii.</se>
+    <weight variant_id="1">-0,0106195</weight>
+  </para>
+  <para id="2">
+    <se lang="russian" variant_id="0">Между тем как греки положили начало очень многим системам нашего знания, между тем как Аристотель, достойный величайшего восхищения, приводит как бы к одному мерилу учение Платона и другие учения (пифагорейское, гераклитовское и т. д.), изображает логику, закладывает первое основание натурфилософии и передает потомству яркий образец греческой одаренности, — римляне, которые сперва заняты были войнами против соседей, а затем, покорив их, нападали уже и на более отдаленные народы, совершенно пренебрегали всякими более человечными либо более благородными занятиями.</se>
+    <se lang="latin" variant_id="1">Dum permulta systemata in scientia nostra tentata sunt a Graecis, dum Aristoteles, vir maxime admirandus, doctrinam Platonicam nec non altéras (Pythagoream, Heracliticam e. s. p.) ad unam quasi normam redigit, Logicen invenit, Philosophiae naturae prima fundamenta jacet, posterisque splendidum specimen indolis Graecae tradit — Romani, inprimis bellis contra vicinos occupati, postea — iis devictis — populos jam remotiores aggressi, omnia studia humaniora vel honestiora plane negligebant.</se>
+    <weight variant_id="1">0,259459</weight>
+  </para>
+  <para id="3">
+    <se lang="russian" variant_id="0">Во времена Катона Старшего впервые прибыли в Рим греческие философы-академики: Карнеад и другие, — имена которых у меня выпали из памяти (тогда процветала в Афинах школа философов, называемая Академией).</se>
+    <se lang="latin" variant_id="1">Tempore Catonis Prisci primum Romam venerunt philosophi Graeci ~~~ Academici Carneades et alii, quorum nomina mihi ex memoria excidunt (florebat enim turn Athenis schola philosophorum, quae Academia vocabatur.) </se>
+    <weight variant_id="1">-0,102778</weight>
+  </para>
+  <para id="4">
+    <se lang="russian" variant_id="0">Карнеад, по преданию, обладал удивительным красноречием; он так очаровал уменьем убеждать и тонкостями софистики еще грубую и невежественную римскую молодежь, что его, словно пагубу для города, сенат, в особенности по совету Катона, приказал изгнать из областей, подвластных римлянам.</se>
+    <se lang="latin" variant_id="1">Mira fertur fuisse Garneades eloquentia; et juvenes Romanos adhuc rudes et socordes suadela et argutiis sophistices ita adlectavit ut eum, quasi perniciem urbi — Catone praecipue monente — e terris Romani imperii expellere juberet senatus.</se>
+    <weight variant_id="1">0,288889</weight>
+  </para>
+  <para id="5">
+    <se lang="russian" variant_id="0">Но тем не менее в Риме в то время положено было начало занятию философией.</se>
+    <se lang="latin" variant_id="1">Sed nihilominus eo tempore initium Romae factum est studio philosophiae.</se>
+    <weight variant_id="1">0,197368</weight>
+  </para>
+  <para id="6">
+    <se lang="russian" variant_id="0">Однако римляне мало преуспевали в подобного рода занятиях, и, по нашему мнению, Цицерон с полным правом приписал себе славу введения философии у римлян.</se>
+    <se lang="latin" variant_id="1">Attamen parum in his studiis proficiebant Romani; et putamus Ciceronem maximo cum jure sibi gloriam philosophiae apud Romanos instituendae tribuisse.</se>
+    <weight variant_id="1">0,218182</weight>
+  </para>
+  <para id="7">
+    <se lang="" variant_id="0">(1.) Философию же можно разделить на чистую и прикладную, как и математику; к чистой или первой философии мы причисляем логику, онтологию; напротив, к прикладной должны быть отнесены этика, философия права и проч.</se>
+    <se lang="" variant_id="1">(1.) Philosophia vero distingtii potest in philosophiam puram et applicatam, ut mathesis; ad Philosophiam puram seu primam adscribimus Logicen, ontologiam; ad applicatam — contra referendae sunt: Ethice, Philosophia juris cett.</se>
+    <weight variant_id="1">0,81</weight>
+  </para>
+  <para id="8">
+    <se lang="russian" variant_id="0">Для развития первого раздела римляне не дали почти что ничего; даже сам Цицерон пользовался в своих «Беседах» и других философских трудах доводами стоиков и эпикурейцев, которые он изучал в Афинах, — и не только не прибавил к ним ~~~ ничего сам, но надо признаться, что он очень часто заблуждался относительно подлинного смысла положений греческих философов (особенно Аристотеля).</se>
+    <se lang="latin" variant_id="1">Ad perfectionem primae partis Romani aut minimum aut nihil tribuerunt; immo ipse Cicero argumentis Stoicis et Epicuricis, quae Athenis perdidicerat in Disputationis suis, aliisque operis philosophicis usus est; et tantum abest, ut quid sibi adjiceret, ut fateri debeamus, eum saepissime a vero sensu axiomatum philosophorum Graecorum (praecipue Aristotelis) aberasse.</se>
+    <weight variant_id="1">0,252632</weight>
+  </para>
+  <para id="9">
+    <se lang="russian" variant_id="0">Он является отцом той самой философии, которую мы называем «Popularphilosophie», т. е. приспособленной к пониманию толпы.</se>
+    <se lang="latin" variant_id="1">Atque ille pater est istae ad intellectum multitudinis adaptatae (cui apud nos nomen: «Popularphilosophie» datum est.) </se>
+    <weight variant_id="1">0,162857</weight>
+  </para>
+  <para id="10">
+    <se lang="russian" variant_id="0">Но, с другой стороны, следует признать, что римляне чрезвычайно преуспели в юриспруденции, они довели право до такой степени совершенства, что и теперь даже вызывают у нас удивление.</se>
+    <se lang="latin" variant_id="1">Sed ab altera parte, agnoscendum est Romanos in jurisprudentia maxime profecisse; quin etiam jus ad talem gradum perfectionis adduxerunt, ut nunc quidem apud nos ~~~ admirationem moveant.</se>
+    <weight variant_id="1">-0,0132353</weight>
+  </para>
+  <para id="11">
+    <se lang="russian" variant_id="0">Влияние греческого гения мы очень легко замечаем при чтении дошедших до нас памятников римской литературы; мы сразу заметим, что ни история, ни поэзия не чужды этому влиянию.</se>
+    <se lang="latin" variant_id="1">Auctoritatem Graecae indolis f acillime sentiamus, quum monumenta superstita literarum Romanarum perlegimus; nec historiam nec poësim hujus auctoritatis expertes esse mox sentiemus.</se>
+    <weight variant_id="1">0,3</weight>
+  </para>
+  <para id="12">
+    <se lang="russian" variant_id="0">Римлян мало привлекали исследования первой причины, связи в смысле вещей, природы бога и проч., так как это всего менее приносит непосредственной пользы;</se>
+    <se lang="latin" variant_id="1">Romani minus delectabantur investigationibus de prima causa, nexu et ratione rerum, de natura Dei cett. — quia minime praesentem utilitatem praebeant;</se>
+    <weight variant_id="1">0,271154</weight>
+  </para>
+  <para id="13">
+    <se lang="russian" variant_id="0">поэтому они лишь настолько занимались первой философией, насколько считали ее полезной для объяснения и подтверждения других, второстепенных ~~~ знаний.</se>
+    <se lang="latin" variant_id="1">itaque studio primae philosophiae hactenus se dederunt, quatenus illam aliis secundariis scientiis illustrandis et confirmandis utilem esse existimaverunt.</se>
+    <weight variant_id="1">-0,00514286</weight>
+  </para>
+  <para id="14">
+    <se lang="russian" variant_id="0">И если я не ошибаюсь, для самого Цицерона конечной целью изысканий была не философия, а красноречие.</se>
+    <se lang="" variant_id="1">— Ipsi Ciceroni non philosophianisi fallor — ultima meta investigationum erat — verum enimvero eloquentia.</se>
+    <weight variant_id="1">0,0266667</weight>
+  </para>
+  <para id="15">
+    <se lang="russian" variant_id="0">Да мы и не видим, чтобы у него был какой-нибудь достойный упоминания преемник в занятиях и продолжении этих изучений: большим промежутком времени (это, конечно, достаточно объясняется междоусобными войнами) отделен от Цицерона Сенека, еще большим — венценосный философ Марк Аврелий, но «редки пловцы в пучине обширной».</se>
+    <se lang="latin" variant_id="1">Neque videmus ullum quemque, nomine dignum haec studia excolenda et porro perducenda a Cicerone excepisse: longo temporis intervallo (sane rationem sufficientem inveneris in bellis civilibus) a Cicerone divisus abstat Seneca. — etiam longiore Marcus Aurelius, philosophus ~~~ coronatus: sed sunt «rari nantes in gurgite vasto».</se>
+    <weight variant_id="1">0,268966</weight>
+  </para>
+  <para id="16">
+    <se lang="russian" variant_id="0">В кратких словах вот мое мнение о них: у римлян процветали красноречие, история, юридические науки; да и понятно, что у всякого народа процветает всегда то, что вытекает, как из источника, из его природы.</se>
+    <se lang="latin" variant_id="1">Ut paucis verbis ~~~ dicam, que de his intelligo: apud Romanos florebant: Eloquentia, Historia, Jurisprudentia; nempe semper floret apud quemlibet populum id, quod e natura eius indolis, quasi e fonte manat;</se>
+    <weight variant_id="1">-0,0692308</weight>
+  </para>
+  <para id="17">
+    <se lang="russian" variant_id="0">Напротив того, у них чахли и еле влачили свое существование философия, поэзия и искусство, всё это победители отвели к себе, как воду с горы при помощи водопровода, и пытались подчинить их себе, воспроизвести собственным подражанием;</se>
+    <se lang="latin" variant_id="1">sed marcescebant, languidamque vitam degebant: Philosophia, Poësis et Ars: haec omnia victores ad se adduxerunt, ut aquas aquaeductu e monte — et sibi subjicere, imitatione propria reddere conati sunt;</se>
+    <weight variant_id="1">0,284483</weight>
+  </para>
+  <para id="18">
+    <se lang="russian" variant_id="0">иногда они становились наравне со своими учителями, тем не менее можно обнаружить следы чужеземного происхождения, которые никогда не удается изгладить:</se>
+    <se lang="latin" variant_id="1">et aliquoties magistros suos aequaverunt — nihilominus possis explorare vestigia alienae originis, quae nunquam deleri patiantur:</se>
+    <weight variant_id="1">-0,285246</weight>
+  </para>
+  <para id="19">
+    <se lang="russian" variant_id="0">как пример могла бы быть приведена драматическая поэзия, которая теперь распространена в Германии.</se>
+    <se lang="latin" variant_id="1">in exemplum possit vocari poësis dramatica, quae nunc in Germania ~~~ viget.</se>
+    <weight variant_id="1">-0,126923</weight>
+  </para>
+  <para id="20">
+    <se lang="russian" variant_id="0">И. Тургенев.</se>
+    <se lang="latin" variant_id="1">I. Turgenev.</se>
+    <weight variant_id="1">0,3</weight>
+  </para>
+  <para id="21">
+    <se lang="" variant_id="0">(1.) В начале Тускуланских Бесед.</se>
+    <se lang="" variant_id="1">(1.) In initio Quaest. ~~~ Tuscul.</se>
+    <weight variant_id="1">0,225</weight>
+  </para>
+</body>
+</html>

@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html>
+<head>
+</head>
+<body>
+  <para id="0">
+    <se lang="russian" variant_id="0">В § 1 предлагается причина сего прибавления.</se>
+    <se lang="latin" variant_id="1">Causa hujus supplementi proponitur, § 1.</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="1">
+    <se lang="russian" variant_id="0">В § 2 следует Бернулиево мнение, что в сильном стиснении воздуха упругость его не пропорциональна с густостью.</se>
+    <se lang="latin" variant_id="1">Causa hujus supplementi proponitur, § 1.. Bernoulliana deductio citatur, elasticitates aëris in magnis compressionibus densitatibus proportionales non esse § 2.</se>
+    <weight variant_id="1">0,0660714</weight>
+  </para>
+  <para id="2">
+    <se lang="russian" variant_id="0">В § 3—10 Бернулиево мнение подтверждается выкладками, которые выведены из той силы, которою замерзающая вода стеклянные и чугунные шары разрывает.</se>
+    <se lang="latin" variant_id="1">Deinde ad § 10 usque ex ruptis vi aquae globis per calculum deducitur consectarium Bernoulliano geminum.</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="3">
+    <se lang="russian" variant_id="0">В § 11—13 показано, как сие свойство сходствует с вышепоказанною авторовою теориею.</se>
+    <se lang="" variant_id="1">§ 11—13 quomodo id cum proposita superius theoria consentiat, ostenditur.</se>
+    <weight variant_id="1">0,808531</weight>
+  </para>
+</body>
+</html>

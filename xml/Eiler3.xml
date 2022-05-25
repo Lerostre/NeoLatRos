@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html>
+<head>
+</head>
+<body>
+  <para id="0">
+    <se lang="russian" variant_id="0">Мужу знаменитейшему и несравненному Леонарду Эйлеру, члену и директору королевской Берлинской академии наук, а также почетному члену Академии Наук в Петербурге и Королевского ученого общества в Лондоне Михаил Ломоносов шлет нижайший привет.</se>
+    <se lang="latin" variant_id="1">Viro celeberrimo ac incomparabili Leonhardo Eulero Regiae Academiae Scientiarum Berolinensis Membro ac Directori, Professori Regio meritissimo, nec non Academiae Scientiarum Imperialis Petropolitanae, et Regiae Societatis scientiarum Londinensis Membro honorario Michael Lomonosoff</se>
+    <weight variant_id="1">0,282857</weight>
+  </para>
+  <para id="1">
+    <se lang="russian" variant_id="0">Посылая вам, муж славнейший, это письмо, почти не имею основания оправдать перед вами свое промедление.</se>
+    <se lang="latin" variant_id="1">Negare tamen non possum me praeter id, quod seria defuerit res, de qua ad Te scriberem, etiam haud levibus negotiis praepeditum fuisse.</se>
+    <weight variant_id="1">0,216667</weight>
+  </para>
+  <para id="2">
+    <se lang="russian" variant_id="0">Может быть, впрочем, вы соизволите удовольствоваться признанием моим, что я очень ленив на писание писем, в которых ничего нет, кроме изъявления приветствий.</se>
+    <se lang="latin" variant_id="1">Has ad Те, Vir celeberrime, litteras mittenti mihi vix suppetit causa, qua moram meam in Te compellando excusem, nisi quod eam causationem humanissime accipere velis, si me ad litteras, quibus nil nisi salutatio continetur, scribendas pigerrimum esse fatear.</se>
+    <weight variant_id="1">0,0569343</weight>
+  </para>
+  <para id="3">
+    <se lang="russian" variant_id="0">Не могу также умолчать, что, кроме недостатка в серьезных предметах, о коих мог бы я писать вам, был я еще занят делами далеко не легкими.</se>
+    <se lang="latin" variant_id="1">Negare tamen non possum me praeter id, quod seria defuerit res, de qua ad Te scriberem, etiam haud levibus negotiis praepeditum fuisse.</se>
+    <weight variant_id="1">0,3</weight>
+  </para>
+  <para id="4">
+    <se lang="russian" variant_id="0">Со времени получения вашего письма я был озабочен оборудованием Химической лаборатории, выстроенной прошедшим летом благодаря щедротам государыни в Академическом саду, и приобретением для нее посуды, инструментов и материалов, не говоря уже о работах над русским языком.</se>
+    <se lang="latin" variant_id="1">Equidem ex quo litteras Tuas accepi, de laboratorio Chymico, quod sumptibus Augustae in horto Academico praeterita aestate exstructum est, disponendo atque vasis, instrumentis et materiis instruendo sollicitus fui, ea quibus in excolenda lingua vernacula occupatus fui, praetermitto. ~~~</se>
+    <weight variant_id="1">-0,00159574</weight>
+  </para>
+  <para id="5">
+    <se lang="russian" variant_id="0">Однако, в связи с вашим любезным ответом на мои замечания об отношении тяжести и массы, я все время имел в виду дополнить их, но так как лишь немногое из них казалось мне имеющим значение, то, рассчитывая доискаться чего-либо более важного, я со дня на день откладывал писание письма.</se>
+    <se lang="latin" variant_id="1">Semper quidem in animo habui de gravitatis et materiae ratione ad ea, quae mihi respondere non fuisti gravatus, plura proponere; sed cum pauca eorum momenti alicujus mihi visa fuerint, graviora igitur inventurus scriptionem litterarum de die in diem distuli.</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="6">
+    <se lang="russian" variant_id="0">Не удалось мне написать вам и при отсылке в Берлин своей диссертации о селитре, потому что, пока я работал над третьей главой, жена моя родила дочь, из-за чего этот самый труд свой окончил я едва-едва.</se>
+    <se lang="latin" variant_id="1">Nec tum cum dissertationem meam de nitro Berolinum mitterem ad Te scribere aliquid licuit; nam cum in tertio capite pertractando versarer, uxor mea filiolam peperit, quare vix opusculum ipsum absolvere potui.</se>
+    <weight variant_id="1">0,280357</weight>
+  </para>
+  <para id="7">
+    <se lang="russian" variant_id="0">Так как время, назначенное для присуждения премий, уже миновало, а в научных журналах нет известий о том, кто получил премию, то прошу вас, славнейший муж, уведомить меня об этом.</se>
+    <se lang="latin" variant_id="1">Quoniam tempus, ad praemium distribuendum constitutum praeterlapsum est, nec ex novis publicis litterariis constat, quis praemium adeptus sit: а Te igitur, Vir celeberrime, peto, ut me hac de re certiorem facere velis.</se>
+    <weight variant_id="1">0,328947</weight>
+  </para>
+  <para id="8">
+    <se lang="russian" variant_id="0">Кроме того, я к своей диссертации, посланной под девизом «Cognito principiorum in Chymia tanti est, quanti principia ipsa in corporibus» [«Знания начал в химии так же важны, как сами начала в телах»], приложил диссертацию об упругости воздуха, которую вы несомненно прочитали.</se>
+    <se lang="latin" variant_id="1">Caeterum ad meam dissertationem sub sentenia, cognitio principiorum in Chymia tanti est, quanti principia ipsa in corporibus, missam apposui dissertationem de vi aëris elastica, quam a Te lectam esse non dubito. ~~~</se>
+    <weight variant_id="1">0,294952</weight>
+  </para>
+  <para id="9">
+    <se lang="russian" variant_id="0">В ней не хватает объяснения очень известного закона, а именно, что упругость воздуха пропорциональна плотности.</se>
+    <se lang="latin" variant_id="1">In ea desideratur explicatio notissimae legis, scilicet: aëris elasticitates esse densitatibus proportionales.</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="10">
+    <se lang="russian" variant_id="0">Я его не дал, так как весьма сомневаюсь, приложим ли этот закон к любому сжатию воздуха.</se>
+    <se lang="latin" variant_id="1">Quam ideo non attigi, quoniam non parum dubito, eam in qualibet compressione aëris valere.</se>
+    <weight variant_id="1">0,283784</weight>
+  </para>
+  <para id="11">
+    <se lang="russian" variant_id="0">Это сомнение возникло из-за некоторого несогласия моей теории с тем, что довольно убедительно вытекает из выводов Бернулли (Гидродинамика, стр. 343), прочитанных мною впервые в ваших замечаниях по адресу Робинса,</se>
+    <se lang="latin" variant_id="1">Dubitatio ista originem duxit ex quadam inconvenientia Theoriae meae cum illa quam Bernoulliana deductio (in Hydrodinamica, p. 243) primum in notis Tuis ad Robinsium lecta non leviter confirmavit; </se>
+    <weight variant_id="1">0,259459</weight>
+  </para>
+  <para id="12">
+    <se lang="russian" variant_id="0">и что еще более подтвердили следствия, выведенные путем вычислений из опытов Рихмана и моих над разрывом самых прочных тел замерзающей водой.</se>
+    <se lang="latin" variant_id="1">nec exiguum ponderis auxerunt sequelae calculo deductae ex Richmannianis et meis propriis experimentis circa disruptionem durissimorum corporum per congelascentem aquam.</se>
+    <weight variant_id="1">0,253846</weight>
+  </para>
+  <para id="13">
+    <se lang="russian" variant_id="0">Воздух, который разрывал тела, восстановив свою силу при образовании льда, должен был бы быть в десять с лишком раз тяжелее всей массы льда, если бы силы, приложенные к разрыву тел, были пропорциональны плотностям, как можно было заключить по крепости чугуна и стекла, из коих были изготовлены бомбы для разрыва.</se>
+    <se lang="latin" variant_id="1">Aër enim, qui resumptis in glacie viribus corpora disrumpebat, decuplo, et quod excedit, integra massa glaciei gravior esse deberet, si vires in corpora rupta exsertae densitatibus proportionales essent, quod ex cohaesione ferri fusi et vitri, ex quibus bombae rumpendae confectae erant, colligere licuit.</se>
+    <weight variant_id="1">0,298864</weight>
+  </para>
+  <para id="14">
+    <se lang="russian" variant_id="0">Но соображения, в силу которых упомянутый закон расходится с моей теорией, затруднительно изложить вне связи со всем моим трудом.</se>
+    <se lang="latin" variant_id="1">Qua vero ratione supradicta lex Theoriae meae minus conveniat, extra nexum totius pusculi haud facile exponi potest.</se>
+    <weight variant_id="1">0,267327</weight>
+  </para>
+  <para id="15">
+    <se lang="russian" variant_id="0">Поэтому я теперь готовлю по этому вопросу дополнение к рассуждению об упругости воздуха; а в то же время стараюсь закончить свою работу о монадах, которую начал уже более четырех лет тому назад и в которой надеюсь привести достаточно веские доводы против простых сущностей.</se>
+    <se lang="latin" variant_id="1">Quamobrem supplementum hac de re ad meditationes de aëris vi elastica nunc paro, simulque ad finem perducere studeo opusculum monades spectans, quod jam ante quatuor annos incepi, nec invalida argumenta contra entia simplicia allaturum me puto.</se>
+    <weight variant_id="1">0,268571</weight>
+  </para>
+  <para id="16">
+    <se lang="russian" variant_id="0">Закончив ее, пошлю, если не откажетесь, на ваш просвещенный суд.</se>
+    <se lang="latin" variant_id="1">Absolutum Tuo limatissimo judicio examinandum, si non abnuis, mittam.</se>
+    <weight variant_id="1">-0,00857143</weight>
+  </para>
+  <para id="17">
+    <se lang="russian" variant_id="0">Прощайте, муж несравненный, и пребывайте ко мне благосклонным</se>
+    <se lang="latin" variant_id="1">ale, Vir incomparabilis, et favere mihi perge.</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="18">
+    <se lang="russian" variant_id="0">С.-Петербург, 27 мая старого стиля 1749 г.</se>
+    <se lang="latin" variant_id="1">Dabam Petropoli die 27 Maji St. ~~~ Jul. ~~~ A.. S. ~~~ 1749.</se>
+    <weight variant_id="1">-0,0706349</weight>
+  </para>
+</body>
+</html>

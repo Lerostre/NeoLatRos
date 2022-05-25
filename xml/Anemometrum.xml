@@ -1,0 +1,262 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html>
+<head>
+</head>
+<body>
+  <para id="0">
+    <se lang="russian" variant_id="0">I</se>
+    <se lang="latin" variant_id="1">I</se>
+    <weight variant_id="1">1,8</weight>
+  </para>
+  <para id="1">
+    <se lang="russian" variant_id="0">Изготовим колесо с крыльями A [фиг. 1]; каждое крыло, числом 16, делается из бука, длиной в 24 дюйма, шириной в 2, толщиной не больше одной линии. ~~~ Крылья вставим в ось b [фиг. 2] так, что их плоскости, сходясь к оси, образуют друг с другом углы в 22½ градуса.</se>
+    <se lang="latin" variant_id="1">Conficiatur rota alata A [fig. 1], cujus singulae alae a, numero 16, sint fagineae 24 pollices longae, 2 latae, crassitie vero lineam unicam haud superantes, atque axi b [fig. 2] infixae ita, ut situ suo ad axem convergente efficiant angulos 22½ graduum.</se>
+    <weight variant_id="1">0,755556</weight>
+  </para>
+  <para id="2">
+    <se lang="russian" variant_id="0">Для большей прочности крылья свяжем двумя железными проволоками, пропущенными через них в c и g.</se>
+    <se lang="latin" variant_id="1">Majoris vero firmitatis gratia constringantur filo ferreo duplicato in c et g per ipsas trajecto.</se>
+    <weight variant_id="1">0,483886</weight>
+  </para>
+  <para id="3">
+    <se lang="russian" variant_id="0">II</se>
+    <se lang="latin" variant_id="1">II</se>
+    <weight variant_id="1">1,8</weight>
+  </para>
+  <para id="4">
+    <se lang="russian" variant_id="0">Ось b, пропущенная через отверстия в верхнем крае деревянного ящичка BCDE, в котором вышеупомянутое колесо находится до половины, и вращающаяся вместе с колесом, с помощью зубца d, пусть приводит в движение другое колесо F диаметром в 2 фута, снабженное 800 зубцами. ~~~ Это колесо с помощью барабана h, укрепленного на его оси, должно вращать третье колесо M, половинного диаметра с 400 зубцами, с осью p, диаметром в ½ фута и длиной в ¼ или в ½ дюйма.</se>
+    <se lang="latin" variant_id="1">Axis b per foramina in summo margine capsulae ligneae BCDE, cui dimidium dictae rotae includitur, trajectus, cumque rota motus, dente d rotam aliam F duos pedes in diametro habentem et 800 dentibus instructam moveat, quae tympano h axi suo affixo circumagat rotam tertiam M, dimidii diametri et dentibus 400 praeditam, cum axe p diametri semipedalis, longitudine vero ¼ seu ½ pollicis adaequante.</se>
+    <weight variant_id="1">0,0888393</weight>
+  </para>
+  <para id="5">
+    <se lang="russian" variant_id="0">III</se>
+    <se lang="latin" variant_id="1">III</se>
+    <weight variant_id="1">1,8</weight>
+  </para>
+  <para id="6">
+    <se lang="russian" variant_id="0">К боковым стенкам прикрепим две пружины e и m.</se>
+    <se lang="latin" variant_id="1">Sint duo elateres e et m, ad tabulas laterales firmati.</se>
+    <weight variant_id="1">0,538462</weight>
+  </para>
+  <para id="7">
+    <se lang="russian" variant_id="0">Первая, более сильная, пусть прижимает к барабану h колесо M, которое, по желанию, можно отодвигать от него с помощью нити pgr; вторая, более гибкая, будет препятствовать обратному движению колеса F.</se>
+    <se lang="latin" variant_id="1">Prior, qui fortior est, rotam M ad tympanum h apprimet, pro lubitu funiculo pgr ab illo removendam; posterior erit flexibilior, et motum retrogradum rotae F prohibebit.</se>
+    <weight variant_id="1">0,354861</weight>
+  </para>
+  <para id="8">
+    <se lang="russian" variant_id="0">IV</se>
+    <se lang="latin" variant_id="1">IV</se>
+    <weight variant_id="1">1,8</weight>
+  </para>
+  <para id="9">
+    <se lang="russian" variant_id="0">Колеса F и M должны быть закрыты тонкой деревянной дощечкой, равной по величине боковой стороне ящика BCDE, и хорошо защищены со всех сторон от влияния сырости.</se>
+    <se lang="latin" variant_id="1">Rotae F et M tegantur tabula lignea tenui, lateri capsulae BCDE aequali, et ab omni parte probe muniantur contra humorum impressionem.</se>
+    <weight variant_id="1">0,517945</weight>
+  </para>
+  <para id="10">
+    <se lang="russian" variant_id="0">К более узкой стороне этого ящика BD прикрепим перпендикулярно доску Q, длиной в пять футов, такой же ширины, как и ящик, с вырезами, сделанными по желанию для украшения прибора.</se>
+    <se lang="latin" variant_id="1">Ad latus capsulae illius angustius BD firmetur perpendiculariter tabula Q, quinque pedes longa, latitudine vero capsam adaequans, cum incisuris pro lubitu ad machinam ornandam factis.</se>
+    <weight variant_id="1">0,512888</weight>
+  </para>
+  <para id="11">
+    <se lang="russian" variant_id="0">V</se>
+    <se lang="latin" variant_id="1">V</se>
+    <weight variant_id="1">1,8</weight>
+  </para>
+  <para id="12">
+    <se lang="russian" variant_id="0">Весь прибор прикрепим к шесту CK, нижняя часть которого продольно выдолблена наподобие трубки для пропускания сквозь нее нити.</se>
+    <se lang="latin" variant_id="1">Integra machina firmetur ad vectem CK, cujus pars inferior perforata est secundum longitudinem instar tubi ad funiculos recipiendos.</se>
+    <weight variant_id="1">0,441531</weight>
+  </para>
+  <para id="13">
+    <se lang="russian" variant_id="0">От L и до K, т. е. на всем протяжении ниже опоры TT, шест должен иметь форму четырехгранной призмы, а на остальном пространстве — форму цилиндрическую. ~~~ Длина и толщина его должны быть достаточны, чтобы он поддерживал прибор и противостоял напору ветров.</se>
+    <se lang="latin" variant_id="1">Ex L usque ad K sit vectis figurae prismaticae tetragonae, nempe quantum erit infra fornicem TT; reliquum erit figurae cylindricae, longitudinis et crassitiei ad machinam sustinendam et ventorum impetum ferendum sufficientis.</se>
+    <weight variant_id="1">-0,0153061</weight>
+  </para>
+  <para id="14">
+    <se lang="russian" variant_id="0">VI</se>
+    <se lang="latin" variant_id="1">VI</se>
+    <weight variant_id="1">1,8</weight>
+  </para>
+  <para id="15">
+    <se lang="russian" variant_id="0">В опоре TT сделаем круглое отверстие, в которое входит цилиндрический шест; пусть он поддерживается просверленным конусом GG, прикрепленным к опоре, и снабжен другим полым конусом RR, прикрывающим первый и прикрепленным к шесту так, чтобы шест мог свободно ходить в отверстии вокруг своей оси, а полый конус RR не позволял проникнуть в отверстие дождю и снегу.</se>
+    <se lang="latin" variant_id="1">In fornice TT fiat foramen rotundum, aptumque ad vectem cylindricum capiendum; muniatur cono perforato GG ad fornicem firmato, et cono altero concavo RR, priorem tegente, atque vecti affixo ita, ut vectis in foramine libere moveri possit circa suum axem, et pluvia atque nix cono concavo RR a foramine arceatur.</se>
+    <weight variant_id="1">0,431136</weight>
+  </para>
+  <para id="16">
+    <se lang="russian" variant_id="0">VII</se>
+    <se lang="latin" variant_id="1">VII</se>
+    <weight variant_id="1">1,8</weight>
+  </para>
+  <para id="17">
+    <se lang="russian" variant_id="0">К оси p привяжем пропитанную воском или смолою нить plt, наматывающуюся на эту ось; другой конец обмотаем вокруг колеса H, по краю которого нанесены градусы; величина их, как и самого колеса, определяется на практике, как это будет разъяснено ниже.</se>
+    <se lang="latin" variant_id="1">Axi p alligandus est funiculus plt, cera vel pice infectus, circa eundem ipsum axem volvendus, cujus altera extremitas circumvolvenda erit rotae H cum gradibus in limbo ejus descriptis, quorum magnitugo, ut et rotae ipsius, praxi erit determinanda, quemadmodum infra docebimus.</se>
+    <weight variant_id="1">0,41019</weight>
+  </para>
+  <para id="18">
+    <se lang="russian" variant_id="0">Стрелка n, прикрепленная к шесту, должна показывать градусы, смотря по тому или иному положению колеса.</se>
+    <se lang="latin" variant_id="1">Index n ad vectem fixus pro diverso situ rotae gradus ostendet.</se>
+    <weight variant_id="1">0,1</weight>
+  </para>
+  <para id="19">
+    <se lang="russian" variant_id="0">VIII</se>
+    <se lang="latin" variant_id="1">VIII</se>
+    <weight variant_id="1">1,8</weight>
+  </para>
+  <para id="20">
+    <se lang="russian" variant_id="0">Колесо H подвижно укрепим в узком и глубоком деревянном ящичке N. К его периферии прикрепим цилиндрическую стеклянную трубку, изогнутую по кругу, с просветом не больше одной линии.</se>
+    <se lang="latin" variant_id="1">Rota H in capsula lignea N profunda et angusta sit mobilis. Peripheriae ejus affigatur tubus vitreus aequabilis, circulari figura incurvus, cujus lumen sit unicam circiter lineam amplum; </se>
+    <weight variant_id="1">-0,086</weight>
+  </para>
+  <para id="21">
+    <se lang="russian" variant_id="0">Ее наполним ртутью вплоть до обоих отверстий u и y, когда они будут находиться на одной и той же горизонтальной линии.</se>
+    <se lang="latin" variant_id="1">atque impleatur Mercurio ad utramque usque aperturam u et y, cum erunt in eadem linea horizontali.</se>
+    <weight variant_id="1">0,281818</weight>
+  </para>
+  <para id="22">
+    <se lang="russian" variant_id="0">Ящичек N снабжен отверстием в k.</se>
+    <se lang="latin" variant_id="1">Capsula N habebit foramen in k.</se>
+    <weight variant_id="1">1,14603</weight>
+  </para>
+  <para id="23">
+    <se lang="russian" variant_id="0">IX</se>
+    <se lang="latin" variant_id="1">IX</se>
+    <weight variant_id="1">1,8</weight>
+  </para>
+  <para id="24">
+    <se lang="russian" variant_id="0">У нижней оконечности шеста K пусть находится круглое деревянное вместилище X [фиг. 3], разделенное тончайшими деревянными планками на 32 равных отделения так, что против отделения N, обращенного на север, будет находиться отделение S, которое смотрит на юг, и все отделения расположены по 32 направлениям ветров.</se>
+    <se lang="latin" variant_id="1">Circa vectis inferiorem extremitatem K collocetur receptaculum ligneum circulare X [fig. 3] in 32 loculos lamellis ligneis tenuissimis discretum aequaliter, ita ut loculo N spectante septentrionem, oppositus S meridiem versus dirigatur, atque singuli versus 32 ventorum regiones vergant.</se>
+    <weight variant_id="1">0,770833</weight>
+  </para>
+  <para id="25">
+    <se lang="" variant_id="0"></se>
+    <se lang="" variant_id="1"></se>
+    <weight variant_id="1">1,54236</weight>
+  </para>
+  <para id="26">
+    <se lang="russian" variant_id="0">Часть каждого отделения O пусть выходит к периферии острым углом и будет открыта; остальная часть, доходящая до отверстия X и закрытая, должна быть снабжена обозначением определенного ветра, наподобие обозначений на компасе. ~~~ X</se>
+    <se lang="latin" variant_id="1">Partes loculorum o in angulum acutum versus peripheriam exeuntes sint apertae;a reliquum, quod ad foramen X extendetur et opertum erit, distinguatur pictis in modum amusii singulis ventis.</se>
+    <weight variant_id="1">0,0241236</weight>
+  </para>
+  <para id="27">
+    <se lang="russian" variant_id="0">Все, наконец, старанием мастера, должно быть соединено и прилажено так, чтобы сразу же приходить в движение, и обладать достаточной прочностью, чтобы выдерживать напор воздуха.</se>
+    <se lang="latin" variant_id="1">Omnia denique industria artificis ita aptentur et conjungantur, ut et ad motum sint prompta et ad impetum aëris sustinendum satis firma.</se>
+    <weight variant_id="1">0,205128</weight>
+  </para>
+  <para id="28">
+    <se lang="russian" variant_id="0">Величину крыльев и колес можно выбрать бо́льшую или меньшую, смотря по желанию и обстоятельствам.</se>
+    <se lang="latin" variant_id="1">Magnitudo alarum et rotarum pro cujuslibet arbitrio et commoditate augeri aut minor eligi poterit.</se>
+    <weight variant_id="1">0,296471</weight>
+  </para>
+  <para id="29">
+    <se lang="russian" variant_id="0">Колеса F и M, так же как барабан, должно изготовить из латуни.</se>
+    <se lang="latin" variant_id="1">Rotae F et M ut et tympanum conficiantur ex aurichalco.</se>
+    <weight variant_id="1">0,540812</weight>
+  </para>
+  <para id="30">
+    <se lang="russian" variant_id="0">XI</se>
+    <se lang="latin" variant_id="1">XI</se>
+    <weight variant_id="1">1,8</weight>
+  </para>
+  <para id="31">
+    <se lang="russian" variant_id="0">Прежде чем установить этот прибор в должном положении на опоре, его надо поставить сначала в таком месте, где мог бы свободно дуть и равномерно двигать колесо с крыльями A любой ветер.</se>
+    <se lang="latin" variant_id="1">Antequam in situ debito inter fornicem firmata fuerit, collocetur haec machina primum in loco, ubi ventus quilibet libere spiret, et rotam alatam A aequabili rotatione moveat.</se>
+    <weight variant_id="1">0,403164</weight>
+  </para>
+  <para id="32">
+    <se lang="russian" variant_id="0">На расстоянии 100 сажен от прибора по направлению ветра поставим значок и по воздуху пустим перья. В то время как они пролетают это пространство в 100 сажен, со всей возможной точностью отметим по числу зубцов колеса F число оборотов колеса с крыльями.</se>
+    <se lang="latin" variant_id="1">In distantia centum orgyiarum ponatur meta in ea regione, versus quam ventus a machina dirigitur, et aëri moto committatur pluma, quae dum per spatium centum orgyiarum fertur, notetur interea numerus gyrationum rotae alatae per numerum dentium rotae F quam fieri potest accurate,</se>
+    <weight variant_id="1">0,390226</weight>
+  </para>
+  <para id="33">
+    <se lang="russian" variant_id="0">Найдя таким образом число его оборотов для этих 100 сажен, которые пробегает ветер, нужно отсчитать число оборотов для 500 сажен, т. е. для целой версты, которую пробежит ветер.</se>
+    <se lang="latin" variant_id="1">et hac ratione invento numero rotationum illius pro 100 orgyis, quas aër percurrit, numerandae sunt rotationes pro 500 orgyiis, ut aër nempe percurrat integram Werstam.</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="34">
+    <se lang="russian" variant_id="0">По завершении этих оборотов отметим положение стрелки n и расстояние ее от той точки, с которой начался первый оборот, примем за первый градус шкалы, располагаемой по краю колеса H; в соответствии с этим могут быть определены и остальные.</se>
+    <se lang="latin" variant_id="1">His rotationibus absolutis, notetur locus indicis n, et distantia ejus a puncto, in quo fuit initio primae rotationis, sumatur pro gradu primo scalae in limbo rotae H describendae, juxta quem reliqui determinari poterunt;</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="35">
+    <se lang="russian" variant_id="0">Чтобы точнее определить эти градусы, можно также сделать обозначения для известного числа оборотов.</se>
+    <se lang="latin" variant_id="1">ad ejusmodi gradus certius determinandos possunt etiam datae rotationes pro milliaribus numerari, atque designari.</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="36">
+    <se lang="russian" variant_id="0">Употребление</se>
+    <se lang="latin" variant_id="1">Usus</se>
+    <weight variant_id="1">-0,18</weight>
+  </para>
+  <para id="37">
+    <se lang="russian" variant_id="0">Этот прибор, поставленный на крыше астрономической вышки или какого-нибудь высокого здания, 1) будет нести службу Тритона, указывая направление любого ветра, при чем доска Q и вся верхняя часть прибора будут повернуты в направлении ветра, узкий же ящичек NN будет смотреть в ту сторону, откуда дует ветер и которая будет определяться по расположенному внизу компасу.</se>
+    <se lang="latin" variant_id="1">Haec machina posita in summo speculae astronomicae, vel cujuscunque aedificii editioris 1) implebit vices Tritonis, indicando directionem cujuslibet venti, ita ut tabula Q et integra superiore parte machinae cum directione moti aëris congruente, angusta capsula NN spectabit eam, unde ventus spirat, plagam, quae illico ex subjecto amusio innotescet.</se>
+    <weight variant_id="1">0,473805</weight>
+  </para>
+  <para id="38">
+    <se lang="russian" variant_id="0">2) Колесо с крыльями A, приведенное в движение ветром, заставит двигаться колеса F и M, устройство которых служит для медленного накручивания нити plt, и одновременно ось p, вращающую с помощью названном нити колесо H в ящичке NN.</se>
+    <se lang="latin" variant_id="1">2) Rota alata A vento mota rotas F et M, ad involutionem funiculi plt retardandam comparatas, movebit simul cum axe p, ope dicti funiculi, rotam H in capsula NN circumvolvente.</se>
+    <weight variant_id="1">0,688601</weight>
+  </para>
+  <para id="39">
+    <se lang="russian" variant_id="0">Вследствие этого, в зависимости от разного количества пронесшегося мимо воздуха, над указателем n выступит разное число градусов.</se>
+    <se lang="latin" variant_id="1">Quo fiet, ut pro diversa quantitate aëris praeterlapsi diversus quoque numerus graduum supra indicem n ascendet.</se>
+    <weight variant_id="1">0,427491</weight>
+  </para>
+  <para id="40">
+    <se lang="russian" variant_id="0">Таким образом в отсутствие наблюдателя будет отмечаться сумма скоростей всех ветров.</se>
+    <se lang="latin" variant_id="1">Hac ratione, absente observatore, notari poterit summa celeritatum venti cujuslibet.</se>
+    <weight variant_id="1">0,296</weight>
+  </para>
+  <para id="41">
+    <se lang="russian" variant_id="0">После того как шкала по краю колеса H будет вся исчерпана, пружину e оттянем нитью pqr, чтобы колесо M вместе с осью p могло двигаться, не соприкасаясь с барабаном h, и колесо H вернулось в то положение, при котором стрелка опять показывает на шкале начало первого градуса.</se>
+    <se lang="latin" variant_id="1">Absoluta scala in limbo rotae H descripta, deducatur elater e funiculo pqr, ut rota M cum axe p moveri possit extra contactum tympani h, et rota H revolvatur in eum situm, in quo index n ostendit rursus in scala initium primi gradus; tandem vero funiculus remittatur;</se>
+    <weight variant_id="1">0,179276</weight>
+  </para>
+  <para id="42">
+    <se lang="russian" variant_id="0">Затем нить отпустим, и колесо M, соприкоснувшись с барабаном, опять может быть им приведено в движение.</se>
+    <se lang="latin" variant_id="1">quo facto, rota M cum tympano h in contactu posita ab eo rursus moveri poterit.</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="43">
+    <se lang="russian" variant_id="0">3) Когда дует ветер и колесо H поворачивается от u к y, то отверстие y у трубки uy опускается и через него ртуть выливается из трубки в узкий ящичек NN, а оттуда через отверстие K стекает в тот ящичек компаса, который будет соответствовать стороне, откуда дует ветер.</se>
+    <se lang="latin" variant_id="1">3) Spirante vento, et rota H ex u versus y vergente, deprimetur lumen y tubi uy, perque id Mercurius ex tubo in capsulam angustam NN, et ex illa per foramen k defluet in amusii loculum, qui respondebit regioni, unde ventus spirat.</se>
+    <weight variant_id="1">0,608452</weight>
+  </para>
+  <para id="44">
+    <se lang="russian" variant_id="0">При перемене ветра ртуть, в соответствии с наклоном отверстия y, будет вытекать в ящички компаса, соответствующие сторонам, откуда будет дуть переменный ветер.</se>
+    <se lang="latin" variant_id="1">Et vento variante, Mercurius pro ratione depressionis luminis y effluet in loculos amusii, regionibus, unde ventus variabilis spirabit, correspondentes.</se>
+    <weight variant_id="1">0,291111</weight>
+  </para>
+  <para id="45">
+    <se lang="russian" variant_id="0">Когда шкала будет исчерпана и ртути в трубке уже почти не останется, то колесо H возвращают к исходному положению вышеописанным способом, трубку uy наполняют вновь ртутью через соответственную воронку и отверстие K тотчас же затыкают.</se>
+    <se lang="latin" variant_id="1">Scala absoluta et mercurio in tubulo jam jam deficiente, fiat rotae H revolutio modo superius praescripto, et tubulus uy ope convenientis infundibuli impleatur denuo Mercurio et foramen k statim obturetur.</se>
+    <weight variant_id="1">0,45287</weight>
+  </para>
+  <para id="46">
+    <se lang="russian" variant_id="0">Из каждого ящичка компаса ртуть особо выливается через краники в трубку того же диаметра, что и трубка uy; по размеченной на равные градусы разной высоте ртути определяются разные ее количества.</se>
+    <se lang="latin" variant_id="1">Ex loculis amusii singulis Mercurius seorsim effundatur per epistomia z in tubulum ejusdem luminis cum tubulo uy, et per diversam altitudinem Mercurii, in aequales gradus distributam, notetur ejus diversa quantitas.</se>
+    <weight variant_id="1">0,262048</weight>
+  </para>
+  <para id="47">
+    <se lang="russian" variant_id="0">Наконец, открывают отверстие K, чтобы ртуть из стеклянной трубки опять могла стекать через ящичек NN в ящички компаса.</se>
+    <se lang="latin" variant_id="1">Ultimo foramen k aperiatur, ut Mercurius per capsulam NN in loculos amusii denuo ex tubulo vitreo defluere possit.</se>
+    <weight variant_id="1">0,44565</weight>
+  </para>
+  <para id="48">
+    <se lang="russian" variant_id="0">А так как количество ртути в трубке uy пропорционально числу градусов, нанесенных на каждой части, что явствует из самой конструкции, то, следовательно, по различному количеству ртути, находящейся в ящичках, будет видно, сколько воздуха и с какой стороны протекло мимо за данное время. ~~~ </se>
+    <se lang="latin" variant_id="1">Quoniam autem quantitas Mercurii in tubulo uy gradibus singulis in scala descriptis in singulis partibus proportionalis est, quod ex constructione patet; ex diversa igitur quantitate Mercurii in loculis contenti constabit, quantum aëris ex quavis regione dato tempore praeterfluxerit,</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="49">
+    <se lang="russian" variant_id="0">Таким образом, прилежный наблюдатель с удобством может заметить и определить для каждого дня, месяца и для целого года направления и количества протекающего воздуха.</se>
+    <se lang="latin" variant_id="1">atque adeo pro singulis diebus et mensibus, proque integro anno a sedulo observatore sine incommodo observari et determinari poterunt directiones et quantitates aëris praeterlabentis,</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="50">
+    <se lang="russian" variant_id="0">Никто не станет отрицать, что это может принести величайшую пользу тем, кто занимается метеорологией.</se>
+    <se lang="latin" variant_id="1">quod maximum emolumentum meteorologiam colentibus afferre posse nemo inficiabitur.</se>
+    <weight variant_id="1">0</weight>
+  </para>
+</body>
+</html>

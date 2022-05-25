@@ -1,0 +1,202 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html>
+<head>
+</head>
+<body>
+  <para id="0">
+    <se lang="russian" variant_id="0">Так как ученые потратили уже немало труда, чтобы найти средство, с помощью которого можно было бы открыть и измерить силы, которыми луна и солнце нарушают у нас на земле силу тяжести и которые помимо этого обнаруживаются только по морским приливам, то я счел небесполезным (побужденный особенно недавним рассмотрением этого вопроса в журналах) в свободные часы подумать об устройстве какого-нибудь прибора для этой цели.</se>
+    <se lang="latin" variant_id="1">Cum jam non exiguam operam eruditi viri consumpserint, ut ejusmodi medium invenirent, cujus ope detegi et mensurari possent vires, quibus lunae et solis sidera gravitatis vim in tellure nostra turbent, quaeque alias tantum per maris aestum innotescant; operae precium judicavi (praesertim hac re in novis publicis nuper jactata motus) de construenda hunc in usum aliqua machina subsecivis horis cogitare.</se>
+    <weight variant_id="1">0,289625</weight>
+  </para>
+  <para id="1">
+    <se lang="russian" variant_id="0">Многое представлялось мне первоначально, что по виду сулило большие надежды, но при ближайшем рассмотрении вызывало своей тщетностью смех и досаду.</se>
+    <se lang="latin" variant_id="1">Multa primo inciderant, quae specie quidem magnam spem prae se ferebant, ad examen tamen revocata vanitate sua risum et indignationem movebant.</se>
+    <weight variant_id="1">0,287903</weight>
+  </para>
+  <para id="2">
+    <se lang="russian" variant_id="0">Наконец, мне пришло в голову устройство следующего прибора, который я предлагаю на ваше рассмотрение, почтеннейшие коллеги, ибо мне он представился удовлетворительным.</se>
+    <se lang="latin" variant_id="1">Venit tandem in mentem sequentis constructio instrumenti, quod cum examini meo satis respondisse visum sit; vobis, clarissimi collegae, perpendendum propono;</se>
+    <weight variant_id="1">-0,0191038</weight>
+  </para>
+  <para id="3">
+    <se lang="russian" variant_id="0"> Если вы дадите ему одобрительную оценку, то я не сомневаюсь, что он будет построен по приказу канцелярии.</se>
+    <se lang="latin" variant_id="1">et si vestro calculo fuerit probatum, constructum iri jussu cancellariae non dubito.</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="4">
+    <se lang="russian" variant_id="0">Если же и работа его оправдает ожидания, то его можно будет удостоить названия универсального барометра.</se>
+    <se lang="latin" variant_id="1">Denique si et effectus votis responderint, dignum certe erit, ut titulo universalis Barometri ornetur.</se>
+    <weight variant_id="1">0,296667</weight>
+  </para>
+  <para id="5">
+    <se lang="russian" variant_id="0">Ибо 1) в то время как обыкновенный барометр показывает только изменяющуюся тяжесть атмосферы, этот будет отмечать изменения веса во всех телах;</se>
+    <se lang="latin" variant_id="1">Nam 1) cum commune Barometrum variam gravitatem atmosphaerae solum indicet, hoc omnium corporum variatum pondus ostendet;</se>
+    <weight variant_id="1">0,441008</weight>
+  </para>
+  <para id="6">
+    <se lang="russian" variant_id="0">2) в то время как о нарушении тяжести мы узнаем только по приливам в открытом море, с помощью предлагаемого прибора можно достигнуть этого даже в местах очень далеких от моря;</se>
+    <se lang="latin" variant_id="1">2) cum alias turbatio gravitatis tantum in libero mari per aestum cognoscatur; hujus autem ope instrumenti etiam in remotissimis a mari locis id praestari poterit;</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="7">
+    <se lang="russian" variant_id="0">3) может быть, он будет служить и для определения длины маятника при различных широтах и для более точного измерения высоты гор.</se>
+    <se lang="latin" variant_id="1">3) forte et ad determinandam longitudinem penduli in diversis poli elevationibus et ad metiendam accuratius altitudinem montium inserviet.</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="8">
+    <se lang="russian" variant_id="0">Если же нельзя будет заметить никаких изменений, соответствующих ньютоновой или какой-либо другой здравой теории, или вообще никакие не обнаружатся, а вместе с тем не возникнет никаких подозрений относительно достоверности прибора, тогда не без основания можно будет усумниться вообще в каком-либо нарушении тяжести на нашей земле.</se>
+    <se lang="latin" variant_id="1">Quodsi vero nullae mutationes animadverti potuerint, quae Newtonianae vel cuique aliae sanae theoriae respondeant, aut prorsus nullae apparuerint, nec ulla suspicio fuerit, ob quam fides instrumenti dubia reddi possit; tum non sine fundamento de omni gravitatis in tellure nostra turbatione dubitabitur.</se>
+    <weight variant_id="1">0,272727</weight>
+  </para>
+  <para id="9">
+    <se lang="russian" variant_id="0">Остается добавить, что тот, кто подумает, сколько значат подобного рода попытки для познания морских приливов и воздушных явлений, тот вместе со мной повторит известное изречение: в великом деле достаточна и попытка.</se>
+    <se lang="latin" variant_id="1">Ceterum qui perpendit, quantum hujusmodi conamina ad scientiam aestus marini et meteorum aëris conferant, is notum illud mecum sentiet: in magnis tentasse sat est.</se>
+    <weight variant_id="1">0,202128</weight>
+  </para>
+  <para id="10">
+    <se lang="russian" variant_id="0">Конструкция</se>
+    <se lang="latin" variant_id="1">Constructio</se>
+    <weight variant_id="1">0,3</weight>
+  </para>
+  <para id="11">
+    <se lang="russian" variant_id="0">1</se>
+    <se lang="latin" variant_id="1">1</se>
+    <weight variant_id="1">16,8</weight>
+  </para>
+  <para id="12">
+    <se lang="russian" variant_id="0">Возьмем стеклянный шар AB с толстыми стенками и внутренним диаметром в три дюйма; соединим с ними барометрическую трубку BC такой длины, чтобы от центра шара D до изгиба C было 28 дюймов;</se>
+    <se lang="latin" variant_id="1">Sit globus vitreus AB crassiorum laterum, diametri intus tripollicaris; habeat junctum sibi tubum barometricum BC ejus longitudinis, ut a centro globi D ad curvaturam C sint pollices 28;</se>
+    <weight variant_id="1">0,69557</weight>
+  </para>
+  <para id="13">
+    <se lang="russian" variant_id="0">после загиба пусть идет горизонтальная трубочка CP длиною в фут или больше со стеклянным шаром S диаметром в дюйм; просвет в трубочке CP пусть будет диаметром в ¼ линии.</se>
+    <se lang="latin" variant_id="1">post curvaturam tubulus CP horizontalis sit pedem aut amplius longus cum globo vitreo S, pollicaris diametri; lumen tubuli CP habeat diametrum ¼ lineae.</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="14">
+    <se lang="russian" variant_id="0">2</se>
+    <se lang="latin" variant_id="1">2</se>
+    <weight variant_id="1">16,8</weight>
+  </para>
+  <para id="15">
+    <se lang="russian" variant_id="0">Наполним шар AB и трубку BC самой чистой, сухой и тщательно освобожденной от воздуха ртутью.</se>
+    <se lang="latin" variant_id="1">Repleatur globus AB et tubus BC Mercurio defaecatissimo, siccissimo, et ab aëre omni cum cura liberato.</se>
+    <weight variant_id="1">0,637025</weight>
+  </para>
+  <para id="16">
+    <se lang="russian" variant_id="0">Все остальное делается таким же образом, каким изготовляются барометры Бернулли; трубка BC ставится отвесно так, чтобы ртуть остановилась в Q; затем отверстие шара S в α герметически запечатывается.</se>
+    <se lang="latin" variant_id="1">Reliqua fiant ea ratione, qua Barometra Bernoulliana confici solent, ita ut tubo BC ad perpendiculum erecto, Mercurius subsistat ln Q; deinde apertura globi S in α hermetice sigilletur.</se>
+    <weight variant_id="1">0,689265</weight>
+  </para>
+  <para id="17">
+    <se lang="russian" variant_id="0">3</se>
+    <se lang="latin" variant_id="1">3</se>
+    <weight variant_id="1">16,8</weight>
+  </para>
+  <para id="18">
+    <se lang="russian" variant_id="0">Все это прикрепляется к дощечкам TTZZ.</se>
+    <se lang="latin" variant_id="1">Omnia aptentur ad tabulas TTZZ.</se>
+    <weight variant_id="1">0,735714</weight>
+  </para>
+  <para id="19">
+    <se lang="russian" variant_id="0">Защитим оба шара деревянными коробочками GHLM и VVVV.</se>
+    <se lang="latin" variant_id="1">Globus quilibet muniatur cistula lignea GHLM et VVVV.</se>
+    <weight variant_id="1">0,966667</weight>
+  </para>
+  <para id="20">
+    <se lang="russian" variant_id="0">В каждой коробочке поставим по два чувствительных термометра FF и RR, так чтобы шарики их находились внутри, а трубочки выдавались через отверстия x наружу и были вместе со скалой градусов прикреплены сбоку коробок.</se>
+    <se lang="latin" variant_id="1">In unaquaque cistula aptentur bina thermometra sensibiliora FF et RR ita, ut bulbi intus, tubuli vero extus per foramina x promineant, et ad latera cistarum firmati sint cum appositis graduum scalis.</se>
+    <weight variant_id="1">0,462794</weight>
+  </para>
+  <para id="21">
+    <se lang="russian" variant_id="0">Шар AB, который не должен соприкасаться ни со стенками, ни с дном коробки, опирается на подставку NO, чтобы не было прогибания от тяжести ртути.</se>
+    <se lang="latin" variant_id="1">Globus AB quia nec latera nec fundum cistae attingere debet, ideo sustentaculo NO fulciatur, ne pondere Mercurii opprimatur.</se>
+    <weight variant_id="1">0,261111</weight>
+  </para>
+  <para id="22">
+    <se lang="russian" variant_id="0">Стенки коробок изнутри и места соединений хорошенько смажем смолой, чтобы налитая вода не могла найти выхода.</se>
+    <se lang="latin" variant_id="1">Latera cistarum interna et juncturae pice bene oblinantur, ne aqua infusa exitum inveniat.</se>
+    <weight variant_id="1">0,239241</weight>
+  </para>
+  <para id="23">
+    <se lang="russian" variant_id="0">4</se>
+    <se lang="latin" variant_id="1">4</se>
+    <weight variant_id="1">16,8</weight>
+  </para>
+  <para id="24">
+    <se lang="russian" variant_id="0">Сделав все таким образом, укрепим прибор на стене, в отвесном положении.</se>
+    <se lang="latin" variant_id="1">His ita comparatis machina ad parietem firmetur ad perpenculum erecta.</se>
+    <weight variant_id="1">0,295161</weight>
+  </para>
+  <para id="25">
+    <se lang="russian" variant_id="0">Наполним обе коробки близкой к замерзанию водой, с мелким льдом, чтобы в обоих шарах неизменно стояла совершенно постоянная температура.</se>
+    <se lang="latin" variant_id="1">Cista utraque impleatur aqua jamjam gelascente et frustis glaciei plena, ut caloris gradus in utroque globo constantissimus perseveret.</se>
+    <weight variant_id="1">0,3</weight>
+  </para>
+  <para id="26">
+    <se lang="russian" variant_id="0">Если лед растает, и температура начнет повышаться, то термометры немедленно покажут это; воду можно будет вылить через стоки Ф и налить новую, наполненную кусочками льда, так что будет восстановлена прежняя температура.</se>
+    <se lang="latin" variant_id="1">Si glacie liquata calor crescere incipiet, thermometra id statim indicabunt, et aqua per epistomia Φ exprompta, nova frustulis glaciei referta infundi et sic pristinus gradus caloris restitui poterit.</se>
+    <weight variant_id="1">0,272414</weight>
+  </para>
+  <para id="27">
+    <se lang="russian" variant_id="0">Следствие 1</se>
+    <se lang="latin" variant_id="1">Consectarium I</se>
+    <weight variant_id="1">0,218182</weight>
+  </para>
+  <para id="28">
+    <se lang="russian" variant_id="0">Так как в этом положении воздух в шаре S будет или постоянно иметь одну и ту же температуру и, следовательно, одну и ту же плотность и упругость, или будет легко приведен к этому состоянию в случае надобности,</se>
+    <se lang="latin" variant_id="1">Quoniam hoc in statu aër, in globo S, eundem gradum caloris, adeoque eandem densitatem, eundemque elaterem continuo habebit, vel ad eundem facile reduci poterit, quando opus est;</se>
+    <weight variant_id="1">0,260618</weight>
+  </para>
+  <para id="29">
+    <se lang="russian" variant_id="0">то поэтому он с равной силой будет давить на ртуть, которая сжимает этот воздух тяжестью столбика CD. Пока эта тяжесть остается неизменной, ртуть в трубочке PC будет стоять неподвижно в Q. </se>
+    <se lang="latin" variant_id="1">idcirco aequali vi urgebit Mercurium, qui dictum aërem premit gravitate columnae CD, quae quamdiu aequalis permanet, Mercurius in tubulo PC ad Q immotus persistet.</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="30">
+    <se lang="russian" variant_id="0">Если же силою луны или солнца тяжесть земных тел будет нарушена, т. е. увеличится или уменьшится, как это вывел Ньютон, то, очевидно, эта прибыль и убыль обязательно будут обнаружены этим прибором.</se>
+    <se lang="latin" variant_id="1">At si lunae vel solis vi gravitas corporum terrestrium turbatur, hoc est crescit aut decrescit, prout Newtonus deduxit; tum necesse videtur esse, ut incrementa et decrementa illa sese per hoc instrumentum prodant.</se>
+    <weight variant_id="1">0,203279</weight>
+  </para>
+  <para id="31">
+    <se lang="russian" variant_id="0">По мнению Ньютона, тяжесть относится к притягательной силе луны, как 2871400 к 1. Следовательно, при прохождении луны через меридиан вес ртути будет в нашем приборе на 1/2871400 долю меньше, чем за шесть часов до этого;</se>
+    <se lang="latin" variant_id="1">Gravitas ponitur a Newtono ad vim lunae attrahentis ut 2871400 ad 1. Luna igitur meridianum praetergrediente, gravitas Mercurii erit in instrumento nostro 1/2871400 parte minor, quam ante sex horas;</se>
+    <weight variant_id="1">0,941573</weight>
+  </para>
+  <para id="32">
+    <se lang="russian" variant_id="0">поэтому давление ее на упругий воздух в шаре S будет настолько же меньше; а так как изменение тяжести не изменит упругости воздуха, то неизбежно воздух обнаружит свои силы производимым действием и поднимет ртуть над прежней поверхностью D на 1/2871400 всей высоты, т. е. на 1/8545 часть линии.</se>
+    <se lang="latin" variant_id="1">adeoque tantundem minor erit pressio illius in aërem elasticum in globo S, cujus vis elastica quoniam a gravitatis mutatione non turbatur; idcirco vires suas aër actu exserat et Mercurium supra superficiem pristinam D 1/2871400 totius altitudinis, hoc est 1/8545 parte lineae elevet necesse est.</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="33">
+    <se lang="russian" variant_id="0">Хотя это совершенно незаметно, но так как плоская поверхность ртути в D относится к просвету трубочки CP как 20736 : 1, то ртуть должна отступить из трубочки CP в обратном отношении просветов и поэтому продвинуться из Q к C на 23/7 линии, что не только заметно, но и может быть разделено на несколько заметных частей.</se>
+    <se lang="latin" variant_id="1">Quod quamvis prorsus insensibile sit, tamen cum superficies plana Mercurii in D est ad lumen tubuli CP = 20736 : 1; Mercurius ex tubulo CP recedere debet in ratione inversa luminum atque adeo ex Q promoveri versus C lineas 23/7, quod non solum sensibile erit, sed etiam in aliquot partes sensibiles dividi poterit.</se>
+    <weight variant_id="1">1,2433</weight>
+  </para>
+  <para id="34">
+    <se lang="russian" variant_id="0">Следствие 2</se>
+    <se lang="latin" variant_id="1">Consectarium 2</se>
+    <weight variant_id="1">11,2182</weight>
+  </para>
+  <para id="35">
+    <se lang="russian" variant_id="0">Из этого явствует, что, увеличив отношение диаметра в шаре AB к диаметру отверстия в трубочке CP, мы увеличим скалу изменений; то же произойдет, если трубочка BC будет более длинной и воздух в шаре S сжат в соответствии с высотой ртути.</se>
+    <se lang="latin" variant_id="1">Ex hoc autem patet, aucta ratione diametri globi AB ad diametrum luminis tubuli CP scalam variationum augeri; idem quoque fieri, adhibito tubulo BC longiore et aëre in globo S pro ratione altitudinis Mercurii condensato.</se>
+    <weight variant_id="1">0,541185</weight>
+  </para>
+  <para id="36">
+    <se lang="russian" variant_id="0">Так, если высота ртути будет 100 дюймов, а диаметр шара AB — 6 дюймов, то при сохранении того же диаметра просвета трубочки CP скала изменений будет 34 + линий.</se>
+    <se lang="latin" variant_id="1">Ita si fuerit altitudo Mercurii pollicum 100, diameter vero globi AB pollicum 6, lumine tubuli CP ejusdem diametri manente, erit scala variationis linearum 34 +.</se>
+    <weight variant_id="1">0,634876</weight>
+  </para>
+  <para id="37">
+    <se lang="russian" variant_id="0">Пояснение</se>
+    <se lang="latin" variant_id="1">Scholium</se>
+    <weight variant_id="1">0,266667</weight>
+  </para>
+  <para id="38">
+    <se lang="russian" variant_id="0">Лед с холодной водой нужен в коробке GHLM для того, чтобы воздух, который может случайно накопиться над ртутью, оставался неизменно одной и той же плотности и не затемнял изменений тяжести изменением упругости.</se>
+    <se lang="latin" variant_id="1">Glacies cum aqua frigida in cista GHLM eum in finem adhibenda censetur, ut aër, qui forte supra Mercurium colligetur, constantis densitatis maneat, nec variato elatere gravitatis variationes turbet.</se>
+    <weight variant_id="1">0,389495</weight>
+  </para>
+</body>
+</html>

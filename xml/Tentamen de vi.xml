@@ -1,0 +1,712 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html>
+<head>
+</head>
+<body>
+  <para id="0">
+    <se lang="" variant_id="0">§ 1</se>
+    <se lang="" variant_id="1">§ 1</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="1">
+    <se lang="russian" variant_id="0">После того, как сделалось известным применение воздушного насоса, естественные науки получили огромное развитие, особенно в части, трактующей о природе воздуха.</se>
+    <se lang="latin" variant_id="1">Postquam antliae pneumaticae usus innotuit, mirum quantum scientia naturalis cepit incrementum, ea potissimum parte, quae de natura aëris doctrinam complectitur.</se>
+    <weight variant_id="1">0,3</weight>
+  </para>
+  <para id="2">
+    <se lang="russian" variant_id="0">Свойства последнего, совершенно неизвестные в прошлом веке, мы в настоящее время не только познали, но даже выразили математическими законами, и с восхищением видим, что они находятся почти на высшей ступени ясного познания.</se>
+    <se lang="latin" variant_id="1">Proprietates enim illius, quae ante seculum prorsus ignotae fuerant, jam hodie non solum cognitas habemus, verum etiam mathematicis legibus definitas et in summo fere fastigio distinctae cognitionis constitutas miramur.</se>
+    <weight variant_id="1">0,296875</weight>
+  </para>
+  <para id="3">
+    <se lang="russian" variant_id="0">Но, хотя в физических сочинениях чаще, чем другие свойства воздуха, описывается упругость его и каждому, приступающему к изучению естественных наук, она представляется одним из главных факторов природных явлений, тем не менее причина ее еще недостаточно выяснена и для раскрытия ее даже прославленные испытатели природы напрасно напрягали свою изобретательность.</se>
+    <se lang="latin" variant_id="1">Quamvis autem elastica ejus vis saepius, quam reliquae proprietates illius, Physicorum scriptis celebratur, et cuilibet forum scientiae naturalis ingredienti inter palmarias rerum naturalium qualitates sese offert; nihilo tamen minus causa illius nondum satis perspecta habetur, in eaque explicanda etiam celebrium naturae scrutatorum ingenia casso molimine torsa sunt.</se>
+    <weight variant_id="1">0,292405</weight>
+  </para>
+  <para id="4">
+    <se lang="russian" variant_id="0">Поэтому физики-исследователи по большей части не затрагивают причин упругости, но довольствуются лишь описанием действий ее.</se>
+    <se lang="latin" variant_id="1">Unde scriptores Physici plerumque intacta elateris causa in solis effectibus illius describendis acquiescunt.</se>
+    <weight variant_id="1">0,260204</weight>
+  </para>
+  <para id="5">
+    <se lang="russian" variant_id="0">А если даже кто указывает причины, то последние и имеют под собою шаткую опору и недостаточны для объяснения явлений, вызываемых упругостью воздуха.</se>
+    <se lang="latin" variant_id="1">Aut si qui causas assignant, eae tamen et invalido pede nituntur, et phaenomenis circa elaterem aëris observatis explicandis non sufficiunt.</se>
+    <weight variant_id="1">0,285246</weight>
+  </para>
+  <para id="6">
+    <se lang="russian" variant_id="0">А по большей части эти причины уже потому не имеют никакого значения, что не содержат в себе ничего кроме самого вопроса, только пересказанного в других выражениях.</se>
+    <se lang="latin" variant_id="1">Plerumque autem eo ipso plane, nullae sunt, quod nihil, praeter quaestionem ipsam, verbis duntaxat mutatis, in se contineant.</se>
+    <weight variant_id="1">0,214679</weight>
+  </para>
+  <para id="7">
+    <se lang="" variant_id="0">§ 2</se>
+    <se lang="" variant_id="1">§ 2</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="8">
+    <se lang="russian" variant_id="0">Из всех предложенных для объяснения упругости воздуха гипотез, которые до настоящего времени нам сделались известными из сочинений физиков, кажутся более правдоподобными исходящие из законов центральных движений,</se>
+    <se lang="latin" variant_id="1">Prae omnibus vero, quae hucusque ex Physicorum scriptis nobis innotuerunt, hypothesibus, ad explicandam vim aëris elasticam formatis plausibiliores esse videntur eae, quae legibus motuum centralium superstructae sunt.</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="9">
+    <se lang="russian" variant_id="0">ибо в них не выдается за самую причину подлежащий решению вопрос в измененных выражениях и не предлагается нечто чуждое законам движения.</se>
+    <se lang="latin" variant_id="1">Non enim eadem quaestio variata phrasi involuta in illis pro causa ipsa affertur, aut quae proponuntur a motus regulis aliena sunt.</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="10">
+    <se lang="russian" variant_id="0">И мы, взявшись за это дело, лишь повторяли бы уже сделанное, если бы не видели, что в этом выдающемся открытии до сих пор имеются некоторые недостатки или, вернее, избытки.</se>
+    <se lang="latin" variant_id="1">Et nos suscepto hoc negotio actum equidem ageremus, si non quaedam adhuc desiderari, aut verius exundare in plaeclaro hoc invento videremus.</se>
+    <weight variant_id="1">0,240496</weight>
+  </para>
+  <para id="11">
+    <se lang="" variant_id="0">§ 3</se>
+    <se lang="" variant_id="1">§ 3</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="12">
+    <se lang="russian" variant_id="0">Действительно, мы считаем излишним призывать на помощь для отыскания причины упругости воздуха блуждающую жидкость, подобную тем, какие многими — по обычаю века, изобилующего тонкими материями, — применяются обыкновенно для объяснения природных явлений.</se>
+    <se lang="latin" variant_id="1">Superfluum nempe esse censemus, ut ad elateris aëris causam exponendam in auxilium vocetur ejusmodi peregrinum fluidum, qualia plerique consuetudine seculi, subtilium materiarum feracis, ducti justo saepius ad explicanda rerum naturalium phaenomena usurpare solent. </se>
+    <weight variant_id="1">-0,00470219</weight>
+  </para>
+  <para id="13">
+    <se lang="russian" variant_id="0">Мы довольствуемся тонкостью и подвижностью самого воздуха и ищем причину упругости в его собственной материи.</se>
+    <se lang="latin" variant_id="1">Ipsius enim aëris subtilitate atque agilitate contenti, in propria ejus materia elateris causam quaerimus.</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="14">
+    <se lang="russian" variant_id="0">Всякий, кто прочитал наши Размышления о причине теплоты3 и сопоставит с ними последующее, согласится, что мы делаем это не без основания.</se>
+    <se lang="latin" variant_id="1">Id autem non injuria facere nos aestimabit, quicunque meditationes nostras de caloris causa legit et, quae sequuntur, cum iisdem conferet.</se>
+    <weight variant_id="1">0,294915</weight>
+  </para>
+  <para id="15">
+    <se lang="" variant_id="0">§ 4</se>
+    <se lang="" variant_id="1">§ 4</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="16">
+    <se lang="russian" variant_id="0">Чтобы приступить к этому делу в должном порядке, начнем с ясного представления об упругости воздуха; поэтому предпошлем этому рассуждению определение и скажем, что сила упругости состоит в стремлении воздуха распространяться во все стороны.</se>
+    <se lang="latin" variant_id="1">Ut vero in suscepto hoc negotio justo ordine progrediamur, a clara notione elateris aëris incipimus: idcirco et definitionem tractationi huic praemittimus atque vim illam in conatu aëris quaqua versum sese expandendi consistere dicimus.</se>
+    <weight variant_id="1">0,294146</weight>
+  </para>
+  <para id="17">
+    <se lang="russian" variant_id="0">Отсюда мы заключаем, что удаляются друг от друга нечувствительные частицы воздуха, когда он по устранении препятствий действительно расширяется.</se>
+    <se lang="latin" variant_id="1">Hinc autem concludimus particulas aëris insensibiles a se invicem recedere, quamprimum remotis obstaculis re ipsa expanditur.</se>
+    <weight variant_id="1">0,254054</weight>
+  </para>
+  <para id="18">
+    <se lang="russian" variant_id="0">Итак, приходится рассмотреть две вещи: природу самих частиц и силу, которой они удаляются друг от друга.</se>
+    <se lang="latin" variant_id="1">Ubi tandem duo consideranda veniunt, natura particularum ipsarum et vis, qua a se invicem removentur.</se>
+    <weight variant_id="1">0,293182</weight>
+  </para>
+  <para id="19">
+    <se lang="" variant_id="0">§ 5</se>
+    <se lang="" variant_id="1">§ 5</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="20">
+    <se lang="russian" variant_id="0">Частицы воздуха можно себе представить двояким образом: либо отдельные частицы сложены так, что, обладая известным составом и органическим строением, они стремятся распространить образующие их части, и таким образом каждая отдельная частица может расшириться в большее пространство и сжаться в меньшее;</se>
+    <se lang="latin" variant_id="1">Particulae aëris duplici modo concipi possunt, nimirum vel singulae ita sunt comparatae, ut vi compositionis alicujus organicaeve structurae partes suas, ex quibus constructae sunt, extendere nitantur, adeoque singulae in majus et minus spatium expandi contrahique possint;</se>
+    <weight variant_id="1">0,254571</weight>
+  </para>
+  <para id="21">
+    <se lang="russian" variant_id="0">либо свойство упругости проявляют не единичные частицы, не имеющие какой-либо физической сложности и организованного строения, но производит совокупность их.</se>
+    <se lang="latin" variant_id="1">aut ab omni compositione physica organicaque structura alienae, non solitariae, sed in aggregato elasticam virtutem exerceant.</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="22">
+    <se lang="" variant_id="0">§ 6</se>
+    <se lang="" variant_id="1">§ 6</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="23">
+    <se lang="russian" variant_id="0">Первое предположение, будучи крайне несоответствующим величайшей простоте природы, представляется также несовместным с прозрачностью и нерушимой прочностью воздуха.</se>
+    <se lang="latin" variant_id="1">Prius praeter id, quod simplicissimo naturae ingenio sit maxime incongruum, etiam pelluciditatem et inconcussam aëris durabilitatem tollere videtur.</se>
+    <weight variant_id="1">0,261364</weight>
+  </para>
+  <para id="24">
+    <se lang="russian" variant_id="0">Ибо во всем составном и организованном должны находиться части, которые теплотворной силою все больше и больше возбуждаются к проявлению более сильной упругости.</se>
+    <se lang="latin" variant_id="1">In compositis enim et organicis dari debent partes, quae vi caloris ad excitandum majorem elaterem magis magisque exagitentur.</se>
+    <weight variant_id="1">0,215455</weight>
+  </para>
+  <para id="25">
+    <se lang="russian" variant_id="0">Поэтому, когда воздух разрежается от солнечной теплоты, то лучи солнца должны непременно проникать в любую частицу.</se>
+    <se lang="latin" variant_id="1">Unde cum aër calore solis rarescit, fiat necesse est, ut radii illius quamlibet particulam penetrent.</se>
+    <weight variant_id="1">0,255682</weight>
+  </para>
+  <para id="26">
+    <se lang="russian" variant_id="0">А так как при падении из окружающей эфирной среды (или, если угодно, из пустоты) лучам необходимо пройти через оседающие в ней и, следовательно, удельно гораздо более тяжелые твердые частицы бесконечное число раз, то это не может произойти без того, чтобы в любой частице воздуха они не претерпели преломление при входе и выходе.</se>
+    <se lang="latin" variant_id="1">Quibus quoniam ex fluido aethereo ambiente (vel, si mavis, ex vacuo) in solidas particulas, quae in illo subsident, adeoque specifice graviores sunt, infinities transeundum erit; idcirco fieri id nequit, nisi in qualibet particula aëris in ingressu et egressu refractionem patiantur.</se>
+    <weight variant_id="1">0,258367</weight>
+  </para>
+  <para id="27">
+    <se lang="russian" variant_id="0">И хотя в частицах такого рода преломление может быть бесконечно мало, но преломившийся в бесчисленных частицах от поверхности атмосферы до самой земли свет был бы настолько ослаблен, что нам пришлось бы обретаться в вечной ночи.</se>
+    <se lang="latin" variant_id="1">Et quamvis in particulis ejusmodi refractio forte fiat infinite parva, a superficie tamen atmosphaerae ad tellurem usque ipsam in particulis numero infinitis refracta lux ita foret debilitata, ut nos sempiterna in nocte versari oporteret.</se>
+    <weight variant_id="1">0,283077</weight>
+  </para>
+  <para id="28">
+    <se lang="russian" variant_id="0">Это подтверждается сходным примером: частицы или молекулы воды, состоящие из совокупности ее атомов и образующие тучи, хотя и незначительно преломляют свет каждая в отдельности и в пространстве не очень большом не уничтожают прозрачности воздуха, но, собравшись более густо и глубоко, они затемняют небо чернотой, а иногда почти совершенно не позволяют пользоваться полуденным светом.</se>
+    <se lang="latin" variant_id="1">Id autem simili exemplo confirmatur: particulae enim seu moleculae aquae, ex atomis ejus aggregatae, quae nubes constituunt, etiamsi leviter admodum lucem singulae refringunt et in spatio non nimis magno pelluciditati aëris non officiunt, densius tamen et altius congestae piceo colore coelum obducunt et lucis meridianae usum fere omnem aliquando prohibere solent.</se>
+    <weight variant_id="1">0,283861</weight>
+  </para>
+  <para id="29">
+    <se lang="" variant_id="0">§ 7</se>
+    <se lang="" variant_id="1">§ 7</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="30">
+    <se lang="russian" variant_id="0">Затем примем во внимание столь многочисленные изменения, претерпеваемые воздухом, крайне быстрые движения его, весьма сильные столкновения и сильнейшие трения с весьма твердыми телами, когда давит вся атмосфера, и припомним опыт Роберваля,4 который держал воздух сильно сжатым в течение 15 лет и в конце концов нашел упругость его неизменной; невозможно представить, чтобы отдельные частицы воздуха, столь тонкие, были организованы или составлены из многих частей непостижимой малости, весьма подвижных и поэтому очень непрочно связанных друг с другом.</se>
+    <se lang="latin" variant_id="1">Denique ubi tantas aëris vicissitudines, rapidissimos motus, pernicissimas collisiones et fortissimas frictiones cum corporibus durissimis, premente integra atmosphaera, consideramus et Robervalii experimentum, qui per 15 annos aërem valide compressum detinuit et tandem elaterem ejus illibatum invenit, in mentem revocamus; tum singulas particulas aëris, tam subtiles, organicas aut compositas esse et multis partibus, stupendae exilitatis, summe mobilibus indeque levissime inter se connexis constare, ne concipere quidem possumus.</se>
+    <weight variant_id="1">0,786141</weight>
+  </para>
+  <para id="31">
+    <se lang="russian" variant_id="0">Поэтому мы принимаем второе предположение § 5 и нисколько не сомневаемся, что частицы воздуха — именно те, которые производят упругость, стремясь отойти друг от друга, — лишены всякого физического сложения и организованного строения и, чтобы быть способными переносить такие испытания и производить столь поразительные действия, должны быть крайне прочными и не подверженными каким-либо изменениям; поэтому их по справедливости следует назвать атомами.</se>
+    <se lang="latin" variant_id="1">Idcirco quod § 5 posterius est, amplectimur nullique dubitamus particulas aëris, nempe eas, quae in exercendo elatere a se invicem recedere nituntur, ab omni compositione physica atque organica structura liberas et, ut tantis vicissitudinibus ferendis stupendisque effectibus producendis pares sint, solidissimas atque nulli inflexioni obnoxias esse; adeoque jure atomos vocari debere.</se>
+    <weight variant_id="1">0,941415</weight>
+  </para>
+  <para id="32">
+    <se lang="russian" variant_id="0">А так как они физически действуют на вещественные тела, то сами должны быть телесными и иметь протяжение.</se>
+    <se lang="latin" variant_id="1">Quae quoniam in res corporeas naturaliter agunt, ipsae etiam sint corporeae atque extensae, necesse est.</se>
+    <weight variant_id="1">0,296667</weight>
+  </para>
+  <para id="33">
+    <se lang="" variant_id="0">§ 8</se>
+    <se lang="" variant_id="1">§ 8</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="34">
+    <se lang="russian" variant_id="0">Что же касается фигуры атомов воздуха, то мы считаем, что подвижности, прочности, простоте и мягчайшей природе воздуха никакая другая фигура не подходит более, чем весьма близкая к шарообразной; это с полной ясностью мы выводим из наблюдений над отражением воздуха от эллиптических сводов.</se>
+    <se lang="latin" variant_id="1">Quod ad figuram atomorum aëris spectat, nullam equidem aliam agilitati, firmitati, simplicitati atque mollissimae aëris naturae magis convenire posse censemus, quam quae ad sphaericam proxime accedit; idque ex reflexione aëris in fornicibus ellipticis observata non obscure colligimus.</se>
+    <weight variant_id="1">0,298795</weight>
+  </para>
+  <para id="35">
+    <se lang="russian" variant_id="0">Так как, далее, горячий воздух нагревает находящиеся в нем холодные тела, то значит атомы его возбуждают в частицах соприкасающихся с ним тел вращательное движение,* которое и производит теплоту.</se>
+    <se lang="latin" variant_id="1">Quoniam autem calidus aër frigida, quae ambit, corpora calefacit; atomi ergo illius particulas corporum contiguorum in gyratorium, qui calorem efficit,* motum excitant.</se>
+    <weight variant_id="1">0,257432</weight>
+  </para>
+  <para id="36">
+    <se lang="russian" variant_id="0">А это может происходить лишь если между ними возникает трение; а трение может возникнуть только если воздушные атомы шероховаты.</se>
+    <se lang="latin" variant_id="1">Hoc tamen fieri non potest, quin oriatur inter illas frictio; oriri vero frictio non potest, nisi atomi aëreae sint asperae.</se>
+    <weight variant_id="1">0,285849</weight>
+  </para>
+  <para id="37">
+    <se lang="" variant_id="0">§ 9</se>
+    <se lang="" variant_id="1">§ 9</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="38">
+    <se lang="russian" variant_id="0">Но это в высшей степени согласно с природою вещей.</se>
+    <se lang="latin" variant_id="1">Hoc autem rerum naturae maxime consentaneum est.</se>
+    <weight variant_id="1">0,3</weight>
+  </para>
+  <para id="39">
+    <se lang="russian" variant_id="0">Действительно, у всех тел мира — и взятых в целом, и в их частях — фигура, свойственная каждому, никогда не оказывается столь выровненной, чтобы не обнаруживать каких-либо неровностей.</se>
+    <se lang="latin" variant_id="1">Quippe in omnibus corporibus mundi, totalibus atque partialibus, ea figura, quam quodlibet peculiarem sibi habet, nuspiam tam adaequata reperitur, quin inaequalitates aliquas in se prodat.</se>
+    <weight variant_id="1">0,286709</weight>
+  </para>
+  <para id="40">
+    <se lang="russian" variant_id="0">Но эти последние наличествуют лишь в такой мере, что, вследствие ничтожнейшего отношения их к целому, самая фигура сохраняет свой вид.</se>
+    <se lang="latin" variant_id="1">Quae quidem ita adsunt, ut ipsa figura, ob pusillam rationem illarum ad totum, servet suam speciem.</se>
+    <weight variant_id="1">0,190588</weight>
+  </para>
+  <para id="41">
+    <se lang="russian" variant_id="0">Подобно тому как природа для своих надобностей наделила наш земной шар горами и сделала принадлежащие ему частичные тела, даже самые гладкие на ощупь и ничтожнейшие по размерам в сравнении с ним, шероховатыми вследствие неровностей, —</se>
+    <se lang="latin" variant_id="1">Quemadmodum itaque natura telluris nostrae globum montibus et corpora illius partialia, etiam quo ad sensum laevissima et, si cum illa comparentur, perpusilla, ad usus suos inaequalitatibus aspera esse voluit;</se>
+    <weight variant_id="1">0,283929</weight>
+  </para>
+  <para id="42">
+    <se lang="russian" variant_id="0">так же по аналогии мы заключаем, что и воздушные атомы, хотя и не имеют никакого физического сложения, рачением той же природы, искусной в своей простоте, снабжены ничтожнейшими, но крепчайшими выступами для воспроизведения полезнейших действий.</se>
+    <se lang="latin" variant_id="1">ita quoque aëreas atomos, licet ab omni compositione physica alienas, industria ejusdem naturae, in simpicitate quoque sua callidae, prominentiis subtilissimis firmissimisque ad effectus utilissimos instructas esse ex analogia colligitur.</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="43">
+    <se lang="" variant_id="0">§ 10</se>
+    <se lang="" variant_id="1">§ 10</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="44">
+    <se lang="russian" variant_id="0">Но атомы воздуха, проявляя упругость, отодвигаются друг от друга или каким-либо непосредственным взаимным действием, или через посредство какой-либо жидкости, обращающейся между ними и поэтому состоящей из гораздо ме́ньших частиц.</se>
+    <se lang="latin" variant_id="1">Removentur autem atomi aëris elaterem exercentes a se invicem vel immediata quadam reciproca actione, aut mediante aliquo fluido inter illas diversante, adeoque multo subtilioribus particulis constante.  Utrum horum in elatere producendo locum habeat, disquirendum nobis incumbit.</se>
+    <weight variant_id="1">-0,00842697</weight>
+  </para>
+  <para id="45">
+    <se lang="" variant_id="0">* См. наши Размышления о причине теплоты.5</se>
+    <se lang="" variant_id="1">* Vide meditationes nostras de causa caloris.</se>
+    <weight variant_id="1">0,650676</weight>
+  </para>
+  <para id="46">
+    <se lang="russian" variant_id="0">Нам приходится рассудить, которая из этих двух возможностей имеет место при проявлении упругости.  Для этого нам послужит главное из свойств упругости воздуха, а именно, что она тем значительнее, чем больше воздух сжат внешней силою и чем ближе атомы его подходят друг к другу.</se>
+    <se lang="latin" variant_id="1">Ad hoc autem inserviet nobis proprietatum virtutis elasticae primaria: scilicet, quod aër eo majore vi elastica gaudeat, quo magis vi externa condensatur, quoque propius atomi ejus ad se invicem accedunt.</se>
+    <weight variant_id="1">-0,026</weight>
+  </para>
+  <para id="47">
+    <se lang="" variant_id="0">§ 11</se>
+    <se lang="" variant_id="1">§ 11</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="48">
+    <se lang="russian" variant_id="0">Предположим сначала, что частицы воздуха расходятся в разные стороны от действия какой-то крайне тонкой жидкости, находящейся между ними.</se>
+    <se lang="latin" variant_id="1">Ponamus vero primum particulas aëris dispergi actione alicujus fluidi subtilissimi inter illas hospitantis.</se>
+    <weight variant_id="1">0,221875</weight>
+  </para>
+  <para id="49">
+    <se lang="russian" variant_id="0">Когда воздух в каком-либо твердом сосуде сдавливается в меньшее пространство, то эта жидкость или сжимается вместе с ним, или не сжимается.</se>
+    <se lang="latin" variant_id="1">Quando igitur aër in vase aliquo solido in minus spatium urgetur, fluidum illud ipsum simul comprimitur aut non comprimitur.</se>
+    <weight variant_id="1">0,263551</weight>
+  </para>
+  <para id="50">
+    <se lang="russian" variant_id="0">В первом случае: 1) стенки твердого сосуда будут непроницаемы для этой тончайшей жидкости — и, следовательно, частицы ее будут едва меньше или вовсе не меньше воздушных атомов, что противоречит сказанному в § 10;</se>
+    <se lang="latin" variant_id="1">Si prius, erunt 1) latera vasis solidi subtilissimo illi fluido impervia, adeoque particulae ejus debebunt esse vix aut ne vix quidem aëris atomis subtiliores contra dicta § 10;</se>
+    <weight variant_id="1">0,428041</weight>
+  </para>
+  <para id="51">
+    <se lang="russian" variant_id="0">2) эта жидкость будет действовать сама на заключающие ее сосуды: тогда очевидно не требуется, чтобы в этой жидкости плавали частицы воздуха, так как ее одной достаточно для воспроизведения действий упругости по отношению к телам;</se>
+    <se lang="latin" variant_id="1">2) fluidum hoc aget ipsum in cohibentia vasa, adeoque non erit necessarium, ut particulae aëris fluido illi innatent, cum illud in effectus elateris in corpora exercendos solum sufficiat;</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="52">
+    <se lang="russian" variant_id="0">3) частицы ее будут обладать стремлением удалиться друг от друга, так что надо будет снова давать объяснение этого, и в конце концов рассматриваемый вопрос останется неразрешенным.</se>
+    <se lang="latin" variant_id="1">3) particulae illius conatum habebunt a se invicem recedendi, quare ratio hujus rei denuo reddenda erit, atque adeo proposita quaestio haud soluta manebit.</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="53">
+    <se lang="russian" variant_id="0">Во втором же случае: 1) названная жидкость почти не будет производить какого-либо действия на стенки даже самых прочных сосудов, а следовательно и на тончайшие атомы воздуха, легко уклоняющиеся по своей легкости и подвижности от всякой действующей на них силы;</se>
+    <se lang="latin" variant_id="1">Sin vero posterius, tum 1) dictum fluidum in parietes vasorum etiam solidissimos nullam fere vim exercebit, quare nec in tenuissimas aëris atomos, quamcumque vim levitate et volubilitate sua facile eludentes, agere quid poterit;</se>
+    <weight variant_id="1">0,366118</weight>
+  </para>
+  <para id="54">
+    <se lang="russian" variant_id="0">2) когда сжатый в сосуде воздух сгустится, а плотность жидкости, проходящей через стенки сосуда, будет оставаться той же самой, то количество атомов воздуха по отношению к количеству жидкости сделается больше, чем до сжатия.</se>
+    <se lang="latin" variant_id="1">2) ubi aër in vase compressus condensabitur, fluidi, quod vasa jam facillime penetrat, eadem densitate manente, erit atomorum aëris quantitas in majore ratione ad quantitatem fluidi, quam fuit ante compressionem.</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="55">
+    <se lang="russian" variant_id="0">Поэтому упругость жидкости, количество которой сделалось меньше, будет производить меньшее действие на атомы воздуха, и следовательно упругость воздуха, сжатого внешней силой в меньшее пространство, должна уменьшаться.</se>
+    <se lang="latin" variant_id="1">Idcirco vis fluidi pro ratione quantitatis ejus minor erit, minores quoque in atomos aëris effectus exseret; atque adeo aëre vi externa in minus spatium compresso elastica ejus virtus decrescet.</se>
+    <weight variant_id="1">0,251497</weight>
+  </para>
+  <para id="56">
+    <se lang="" variant_id="0">§ 12</se>
+    <se lang="" variant_id="1">§ 12</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="57">
+    <se lang="russian" variant_id="0">Все это доказывает с полной очевидностью, что сила упругости воздуха не может происходить от какой-либо жидкости, находящейся между его частицами.</se>
+    <se lang="latin" variant_id="1">Haec omnia evidentissime demonstrant vim aëris elasticam a fluido aliquo inter ejus particulas diversante proficisci non posse.</se>
+    <weight variant_id="1">0,257143</weight>
+  </para>
+  <para id="58">
+    <se lang="russian" variant_id="0">И так как названная сила, при прочих равных условиях, увеличивается и уменьшается пропорционально плотности собственной материи воздуха, то нет сомнения, что она происходит от какого-то непосредственного взаимодействия его атомов.</se>
+    <se lang="latin" variant_id="1">Cumque dicta vis pro ratione densitatis materiae aëris propriae, caeteris paribus, crescere et decrescere soleat; dubitandum itaque non est illam ab immediata quadam mutuaque atomorum ejus actione proficisci.</se>
+    <weight variant_id="1">0,265385</weight>
+  </para>
+  <para id="59">
+    <se lang="" variant_id="0">§ 13</se>
+    <se lang="" variant_id="1">§ 13</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="60">
+    <se lang="russian" variant_id="0">Одно тело не может непосредственно действовать на другое, не соприкасаясь с ним; поэтому когда атомы воздуха непосредственно действуют друг на друга, то должны обязательно находиться в соприкосновении.</se>
+    <se lang="latin" variant_id="1">Corpus unum in alterum immediate agere nequit, nisi ipsum contingat; atomi igitur aëris, ubi in se mutuo immediate agunt, in contactu sint, necesse est.</se>
+    <weight variant_id="1">0,193846</weight>
+  </para>
+  <para id="61">
+    <se lang="russian" variant_id="0">Далее, так как наш атмосферный воздух под влиянием внешней силы может быть сжат в более чем тридцатикратно меньший объем, то между атомами его существуют промежутки, не наполненные собственной его материей, и в них может поместиться очень много таких атомов; следовательно атомы не находятся во взаимном соприкосновении.</se>
+    <se lang="latin" variant_id="1">Porro quoniam aër noster atmosphaericus vi externa adactus tricesies amplius minore spatio comprehendi potest; idcirco inter atomos ejus dantur interstitia, a propria materia ejus vacua, quibus plurimae ejusmodi atomi contineri possunt; unde illae in contactu non sunt.</se>
+    <weight variant_id="1">0,246154</weight>
+  </para>
+  <para id="62">
+    <se lang="russian" variant_id="0">Эти два на первый взгляд противоречивые, но тем не менее вполне правильные положения нельзя иначе примирить, как расчленив эти два противоположных состояния атомов во времени так, чтобы атомы находились то в одном, то в другом поочередно.</se>
+    <se lang="latin" variant_id="1">Duae istae apparenter contradictoriae, verissimae tamen, propositiones conciliari aliter nequeunt, nisi hi duo contrarii status atomorum aëris tempore distinguantur; nempe ut ipsae alternis vicibus illos subeant.</se>
+    <weight variant_id="1">0,274468</weight>
+  </para>
+  <para id="63">
+    <se lang="russian" variant_id="0">Чередование же такого рода должно по необходимости происходить так, чтобы не все атомы одновременно оказывались в одном и том же состоянии и чтобы данное состояние не длилось в течение какого-либо ощутимого времени.</se>
+    <se lang="latin" variant_id="1">Alternatio vero istiusmodi ita fiat necesse est, ut nec in omnibus atomis simul idem status contingat, nec sensibile aliquod tempus duret.</se>
+    <weight variant_id="1">0,133613</weight>
+  </para>
+  <para id="64">
+    <se lang="russian" variant_id="0">Ибо первое довольно часто вызвало бы разительные изменения в протяженности, а второе сделало бы расширение воздуха чрезмерно замедленным и вялым.</se>
+    <se lang="latin" variant_id="1">Alterum enim stupendas in extensione mutationes saepius produceret, alterum vero efficeret, ut expansiones aëris tardae nimium et otiosae redderentur.</se>
+    <weight variant_id="1">0,285827</weight>
+  </para>
+  <para id="65">
+    <se lang="russian" variant_id="0">Итак, очевидно, что отдельные атомы воздуха, в беспорядочном чередовании, сталкиваются с ближайшими через нечувствительные промежутки времени, и когда одни находятся в соприкосновении, иные друг от друга отскакивают и наталкиваются на ближайшие к ним, чтобы снова отскочить; таким образом, непрерывно отталкиваемые друг от друга частыми взаимными толчками, они стремятся рассеяться во все стороны.</se>
+    <se lang="latin" variant_id="1">Patet igitur atomos aëris singulas insensibilibus tempusculis cum aliis sibi vicinis confusa reciprocatione collidi, et cum aliae in contactu sunt, alias tum a se invicem resilire et in reliquas viciniores tandem incurrere, denuo resulturas, ita ut ejusmodi frequentissimis reciprocisque arietationibus a se invicem continuo pulsae seorsum dispergi nitantur.</se>
+    <weight variant_id="1">0,266346</weight>
+  </para>
+  <para id="66">
+    <se lang="" variant_id="0">§ 14</se>
+    <se lang="" variant_id="1">§ 14</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="67">
+    <se lang="russian" variant_id="0">Установив все это, нам остается показать, каким образом атомы воздуха так взаимодействуют между собою, что один атом отталкивает другой.</se>
+    <se lang="latin" variant_id="1">His expositis demonstrandum restat, quonam pacto atomi aëreae in se mutuo ita agant, ut una alteram retorqueat.</se>
+    <weight variant_id="1">0,228125</weight>
+  </para>
+  <para id="68">
+    <se lang="russian" variant_id="0">Данные для этого может представить не что иное, как важнейшее свойство того же упругого воздуха.</se>
+    <se lang="latin" variant_id="1">Ad hoc autem non aliud quid argumenta suggerere potest, quam ejusdem elastici aëris palmaria proprietas.</se>
+    <weight variant_id="1">0,271084</weight>
+  </para>
+  <para id="69">
+    <se lang="russian" variant_id="0">А именно, каждому известно, что при возрастании теплоты воздуха и упругость его все более усиливается, а при уменьшении все более ослабевает.</se>
+    <se lang="latin" variant_id="1">Scilicet, quod notissimum est, crescente aëris calore, etiam elaterem ejus magis magisque invalescere, decrescente vero, eundem simul debiliorem reddi,</se>
+    <weight variant_id="1">-0,0134483</weight>
+  </para>
+  <para id="70">
+    <se lang="russian" variant_id="0">Таким образом, при прочих равных условиях, при наивысшем известном нам жаре наблюдается и наибольшая упругость, а при наименьшем, т. е. при наибольшем испытанном до сего дня холоде, наименьшая, согласно постоянному закону.</se>
+    <se lang="latin" variant_id="1">ita ut, caeteris paribus, in summo quem novimus calore elater maximus, in minimo vero, seu frigore quod hunc usque in diem observatum est maximo, minimus constante lege deprehendatur.</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="71">
+    <se lang="russian" variant_id="0">Отсюда очевидно, что воздушные атомы действуют друг на друга взаимным соприкосновением сильнее или слабее в зависимости от увеличения или уменьшения степени теплоты, так что если было бы возможно, чтобы теплота воздуха вовсе исчезла, то атомы должны были бы вовсе лишиться указанного взаимодействия.</se>
+    <se lang="latin" variant_id="1">Unde patet, atomos aëreas pro ratione aucti vel diminuti caloris per mutuum contactum fortius aut remissius in se invicem agere, atque adeo calore, si unquam fieri potest, prorsus cessante, illas omni laudata actione destitui debere.</se>
+    <weight variant_id="1">0,2115</weight>
+  </para>
+  <para id="72">
+    <se lang="russian" variant_id="0">А отсюда следует, что взаимодействие атомов воздуха обусловлено только теплотою.</se>
+    <se lang="latin" variant_id="1">Hinc autem sequitur mutuam actionem atomorum aëris a solo calore proficisci.</se>
+    <weight variant_id="1">0,277612</weight>
+  </para>
+  <para id="73">
+    <se lang="" variant_id="0">§ 15</se>
+    <se lang="" variant_id="1">§ 15</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="74">
+    <se lang="russian" variant_id="0">Теплота состоит во вращательном движении частиц горячего тела;* поэтому все, что производит теплота, вызывается вращательным движением частиц нагретого тела, так что и взаимодействие атомов воздуха зависит от вращательного движения их.</se>
+    <se lang="latin" variant_id="1">Calor consistit in motu gyratorio particularum corporis calidi,* quidquid igitur calor efficit, a motu gyratorio particularum corporis calidi proficiscitur, atque adeo mutua atomorum aëris actio pendet a motu gyratorio earundem.</se>
+    <weight variant_id="1">0,269178</weight>
+  </para>
+  <para id="75">
+    <se lang="" variant_id="0">* Размышления о теплоте.</se>
+    <se lang="" variant_id="1">* Meditationes de calore.</se>
+    <weight variant_id="1">0,9</weight>
+  </para>
+  <para id="76">
+    <se lang="russian" variant_id="0">Но два шарообразные тела, совершенно гладкие, помещенные рядом друг с другом и приведенные в самое быстрое вращательное движение, не могут взаимодействовать так, чтобы отталкивать друг друга.</se>
+    <se lang="latin" variant_id="1">Verum duo corpora sphaerica absolute laevia in contactu juxta se invicem posita et quam ocyssime in gyrum acta in se mutuo ita agere non possunt, ut a se invicem dissiliant.</se>
+    <weight variant_id="1">0,254483</weight>
+  </para>
+  <para id="77">
+    <se lang="russian" variant_id="0">Итак, здесь еще раз подтверждается доказанная выше (§ 8) истина и видна изобретательность предусмотрительной природы, которая очень часто одним и тем же средством производит в телах разные действия.  Так, здесь шероховатость атомов воздуха служит как для передачи теплоты его другим телам (§ 8), так и для осуществления упругости.</se>
+    <se lang="latin" variant_id="1">Demonstrata igitur superius § 8 veritas denuo confirmatur, et providae naturae ingenium elucet, quae unico eodemque medio varios effectus in corporibus saepissime producere solet, uti hic atomorum aëris asperitate et calorem ejus corporibus aliis communicat (§ 8) et elateri exercendo inservit.</se>
+    <weight variant_id="1">0,0537815</weight>
+  </para>
+  <para id="78">
+    <se lang="" variant_id="0">§ 16</se>
+    <se lang="" variant_id="1">§ 16</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="79">
+    <se lang="russian" variant_id="0">Итак, пусть два атома воздуха A и B отстоят друг от друга, причем A находится выше B [фиг. 1].</se>
+    <se lang="latin" variant_id="1">Sint igitur duae atomi aëris A et B a se invicem distantes ita, ut A sit superior atomo B [fig. 1].</se>
+    <weight variant_id="1">0,919417</weight>
+  </para>
+  <para id="80">
+    <se lang="russian" variant_id="0">Пусть оба весьма быстро вращаются таким образом, что часть поверхности атома A, обращенная к атому B, передвигается в направлении, противоположном тому, в котором движется часть поверхности атома B, обращенная к атому A, как показывают стрелки.</se>
+    <se lang="latin" variant_id="1">Utraque ocyssime moveatur in gyrum ita, ut pars superficiei atomi A, atomum B spectans, feratur secundum directionem contrariam ei, versus quam dirigitur pars superficiei atomi B, spectans atomum A, prout telorum signa indicant.</se>
+    <weight variant_id="1">0,543386</weight>
+  </para>
+  <para id="81">
+    <se lang="russian" variant_id="0">Пусть во время вращательного движения атом A падает от силы тяжести на атом B; при соприкосновении их неровности совпадут так, что либо выступ a атома A попадет во впадину b атома B, как на фиг.2, либо будет давить на самый выступ d атома B, как показывает фиг. 3.</se>
+    <se lang="latin" variant_id="1">Durante gyratorio motu, decidat vi gravitatis atomus A super atomum B; in contactu inaequalitates coincident ita, ut vel prominentia a atomi A incidat in cavitatem b atomi B, ut est in figura 2, vel premat etiam prominentiam d atomi B, quemadmodum figura 3 repraesentat.</se>
+    <weight variant_id="1">0,675155</weight>
+  </para>
+  <para id="82">
+    <se lang="russian" variant_id="0">В первом случае выступ a атома A должен при поднятии из впадины b перевалить выступ f [фиг. 4]</se>
+    <se lang="latin" variant_id="1">In casu priore prominentia a atomi A ex cavitate b ascensura prominentiam f superare debet [fig.  4]</se>
+    <weight variant_id="1">0,160714</weight>
+  </para>
+  <para id="83">
+    <se lang="" variant_id="0">§ 17</se>
+    <se lang="" variant_id="1">§ 17</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="84">
+    <se lang="russian" variant_id="0">При этом расположении, так как отдельные атомы имеют вес, то силою тяготения один атом будет падать на другой.</se>
+    <se lang="latin" variant_id="1">His ita comparatis, atomi aëris cum singulae sint graves, vi gravitatis ergo una supra alteram cadat necesse est.</se>
+    <weight variant_id="1">0,290426</weight>
+  </para>
+  <para id="85">
+    <se lang="russian" variant_id="0">Находясь в быстром вращении, атомы после соприкосновения сейчас же оттолкнутся друг от друга — как мы это показали в предшествующем параграфе.</se>
+    <se lang="latin" variant_id="1">Quo facto tandem motu gyratorio celeriter rotatae post contactum statim seorsum repellentur, eo modo, ut paragrapho superiore explicavimus.</se>
+    <weight variant_id="1">0,3</weight>
+  </para>
+  <para id="86">
+    <se lang="russian" variant_id="0">Так как, однако, при огромном множестве атомов, не может случиться, чтобы каждый падал на верхнюю точку поверхности нижнего атома, то поэтому их отталкивательное действие будет чаще всего происходить по линиям, более или менее наклонным к горизонту, и таким образом сила упругости будет проявляться во все стороны.</se>
+    <se lang="latin" variant_id="1">Quoniam autem in tanta frequentia atomorum fieri non potest, ut quaelibet cadat in summum punctum superficiei inferioris atomi; idcirco actio earum repulsiva saepissime secundum lineas ad horizontem plus minusve inclinatas fieri debet, atque adeo vis aëris elastica versus omnes plagas sese exserere.</se>
+    <weight variant_id="1">0,288462</weight>
+  </para>
+  <para id="87">
+    <se lang="" variant_id="0">§ 18</se>
+    <se lang="" variant_id="1">§ 18</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="88">
+    <se lang="russian" variant_id="0">Выясненное сейчас взаимодействие атомов показывают также волчки, которыми играют мальчики на льду.</se>
+    <se lang="latin" variant_id="1">Explicatam hactenus atomorum actionem ostendunt etiam turbines, quibus pueri super glacie ludere solent.</se>
+    <weight variant_id="1">0,282955</weight>
+  </para>
+  <para id="89">
+    <se lang="russian" variant_id="0">Действительно, два таких волчка, приведенные в очень быстрое вращение, после того как медленно приблизились один к другому, после соприкосновения очень быстро отскакивают друг от друга — это отражение происходит от неровностей их поверхностей.</se>
+    <se lang="latin" variant_id="1">Duo enim ejusmodi turbines, in gyrum celerrime acti, postquam tardo quidem passu in contactum admoti fuerint, rapidissime resilire solent; quae repercussio ab inaequalitate superficierum provenit.</se>
+    <weight variant_id="1">0,23237</weight>
+  </para>
+  <para id="90">
+    <se lang="russian" variant_id="0">Чем более извилисты эти поверхности в месте соприкосновения, тем быстрее отскакивают волчки.</se>
+    <se lang="latin" variant_id="1">Eae enim quo sinuosiores sunt in contactu, eo pernicius turbines resiliunt.</se>
+    <weight variant_id="1">0,227273</weight>
+  </para>
+  <para id="91">
+    <se lang="russian" variant_id="0">Это может произойти между двумя волчками трижды или даже четырежды, прежде чем вращение их прекратится и они упадут; это происходит, если их перестают подгонять кнутом.</se>
+    <se lang="latin" variant_id="1">Id vero ter aut etiam quater inter duos turbines fieri potest, antequam gyratione cessante concidant, quod fit, ubi flagellis concitari desinunt.</se>
+    <weight variant_id="1">0,254762</weight>
+  </para>
+  <para id="92">
+    <se lang="" variant_id="0">§ 19</se>
+    <se lang="" variant_id="1">§ 19</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="93">
+    <se lang="russian" variant_id="0">Хотя предложенная нами теория подкрепляется достаточно твердыми доводами, но еще бо́льшая ее очевидность раскроется нам, если при помощи ее свойства воздуха и наблюдаемые в нем явления будут так объяснены, что представятся ясно и даже с полной отчетливостью их причины.</se>
+    <se lang="latin" variant_id="1">Quamvis proposita hic theoria non infirmis nititur argumentis, major tamen evidentia inde nobis elucescet, si proprietates aëris et phaenomena, quae in eo observari solent, per illam ita explicari potuerint, ut causae eorum clare, imo etiam distincte percipiantur.</se>
+    <weight variant_id="1">0,29607</weight>
+  </para>
+  <para id="94">
+    <se lang="russian" variant_id="0">Ведь та теория наилучшая, которая не только не противоречит ни одному свойству той вещи, для объяснения которой она предложена, но объяснением этих свойств пользуется как самыми убедительными доказательствами, подтверждающими ее.</se>
+    <se lang="latin" variant_id="1">Optima namque illa theoria est, quae non solum cum nulla proprietate ejus rei, pro qua explicanda condita est, pugnat; verum etiam earum explicatione non secus ac firmissimis utitur argumentis ipsam corroborantibus, </se>
+    <weight variant_id="1">-0,0148936</weight>
+  </para>
+  <para id="95">
+    <se lang="russian" variant_id="0">Поэтому и мы в дальнейшем исследуем нашу теорию, разбирая важнейшие свойства воздуха и различные происходящие с ним явления.</se>
+    <se lang="latin" variant_id="1">idcirco et nostram in sequentibus examinamus, primarias aëris proprietates variaque phaenomena excutientes.</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="96">
+    <se lang="" variant_id="0">§ 20</se>
+    <se lang="" variant_id="1">§ 20</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="97">
+    <se lang="russian" variant_id="0">Атмосфера состоит из бесконечного числа атомов воздуха, из коих нижние отталкивают те, которые на них лежат, вверх — настолько, насколько это позволяют им все остальные атомы, нагроможденные над ними, вплоть до верхней поверхности атмосферы.</se>
+    <se lang="latin" variant_id="1">Atmosphaera constat ex infinito numero atomorum aëris, quarum inferiores repellunt superincumbentes atomos sursum versus tantum, quantum omnes reliquae ad summam usque superficiem atmosphaerae superingestae cedunt.</se>
+    <weight variant_id="1">0,271728</weight>
+  </para>
+  <para id="98">
+    <se lang="russian" variant_id="0">Чем дальше от земли отстоят остальные атомы, тем меньшую массу толкающих и тяготеющих атомов встречают они в своем стремлении вверх; так что верхние атомы, занимающие самую поверхность атмосферы, только своей собственной тяжестью увлекаются вниз и, оттолкнувшись от ближайших нижних, до тех пор несутся вверх, пока полученные ими от столкновения импульсы превышают их вес.</se>
+    <se lang="latin" variant_id="1">Atomi reliquae, quo longius a terra distant, eo minorem contra vim arietantium et gravium atomorum nituntur, ita ut supremae ipsam superficiem atmosphaerae occupantes propria tantum gravitate sua deorsum premantur, atque a proxime inferioribus repercussae, tamdiu in sublime ferantur, quamdiu impetus a repercussione impressi gravitatem earum superant.</se>
+    <weight variant_id="1">0,287338</weight>
+  </para>
+  <para id="99">
+    <se lang="russian" variant_id="0">Но как только последний возьмет верх, они снова падают вниз, чтобы снова быть отраженными находящимися ниже.</se>
+    <se lang="latin" variant_id="1">Qua tandem praevalente deorsum labuntur ab inferioribus rursus repercutiendae.</se>
+    <weight variant_id="1">0,202817</weight>
+  </para>
+  <para id="100">
+    <se lang="russian" variant_id="0">Отсюда следует: 1) что атмосферный воздух должен быть тем реже, чем более он отделен от центра земли; 2) что воздух не может бесконечно расширяться, ибо должен существовать предел, где сила тяжести верхних атомов воздуха превысит силу, воспринятую ими от взаимного столкновения.</se>
+    <se lang="latin" variant_id="1">Hinc autem sequitur 1) aërem atmosphaerae eo rariorem esse debere, quo remotior est a centro telluris, 2) aërem in infinitum expandi non posse: dari enim debet terminus, ubi gravitatio atomorum aëris supremarum vim, mutua collisione ipsis impressam, superet.</se>
+    <weight variant_id="1">0,430873</weight>
+  </para>
+  <para id="101">
+    <se lang="" variant_id="0">§ 21</se>
+    <se lang="" variant_id="1">§ 21</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="102">
+    <se lang="russian" variant_id="0">Чем скорее пробегают дугу ag [фиг. 4] поверхности атомов воздуха A и B, тем быстрее сами атомы проходят расстояние ab или fg, удаляясь друг от друга, и поэтому приобретают бо́льшую скорость при отражении, сильнее действуют на оказывающие сопротивление тела́, а по их удалении дальше отскакивают друг от друга.</se>
+    <se lang="latin" variant_id="1">Superficies atomorum aëris A et B quo celerius percurrunt arcum ag [fig. 4], eo ocyus atomi ipsae absolvunt distantiam ab vel fg a se invicem recedendo, adeoque majorem celeritatem per repercussionem acquirunt, fortius in obstantia corpora agunt, iisque remotis longius a se invicem dissiliunt.</se>
+    <weight variant_id="1">0,408571</weight>
+  </para>
+  <para id="103">
+    <se lang="russian" variant_id="0">И так как чем быстрее движутся поверхности, тем быстрее вращаются и сами атомы воздуха, а вместе с ускорением вращательного движения растет и теплота,* то поэтому не удивительно, что более теплый воздух имеет бо́льшую упругость.</se>
+    <se lang="latin" variant_id="1">Quoniam autem, motis celerius superficiebus, etiam atomi aëris celerius rotantur, gyratorio autem motu accelerato, etiam calor increscit,* unde mirum non est aëra calidiorem majorem vim elasticam habere.</se>
+    <weight variant_id="1">0,269663</weight>
+  </para>
+  <para id="104">
+    <se lang="" variant_id="0">§ 22</se>
+    <se lang="" variant_id="1">§ 22</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="105">
+    <se lang="russian" variant_id="0">Наконец, опыт показал, что высшую степень холода, наблюдаемую зимою в странах, расположенных к северо-западу, превосходит суровость зимы наших областей, которая все же значительно уступает жесточайшему морозу Якутской области, сковывающему почти все жидкости, кроме воздуха.</se>
+    <se lang="latin" variant_id="1">Denique experientia docuit, summum, qui in exteris ad hybernum occasum solis sitis regionibus observatur, frigoris gradum superari rigore hyemis hujus nostrae regionis, qui tandem saevissimo gelu in Jacutarum regione omnia fere fluida praeter aërem constringenti multum cedit.</se>
+    <weight variant_id="1">0,298755</weight>
+  </para>
+  <para id="106">
+    <se lang="russian" variant_id="0">Рассуждение приводит нас к выводу (как показано в наших Размышлениях о причине теплоты и холода), что нигде на нашем земном шаре не может быть абсолютного холода, и поэтому нигде полностью никогда не прекращается вращательное движение атомов воздуха и нигде, очевидно, нельзя найти воздух без упругости.</se>
+    <se lang="latin" variant_id="1">Ratione autem consequimur (ut in meditationibus nostris de causa caloris et frigoris ostenditur), nullibi in hoc telluris nostrae globo absolutum frigus dari posse, idcirco neque atomos aëreas uspiam a motu gyratorio aliquando cessare, atque adeo, neque aërem sine elatere reperiri posse patet.</se>
+    <weight variant_id="1">0,291758</weight>
+  </para>
+  <para id="107">
+    <se lang="" variant_id="0">* Размышления о теплоте.</se>
+    <se lang="" variant_id="1">* Medit. de cal.</se>
+    <weight variant_id="1">0,707143</weight>
+  </para>
+  <para id="108">
+    <se lang="" variant_id="0">§ 23</se>
+    <se lang="" variant_id="1">§ 23</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="109">
+    <se lang="russian" variant_id="0">Звук производится, когда какое-либо тело, приведенное в колебательное движение, сообщает таковое ближайшим к себе частицам воздуха, которые, вместе с последующими, передают его непрерывным рядом на расстояние, пропорциональное силе удара.</se>
+    <se lang="latin" variant_id="1">Sonus producitur, quando corpus aliquod, in motum tremulum excitatum, eundem imprimit particulis aëris sibi proximis, quae cum sequentibus continua serie eum communicant ad distantiam vi percussionis proportionalem.</se>
+    <weight variant_id="1">0,266842</weight>
+  </para>
+  <para id="110">
+    <se lang="russian" variant_id="0">Так как большинство атомов воздуха не находится в соприкосновении, то необходимо, чтобы каждый для возбуждения в другом звукового движения, полученного им самим от звучащего тела, сперва подошел к этому другому атому и, прежде чем сможет сообщить ему удар, затратил на это движение время, хотя и бесконечно малое.</se>
+    <se lang="latin" variant_id="1">Quoniam autem atomi aëris plerumque a contactu remotae sunt, necesse est ergo, ut quaelibet atomus ad excitandum in altera motum sonorum, sibi a corpore sonante impressum, ad eandem primo accedat atque tempusculum infinite quidem parvum in motu consumat, priusquam ictum illi impingat,</se>
+    <weight variant_id="1">-0,00180723</weight>
+  </para>
+  <para id="111">
+    <se lang="russian" variant_id="0">Эти бесконечно малые промежутки времени, при почти бесконечном числе атомов, на более далеких расстояниях последовательной передачи составят заметный промежуток времени.</se>
+    <se lang="" variant_id="1"></se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="112">
+    <se lang="" variant_id="0"></se>
+    <se lang="latin" variant_id="1">quae infinite parva tempuscula ab atomis numero fere infinitis in notabiliore distantia ad successivam communicationem adhibita infinities sumpta sensibile aliquod temporis momentum efficient.</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="113">
+    <se lang="russian" variant_id="0">А отсюда следует, что звук после удара, производящего его, будет слышен вдали через заметный промежуток времени.</se>
+    <se lang="latin" variant_id="1">Unde necesse est, ut sonus post ictum, a quo producitur, notabili intervallo temporis e longinquo audiatur.</se>
+    <weight variant_id="1">0,283871</weight>
+  </para>
+  <para id="114">
+    <se lang="" variant_id="0">§ 24</se>
+    <se lang="" variant_id="1">§ 24  </se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="115">
+    <se lang="russian" variant_id="0">Действительно [фиг. 6], пусть ударит атом воздуха частицу A из a в b; он отскочит от нее в c.</se>
+    <se lang="latin" variant_id="1">Feriat enim [fig. 6] atomus aëris particulam A ex a in b; resiliet ab illa versus c.</se>
+    <weight variant_id="1">1,07778</weight>
+  </para>
+  <para id="116">
+    <se lang="russian" variant_id="0">Затем пусть другой атом налетит на ту же частицу из d в e; он отскочит и ударит в частицу B в f и наконец отразится по направлению к g.</se>
+    <se lang="latin" variant_id="1">Percutiat denique alia atomus eandem particulam ex d in e; tum resiliet et impinget in particulam B in f atque tandem reflectetur versus g.</se>
+    <weight variant_id="1">0,875</weight>
+  </para>
+  <para id="117">
+    <se lang="russian" variant_id="0">То и другое, однако, будет создавать давление против атомов воздуха, направляющихся прямо в пору.</se>
+    <se lang="latin" variant_id="1">Utrumque tamen urgebit contra atomos aëris in porum recta tendentes.</se>
+    <weight variant_id="1">0,175</weight>
+  </para>
+  <para id="118">
+    <se lang="russian" variant_id="0">Поэтому не удивительно, что воздух едва проникает или совсем не проникает в поры многих тел, у которых поры, как явствует из других данных, крупнее атомов воздуха.</se>
+    <se lang="latin" variant_id="1">Mirum igitur non est aërem multorum corporum poros, quibus atomos ejus minores esse aliunde patet, vix aut ne vix quidem penetrare.</se>
+    <weight variant_id="1">0,227679</weight>
+  </para>
+  <para id="119">
+    <se lang="russian" variant_id="0">Наконец, очевидно, что воздух тем сильнее удерживается от проникновения в поры тел, чем больше устья их расширяются кнаружи, как это легко понять из фигуры.</se>
+    <se lang="latin" variant_id="1">Denique sequitur aërem eo fortius a poris corporum arceri, quo labia eorum extrorsum versus magis diducuntur; quod ex figura facile intelligitur.</se>
+    <weight variant_id="1">-0,0142857</weight>
+  </para>
+  <para id="120">
+    <se lang="" variant_id="0">§ 25</se>
+    <se lang="" variant_id="1">§ 25</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="121">
+    <se lang="russian" variant_id="0">Звук распространяется посредством колебательного движения атомов.</se>
+    <se lang="latin" variant_id="1">Sonus tremulo motu atomorum propagatur.</se>
+    <weight variant_id="1">0,0916667</weight>
+  </para>
+  <para id="122">
+    <se lang="russian" variant_id="0">Но ведь, согласно нашей теории, упругость состоит в такого же рода беспорядочном движении; поэтому нас могут спросить, почему не слышен какой-либо непрерывный звук от непрерывных колебаний атомов упругого воздуха.</se>
+    <se lang="latin" variant_id="1">Verum secundum nostram theoriam elater consistit in istiusmodi motu confuso; quaeri igitur a nobis potest, cur non audiatur continuo quidam sonus a continua vibratione atomorum elastici aëris.</se>
+    <weight variant_id="1">0,265868</weight>
+  </para>
+  <para id="123">
+    <se lang="russian" variant_id="0">На это ответим, что звук сообщается уху через барабанную перепонку, приведенную в движение силою воздуха; когда она в покое, это не происходит.</se>
+    <se lang="latin" variant_id="1">Ad quod respondemus, sonum auri imprimi tympano vi aëris moto; eo autem quiescente id non fieri.</se>
+    <weight variant_id="1">0,15</weight>
+  </para>
+  <para id="124">
+    <se lang="russian" variant_id="0">Но так как барабанная перепонка подвергается с обеих сторон действию одинаковых колебаний воздуха — и наружного и внутреннего, наполняющего огражденную ею полость, — то поэтому, находясь в равновесии, она не колеблется никаким движением и не производит впечатления звука.</se>
+    <se lang="latin" variant_id="1">Tympanum vero quoniam tam externi aëris, quam interni, cavitatem ipso munitam replentis, paribus istiusmodi tremulationibus ab utraque parte afficitur, ideo, in aequilibrio constitutum, nullo motu agitatur, nullasque ideas sonus imprimit.</se>
+    <weight variant_id="1">0,264286</weight>
+  </para>
+  <para id="125">
+    <se lang="russian" variant_id="0">Как только однако это равновесие нарушается, возникают и движения перепонки и ощущается звук.</se>
+    <se lang="latin" variant_id="1">Quamprimum autem hoc aequilibrium tollitur, subsequuntur etiam tympani motus, sonusque percipitur.</se>
+    <weight variant_id="1">0,27439</weight>
+  </para>
+  <para id="126">
+    <se lang="russian" variant_id="0">Поэтому если приблизить к уху твердый полый сосуд, то колебания атомов упругого воздуха, отскакивающих от стенок сосуда, сосредотачиваются, действуют на перепонку сильнее, чем удары атомов, заключенных во внутренней полости за перепонкой, и, приведя таким образом последнюю в движение, сообщают уху некоторый смутный шум.</se>
+    <se lang="latin" variant_id="1">Idcirco vasculo duro et concavo auri admoto resilientium a lateribus ejus atomorum elastici aëris tremulationes concentrantur, majore vi in tympanum agunt, quam arietationes atomorum internarum in cavitate post tympanum inclusarum, atque adeo, illo in motum hac ratione excitato, confuso quodam sono aurem afficiunt.</se>
+    <weight variant_id="1">0,294545</weight>
+  </para>
+  <para id="127">
+    <se lang="russian" variant_id="0">Так как этот шум всегда ощущается, если к уху приблизить вогнутый предмет, то очевидно, что в упругом воздухе атомы непрерывно движутся колебательным движением.</se>
+    <se lang="latin" variant_id="1">Qui susurrus quoniam semper in convexis percipitur, quandocunque auri admoventur, apparet igitur manifesto, in elastico aëre atomos jugiter tremulo motu agitari.</se>
+    <weight variant_id="1">0,293525</weight>
+  </para>
+  <para id="128">
+    <se lang="" variant_id="0">§ 26</se>
+    <se lang="" variant_id="1">§ 26</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="129">
+    <se lang="russian" variant_id="0">Воздух может оставаться упругим до тех пор, пока существует причина упругости, т. е. взаимные удары атомов.</se>
+    <se lang="latin" variant_id="1">Aër tamdiu persistere potest elasticus, quamdiu causa elateris, hoc est mutua atomorum arietatio, non cessat.</se>
+    <weight variant_id="1">0,290323</weight>
+  </para>
+  <para id="130">
+    <se lang="russian" variant_id="0">Наоборот, если это действие от чего-нибудь прекратится, то по необходимости должна уничтожиться и упругость воздуха.</se>
+    <se lang="latin" variant_id="1">Contra vero sublata quocunque modo hac actione, elaterem ejus etiam tolli necesse est.</se>
+    <weight variant_id="1">0,188</weight>
+  </para>
+  <para id="131">
+    <se lang="russian" variant_id="0">Поэтому, если атомы воздуха по одиночке или по нескольку вместе так застрянут в промежутках между достаточно прочно взаимно связанными частицами тела, что не будут в состоянии ни разрушить сцепление этих частиц, ни действовать взаимно друг на друга, то несомненно воздух тогда должен лишиться упругой силы.</se>
+    <se lang="latin" variant_id="1">Si igitur atomi aëris singulae seorsum, vel paucae simul particulis alicujus corporis inter se satis cohaerentibus in earum interstitiis ita comprehendantur, ut nec illas a cohaesione separare nec in se invicem agere possint, aërem tum vi elastica orbari debere dubium non est.</se>
+    <weight variant_id="1">0,267089</weight>
+  </para>
+  <para id="132">
+    <se lang="russian" variant_id="0">С другой стороны, если прекратится сцепление частиц этого тела, то атомы воздуха, предоставленные самим себе, снова приобретут свойство упругости.</se>
+    <se lang="latin" variant_id="1">Porro cohaesione particularum corporis illius sublata, atomi aëris sibi relictae elasticam virtutem denuo recuperabunt.</se>
+    <weight variant_id="1">0,238318</weight>
+  </para>
+  <para id="133">
+    <se lang="russian" variant_id="0">А если частицы тела, задерживающие воздух плененным в своих порах, имеют меньший диаметр, чем те расстояния, которые пробегают атомы свободного воздуха при каждом колебании, то тогда воздух, освободившись из пор, расширится в бо́льшее пространство, чем занимает то тело, в порах которого он укрывался.</se>
+    <se lang="latin" variant_id="1">Et, si particulae corporis, quae aërem hac ratione in poris captivum detinuerunt, diametros habent minores iis distantiis, quas percurrunt atomi aëris liberae tremulatione qualibet; tum aër, ex poris liberatus, in spatium expandetur majus, quam quod corpus occupat, in cujus poris latitabat.</se>
+    <weight variant_id="1">0,290476</weight>
+  </para>
+  <para id="134">
+    <se lang="" variant_id="0">§ 27</se>
+    <se lang="" variant_id="1">§ 27</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="135">
+    <se lang="russian" variant_id="0">Все это давно уже на деле открыли знаменитые и имеющие большие заслуги в науке Роберт Бойль, Герман Бургаве и позднее — знаменитый Галезий; все они без колебания называли воздухом тонкую и упругую материю, получающуюся из растворенных тел.</se>
+    <se lang="latin" variant_id="1">Id vero jam olim re ipsa experti sunt viri celeberrimi et de orbe litterario optime meriti Robertus Boyle, Hermannus Boerhaave, et recentius clariss. Halesius, qui subtilem et elasticam illam materiam, ex corporibus resolutis productam, aërem appellare non dubitaverunt.</se>
+    <weight variant_id="1">-0,0226829</weight>
+  </para>
+  <para id="136">
+    <se lang="russian" variant_id="0">И нас самих этому же научили многочисленные опыты, особенно те, где при растворении меди в крепкой водке получается в большом количестве упругая жидкость, в которой мы распознали истинный воздух.</se>
+    <se lang="latin" variant_id="1">Et nosmet ipsos multiplex experientia docuit idem, praesertim ubi ex solutione cupri, aqua forti instituta, elasticum fluidum, copiose productum, verum aërem esse deprehendimus.</se>
+    <weight variant_id="1">0,276923</weight>
+  </para>
+  <para id="137">
+    <se lang="russian" variant_id="0">Ибо в сосуде, где эта жидкость собиралась, находилась постоянная щелочь в виде крепкого водного раствора, которым поглощался насыщенный тонкой кислотою бурый пар, непрерывно поднимающийся при растворении меди: ему некоторые авторы, опасающиеся назвать возрожденный воздух своим именем и предпочитающие говорить о каком-то „газе“, приписывают упругость жидкости.</se>
+    <se lang="latin" variant_id="1">Etenim in vase, quo fluidum illud captum erat, continebatur alcali fixum, in aqua copiose solutum, quo rutilus ille vapor, solutione durante escendens, acidoque subtili turgidus, capiebatur: huic enim nonnulli, qui renatum aërem suo nomine appellare metuunt, et nescio quod Gas vocitare amant, elasticam vim fluidi tribuunt.</se>
+    <weight variant_id="1">0,259286</weight>
+  </para>
+  <para id="138">
+    <se lang="russian" variant_id="0">Тем не менее, эта упругая жидкость сохранялась в течение нескольких недель, удерживая все качества истинного воздуха.</se>
+    <se lang="latin" variant_id="1">Nihilo tamen minus per aliquot hebdomadas fluidum illud perstitit, omnes veri aëris qualitates retinens.</se>
+    <weight variant_id="1">0,26413</weight>
+  </para>
+  <para id="139">
+    <se lang="" variant_id="0">§ 28</se>
+    <se lang="" variant_id="1">§ 28</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="140">
+    <se lang="russian" variant_id="0">Мы могли бы здесь предложить еще многое о воздухе, скрывающемся в порах тел, и разнообразное, и может быть новое; но так как это принадлежит скорее к описанию необыкновенных действий этого плененного воздуха, чем к уяснению причины его упругости, то мы это оставляем до особого исследования.</se>
+    <se lang="latin" variant_id="1">Plura quidem de aëre, in poris corporum delitescente, eaque varia, et quaedam forte nova, proponere hic possemus; verum cum ea ad singulares ejusdem captivi aëris effectus explicandos pertineant potius, quam ad causam elateris illius illustrandam, quamobrem illa ad peculiarem tractationem reservamus.</se>
+    <weight variant_id="1">0,283065</weight>
+  </para>
+</body>
+</html>

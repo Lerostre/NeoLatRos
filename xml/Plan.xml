@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html>
+<head>
+</head>
+<body>
+  <para id="0">
+    <se lang="russian" variant_id="0">Что последует тогда:</se>
+    <se lang="latin" variant_id="1">Quid tum sequatur:</se>
+    <weight variant_id="1">0,264706</weight>
+  </para>
+  <para id="1">
+    <se lang="russian" variant_id="0">1. Когда воздух и ртуть становятся тяжелее в одинаковой или в неодинаковой степени.</se>
+    <se lang="latin" variant_id="1">1. Quando aër et mercurius fiunt graviora aequaliter aut inaequaliter.</se>
+    <weight variant_id="1">0,525108</weight>
+  </para>
+  <para id="2">
+    <se lang="russian" variant_id="0">2. Когда воздух и ртуть становятся легче и в одинаковой и в неодинаковой степени.</se>
+    <se lang="latin" variant_id="1">2. Quando aër et fiunt leviora aequ[aliter] et inae[qualiter].</se>
+    <weight variant_id="1">0,525</weight>
+  </para>
+  <para id="3">
+    <se lang="russian" variant_id="0">3. Когда воздух становится тяжелее ртути.</se>
+    <se lang="latin" variant_id="1">3. Quando aër fit gravior io.</se>
+    <weight variant_id="1">0,59011</weight>
+  </para>
+  <para id="4">
+    <se lang="russian" variant_id="0">4. Когда воздух становится легче ртути.</se>
+    <se lang="latin" variant_id="1">4. Quando aër fit levior io.</se>
+    <weight variant_id="1">0,596571</weight>
+  </para>
+  <para id="5">
+    <se lang="russian" variant_id="0">1. Когда воздух и ртуть делаются тяжелее или легче в равном отношении, сохраняется равновесие, и обыкновенный барометр не показывает изменений.</se>
+    <se lang="latin" variant_id="1">1. Quando aër et mercurius aequali ratione graviores aut leviores redduntur, fit aequilibrium, et barometrum commune non mutatur.</se>
+    <weight variant_id="1">0,426316</weight>
+  </para>
+  <para id="6">
+    <se lang="russian" variant_id="0">Это должно произойти, например, в том случае, когда ртуть в универсальном барометреа передвинется на 8 деленийб по направлению к шару.</se>
+    <se lang="latin" variant_id="1">Hoc fieri debet in casu, ex. gr. quando Mercurius in Barometro Universali gradus 8 movebitur bulbum versus.</se>
+    <weight variant_id="1">2,05507</weight>
+  </para>
+  <para id="7">
+    <se lang="russian" variant_id="0">2. Когда ртуть становится тяжелее в универсальном барометре, а воздух не изменит своего веса, с сохранением того же уровня ртути в морском барометре.</se>
+    <se lang="latin" variant_id="1">2. Quando mercurius fit gravior in B. U.; aër vero pondus non mutabit, mercurio haerente in eodem puncto Bar. nautici.</se>
+    <weight variant_id="1">0,363445</weight>
+  </para>
+  <para id="8">
+    <se lang="russian" variant_id="0">В обыкновенномв барометре опустится наравне с тем, как в универсальном.</se>
+    <se lang="latin" variant_id="1">In barometro communi desce[nde]t aequali passu quemadmodum in universali.</se>
+    <weight variant_id="1">0,285714</weight>
+  </para>
+  <para id="9">
+    <se lang="russian" variant_id="0">Так о поднятии.</se>
+    <se lang="latin" variant_id="1">Sic de ascensu.</se>
+    <weight variant_id="1">0,3</weight>
+  </para>
+  <para id="10">
+    <se lang="russian" variant_id="0">3. Когда тяжесть ртути в универсальном барометре не меняется, а вес воздуха возрастает, толкая ртуть к шару, обыкновенный барометр поднимется, а в обратном случае</se>
+    <se lang="latin" variant_id="1">3. Quando gravitas ii in B. U. non mutatur, aëris autem pondus crescit urgendo mercurium ad bulbum; barometrum</se>
+    <weight variant_id="1">0,31727</weight>
+  </para>
+  <para id="11">
+    <se lang="russian" variant_id="0">опустится; то и другое от увеличения и уменьшения тяжести воздуха.</se>
+    <se lang="latin" variant_id="1">commune ascendet; et in casu contrario descendet; utrumque aucta gravitate aëris ac diminuta.</se>
+    <weight variant_id="1">0,175862</weight>
+  </para>
+  <para id="12">
+    <se lang="russian" variant_id="0">4. Когда ртуть в универсальном барометре становится тяжелее, а воздух легче, тогда первая в обыкновенном барометре опуститсяа настолько, насколько понижается ртуть в универсальном барометре и насколько отступает от шара в морском барометре, образуя их сумму.</se>
+    <se lang="latin" variant_id="1">4. Quando Mercurius fit in B. U. gravior, aër vero levior, tunc ille in Barometro communi descendet quantum deprimitur ius in B. U. et quantum recedit a bulbo Bar. Naut., facta ex iis summa. ~~~</se>
+    <weight variant_id="1">0,21223</weight>
+  </para>
+  <para id="13">
+    <se lang="russian" variant_id="0">5. Когда ртуть в универсальном барометре становится легче, а воздух тяжелее, ртуть в обыкновенном барометре поднимается настолько, насколько она поднимается в универсальном барометре и насколько отступила от шара в морском барометре, в совокупности.</se>
+    <se lang="latin" variant_id="1">5. Quando in B. U. fit levior, aër vero gravior, ius in B. C. ascendet, quantum ascendit in B. U. quantumque in B. N. a bulbo recessit summatim.</se>
+    <weight variant_id="1">-0,065349</weight>
+  </para>
+  <para id="14">
+    <se lang="russian" variant_id="0">6. Когда ртуть становится тяжелее, а одновременно и воздух, но не в равной пропорции, а именно или тяжесть воздуха получает большее приращение, чем тяжесть ртути, или наоборот.</se>
+    <se lang="latin" variant_id="1">6. Quando ius fit gravior simulque et aër, ratione tamen inaequali nempe ut aëris gravitas majus capit incrementum, quam ii, aut contra.</se>
+    <weight variant_id="1">0,340691</weight>
+  </para>
+  <para id="15">
+    <se lang="russian" variant_id="0">В первом случае ртуть в обыкновенном барометре поднимается на избыточную часть или разность по отношению к большеб увеличившейся тяжести воздуха.</se>
+    <se lang="latin" variant_id="1">In casu priore in barometro communi ascendet parte excessiva, s[ive] differentia ab aucta magis gravitate aëris.</se>
+    <weight variant_id="1">0,211224</weight>
+  </para>
+  <para id="16">
+    <se lang="russian" variant_id="0">Во втором же случае ртуть опустится на разность, создаваемую большей тяжестью ртути.</se>
+    <se lang="latin" variant_id="1">In casu autem posteriore Mercurius descendet differentia majore gravitatis ii.</se>
+    <weight variant_id="1">0,282857</weight>
+  </para>
+  <para id="17">
+    <se lang="russian" variant_id="0">7. Когда ртуть становится легче, а одновременно и воздух, но не в равном отношении, а именно тяжесть воздуха или испытывает больший ущерб, чем тяжесть ртути, или наоборот.</se>
+    <se lang="latin" variant_id="1">7. Quando ius fit levior simulque et aër; ratione tamen inaequali, nempe aëris gravitas aut majus patitur detrimentum quam ea ii, aut contra.</se>
+    <weight variant_id="1">0,360537</weight>
+  </para>
+  <para id="18">
+    <se lang="russian" variant_id="0">В первом случае ртуть в обыкновенном барометре опустится на [величину] разности, во втором поднимется.</se>
+    <se lang="latin" variant_id="1">In casu priore in B. Com. descendet differentia, in posteriore ascendet.</se>
+    <weight variant_id="1">0,178125</weight>
+  </para>
+</body>
+</html>

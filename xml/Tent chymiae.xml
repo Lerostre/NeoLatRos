@@ -1,0 +1,252 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html>
+<head>
+</head>
+<body>
+  <para id="0">
+    <se lang="russian" variant_id="0">ЧАСТИ ЭМПИРИЧЕСКОЙ КНИГА ПЕРВАЯ, СОДЕРЖАЩАЯ ФИЗИКО-ХИМИЧЕСКОЕ ИССЛЕДОВАНИЕ СОЛЕЙ</se>
+    <se lang="latin" variant_id="1">PARTIS EMPYRICAE LIBER PRIMUS, CONTINENS EXAMEN PHYSICO-CHYMICUM SALIUM</se>
+    <weight variant_id="1">0,258462</weight>
+  </para>
+  <para id="1">
+    <se lang="russian" variant_id="0">Глава первая</se>
+    <se lang="latin" variant_id="1">Caput primum</se>
+    <weight variant_id="1">0,3</weight>
+  </para>
+  <para id="2">
+    <se lang="russian" variant_id="0">СОДЕРЖАЩАЯ ОПЫТЫ И НАБЛЮДЕНИЯ НАД РАСТВОРАМИ СОЛЕЙ</se>
+    <se lang="latin" variant_id="1">CONTINENS EXPERIMENTA ET OBSERVATIONES CIRCA SALIUM SOLUTIONES</se>
+    <weight variant_id="1">0,22</weight>
+  </para>
+  <para id="3">
+    <se lang="" variant_id="0">§ 1</se>
+    <se lang="" variant_id="1">§ 1</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="4">
+    <se lang="russian" variant_id="0">Растворы солей делают преимущественно в воде, хотя и другие водянистые жидкости не вполне чуждаются их.</se>
+    <se lang="latin" variant_id="1">Salium solutiones potissimum in aqua institui solent, quamvis alii plerique liquores aquosi non prorsus eas respuant.</se>
+    <weight variant_id="1">0,256667</weight>
+  </para>
+  <para id="5">
+    <se lang="russian" variant_id="0">Здесь будет рассматриваться действие одной только воды как общего растворителя солей.</se>
+    <se lang="latin" variant_id="1">Hic vero solius aquae actio spectabitur, tanquam salium menstrui universalis.</se>
+    <weight variant_id="1">0,269565</weight>
+  </para>
+  <para id="6">
+    <se lang="russian" variant_id="0">Другими водянистыми жидкостями мы будем пользоваться лишь в незначительной степени, так как разновидностей их имеется почти бесконечное число и своей многочисленностью они скорее отвлекут внимание, чем послужат к открытию истин.</se>
+    <se lang="latin" variant_id="1">Reliquos liquores aquosos vix adhibebimus, cum eorum genera sint numero fere infinita et multitudine sua obruent attentionem magis, quam ad veritates detegendas inservient.</se>
+    <weight variant_id="1">0,202649</weight>
+  </para>
+  <para id="7">
+    <se lang="" variant_id="0">§ 2</se>
+    <se lang="" variant_id="1">§ 2</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="8">
+    <se lang="russian" variant_id="0">При применении воды для растворов солей физику необходимо рассмотреть следующее: 1) сколько может вода растворить важнейших солей при различных градусах теплоты; </se>
+    <se lang="latin" variant_id="1">In adhibenda aqua circa solutiones salium sequentia physico veniunt consideranda: 1) quantum aqua ex praecipuis salibus possit solvere, idque in diversis caloris gradibus;</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="9">
+    <se lang="russian" variant_id="0">2) удельный вес различных растворов; </se>
+    <se lang="latin" variant_id="1">2) gravitas variarum solutionum;</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="10">
+    <se lang="russian" variant_id="0">3) увеличение объема рассола, последовавшее от растворенной соли; </se>
+    <se lang="latin" variant_id="1">3) augmentum voluminis in lixivio, a sale soluto acquisitum; </se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="11">
+    <se lang="russian" variant_id="0">4) градус холода, полученного от растворенных солей;</se>
+    <se lang="latin" variant_id="1">4) gradus frigoris, a salibus solutis recepti;</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="12">
+    <se lang="russian" variant_id="0">5) расширение рассолов от первого градуса холода до кипения; </se>
+    <se lang="latin" variant_id="1">5) dilatatio lixiviorum a primo gradu frigoris ad ebullitio nem; </se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="13">
+    <se lang="russian" variant_id="0">6) при каком градусе термометра происходит кипение растворов и соляных жидкостей;</se>
+    <se lang="latin" variant_id="1">6) ebullitio solutionum et liquorum salinorum ad quem gradum thermometri fiat;</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="14">
+    <se lang="russian" variant_id="0">7) продолжительность сохранения теплоты растворами по сравнению с водою;</se>
+    <se lang="latin" variant_id="1">7) duratio caloris in solutionibus, cum ea in aqua comparata;</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="15">
+    <se lang="russian" variant_id="0">8) какие соли растворяются и в каком количестве в других насыщенных растворах;</se>
+    <se lang="latin" variant_id="1">8) qui sales solvantur et qua proportione in aliis solutionibus saturatis;</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="16">
+    <se lang="russian" variant_id="0">9) какие растворы быстрее замерзают при охлаждении; </se>
+    <se lang="latin" variant_id="1">9) quae solutiones citius congelentur frigore;</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="17">
+    <se lang="russian" variant_id="0">10) будет ли вода, лишенная воздуха, растворять соли скорее или медленнее;</se>
+    <se lang="latin" variant_id="1">10) utrum aqua, aëre orbata, citius sales solvat, utrum lenius;</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="18">
+    <se lang="russian" variant_id="0">11) теряет ли вода приобретенный от солей холод с тою же быстротою, как полученный извне;</se>
+    <se lang="latin" variant_id="1">11) acquisitum frigus a salibus utrum eadem celeritate amittat, quam acquisitum extrinsecus;</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="19">
+    <se lang="russian" variant_id="0">12) сцепление частей в растворе по сравнению с таковым в воде;</se>
+    <se lang="latin" variant_id="1">12) cohaesio partium in solutionibus, cum eadem in aqua comparata;</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="20">
+    <se lang="russian" variant_id="0">13) преломление солнечных лучей в растворе сравнительно с таковым в воде;</se>
+    <se lang="latin" variant_id="1">13) refractio radiorum solis in solutionibus, cum ea in aqua collata;</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="21">
+    <se lang="russian" variant_id="0">14) поднятие в капиллярных трубках растворов и соляных жидкостей по сравнению с поднятием в них воды;</se>
+    <se lang="latin" variant_id="1">14) ascensus in tubulis capillaribus solutionum et liquorum salinorum, cum ascensu in illis aquae comparatus; </se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="22">
+    <se lang="russian" variant_id="0">15) микроскопическое исследование растворов; </se>
+    <se lang="latin" variant_id="1">15) observationes solutionum microscopicae;</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="23">
+    <se lang="russian" variant_id="0">16) обработка растворов в папиновой машине;</se>
+    <se lang="latin" variant_id="1">16) tractatio solutionum in machina Papiniana;</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="24">
+    <se lang="russian" variant_id="0">17) содействует ли сколько-нибудь электрическая сила растворению солей;</se>
+    <se lang="latin" variant_id="1">17) utrum vis electrica ad salium solutiones quid conducat;</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="25">
+    <se lang="russian" variant_id="0">18) каков будет цвет электрических искр и огоньков, вызванных в растворах солей и в соляных жидкостях;</se>
+    <se lang="latin" variant_id="1">18) quisnam sit scintillarum et flammularum electricarum color, et [in] solutionibus salium et in liquoribus salinis elisarum;</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="26">
+    <se lang="russian" variant_id="0">19) растворение в пустоте по сравнению с растворением на воздухе.</se>
+    <se lang="latin" variant_id="1">19) solutio in vacuo, cum ea in aëre comparata.</se>
+    <weight variant_id="1">0,585941</weight>
+  </para>
+  <para id="27">
+    <se lang="" variant_id="0">§ 3</se>
+    <se lang="" variant_id="1">§ 3</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="28">
+    <se lang="russian" variant_id="0">Отношение количества солей, растворяющихся в воде, очень изменяется для разных градусов теплоты.</se>
+    <se lang="latin" variant_id="1">Ratio quantitatis salium, in aqua solutorum, admodum variat pro diversis gradibus caloris.</se>
+    <weight variant_id="1">0,2775</weight>
+  </para>
+  <para id="29">
+    <se lang="russian" variant_id="0">Это легко видеть из следующей таблицы.</se>
+    <se lang="latin" variant_id="1">Id autem ex sequenti tabula facile perspicitur.</se>
+    <weight variant_id="1">0,229412</weight>
+  </para>
+  <para id="30">
+    <se lang="" variant_id="0">§ 4</se>
+    <se lang="" variant_id="1">§ 4</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="31">
+    <se lang="russian" variant_id="0">Относительно кристаллизации растворов солей надо наблюдать: 1) видимую в микроскоп корочку; 2) сколько испарится до образования корочки; 3) тщательно исследовать фигуру кристаллов и измерять углы; 4) удельный вес; 5) кристаллизацию производить при сильнейшем морозе; 6) будут ли кристаллы из воды, лишенной воздуха, более твердыми; 7) способствует ли электрическая сила кристаллизации или мешает; 8) преломление лучей в кристаллах; 9) кристаллизацию в папиновой машине.</se>
+    <se lang="latin" variant_id="1">Circa crystallizationem solutionum salium observanda: 1) cuticulam cula per microscopia spectanda; 2) quantum evaporet ad cuticulam evoparatam; 3) figura crystallorum probe examinanda et anguli mensurandi; 4) gravitas specifica; 5) crystallizatio instituenda summo gelu; 6) crystalli ex aqua, aëre orbata, utrum solidiores; 7) vis electrica utrum crystallizationes promoveat an cohibeat; 8) refractio radiorum in crystallis; 9) crystallizatio in machina Papiniana.</se>
+    <weight variant_id="1">0,748526</weight>
+  </para>
+  <para id="32">
+    <se lang="" variant_id="0">§ 5</se>
+    <se lang="" variant_id="1">§ 5</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="33">
+    <se lang="russian" variant_id="0">При расплывании и растворении в парах подлежит рассмотрению: 1) какие соли скорее расплываются; 2) какие явления показывают при этом, сравнительно с § 4; 3) удается ли растворение в парах винного спирта; 4) какие изменения произведет растворение солей в парах горящего чистейшего винного спирта; 5) будут ли кристаллы такого рода давать другие электрические огоньки.</se>
+    <se lang="latin" variant_id="1">In deliquatione et solutione vaporosa videndum: 1) qui sales prius fatiscant; 2) diluti quae phaenomena ostendant, comparando cum § 4; 3) solutio vaporosa cum utrum succedat; 4) solutio salium vaporosa combusto vini spiritu purissimo quas mutationes producat; 5) utrum crystalli ejusmodi producant alias flammulas electricas.</se>
+    <weight variant_id="1">0,721415</weight>
+  </para>
+  <para id="34">
+    <se lang="" variant_id="0">§ 6</se>
+    <se lang="" variant_id="1">§ 6</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="35">
+    <se lang="russian" variant_id="0">При сжижении солей: 1) какой требуется градус теплоты; 2) надо наблюдать под микроскопом распавшуюся каменную соль; 3) плавление в папиновой машине; 4) под микроскопом рассматривать в изломе вид соли, застывшей после сжижения; 5) удельный вес ее же; 6) твердость по сравнению с кристаллами.</se>
+    <se lang="latin" variant_id="1">In liquefactione salium: 1) qui gradus caloris requiratur; 2) decrepitatus per microscopia observetur; 3) fusio in machina Papiniana; 4) salis, post liquefactionem effusi, in fractura considerati figura per microsc.; 5) ejusdem gravitas specifica; 6) durities comparanda cum crystallis.</se>
+    <weight variant_id="1">0,760334</weight>
+  </para>
+  <para id="36">
+    <se lang="" variant_id="0">§ 7</se>
+    <se lang="" variant_id="1">§ 7</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="37">
+    <se lang="russian" variant_id="0">Прокаливание солей: 1) рассматривать порошок под микроскопом; 2) удельный вес порошков; 3) их расплывание и растворение в парах с когобацией; 4) увеличение и уменьшение веса на воздухе; 5) увеличение и уменьшение на открытом воздухе; 5) светится ли под пестиком и каким цветом; 6) каково расположение частиц легко прокаленных; 7) что извлекается из порошков водою, винным спиртом, кислотами и щелочами.</se>
+    <se lang="latin" variant_id="1">Calcinatio salium: 1) pulveres per microscopium spectandi; 2) gravitas specifica pulvisculorum; 3) eorum deliquatio et solutio vaporosa cum cohobatione; 4) augmentum et decrementum ponderis in aëre; 5) augmentum et decrementum in aëre aperto; 5) utrum sub pistillo luceant, et quo colore; 6) calcinatorum leviter qui situs particularum; 7) quid ex pulveribus extrahatur aqua, et acidis atque nis.</se>
+    <weight variant_id="1">0,710274</weight>
+  </para>
+  <para id="38">
+    <se lang="" variant_id="0">§ 8</se>
+    <se lang="" variant_id="1">§ 8</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="39">
+    <se lang="russian" variant_id="0">Остекловывание тонких порошков и солей: 1) одних; 2) с песком; 3) каково нагревание; 4) каково сцепление; 5) каково преломление [полученного] стекла; 6) остекловывание зажигательным стеклом; 7) каков удельный вес; 8) электричество и свечения.</se>
+    <se lang="latin" variant_id="1">Vitrificatio pulvisculorum et salium: 1) solitaria; 2) cum arena; 3) qui calor; 4) quae cohaesio; 5) quae refractio vitri; 6) vitrificatio caustico speculo; 7) quae gravitas specifica; 8) electricitas et luculae.</se>
+    <weight variant_id="1">1,0041</weight>
+  </para>
+  <para id="40">
+    <se lang="" variant_id="0">§ 9</se>
+    <se lang="" variant_id="1">§ 9</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="41">
+    <se lang="russian" variant_id="0">Осаждение: 1) постоянной щелочью; 2) летучей щелочью; 3) при покое или при движении; 4) теплота или холод; 4)б мера выделившегося или поглощенного воздуха; 5) различное разбавление осаждаемого и осадителя; 6) различный и одинаковый градус того и другого и его изменения; 7) мера осажденного порошка; 8) кристаллы из сложной жидкости и их исследование, как выше № 4; 9) изучение окалин под микроскопом; 10) удельный вес; 11) цвет; 12) вкус; 13) остекловывание; 14) сверкания под пестиком; 15) ускоряет ли осаждение электрическая сила; 16) наэлектризованный осадитель, ненаэлектризованное осаждаемое; 17) парообразные осаждения летучих; 18) минеральное произрастание; 19) минеральное произрастание в стеклянных трубках; 20) в пустоте; 21) прокаливание осажденных порошков; 22) в сосуде, закрытом герметически; 23) остекловывание порошков в замкнутом сосуде, лишенном воздуха для [устранения] увеличения веса; 24) вес металла, восстановленного из порошка; 25) купеллирование; 26) реверберация порошков.</se>
+    <se lang="latin" variant_id="1">Praecipitatio: 1) per alcali fixum; 2) per alcali volatile; 3) quies an emotio; 4) calor an frigus; 4)c aëris producti vel absorbti mensura; 5) diversa praecipitati et praecipitantis dilutio; 6) diversus et idem et quidem varius utriusque gradus; 7) mensura praecipitati pulveris; 8) crystalli ex liquore composito eorumque examen, ut supra № 4; 9) calcium per microscopium lustratio; 10) gravitas specifica; 11) color; 12) sapor; 13) vitrificatio; 14) sub pistillo faculae; 15) an vis electrica ans acceleret; 16) praecipitans electrisatum, praecipitandum non electrisatum; 17) praecipitationes vaporosae volatilium; 18) vegetationes minerales; 19) vegetationes minerales in tubulis vitreis; 20) in vacuo; 21) calcinatio pulvisculorum praecipitatorum; 22) in vase herm. sig.; 23) pulvisculorum vitrificatio in vase clauso et vacuo ob ponderis augmentum; 24) reducti metalli ex pulvere pondus; 25) cupellatio; 26) verberatio pulverum.</se>
+    <weight variant_id="1">0,918144</weight>
+  </para>
+  <para id="42">
+    <se lang="" variant_id="0">§ 10</se>
+    <se lang="" variant_id="1">§ 10</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="43">
+    <se lang="russian" variant_id="0">Возгонка: 1) образование или поглощение воздуха; 2) количество отделившихся частей; 3) удельный вес; 4) величина расширения от кипения воды до точки замерзания; 5) разница в расширении от застывания до кипения самой жидкости; 6) преломление в жидкостях; 7) сцепление; 8) сравнительная продолжительность теплоты; 9) поднятие в капиллярных трубках; 10) что делает при возгонке электрическая сила; 11) в пустоте; 12) обжигание винного камня.</se>
+    <se lang="latin" variant_id="1">Sublimatio: 1) generatio aut absorbtio aëris; 2) quantitas separatorum; 3) gravitas specifica; 4) quantitas extensionis ab ebullitione aquae ad primum gelu; 5) differ. extensionis a congelatione ad ebullitionem ipsius liquoris; 6) refractio in liquoribus; 7) cohaesio; 8) duratio caloris comparata; 9) ascensus in tubis cap.; 10) quid vis electrica efficiat in sublimatione; 11) in vacuo; 12) crematio tartari.</se>
+    <weight variant_id="1">0,888983</weight>
+  </para>
+  <para id="44">
+    <se lang="russian" variant_id="0">КНИГА ВТОРАЯ О ФИЗИКО-ХИМИЧЕСКИХ ИССЛЕДОВАНИЯХ СОЛЕЙ</se>
+    <se lang="latin" variant_id="1">LIBER SECUNDUSDE EXAMINE PHYSICO-CHYMICO SALIUM</se>
+    <weight variant_id="1">0,272727</weight>
+  </para>
+  <para id="45">
+    <se lang="" variant_id="0">§ 11</se>
+    <se lang="" variant_id="1">§ 11</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="46">
+    <se lang="russian" variant_id="0">Растворение серы и битума в льняном масле, в животном масле, в винном спирте: 1) сцепление битумов; 2) сцепление растворов и растворителей; 3) удельный вес; 4) растворения при разных градусах теплоты; 5) увеличение объема; 6) изменение цвета; 7) вкуса; 8) производится ли при растворении теплота или холод; 9) насколько велико расширение от кипения воды и точки замерзания; 10) от собственного кипения и застывания; 11) преломление; 12) поднятие в капиллярных трубках; 13) обработка растворов в папиновой машине; 14) насколько содействует электрическая сила растворению солей; 15) цвет электрических искр; 16) сравнение растворения в пустоте и в воздухе; 17) различаются ли растворения в растворителях, лишенных воздуха, от тех, которые происходят при наличии воздуха.</se>
+    <se lang="latin" variant_id="1">Sulphuris et bituminum solutio in lini, in āā li, in sp. ~~~ : 1) bituminum cohaesio; 2) solutionum et solventium cohaesio; 3) gravitas specifica; 4) solutiones in diversis caloris gradibus; 5) augmentum voluminis; 6) coloris mutatio; 7) saporis; 8) solvendo utrum calor an frigus producatur; 9) dilatatio quam magna ab ebullitione aquae et primo gelu; 10) a propria ebullitione et congelatione; 11) refractio; 12) ascensus in tubulis capillaribus; 13) tractatio solutionum in machina papiniana; 14) quantum vis electrica ad salium solutiones conferat; 15) colortes scintillarum electricarum; 16) solutiones in vacuo cum eis in aëre comparandae; 17) solutiones in menstruis, aëre orbatis utrum differant cum eis, aëre inhaerente.</se>
+    <weight variant_id="1">0,24319</weight>
+  </para>
+  <para id="47">
+    <se lang="" variant_id="0">§ 12</se>
+    <se lang="" variant_id="1">§ 12</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="48">
+    <se lang="russian" variant_id="0">Застывание растворов: 1) качество отогнанной жидкости; 2) сцепление застывших растворов; 3) цвет; 4) вкус.</se>
+    <se lang="latin" variant_id="1">Coagulatio solutionum: 1) quantitas humoris abacti; 2) cohaesio coagulorum; 3) color; 4) sapor.</se>
+    <weight variant_id="1">1,12143</weight>
+  </para>
+</body>
+</html>

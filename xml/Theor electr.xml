@@ -1,0 +1,1107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html>
+<head>
+</head>
+<body>
+  <para id="0">
+    <se lang="russian" variant_id="0">РАСПОЛОЖЕНИЕ МАТЕРИАЛА ПО ГЛАВАМ</se>
+    <se lang="latin" variant_id="1">DISPOSITIO OPUSCULI</se>
+    <weight variant_id="1">0,126316</weight>
+  </para>
+  <para id="1">
+    <se lang="russian" variant_id="0">Глава 1. Содержит предварительные данные.</se>
+    <se lang="latin" variant_id="1">Caput 1. Praeliminaria continet.</se>
+    <weight variant_id="1">0,822581</weight>
+  </para>
+  <para id="2">
+    <se lang="" variant_id="0">— 2. Об эфире и огне.</se>
+    <se lang="" variant_id="1">— 2. De aethere et igne.</se>
+    <weight variant_id="1">1,10714</weight>
+  </para>
+  <para id="3">
+    <se lang="" variant_id="0">— 3. О строении чувствительных тел.</se>
+    <se lang="" variant_id="1">— 3. De structura corporum sensibilium.</se>
+    <weight variant_id="1">1,11964</weight>
+  </para>
+  <para id="4">
+    <se lang="" variant_id="0">— 4. О получении первичного электричества.</se>
+    <se lang="" variant_id="1">— 4. De productione Electricitatis primitivae.</se>
+    <weight variant_id="1">1,12637</weight>
+  </para>
+  <para id="5">
+    <se lang="" variant_id="0">— 5. О получении производного электричества.</se>
+    <se lang="" variant_id="1">— 5. De productione Electricitatis derivativae.</se>
+    <weight variant_id="1">1,13519</weight>
+  </para>
+  <para id="6">
+    <se lang="" variant_id="0">— 6. Объяснение искусственных явлений.</se>
+    <se lang="" variant_id="1">— 6. Explicatio phaenomenorum artificialium.</se>
+    <weight variant_id="1">1,25</weight>
+  </para>
+  <para id="7">
+    <se lang="" variant_id="0">— 7. Объяснение природных явлений.</se>
+    <se lang="" variant_id="1">— 7. Explicatio phaenomenorum naturalium.</se>
+    <weight variant_id="1">1,23438</weight>
+  </para>
+  <para id="8">
+    <se lang="" variant_id="0">— 8. О будущих успехах учения об электричестве.</se>
+    <se lang="" variant_id="1">— 8. Prognosticon de successibus doctrinae de Electricitate.</se>
+    <weight variant_id="1">0,87381</weight>
+  </para>
+  <para id="9">
+    <se lang="russian" variant_id="0">Тела, которые один цвет отражают, а другой пропускают, наполовину прозрачны и обнаруживают это так же, как рубиновые стекла, которые чем толще, тем более приближаются к красному, чем тоньше, тем более — к синему.</se>
+    <se lang="latin" variant_id="1">Corpora, quae unum colorem reflectunt, alterum transmittunt, sunt semiopaca, et eodem modo id praestant quemadmodum vitra rubinea, quae quo crassiora eo magis ad rufum, quo tenuiora ad caeruleum accedunt.</se>
+    <weight variant_id="1">0,29322</weight>
+  </para>
+  <para id="10">
+    <se lang="russian" variant_id="0">Глава 1</se>
+    <se lang="latin" variant_id="1">Caput 1</se>
+    <weight variant_id="1">11,3</weight>
+  </para>
+  <para id="11">
+    <se lang="russian" variant_id="0">СОДЕРЖАЩАЯ ПРЕДВАРИТЕЛЬНЫЕ ДАННЫЕ</se>
+    <se lang="latin" variant_id="1">CONTINENS PRAELIMINARIA</se>
+    <weight variant_id="1">0,182609</weight>
+  </para>
+  <para id="12">
+    <se lang="russian" variant_id="0">Определение 1</se>
+    <se lang="latin" variant_id="1">Definitio 1</se>
+    <weight variant_id="1">11,2455</weight>
+  </para>
+  <para id="13">
+    <se lang="" variant_id="0">§ 1. Электрическая сила есть действие, вызываемое легким трением в чувствительных телах и состоящее в силах отталкивательных и притягательных, а также в произведении света и огня.</se>
+    <se lang="" variant_id="1">§ 1. Vis electrica est actio, leviore frictione in corporibus sensibilibus excitata, quae in viribus repulsivis et attractivis, item in luce atque igne productis consistit.</se>
+    <weight variant_id="1">0,518769</weight>
+  </para>
+  <para id="14">
+    <se lang="russian" variant_id="0">Изъяснение</se>
+    <se lang="latin" variant_id="1">Scholium</se>
+    <weight variant_id="1">0,233333</weight>
+  </para>
+  <para id="15">
+    <se lang="" variant_id="0">§ 2. 1) Легкость трения включается в определение, чтобы можно было отличать это действие от удара, которым из огнива и кремня высекаются искры; 2) словом „преимущественно“ мы пользуемся для того, чтобы указать на трение как более сильный источник электричества, чем другие, и не подать повода думать, что мы отрицаем или недооцениваем нагревание и возможные другие способы получения электрической силы.</se>
+    <se lang="" variant_id="1">§ 2. Levior frictio inculcatur in definitione, ut a collisione, qua ex chalybe et silice scintillae excitantur, distingui possit haec actio; 2) verbo praesertim utimur, ut frictio, tanquam fortior causa, quam aliae, in generanda electricitate agnoscatur, nec calefactio et aliae forte methodi electricam vim producendi negari aut negligi a nobis videantur.</se>
+    <weight variant_id="1">0,436064</weight>
+  </para>
+  <para id="16">
+    <se lang="russian" variant_id="0">Каким порядком возбуждается в телах электрическая сила, какими способами и машинами, мы описывать не будем, довольствуясь тем, что́ относится к нашей задаче, ибо мы не разрабатываем полного учения об электричестве, но поставили себе целью изложить то, что способствует выводу и подтверждению истинной теории электричества; а остальное предполагаем общеизвестным.</se>
+    <se lang="latin" variant_id="1">Qua ratione vis electrica in corporibus excitatur quibusque modis ac machinis, eorum descriptioni supersedemus, eis contenti, quae ad scopum nostrum pertinent: non enim doctrinam de electricitate integram tractamus, sed ea solum proponere instituimus, quae ad deducendam et confirmandam veram el. theoriam conferunt; caetera ut notissima supponimus.</se>
+    <weight variant_id="1">0,28918</weight>
+  </para>
+  <para id="17">
+    <se lang="russian" variant_id="0">Определение 2</se>
+    <se lang="latin" variant_id="1">Definitio 2</se>
+    <weight variant_id="1">11,2455</weight>
+  </para>
+  <para id="18">
+    <se lang="" variant_id="0">§ 3. Отталкивательной называется электрическая сила, при наличии которой части наэлектризованного тела стремятся отойти друг от друга.</se>
+    <se lang="" variant_id="1">§ 3. Vis electrica repulsiva est, qua partes corporis electrizati a se invicem recedere conantur.</se>
+    <weight variant_id="1">0,551471</weight>
+  </para>
+  <para id="19">
+    <se lang="russian" variant_id="0">Изъяснение</se>
+    <se lang="latin" variant_id="1">Scholion</se>
+    <weight variant_id="1">0,233333</weight>
+  </para>
+  <para id="20">
+    <se lang="" variant_id="0">§ 4. Это получило общую известность по отталкиванию от линейки нити, служащей указателем; затем по рассеиванию песка в песочных часах и воды, вытекающей из любого сосуда и показывающей конусообразную фигуру; наконец, по разрыву некоторых тел, затронутых громовым электричеством, которое раскалывает, не обжигая, самое твердое дерево, раздробляет и расщепляет железные части ружей, несмотря на то, что они укреплены винтами; ожижает металлы без следов огня, разрушая сцепление распадающихся частей.</se>
+    <se lang="" variant_id="1">§ 4. Innotuit hoc universim per repulsionem fili a regula, quod indicis loco adhibetur, item per dispersionem arenae ex clepsidra et aquae, ex quolibet vase fluentis et coniformem figuram exhibentis, denique ex plurimorum corporum disruptione, fulminea electricitate tactorum, qua durissima ligna fissa sine adustione sunt, ferramenta sclopetorum, non obstante cochlearum firmamento, dissoluta et dissecta, metalla sine ignis vestigiis liquefacta, fatiscentibus laxata cohaesione partibus.</se>
+    <weight variant_id="1">0,390953</weight>
+  </para>
+  <para id="21">
+    <se lang="russian" variant_id="0">Определение 3</se>
+    <se lang="latin" variant_id="1">Definitio 3</se>
+    <weight variant_id="1">11,2455</weight>
+  </para>
+  <para id="22">
+    <se lang="" variant_id="0">§ 5. Притягательной называется электрическая сила, которою легкие неэлектризованные тела притягиваются к электризованным и наоборот.</se>
+    <se lang="" variant_id="1">§ 5. Attractiva electrica vis est, qua corpora leviora non electrizata ad electrizata alliciuntur, et vice versa.</se>
+    <weight variant_id="1">0,611364</weight>
+  </para>
+  <para id="23">
+    <se lang="russian" variant_id="0">Изъяснение</se>
+    <se lang="latin" variant_id="1">Scholion</se>
+    <weight variant_id="1">0,233333</weight>
+  </para>
+  <para id="24">
+    <se lang="" variant_id="0">§ 6. Соответственно силе сопротивления, тело как электризованное, так и не обладающее электрическим свойством, подвигается к телу, более сопротивляющемуся.</se>
+    <se lang="" variant_id="1">§ 6. Secundum vim resistentiae fit, ut corpus electrisatum sive electricae virtutis exors accedit ad corpus magis resistens.</se>
+    <weight variant_id="1">0,533221</weight>
+  </para>
+  <para id="25">
+    <se lang="russian" variant_id="0">Например нить, обладающая электричеством, подвигается к неэлектризованному пальцу, и наоборот, если поднести нить неэлектризованной рукою к электризованному телу, то она забегает вперед руки к последнему.</se>
+    <se lang="latin" variant_id="1">Ex. gr. filum, electricitate praeditum, accedit ad digitum non electrisatum, et contra, filum manu non electrisata ad corpus electrisatum si admovetur, ad id tendens manum praecurrit.</se>
+    <weight variant_id="1">0,258491</weight>
+  </para>
+  <para id="26">
+    <se lang="russian" variant_id="0">Определение 4</se>
+    <se lang="latin" variant_id="1">Definitio 4-ta</se>
+    <weight variant_id="1">0,276923</weight>
+  </para>
+  <para id="27">
+    <se lang="" variant_id="0">§ 7. Электрический свет бывает двоякого рода: вытекающий и дающий треск.</se>
+    <se lang="" variant_id="1">§ 7. Lumen electricum est duplex: profluum et concrepans.</se>
+    <weight variant_id="1">0,823529</weight>
+  </para>
+  <para id="28">
+    <se lang="russian" variant_id="0">Вытекающий направляется непрерывно из электризованного тела к находящемуся против него неэлектризованному и, наоборот, из неэлектризованного к электризованному, выходя из заостренной вершины, без какой-либо ощутимой теплоты, с некоторым шумом.</se>
+    <se lang="latin" variant_id="1">Profluum actione continua ad oppositum corpus non electricum ex electricis aut contra ex non electrico ad electricum tendit ex cuspidata summitate progrediens sine ullo sensibili calore, cum aliquo susurro.</se>
+    <weight variant_id="1">0,236313</weight>
+  </para>
+  <para id="29">
+    <se lang="russian" variant_id="0">Дающий треск свет, вырывающийся между двух тел — электризованного и неэлектризованного — в едва заметный промежуток времени, издает звук и, сообразно величине силы, сотрясает оба тела; он щиплет руку или другую часть живого существа, причиняя ощущение боли.</se>
+    <se lang="latin" variant_id="1">Concrepans lumen, inter duo corpora electricum et non electricum vix sensibili temporis intervallo erumpens, sonum edit, et pro magnitudine vis utrumque concutit, manum aut aliam partem vivi animantis vellit, non sine doloris sensu.</se>
+    <weight variant_id="1">0,268657</weight>
+  </para>
+  <para id="30">
+    <se lang="russian" variant_id="0">Изъяснение</se>
+    <se lang="latin" variant_id="1">Scholium</se>
+    <weight variant_id="1">0,233333</weight>
+  </para>
+  <para id="31">
+    <se lang="" variant_id="0">§ 8. Дающий треск свет называется также электрической искрою, или мужским электрическим светом; вытекающий свет называется женским.</se>
+    <se lang="" variant_id="1">§ 8. Lumen concrepans vocatur etiam scintilla electrica, sive lumen electricum mas; lumen profluens foemina appellatur.</se>
+    <weight variant_id="1">0,621809</weight>
+  </para>
+  <para id="32">
+    <se lang="russian" variant_id="0">Определение 5</se>
+    <se lang="latin" variant_id="1">Definitio 5</se>
+    <weight variant_id="1">11,2455</weight>
+  </para>
+  <para id="33">
+    <se lang="" variant_id="0">§ 5. Электрическим огнем называется огонь, который возбуждается в горючем электризованном теле неэлектризованным или в неэлектризованном электризованным, причем проскакивает дающий треск свет.</se>
+    <se lang="" variant_id="1">§ 9. Ignis electricus est, qui in combustili corpore electrico per non electricum aut in non electrico per electricum excitatur prosiliente lumine concrepante.</se>
+    <weight variant_id="1">0,357053</weight>
+  </para>
+  <para id="34">
+    <se lang="russian" variant_id="0">Изъяснение 1</se>
+    <se lang="latin" variant_id="1">Scholion 1</se>
+    <weight variant_id="1">11,24</weight>
+  </para>
+  <para id="35">
+    <se lang="" variant_id="0">§ 10. Это — общие действия электричества, входящие в его определение.</se>
+    <se lang="" variant_id="1">§ 10. Haec sunt universales actiones electricae, quae definitionem illius constituunt.</se>
+    <weight variant_id="1">0,716393</weight>
+  </para>
+  <para id="36">
+    <se lang="russian" variant_id="0">Остальные действия, различающиеся по комбинации или величине сил, производятся искусством или природою.</se>
+    <se lang="latin" variant_id="1">Reliquae, combinatione aut intensitate virium differentes, producuntur arte aut natura.</se>
+    <weight variant_id="1">0,246835</weight>
+  </para>
+  <para id="37">
+    <se lang="russian" variant_id="0">Изъяснение 2</se>
+    <se lang="latin" variant_id="1">Scholion 2</se>
+    <weight variant_id="1">11,24</weight>
+  </para>
+  <para id="38">
+    <se lang="" variant_id="0">§ 11. Никто более уже не сомневается в тождестве природного электричества, проявившегося, к устрашению смертных, в грозовых молниях, с искусственным, не исключая, полагаю я, даже тех, кто раньше думал иначе.</se>
+    <se lang="" variant_id="1">§ 11. De identitate naturalis electricitatis, quae in fulmineis tempestatibus non sine stupore mortalium sese manifestavit, cum artificiali nemo jam amplius dubitat, ne iis quidem, reor, exceptis, qui ante aliter sentiebant.</se>
+    <weight variant_id="1">0,466882</weight>
+  </para>
+  <para id="39">
+    <se lang="russian" variant_id="0">Поэтому никто не станет отрицать, что для подтверждения этой теории можно пользоваться наблюдениями и опытами, относящимися к природному электричеству.</se>
+    <se lang="latin" variant_id="1">Hinc nec phaenomena et experimenta, quae circa naturalem electricitatem facta sunt, ad confirmandam hanc theoriam assumi posse, nemo ibit inficias.</se>
+    <weight variant_id="1">0,288372</weight>
+  </para>
+  <para id="40">
+    <se lang="russian" variant_id="0">Опыт 1</se>
+    <se lang="latin" variant_id="1">Experientia 1</se>
+    <weight variant_id="1">10,95</weight>
+  </para>
+  <para id="41">
+    <se lang="" variant_id="0">§ 12. Когда стеклянный шар вращается вокруг своей оси, и к нему не приложено какое-либо твердое тело, которое, прикасаясь к его поверхности, слегка натирало бы ее, то не возникает никакой электрической силы, нет никакого признака электрического притяжения или отталкивания, не ощущается никакого света, ни вытекающего, ни дающего треск. ~~~ Но как только рука прикасается к поверхности шара, натирая его, то возникает электрическая сила, обнаруживающая свое присутствие притяжением легких материй.</se>
+    <se lang="" variant_id="1">§ 12. Quando sphaera vitrea rotatur circa axem suum, nullo corpore solido apposito, quod, superficiem illius tangens, illam leviter fricat, nulla vis electrica exoritur, nullo dato signo attractionis aut repulsionis electricae, nullum lumen profluum aut concrepans sentitur; at, quamprimum manus superficiei admovetur, illam fricans, exoritur vis electrica, attractu levium materiarum praesentiam sui ostendens.</se>
+    <weight variant_id="1">0,025142</weight>
+  </para>
+  <para id="42">
+    <se lang="russian" variant_id="0">Но это происходит и без вращения стеклянного шара, если только потереть стеклянный цилиндр или палочку сургуча.</se>
+    <se lang="latin" variant_id="1">Id autem fieri etiam solet sine rotatione vitri, quando cylindrus vitreus sive bacillus laccae sigillatoriae tantum fricatur.</se>
+    <weight variant_id="1">0,259794</weight>
+  </para>
+  <para id="43">
+    <se lang="russian" variant_id="0">Присовокупление 1</se>
+    <se lang="latin" variant_id="1">Corollarium 1</se>
+    <weight variant_id="1">11,2077</weight>
+  </para>
+  <para id="44">
+    <se lang="" variant_id="0">§ 13. Трение, следовательно, есть причина возбуждения искусственного электричества.</se>
+    <se lang="" variant_id="1">§ 13. Frictio igitur causa est excitatae electricitatis artificialis.</se>
+    <weight variant_id="1">0,833333</weight>
+  </para>
+  <para id="45">
+    <se lang="russian" variant_id="0">Изъяснение</se>
+    <se lang="latin" variant_id="1">Scholium</se>
+    <weight variant_id="1">0,233333</weight>
+  </para>
+  <para id="46">
+    <se lang="" variant_id="0">§ 14. Не отрицаю, что можно возбудить электрическую силу и другими способами; например, она появляется в сере от нагревания и сотрясения. ~~~</se>
+    <se lang="" variant_id="1">§ 14. Posse quidem excitari vim electricam aliis modis non nego, ut fit calore et concussione in sulphure;</se>
+    <weight variant_id="1">-0,0147059</weight>
+  </para>
+  <para id="47">
+    <se lang="russian" variant_id="0">Во всех случаях, однако, можно предположить род трения, тем более, что по янтарю оно известно уже с древних времен как причина электричества, а в нашу эпоху сделанные посредством трения знаменитые опыты произвели в высшей степени удивительные явления.</se>
+    <se lang="latin" variant_id="1">in omnibus tamen frictionis species supponi potest, praesertim cum ea jam ab antiquis temporibus in succino, ut causa electricitatis, innotuit, et nostra tempestate celebratissima experimenta per eam facta maxime mirabilia phaenomena produxerunt.</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="48">
+    <se lang="russian" variant_id="0">Присовокупление 2</se>
+    <se lang="latin" variant_id="1">Corollarium 2</se>
+    <weight variant_id="1">11,2077</weight>
+  </para>
+  <para id="49">
+    <se lang="" variant_id="0">§ 15. Центробежная и центростремительная сила какой-либо тонкой материи в отношении производства электричества вызывает довольно сильные подозрения и сомнения, ибо при этом совершенно необходимо трение, от которого электричество образуется без всякого вращения (необходимого для возбуждения центральных сил).</se>
+    <se lang="" variant_id="1">§ 15. Vis centrifuga et centripeta alicujus subtilis materiae ad productionem electricae virtutis adeo suspecta et dubia est, cum frictio necessario huc requiratur, per quam sine rotatione (a qua vires centrales proficisci solent) vis illa exoritur.</se>
+    <weight variant_id="1">0,381607</weight>
+  </para>
+  <para id="50">
+    <se lang="russian" variant_id="0">Определение 3</se>
+    <se lang="latin" variant_id="1">Definitio 3</se>
+    <weight variant_id="1">11,2455</weight>
+  </para>
+  <para id="51">
+    <se lang="" variant_id="0">§ 16. Чувствительные тела подразделяются на два вида: первично электрические и производно электрические.</se>
+    <se lang="" variant_id="1">§ 16. Corpora sensibilia bifariam dividuntur: in electrica primitive atque in electrica derivative.</se>
+    <weight variant_id="1">0,711717</weight>
+  </para>
+  <para id="52">
+    <se lang="russian" variant_id="0">Природа первых такова, что они при трении приобретают электрическую силу и могут сообщать ее другим телам; вторые же лишены этого качества и имеют способность воспринимать и распространять силу, возбужденную первыми, которые, если служат поддержкой для производно электрических тел, преграждают путь распространению электрической силы.</se>
+    <se lang="latin" variant_id="1">Priorum natura ita est comparata, ut vim electricam per frictionem concipiant et aliis communicando impertiantur, posteriora vero hac dote carent et facultatem possident recipiendi atque propagandi natam virtutem a prioribus, quae derivative electrica fulciendo propagationem praecludunt.</se>
+    <weight variant_id="1">0,252756</weight>
+  </para>
+  <para id="53">
+    <se lang="russian" variant_id="0">Изъяснение</se>
+    <se lang="latin" variant_id="1">Scholium</se>
+    <weight variant_id="1">0,233333</weight>
+  </para>
+  <para id="54">
+    <se lang="" variant_id="0">§ 17. Важнейшие первично электрические тела: янтарь, сера, сургуч, стекло, шелк и некоторые другие, главным образом, смолистые; принимают и распространяют эту силу вода, все металлы и животные, особенно живые.</se>
+    <se lang="" variant_id="1">§ 17. Potiora primitivae electricitatis corpora sunt: succinum, sulphur, lacca sigillatoria, vitrum, serica et alia complura, praesertim resinosa; derivant et propagant eam vim aqua, metalla omnia et animalia, praesertim viva.</se>
+    <weight variant_id="1">0,47377</weight>
+  </para>
+  <para id="55">
+    <se lang="russian" variant_id="0">Бесчисленные тела различаются степенью вторичного электричества, так что многие приближаются к первичным.</se>
+    <se lang="latin" variant_id="1">Innumera corpora gradu derivativae electricitatis differunt, ita ut pleraque propius ad primitiva accedant.</se>
+    <weight variant_id="1">0,296842</weight>
+  </para>
+  <para id="56">
+    <se lang="russian" variant_id="0">Присовокупление</se>
+    <se lang="latin" variant_id="1">Corollarium</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="57">
+    <se lang="" variant_id="0">§ 18. Так как не все тела, при одних и тех же условиях, одинаково порождают в себе электрическую силу и воспринимают ее, то ясно, что это происходит от их различной природы; поэтому необходимо ее исследовать при построении теории электричества, чтобы выяснить, откуда происходит такое различие.</se>
+    <se lang="" variant_id="1">§ 18. Cum igitur non omnia corpora aeque electricam vim in se gignant et recipiant, sub iisdem reliquum circumstantiis, patet ergo ab eorum diversa natura id proficisci; qi e adeo in theoria electricitatis condenda ea perscrutetur, necesse est, ut appareat, unde tanta differentia proficiscatur.</se>
+    <weight variant_id="1">0,430952</weight>
+  </para>
+  <para id="58">
+    <se lang="russian" variant_id="0">Присовокупление 2</se>
+    <se lang="latin" variant_id="1">Corollarium 2</se>
+    <weight variant_id="1">11,2077</weight>
+  </para>
+  <para id="59">
+    <se lang="" variant_id="0">§ 19. Итак, если кто, приступая к объяснению электрических явлений, не исследует различия тел, первично и производно электрических, трудится тщетно; а между тем это и делало до сих пор большинство ученых, почти все, отдавая полностью свое внимание так называемым тонким материям.</se>
+    <se lang="" variant_id="1">§ 19. Quicunque itaque electrica phaenomena explicaturus aggreditur, nec tamen in diversitatem corporum primitive et derivative electricorum inquirit, frustra est; quod tamen plerique, fere omnes, hucusque fecerunt, subtilibus materiis solum addicti.</se>
+    <weight variant_id="1">0,461824</weight>
+  </para>
+  <para id="60">
+    <se lang="russian" variant_id="0">Присовокупление 3</se>
+    <se lang="latin" variant_id="1">Corollarium 3</se>
+    <weight variant_id="1">11,2077</weight>
+  </para>
+  <para id="61">
+    <se lang="" variant_id="0">§ 20. Так как внутреннее строение тел выведывает главным образом химия, то без нее труден, даже невозможен доступ к их глубинам и тем самым к раскрытию истинной причины электричества.</se>
+    <se lang="" variant_id="1">§ 20. Cum structuram corporum internam maxime chymia expiscatur, sine ea ergo angustus, imo nullus, est aditus in corporum interiora atque adeo ad veram electricitatis causam clausus est.</se>
+    <weight variant_id="1">0,497342</weight>
+  </para>
+  <para id="62">
+    <se lang="russian" variant_id="0">Опыт 2</se>
+    <se lang="latin" variant_id="1">Experientia 2</se>
+    <weight variant_id="1">10,95</weight>
+  </para>
+  <para id="63">
+    <se lang="" variant_id="0">§ 21. В электризованных телах наблюдаются главным образом два основные явления: 1) электрическая сила действует за пределами поверхности электризованных тел, притягивает, отталкивает, производит свет и огонь; 2) распространяясь через производно электрические тела на весьма большое расстояние многих миль в ничтожное время, она производит те же действия, что и вблизи.</se>
+    <se lang="" variant_id="1">§ 21. In corporibus electrisatis duo praesertim phaenomena eaque primaria spectantur: 1) electrica vis ultra superficiem corporum electrisatorum agit, attrahit, repellit, lucem et ignem producit; 2) per corpora derivativae electricitatis spatio adeo notabili multorum parasangarum insensibili tempusculo propagata eosdem ac in vicinia exerit effectus.</se>
+    <weight variant_id="1">0,555054</weight>
+  </para>
+  <para id="64">
+    <se lang="russian" variant_id="0">Присовокупление 1</se>
+    <se lang="latin" variant_id="1">Corollarium 1</se>
+    <weight variant_id="1">11,2077</weight>
+  </para>
+  <para id="65">
+    <se lang="" variant_id="0">§ 22. Электрические явления — притяжение, отталкивание, свет и огонь — состоят в движении.</se>
+    <se lang="" variant_id="1">§ 22. Phaenomena electrica: attractio, repulsio, lumen, et ignis in motu consistunt.</se>
+    <weight variant_id="1">0,745538</weight>
+  </para>
+  <para id="66">
+    <se lang="russian" variant_id="0">Движение не может быть возбуждено без другого двигающегося тела.</se>
+    <se lang="latin" variant_id="1">Motus sine alio moto corpore excitari non potest.</se>
+    <weight variant_id="1">0,202326</weight>
+  </para>
+  <para id="67">
+    <se lang="russian" variant_id="0">Но тела, удаленные от электризованных тел, не находятся в соприкосновении с ними.</se>
+    <se lang="latin" variant_id="1">Corpora vero remota ab electrisatis corporibus non attinguntur.</se>
+    <weight variant_id="1">0,226316</weight>
+  </para>
+  <para id="68">
+    <se lang="russian" variant_id="0">Поэтому должна существовать нечувствительная жидкая материя, которая распространяется вне электризованного тела и, изменяемая его силой, производит такого рода действия.</se>
+    <se lang="latin" variant_id="1">Dari ergo debet materia insensibilis fluida, quae extra corpus electricum diversatur et, vi illius modificata, ejusmodi exerit effectus.</se>
+    <weight variant_id="1">0,22</weight>
+  </para>
+  <para id="69">
+    <se lang="russian" variant_id="0">Присовокупление 2</se>
+    <se lang="latin" variant_id="1">Corollarium 2</se>
+    <weight variant_id="1">11,2077</weight>
+  </para>
+  <para id="70">
+    <se lang="" variant_id="0">§ 23. Так как эти явления происходят в пространстве, лишенном воздуха, а свет и огонь также происходят в пустоте и зависят от эфира, то представляется правдоподобным, что эта электрическая материя тождественна с эфиром.</se>
+    <se lang="" variant_id="1">§ 23. Quoniam haec phaenomena fiunt in spatio ab aere vacuo, lux vero et ignis etiam fiunt in vacuo et pendent ab aethere, verisimile ergo videtur, materiam illam electricam cum aethere esse eandem.</se>
+    <weight variant_id="1">0,438971</weight>
+  </para>
+  <para id="71">
+    <se lang="russian" variant_id="0">Изъяснение</se>
+    <se lang="latin" variant_id="1">Scholium</se>
+    <weight variant_id="1">0,233333</weight>
+  </para>
+  <para id="72">
+    <se lang="" variant_id="0">§ 24. Чтобы это установить, необходимо изучить природу эфира; если она такова, что удовлетворительно объясняет электрические явления, то будет достаточная вероятность, что они происходят от движения эфира.</se>
+    <se lang="" variant_id="1">§ 24. Id ut appareat, inquirendum est in aetheris naturam, quae si ita comparata sit, ut ad electrica phaenomena explicanda sufficiat, satis erit probabile, eam ab aetheris motu proficisci.</se>
+    <weight variant_id="1">0,481157</weight>
+  </para>
+  <para id="73">
+    <se lang="russian" variant_id="0">Наконец, если не найдется никакой другой материи, то достовернейшей причиной электричества будет движущийся эфир.</se>
+    <se lang="latin" variant_id="1">Denique, si nulla alia materia invenietur, certissima causa electricitatis erit motus aether.</se>
+    <weight variant_id="1">0,23494</weight>
+  </para>
+  <para id="74">
+    <se lang="russian" variant_id="0">Глава вторая</se>
+    <se lang="latin" variant_id="1">Caput secundum</se>
+    <weight variant_id="1">0,25</weight>
+  </para>
+  <para id="75">
+    <se lang="russian" variant_id="0">ОБ ЭФИРЕ</se>
+    <se lang="latin" variant_id="1">DE AETHERE</se>
+    <weight variant_id="1">0,225</weight>
+  </para>
+  <para id="76">
+    <se lang="russian" variant_id="0">Определение</se>
+    <se lang="latin" variant_id="1">Definitio</se>
+    <weight variant_id="1">0,24</weight>
+  </para>
+  <para id="77">
+    <se lang="" variant_id="0">§.</se>
+    <se lang="" variant_id="1">§.</se>
+    <weight variant_id="1">1,8</weight>
+  </para>
+  <para id="78">
+    <se lang="russian" variant_id="0">Материю, при помощи которой нам передаются ощущения света и теплоты, как древние, так и новые философы зовут эфиром.</se>
+    <se lang="latin" variant_id="1">Materiam, cujus ope sensus lucis et caloris nobis imprimitur, aetherem ut veteres ita quoque recentiores vocant philosophi.</se>
+    <weight variant_id="1">0,276</weight>
+  </para>
+  <para id="79">
+    <se lang="russian" variant_id="0">Изъяснение</se>
+    <se lang="latin" variant_id="1">Scholion</se>
+    <weight variant_id="1">0,233333</weight>
+  </para>
+  <para id="80">
+    <se lang="" variant_id="0">§.</se>
+    <se lang="" variant_id="1">§.</se>
+    <weight variant_id="1">1,8</weight>
+  </para>
+  <para id="81">
+    <se lang="russian" variant_id="0">Его совершенно справедливо отличают от воздуха, так как свет и огонь распространяются также через пространство, не содержащее воздуха.</se>
+    <se lang="latin" variant_id="1">Ab aere aequissimo jure illum distinguunt, cum lux et ignis per spatium ab aere vacuum etiam propagantur.</se>
+    <weight variant_id="1">0,206667</weight>
+  </para>
+  <para id="82">
+    <se lang="russian" variant_id="0">Присовокупление</se>
+    <se lang="latin" variant_id="1">Corollarium</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="83">
+    <se lang="" variant_id="0">§.</se>
+    <se lang="" variant_id="1">§.</se>
+    <weight variant_id="1">1,8</weight>
+  </para>
+  <para id="84">
+    <se lang="russian" variant_id="0">Так как при перемещении в свете и теплоте мы не ощущаем какого-либо препятствия, то естественно принимаем эфир за тело тончайшее, весьма текучее и весьма способное к движению всякого рода.</se>
+    <se lang="latin" variant_id="1">Cum in luce et calore diversantes nullum sentiamus obstaculum, aetherem corpus tenuissimum, fluidissimum ad motumque omni generis aptissimum esse facile judicamus.</se>
+    <weight variant_id="1">0,264583</weight>
+  </para>
+  <para id="85">
+    <se lang="russian" variant_id="0">Присовокупление</se>
+    <se lang="latin" variant_id="1">Corollarium</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="86">
+    <se lang="" variant_id="0">§.</se>
+    <se lang="" variant_id="1">§.</se>
+    <weight variant_id="1">1,8</weight>
+  </para>
+  <para id="87">
+    <se lang="russian" variant_id="0">Без движения в телах не может быть никакого изменения; поэтому ощущение света и теплоты как весьма очевидное изменение в органах чувств не может произойти без движения эфира, и следовательно эфир, как весьма склонный ко всякому движению, действительно находится в движении, производя свет и теплоту.</se>
+    <se lang="latin" variant_id="1">Sine motu nulla in corporibus contingere potest mutatio; sensatio ergo lucis et caloris, ut evidentissima mutatio in organis sensuum, sine motu aetheris accidere nequit, atque adeo aether, ut est ad omnem motum admodum pronus, gaudet actuali motu in producenda luce et calore.</se>
+    <weight variant_id="1">0,273305</weight>
+  </para>
+  <para id="88">
+    <se lang="russian" variant_id="0">Опыт</se>
+    <se lang="latin" variant_id="1">Experientia</se>
+    <weight variant_id="1">-0,12</weight>
+  </para>
+  <para id="89">
+    <se lang="" variant_id="0">§.</se>
+    <se lang="" variant_id="1">§.</se>
+    <weight variant_id="1">1,8</weight>
+  </para>
+  <para id="90">
+    <se lang="russian" variant_id="0">Ежедневный опыт, сделанные наблюдения и произведенные опыты с избытком свидетельствуют, что железо, еще не накаленное докрасна, однако весьма сильно нагретое, так что оно приводит воду в кипение, возгоняет ртуть, зажигает дерево, — в темном месте не дает никакого признака света.</se>
+    <se lang="latin" variant_id="1">Quotidiana experientia et institutae observationes factaque pericula abunde docent: ferrum, nondum ignitum, calefactum tamen validissime, ita, ut aquae ebullitionem, mercurii sublimationem, lignorum adustionem producat, in obscuro loco nullum lucis praebet vestigium.</se>
+    <weight variant_id="1">0,296218</weight>
+  </para>
+  <para id="91">
+    <se lang="russian" variant_id="0">Наоборот, фосфор, гниющее дерево светят без заметного огня; а особенно фокус лунных лучей, собранных зажигательным стеклом, весьма холодный, даже при жесточайшем морозе очень ярко светится.</se>
+    <se lang="latin" variant_id="1">Contra, phosphorus, ligna putrida sine sensibili igne lucent; praesertim vero focus radiorum lunae, vitro caustico condensatorum, etiam frigidissimus, summo gelu vividissime lucet.</se>
+    <weight variant_id="1">0,28875</weight>
+  </para>
+  <para id="92">
+    <se lang="russian" variant_id="0">Присовокупление</se>
+    <se lang="latin" variant_id="1">Corollarium</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="93">
+    <se lang="" variant_id="0">§.</se>
+    <se lang="" variant_id="1">§.</se>
+    <weight variant_id="1">1,8</weight>
+  </para>
+  <para id="94">
+    <se lang="russian" variant_id="0">Итак, свет может существовать без огня, огонь без света, а также оба могут быть совместно.</se>
+    <se lang="latin" variant_id="1">Lumen ergo sine igne et ignis sine lumine consistere potest, atque etiam utrumque simul.</se>
+    <weight variant_id="1">0,296053</weight>
+  </para>
+  <para id="95">
+    <se lang="russian" variant_id="0">Положение</se>
+    <se lang="latin" variant_id="1">Theorema</se>
+    <weight variant_id="1">0,266667</weight>
+  </para>
+  <para id="96">
+    <se lang="" variant_id="0">§.</se>
+    <se lang="" variant_id="1">§.</se>
+    <weight variant_id="1">1,8</weight>
+  </para>
+  <para id="97">
+    <se lang="russian" variant_id="0">В эфире существуют различные движения его, из которых одно служит для возбуждения света, другое — огня.</se>
+    <se lang="latin" variant_id="1">Dantur in aethere diversi ejus motus, quorum alter ad lucem, alter ad ignem producendum inservit.</se>
+    <weight variant_id="1">0,282143</weight>
+  </para>
+  <para id="98">
+    <se lang="russian" variant_id="0">Доказательство</se>
+    <se lang="latin" variant_id="1">Demonstratio</se>
+    <weight variant_id="1">0,253846</weight>
+  </para>
+  <para id="99">
+    <se lang="russian" variant_id="0">Предположим, что свет и огонь производятся одним и тем же движением; так как свет существует без огня и огонь без света (§ ), то, когда ощущается сильный огонь, эфир находится в движении; а когда при этом нет света, то эфир должен быть в покое: очевидно, то же самое, должно быть и при существовании яркого света, совершенно холодного.</se>
+    <se lang="latin" variant_id="1">Ponamus lumen et ignem uno eodemque motu produci: quoniam autem lumen sine igne et ignis sine lumine existunt (§.), idcirco, quando ignis validus sentitur, aether tum est in motu, cum vero simul nullum lumen apparet, aether in quiete sit necesse est; idem fieri debere patet, vividissima luce summe frigida existente.</se>
+    <weight variant_id="1">0,287732</weight>
+  </para>
+  <para id="100">
+    <se lang="russian" variant_id="0">Но так как это — нелепость, то по необходимости должны быть в эфире разные движения, из которых одно производит свет, другое — огонь.</se>
+    <se lang="latin" variant_id="1">Quod quoniam esset absurdum, necessum igitur est, dari in aethere diversos motus, quorum alter ad lumen, alter ad lucem producendam inservit.</se>
+    <weight variant_id="1">0,273214</weight>
+  </para>
+  <para id="101">
+    <se lang="russian" variant_id="0">Определение</se>
+    <se lang="latin" variant_id="1">Definitio</se>
+    <weight variant_id="1">0,24</weight>
+  </para>
+  <para id="102">
+    <se lang="" variant_id="0">§.</se>
+    <se lang="" variant_id="1">§.</se>
+    <weight variant_id="1">1,8</weight>
+  </para>
+  <para id="103">
+    <se lang="russian" variant_id="0">Для каждого тела можно представить себе и могут существовать лишь три движения, к которым сводятся остальные виды движений: 1) поступательное, когда все тело непрерывно меняет свое положение; 2) вращательное, когда тело, оставаясь в том же положении, вращается вокруг постоянной или переменной оси; 3) колебательное, когда тело на ничтожном пространстве движется взад и вперед весьма частыми чередованиями.</se>
+    <se lang="latin" variant_id="1">Motus omnium corporum tres tantum concipi et fieri possunt, ad quos reliquae eorum species referuntur: 1) progressivus, ubi totum corpus continuo situm suum mutat, 2) gyratorius, quando corpus in eodem situ persistendo circa axem fixum sive mutabilem rotatur, 3) tremulus, quando corpus creberrimis reciprocationibus ultro citroque agitatur, spatiolo perexiguo.</se>
+    <weight variant_id="1">0,443694</weight>
+  </para>
+  <para id="104">
+    <se lang="russian" variant_id="0">Изъяснение</se>
+    <se lang="latin" variant_id="1">Scholium</se>
+    <weight variant_id="1">0,233333</weight>
+  </para>
+  <para id="105">
+    <se lang="" variant_id="0">§.</se>
+    <se lang="" variant_id="1">§.</se>
+    <weight variant_id="1">1,8</weight>
+  </para>
+  <para id="106">
+    <se lang="russian" variant_id="0">Эти движения предполагаются как движения твердых тел, все равно, ощутимы последние или нет.</se>
+    <se lang="latin" variant_id="1">Motus hi intelliguntur de corporibus solidis, sive fuerint sensibilia, seu a sensibus remota.</se>
+    <weight variant_id="1">0,2925</weight>
+  </para>
+  <para id="107">
+    <se lang="russian" variant_id="0">Нашему исследованию подлежат вторые.</se>
+    <se lang="latin" variant_id="1">Posteriora ad quaestionem nostram pertinent.</se>
+    <weight variant_id="1">0,238235</weight>
+  </para>
+  <para id="108">
+    <se lang="russian" variant_id="0">Итак, из определения видно, что молекулы эфира могут переноситься с места на место, вращаться и колебаться.</se>
+    <se lang="latin" variant_id="1">Nempe aetheris moleculas posse ferri ex loco in locum, rotari, tremere, ex definitione apparet.</se>
+    <weight variant_id="1">0,263855</weight>
+  </para>
+  <para id="109">
+    <se lang="russian" variant_id="0">Присовокупление</se>
+    <se lang="latin" variant_id="1">Corollarium</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="110">
+    <se lang="" variant_id="0">§.</se>
+    <se lang="" variant_id="1">§.</se>
+    <weight variant_id="1">1,8</weight>
+  </para>
+  <para id="111">
+    <se lang="russian" variant_id="0">Так как ничто не препятствует тому, чтобы тело, устремляющееся поступательным движением, вращалось также около оси или колебалось, и чтобы в одном и том же теле одновременно существовали все три рода движения,</se>
+    <se lang="latin" variant_id="1">Quoniam nihil obstat, quin corpus, motu locali tendens, etiam circa axem rotetur aut tremat, atque omnes tres motus in uno eodemque corpore simul vigeant.</se>
+    <weight variant_id="1">0,190909</weight>
+  </para>
+  <para id="112">
+    <se lang="russian" variant_id="0">Присовокупление</se>
+    <se lang="latin" variant_id="1">Corollarium</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="113">
+    <se lang="" variant_id="0">§.</se>
+    <se lang="" variant_id="1">§.</se>
+    <weight variant_id="1">1,8</weight>
+  </para>
+  <para id="114">
+    <se lang="russian" variant_id="0">Поэтому неудивительно, что в одном и том же теле действием эфира одновременно возбуждаются свет и огонь.</se>
+    <se lang="latin" variant_id="1">Mirum igitur non est, lumen et ignem in eodem corpore actione aetheris simul excitari.</se>
+    <weight variant_id="1">0,235135</weight>
+  </para>
+  <para id="115">
+    <se lang="russian" variant_id="0">Присовокупление</se>
+    <se lang="latin" variant_id="1">Corollarium</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="116">
+    <se lang="" variant_id="0">§.</se>
+    <se lang="" variant_id="1">§.</se>
+    <weight variant_id="1">1,8</weight>
+  </para>
+  <para id="117">
+    <se lang="russian" variant_id="0">Так как требуются только два рода движений в эфире, одно для возбуждения света, другое — огня, то одно из них не участвует в произведении этих явлений.</se>
+    <se lang="latin" variant_id="1">Quoniam duo tantum motuum genera, ad lumen alterum, alterum ad ignem producendum, in aethere requiruntur, unus igitur eorum ad hos effectus non inservit.</se>
+    <weight variant_id="1">0,288189</weight>
+  </para>
+  <para id="118">
+    <se lang="russian" variant_id="0">Изъяснение</se>
+    <se lang="latin" variant_id="1">Scholium</se>
+    <weight variant_id="1">0,233333</weight>
+  </para>
+  <para id="119">
+    <se lang="" variant_id="0">§.</se>
+    <se lang="" variant_id="1">§.</se>
+    <weight variant_id="1">1,8</weight>
+  </para>
+  <para id="120">
+    <se lang="russian" variant_id="0">Ближайшая причина каждого явления — одна, отдаленных же может быть множество, и даже противоположной природы.</se>
+    <se lang="latin" variant_id="1">Causa nempe proxima cujusque effectus est unica, remotae possunt esse plurimae, imo naturae oppositae.</se>
+    <weight variant_id="1">0,28</weight>
+  </para>
+  <para id="121">
+    <se lang="russian" variant_id="0">Например, ближайшая причина дождя есть преобладание силы тяжести частиц воды над силой сцепления их с воздушными частицами, поддерживающей их в атмосфере.</se>
+    <se lang="latin" variant_id="1">E. gr. pluviae proxima causa est major vis ponderis particularum aquae, quam vis cohaesionis cum particulis aeris, qua illae in athmosphaera sustineri solent.</se>
+    <weight variant_id="1">0,293333</weight>
+  </para>
+  <para id="122">
+    <se lang="russian" variant_id="0">Отдаленными же причинами могут быть и теплота и холод: теплота, так как разреженный воздух касается меньшего числа точек поверхности водных частиц и менее прочно связан с ними;</se>
+    <se lang="latin" variant_id="1">Remotae causae possunt esse et calor et frigus: calor, cum rarefactus aer pauciora puncta superficiei aquearum particularum attingit, levius cum ipsis cohaeret;</se>
+    <weight variant_id="1">0,28814</weight>
+  </para>
+  <para id="123">
+    <se lang="russian" variant_id="0">а холод, так как вследствие сжатия воздуха частицы воды приходят во взаимное соприкосновение, сливаются в капли; при этом объем их возрастает в тройном отношении, а поверхность только в двойном, но первый соразмерен с тяжестью, вторая — со сцеплением,</se>
+    <se lang="latin" variant_id="1">frigus vero, quando, contrahente sese aere, particulae aquae veniunt ad mutuum contactum, confluunt in guttas, et crescente soliditate earum in ratione triplicata, superficie vero in duplicata solum, quarum priori gravitas, posteriori cohaesio commensuratur;</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="124">
+    <se lang="russian" variant_id="0">а потому вследствие преобладания силы тяжести над силою сцепления капли побуждаются к падению.</se>
+    <se lang="latin" variant_id="1">hinc praevalente vi ponderis vim cohaesionis guttae descendere coguntur.</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="125">
+    <se lang="russian" variant_id="0">Изъяснение</se>
+    <se lang="latin" variant_id="1">Scholium</se>
+    <weight variant_id="1">0,233333</weight>
+  </para>
+  <para id="126">
+    <se lang="russian" variant_id="0">Итак, необходимо посмотреть, какое именно движение природа исключила из этих причин и какие она приспособила для произведения света и огня.</se>
+    <se lang="latin" variant_id="1">Videndum igitur incumbit, quemnam motum ex his causis natura exclusit, quosque ad lumen et ignem producendum adaptavit.</se>
+    <weight variant_id="1">-0,0245192</weight>
+  </para>
+  <para id="127">
+    <se lang="russian" variant_id="0">Лемма</se>
+    <se lang="latin" variant_id="1">Lemma</se>
+    <weight variant_id="1">0,3</weight>
+  </para>
+  <para id="128">
+    <se lang="" variant_id="0">§.</se>
+    <se lang="" variant_id="1">§.</se>
+    <weight variant_id="1">1,8</weight>
+  </para>
+  <para id="129">
+    <se lang="russian" variant_id="0">Почти бесконечно разнообразные роды колебательного движения распространяются в жидких телах во все стороны, даже и в направлениях, взаимно поперечных и противоположных, по прямым линиям.</se>
+    <se lang="latin" variant_id="1">Motus tremuli prope infinite diversorum generum in corporibus fluidis propagantur quaqua versum, etiam secundum directiones quascunque transversas et contrarias, in rectis lineis.</se>
+    <weight variant_id="1">0,290566</weight>
+  </para>
+  <para id="130">
+    <se lang="russian" variant_id="0">Доказательство</se>
+    <se lang="latin" variant_id="1">Demonstratio</se>
+    <weight variant_id="1">0,253846</weight>
+  </para>
+  <para id="131">
+    <se lang="russian" variant_id="0">Сколько имеется родов звуков — каждый может очень легко себе представить, если примет в соображение различные музыкальные тона, различной интенсивности, производимые различными музыкальными инструментами; затем порождаемые от столкновения, трения, ломания тел столь многочисленные и разнообразные шумы, свисты, скрипы, звоны, шелесты и т. д.;</se>
+    <se lang="latin" variant_id="1">Quot sonorum sunt genera, quivis facillime repraesentare sibi potest, quamprimum consideravit diversos tonos musicos, diversae intensitatis a diversis instrumentis profectos, item ex collisione, frictione, disruptione corporum tot tamque diversorum generum enatos fragores, sibilos, stridores, tintinnationes, susurros etc.,</se>
+    <weight variant_id="1">0,288125</weight>
+  </para>
+  <para id="132">
+    <se lang="russian" variant_id="0">далее, голоса людей и животных, которые различаются среди тысяч настолько, что мы узнаем не только знакомых людей, но даже собак по их лаю и отличаем их от других; наконец, членораздельные слова — и притом на стольких различных языках.</se>
+    <se lang="latin" variant_id="1">porro hominum et animalium voces, quae in tot millibus distinguuntur, ut non solum homines notos verum etiam canes ex latratu agnoscimus et ab aliis distinguimus, denique articulatas voces, et quidem in tot diversis linguis.</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="133">
+    <se lang="russian" variant_id="0">Однако никто из физиков не сомневается, что все эти звуки производятся и распространяются колебательным движением жидкого тела, именно воздуха; и распространяются так, что если один звук движется навстречу другому, из какого бы то ни было направления, то оба они подействуют на орган слуха, конечно, если их интенсивности приблизительно одинаковы и ни один не превосходит намного по силе другой, занимая целиком наш орган слуха.</se>
+    <se lang="latin" variant_id="1">Hos tamen sonos omnes produci et propagari motu tremulo corporis fluidi, nempe aeris, nemo Physicorum dubitat, et ita quidem propagari, ut, si unus occur[r]at quacunque directione alteri, utriusque sensum auditui imprimi; nempe, si intensiones eorum sunt utcunque aequales, nec una multo sit fortior altera et auditus organa sola occupet.</se>
+    <weight variant_id="1">0,221649</weight>
+  </para>
+  <para id="134">
+    <se lang="russian" variant_id="0">Например, пусть в a будет голос и речь человеческая, в b поющий соловей, в c звуки лиры, в d шум токарного станка, в e колокольчик, в f свист пара, вырывающегося из эолипила.</se>
+    <se lang="latin" variant_id="1">E. g. sit in a vox et loquela hominis, in b cantillans luscinia, in c chelidis modulatio, in d tornatoris stridor, in e tintinnabulum, in f prorumpentis ex aeolipila vaporis sibilus;</se>
+    <weight variant_id="1">0,0633523</weight>
+  </para>
+  <para id="135">
+    <se lang="russian" variant_id="0">Если они примерно одинаковой интенсивности, то из каждой точки окружности будет ясно слышен каждый звук, на который мы обращаем больше внимания, особенно если направить на него слуховую трубу, приложив ее к уху и закрыв другое ухо.</se>
+    <se lang="latin" variant_id="1">quae si utcunque aequalis fuerint intensitatis, ex quolibet puncto periferiae audietur quilibet sonus distincte, ad quem magis attendimus, praesertim, si ad eum dirigitur tubus acusticus, auri applicatus, altera clausa.</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="136">
+    <se lang="russian" variant_id="0">Из всего этого вполне очевидно, что колебательное движение воздуха распространяется навстречу другим и поперечно в любом направлении, и этим не заглушается — иначе как на большом пространстве или при чрезмерном преобладании интенсивности [другого] звука, откуда следует, что колебательные движения жидких тел распространяются во все стороны, по всевозможным направлениям, и поперечным, и встречным.</se>
+    <se lang="latin" variant_id="1">Ex his evidentissime patet motus aeris tremulos propagari per alios opposite et transversim quacunque directione, nec ipso suffocari, nisi magno spatio aut nimium majore intensitate soni, atque adeo sequitur motus tremulos corporum fluidorum propagari quaqua versum, etiam secundum directiones quascunque transversas et contrarias.</se>
+    <weight variant_id="1">0,24</weight>
+  </para>
+  <para id="137">
+    <se lang="russian" variant_id="0">Изъяснение</se>
+    <se lang="latin" variant_id="1">Scholium</se>
+    <weight variant_id="1">0,233333</weight>
+  </para>
+  <para id="138">
+    <se lang="" variant_id="0">§.</se>
+    <se lang="" variant_id="1">§.</se>
+    <weight variant_id="1">1,8</weight>
+  </para>
+  <para id="139">
+    <se lang="russian" variant_id="0">То же наглядно показывают волны воды: а именно, если при спокойном воздухе бросить в разные места водной поверхности камни, то каждый в отдельности вызывает собственные волны, которые направляются прямо от точки падения во все стороны и, встречаясь друг с другом, не останавливаются и не возмущаются, но продолжаются до тех пор, пока приложенная сила не притупится по другим причинам.</se>
+    <se lang="latin" variant_id="1">Idem ob oculos ponunt undae aquarum, scilicet tranquillo aere projecti in superficiem aquae lapides in locis diversis singuli proprias excitant undulationes, a puncto incidentiae recto tendentes quaqua versum, nec occursu statim sistuntur aut turbantur, sed eousque durant, quamdiu vis impressa aliis causis non obtunditur.</se>
+    <weight variant_id="1">0,249822</weight>
+  </para>
+  <para id="140">
+    <se lang="russian" variant_id="0">Присовокупление</se>
+    <se lang="latin" variant_id="1">Corollarium</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="141">
+    <se lang="" variant_id="0">§.</se>
+    <se lang="" variant_id="1">§.</se>
+    <weight variant_id="1">1,8</weight>
+  </para>
+  <para id="142">
+    <se lang="russian" variant_id="0">Так как эфир — тело жидкое, то, следовательно, свет может распространяться в нем колебательным его движением.</se>
+    <se lang="latin" variant_id="1">Cum aether sit corpus fluidum, sequitur lucem posse per eum propagari motu ipsius tremulo.</se>
+    <weight variant_id="1">0,234615</weight>
+  </para>
+  <para id="143">
+    <se lang="russian" variant_id="0">Лемма</se>
+    <se lang="latin" variant_id="1">Lemma</se>
+    <weight variant_id="1">0,3</weight>
+  </para>
+  <para id="144">
+    <se lang="" variant_id="0">§.</se>
+    <se lang="" variant_id="1">§.</se>
+    <weight variant_id="1">1,8</weight>
+  </para>
+  <para id="145">
+    <se lang="russian" variant_id="0">Поступательные движения жидких тел в любых направлениях, поперечных и встречных, одновременно в одном и том же месте не могут совершаться по прямой линии.</se>
+    <se lang="latin" variant_id="1">Motus corporum fluidorum progressivi secundum directiones quascunque transversas et contrarias eodem in loco simul fieri non possunt linea recta.</se>
+    <weight variant_id="1">0,288281</weight>
+  </para>
+  <para id="146">
+    <se lang="russian" variant_id="0">Доказательство</se>
+    <se lang="latin" variant_id="1">Demonstratio</se>
+    <weight variant_id="1">0,253846</weight>
+  </para>
+  <para id="147">
+    <se lang="russian" variant_id="0">Что это не может произойти в чувствительных телах — очевидно для каждого.</se>
+    <se lang="latin" variant_id="1">In sensibilibus corporibus haec fieri non posse nemo non perspicit.</se>
+    <weight variant_id="1">0,279661</weight>
+  </para>
+  <para id="148">
+    <se lang="russian" variant_id="0">В самом деле, кто подумает, что воздух в одно и то же время, в одном и том же месте может нестись с востока и он же одновременно с запада по противоположным направлениям, как распространяются звуки?</se>
+    <se lang="latin" variant_id="1">Quis enim putet, aerem eodem tempore et eodem in loco atque adeo eundem ab oriente simul atque occidente secundum directiones contrarias, quemadmodum propagationes sonorum fiunt, ferri posse?</se>
+    <weight variant_id="1">0,298182</weight>
+  </para>
+  <para id="149">
+    <se lang="russian" variant_id="0">Но для тел, не доступных чувствам, этого нельзя отрицать без доказательства.</se>
+    <se lang="latin" variant_id="1">At ex corporibus a sensibus remotis absque demonstratione id negari nequit.</se>
+    <weight variant_id="1">0,295455</weight>
+  </para>
+  <para id="150">
+    <se lang="russian" variant_id="0">Итак, допустим, как учат ньютонианцы, что материя света, разреженная почти до бесконечности, тончайшая, несется от светящихся тел стремительнейшим движением, так что в своем пробеге она проходит огромнейшие пространства в нечувствительный момент времени.</se>
+    <se lang="latin" variant_id="1">Ponamus ergo, quemadmodum Newtonianis placet, materiam lucis esse fere in infinitum subtilissime divisam, rarissimam, ferri a corporibus lucentibus motu pernicissimo, ut insensibili temporis momento vastissima spatia cursu permeet.</se>
+    <weight variant_id="1">0,272195</weight>
+  </para>
+  <para id="151">
+    <se lang="russian" variant_id="0">Так как лучи света настолько плотны, что зернышко песка, едва заметное глазу, при рассматривании под микроскопом при наибольшем возможном увеличении, видно освещенным в каждой точке, то, следовательно, по всему пространству, освещенному светящимся телом, по всем направлениям рассеиваются очень плотные лучи.</se>
+    <se lang="latin" variant_id="1">Quoniam autem lucis radii tam densi sunt, ut granulum arenae, vix visui obvium, per microscopium spectatum et, quantum fieri potest, ampliatum, in quolibet puncto illuminatum spectatur, per omne igitur spatium, quod illuminatum est a corpore lucido, quaqua versum densissimi radii sparguntur.</se>
+    <weight variant_id="1">0,279842</weight>
+  </para>
+  <para id="152">
+    <se lang="russian" variant_id="0">Далее, вследствие крайне быстрого движения, любая частица света должна рассматриваться как нечто непрерывное; ибо то, что почти в одно и то же время находится вблизи и светящегося и освещаемого тела и, значит, в любой точке всего расстояния между ними, едва отличается от непрерывного.</se>
+    <se lang="latin" variant_id="1">Porro, ob rapidissimum motum, quaelibet lucis particula ut aliquid continuum considerandum est, etenim id, quod eodem fere tempore est in vicinia corporis luminosi et illuminati, atque adeo in quolibet puncto totius distantiae, id vix a continuo differt.</se>
+    <weight variant_id="1">0,265753</weight>
+  </para>
+  <para id="153">
+    <se lang="russian" variant_id="0">Затем, по этой гипотезе за предшествующей частицей света необходимо должны следовать в своем пробеге другие, почти бесчисленные с одинаковой скоростью; и все они почти в один и тот же момент времени присутствуют в любой точке своего пути.</se>
+    <se lang="latin" variant_id="1">Denique per illam hypothesim praecedentem particulam lucis necessario sequi cursu debent aliae numero fere infinitae pari rapiditate; quae omnes eodem fere temporis puncto in quolibet puncto viae suae praesto sunt.</se>
+    <weight variant_id="1">0,272581</weight>
+  </para>
+  <para id="154">
+    <se lang="russian" variant_id="0">Лемма</se>
+    <se lang="latin" variant_id="1">Lemma</se>
+    <weight variant_id="1">0,3</weight>
+  </para>
+  <para id="155">
+    <se lang="" variant_id="0">§.</se>
+    <se lang="" variant_id="1">§.</se>
+    <weight variant_id="1">1,8</weight>
+  </para>
+  <para id="156">
+    <se lang="russian" variant_id="0">Теплота распространяется через эфир вращательным движением его частиц.</se>
+    <se lang="latin" variant_id="1">Calor propagatur per aetherem motu particularum ejus gyratorio.</se>
+    <weight variant_id="1">0,263158</weight>
+  </para>
+  <para id="157">
+    <se lang="russian" variant_id="0">Доказательство</se>
+    <se lang="latin" variant_id="1">Demonstratio</se>
+    <weight variant_id="1">0,253846</weight>
+  </para>
+  <para id="158">
+    <se lang="russian" variant_id="0">Солнечная теплота распространяется через эфир до чувствительных земных тел и сообщается им.</se>
+    <se lang="latin" variant_id="1">Calor solis propagatur ad corpora sensibilia terrestria per aetherem iisque communicatur.</se>
+    <weight variant_id="1">0,29625</weight>
+  </para>
+  <para id="159">
+    <se lang="russian" variant_id="0">Теплота чувствительных тел состоит во вращательном движении корпускул собственной материи; следовательно, вращательное движение передается чувствительным телам от эфира.</se>
+    <se lang="latin" variant_id="1">Calor corporum sensibilium consistit in motu gyratorio corpusculorum materiae propriae, imprimitur ergo motus gyratorius corporibus sensibilibus ab aethere.</se>
+    <weight variant_id="1">0,272143</weight>
+  </para>
+  <para id="160">
+    <se lang="russian" variant_id="0">Необходимо, чтобы эфир, сообщая теплоту, сам обладал теплотой.</se>
+    <se lang="latin" variant_id="1">Aether, cum calorem communicat, ipse calidus sit necesse est.</se>
+    <weight variant_id="1">0,288889</weight>
+  </para>
+  <para id="161">
+    <se lang="russian" variant_id="0">Так как одни и те же действия производятся одними и теми же причинами, то и теплота эфира должна состоять в таком же вращательном движении, и следовательно теплота распространяется в эфире вращательным движением, что и требовалось доказать.</se>
+    <se lang="latin" variant_id="1">Ut eorundem effectuum eaedem sunt causae, igitur etiam calor aetheris consistit in eodem motu gyratorio, atque adeo calor propagatur in aethere motu gyratorio, q. e. d.</se>
+    <weight variant_id="1">0,170833</weight>
+  </para>
+  <para id="162">
+    <se lang="russian" variant_id="0">Положение</se>
+    <se lang="latin" variant_id="1">Theorema</se>
+    <weight variant_id="1">0,266667</weight>
+  </para>
+  <para id="163">
+    <se lang="" variant_id="0">§.</se>
+    <se lang="" variant_id="1">§.</se>
+    <weight variant_id="1">1,8</weight>
+  </para>
+  <para id="164">
+    <se lang="russian" variant_id="0">Свет распространяется колебательным движением.</se>
+    <se lang="latin" variant_id="1">Lux propagatur motu tremulo.</se>
+    <weight variant_id="1">0,0923077</weight>
+  </para>
+  <para id="165">
+    <se lang="russian" variant_id="0">Доказательство</se>
+    <se lang="latin" variant_id="1">Demonstratio</se>
+    <weight variant_id="1">0,253846</weight>
+  </para>
+  <para id="166">
+    <se lang="russian" variant_id="0">Свет не может распространяться поступательным движением (§ ), следовательно распространяется либо вращательным, либо колебательным (§ ).</se>
+    <se lang="latin" variant_id="1">Lux propagari non potest motu progressivo (§.), propagatur ergo vel gyratorio vel tremulo (§.).</se>
+    <weight variant_id="1">0,159036</weight>
+  </para>
+  <para id="167">
+    <se lang="russian" variant_id="0">Вращательным движением распространяется теплота (§ ); но тем движением, которым распространяется теплота, не распространяется свет (§ ).</se>
+    <se lang="latin" variant_id="1">Gyratorio propagatur calor (§.); quo autem calor propagatur, eo non propagatur lumen (§).</se>
+    <weight variant_id="1">0,134615</weight>
+  </para>
+  <para id="168">
+    <se lang="russian" variant_id="0">Следовательно, свет не распространяется ни поступательным, ни вращательным движением, — а потому только колебательным.</se>
+    <se lang="latin" variant_id="1">Ergo lux nec progressivo nec gyratorio motu propagatur, adeoque solum tremulo.</se>
+    <weight variant_id="1">0,13913</weight>
+  </para>
+  <para id="169">
+    <se lang="russian" variant_id="0">Изъяснение</se>
+    <se lang="latin" variant_id="1">Scholium</se>
+    <weight variant_id="1">0,233333</weight>
+  </para>
+  <para id="170">
+    <se lang="" variant_id="0">§.</se>
+    <se lang="" variant_id="1">§.</se>
+    <weight variant_id="1">1,8</weight>
+  </para>
+  <para id="171">
+    <se lang="russian" variant_id="0">Насколько естественной и насколько согласной с природой является эта причина распространения света, делается вполне очевидным по аналогии: ибо, как в воздухе и т. д.</se>
+    <se lang="latin" variant_id="1">Quam apta et quam consona sit naturae haec propagati luminis causa, clarissime ex analogia perspicitur, quandoquidem, ut in aere etc.</se>
+    <weight variant_id="1">0,226957</weight>
+  </para>
+  <para id="172">
+    <se lang="russian" variant_id="0">Положение</se>
+    <se lang="latin" variant_id="1">Theorema</se>
+    <weight variant_id="1">0,266667</weight>
+  </para>
+  <para id="173">
+    <se lang="" variant_id="0">§.</se>
+    <se lang="" variant_id="1">§.</se>
+    <weight variant_id="1">1,8</weight>
+  </para>
+  <para id="174">
+    <se lang="russian" variant_id="0">Частицы, составляющие эфир, всегда находятся все в соприкосновении с соседними.</se>
+    <se lang="latin" variant_id="1">Particulae, aetherem constituentes, sunt semper cum proxime vicinis in contactu omnes.</se>
+    <weight variant_id="1">0,274648</weight>
+  </para>
+  <para id="175">
+    <se lang="russian" variant_id="0">Доказательство 1-е</se>
+    <se lang="latin" variant_id="1">Demonstratio 1-ma</se>
+    <weight variant_id="1">0,282353</weight>
+  </para>
+  <para id="176">
+    <se lang="russian" variant_id="0">Свет распространяется через огромнейшие пространства в нечувствительный момент времени (явствует из бесчисленных наблюдений и повседневного опыта); колебательное же движение, которым через эфир распространяется свет, не может иначе происходить, как если одна корпускула ударит в другую корпускулу; а ударить не может, если не прикасается.</se>
+    <se lang="latin" variant_id="1">Lumen propagatur per vastissima spatia temporis momento insensibili (patet ex innumeris observationibus et quotidiana experientia); tremulus autem motus, quo per aetherem lumen propagatur, fieri aliter nequit, nisi corpusculum in corpusculum impingat; impingere nequit, quin tangat.</se>
+    <weight variant_id="1">0,242169</weight>
+  </para>
+  <para id="177">
+    <se lang="russian" variant_id="0">Прикасание ударяющей частицы может быть прерывным и непрерывным.</se>
+    <se lang="latin" variant_id="1">Contactus impingentis potest esse interruptus vel continuus.</se>
+    <weight variant_id="1">0,283636</weight>
+  </para>
+  <para id="178">
+    <se lang="russian" variant_id="0">Положим, что прикасание прерывное; тогда в течение его будет время, когда одна частица не касается другой и, значит, движется, не сообщая своего движения другой.</se>
+    <se lang="latin" variant_id="1">Ponamus contactum esse interruptum; erit inter eum tempus, quo una particula alteram non contingit adeoque movetur non imprimens motum alteri.</se>
+    <weight variant_id="1">0,26371</weight>
+  </para>
+  <para id="179">
+    <se lang="russian" variant_id="0">Так как это должно происходить между любыми частицами освещенного ощутимого пространства, то поэтому распространение света не было бы мгновенным, каково оно есть, но заняло бы заметное время — тем большее, чем больше длина расстояния.</se>
+    <se lang="latin" variant_id="1">Quod cum inter quamlibet particulam spatii illuminati sensibilis fieri debet, idcirco propagatio luminis instantanea, ut est, non esset, sed tempus sensibile consumeret, eo magis, quo vastior esset spatii distantia.</se>
+    <weight variant_id="1">0,27766</weight>
+  </para>
+  <para id="180">
+    <se lang="russian" variant_id="0">Ибо, хотя время, которое эфирные корпускулы затрачивают на движение без соприкосновения, почти бесконечно мало, но корпускул, вследствие их малости, имеется почти бесконечно большое число.</se>
+    <se lang="latin" variant_id="1">Quamvis enim tempusculum, quod motu corpuscula aetherea sine contactu consumunt, sit fere infinite parvum, verum tamen et corpuscula sunt numero fere infinita propter subtilitatem.</se>
+    <weight variant_id="1">0,28481</weight>
+  </para>
+  <para id="181">
+    <se lang="russian" variant_id="0">А величина бесконечно малая, взятая бесконечно большое число раз, дает нечто осязательное и большое.</se>
+    <se lang="latin" variant_id="1">Infinite parvum autem infinities sumptum efficit aliquid sensibile et magnum.</se>
+    <weight variant_id="1">0,217391</weight>
+  </para>
+  <para id="182">
+    <se lang="russian" variant_id="0">Поэтому и время распространения света было бы заметным, если бы частицы эфира не были все в соприкосновении; но так как время распространения света на огромные расстояния едва заметно, то, очевидно, частицы эфира должны быть в соприкосновении, что и требовалось доказать.</se>
+    <se lang="latin" variant_id="1">Quapropter et tempus propagationis luminis esset insigne, si particulae aetheris non essent omnes in contactu; at, quoniam tempus propagationis luminis in vastis distantiis vix est sensibile, patet particulas aetheris esse debere in contactu. ~~~ Q. e. d.</se>
+    <weight variant_id="1">-0,00886364</weight>
+  </para>
+  <para id="183">
+    <se lang="russian" variant_id="0">Изъяснение</se>
+    <se lang="latin" variant_id="1">Scholion</se>
+    <weight variant_id="1">0,233333</weight>
+  </para>
+  <para id="184">
+    <se lang="" variant_id="0">§.</se>
+    <se lang="" variant_id="1">§.</se>
+    <weight variant_id="1">1,8</weight>
+  </para>
+  <para id="185">
+    <se lang="russian" variant_id="0">Пример дает распространение звука, потому что частицы воздуха не находятся в соприкосновении, и т. д.</se>
+    <se lang="latin" variant_id="1">Exemplum propagationis soni, quod particulae aeris in contactu non sint, etc.</se>
+    <weight variant_id="1">0,211765</weight>
+  </para>
+  <para id="186">
+    <se lang="russian" variant_id="0">Доказательство 2-е</se>
+    <se lang="latin" variant_id="1">Demonstratio 2-da</se>
+    <weight variant_id="1">0,282353</weight>
+  </para>
+  <para id="187">
+    <se lang="russian" variant_id="0">Теплота распространяется в чувствительных телах, части которых взаимно соприкасаются (потому что сцеплены); из аналогии и подобия природы следует, что и без взаимного соприкосновения частиц эфира теплота не может распространяться.</se>
+    <se lang="latin" variant_id="1">Calor propagatur in corporibus sensibilibus, quorum partes se mutuo contingunt (nam cohaerent); ex analogia et similitudine naturae sequitur etiam sine mutuo contactu particularum aetheris calorem propagari non posse.</se>
+    <weight variant_id="1">0,281152</weight>
+  </para>
+  <para id="188">
+    <se lang="russian" variant_id="0">Положение</se>
+    <se lang="latin" variant_id="1">Theorema</se>
+    <weight variant_id="1">0,266667</weight>
+  </para>
+  <para id="189">
+    <se lang="" variant_id="0">§.</se>
+    <se lang="" variant_id="1">§.</se>
+    <weight variant_id="1">1,8</weight>
+  </para>
+  <para id="190">
+    <se lang="russian" variant_id="0">Частицы эфира имеют шаровидную фигуру.</se>
+    <se lang="latin" variant_id="1">Particulae aetheris sunt figurae sphaericae.</se>
+    <weight variant_id="1">0,248571</weight>
+  </para>
+  <para id="191">
+    <se lang="russian" variant_id="0">Доказательство</se>
+    <se lang="latin" variant_id="1">Demonstratio</se>
+    <weight variant_id="1">0,253846</weight>
+  </para>
+  <para id="192">
+    <se lang="russian" variant_id="0">Частицы эфира распространяют теплоту вращательным движением (§ ); к таковому не пригодна ни одна фигура, кроме шарообразной или приближающейся к ней.</se>
+    <se lang="latin" variant_id="1">Particulae aetheris propagant calorem motu gyratorio (§.); ad eum vero omnis figura inepta est, praeter sphaericam aut quae prope accedit.</se>
+    <weight variant_id="1">0,275</weight>
+  </para>
+  <para id="193">
+    <se lang="russian" variant_id="0">Поэтому необходимо, чтобы частицы эфира имели фигуру шарообразную или приближающуюся к таковой.</se>
+    <se lang="latin" variant_id="1">Quamobrem, particulae aetheris habeant figuram sphaericam aut quae prope ipsi accedit, opus est.</se>
+    <weight variant_id="1">0,3</weight>
+  </para>
+  <para id="194">
+    <se lang="russian" variant_id="0">Изъяснение</se>
+    <se lang="latin" variant_id="1">Schol[ium].</se>
+    <weight variant_id="1">0,272727</weight>
+  </para>
+  <para id="195">
+    <se lang="" variant_id="0">§.</se>
+    <se lang="" variant_id="1">§.</se>
+    <weight variant_id="1">1,8</weight>
+  </para>
+  <para id="196">
+    <se lang="russian" variant_id="0">О всеобщей шарообразности частиц, также и частиц чувствительных тел, [можно заключить] не только по внутреннему движению их, но также по одинаковости веса тел при любом их положении.</se>
+    <se lang="latin" variant_id="1">De universali sphaericitate particularum, etiam corporum sensibilium, non solum ex motu intestino, verum etiam ex gravitate eadem in quolibet corporum situ.</se>
+    <weight variant_id="1">0,256204</weight>
+  </para>
+  <para id="197">
+    <se lang="russian" variant_id="0">Положение</se>
+    <se lang="latin" variant_id="1">Theorema</se>
+    <weight variant_id="1">0,266667</weight>
+  </para>
+  <para id="198">
+    <se lang="" variant_id="0">§.</se>
+    <se lang="" variant_id="1">§.</se>
+    <weight variant_id="1">1,8</weight>
+  </para>
+  <para id="199">
+    <se lang="russian" variant_id="0">Частицы эфира на своей шарообразной поверхности шероховаты.</se>
+    <se lang="latin" variant_id="1">Particulae aetheris sunt in sphaerica superficie scabrae.</se>
+    <weight variant_id="1">0,288462</weight>
+  </para>
+  <para id="200">
+    <se lang="russian" variant_id="0">Доказательство</se>
+    <se lang="latin" variant_id="1">Demonstratio</se>
+    <weight variant_id="1">0,253846</weight>
+  </para>
+  <para id="201">
+    <se lang="russian" variant_id="0">Теплота распространяется через эфир вращательным движением его частиц, находящихся всегда в соприкосновении с соседними.</se>
+    <se lang="latin" variant_id="1">Calor propagatur per aetherem motu particularum ejus gyratorio (§.), quae sunt semper cum proxime vicinis in contactu.</se>
+    <weight variant_id="1">0,285437</weight>
+  </para>
+  <para id="202">
+    <se lang="russian" variant_id="0">Предположим, что они все совершенно ровные и гладкие, без всякой шероховатости; тогда каждая частица будет двигаться своей поверхностью по поверхности другой без всякого трения.</se>
+    <se lang="latin" variant_id="1">Ponamus illas esse omnino glabras et leves sine ulla scabricie; movebitur ergo una superficie sua juxta superficiem alterius sine ulla frictione.</se>
+    <weight variant_id="1">0,230952</weight>
+  </para>
+  <para id="203">
+    <se lang="russian" variant_id="0">Отсюда, не будет никакого основания, чтобы движущаяся частица эфира могла двигать вокруг оси и приводить во вращение соседнюю, находящуюся в соприкосновении с нею.</se>
+    <se lang="latin" variant_id="1">Hinc nulla erit ratio, cur mota particula aetheris una circa axem movere et ciere in gyrum posset sibi vicinam, in contactu positam.</se>
+    <weight variant_id="1">0,219643</weight>
+  </para>
+  <para id="204">
+    <se lang="russian" variant_id="0">Ибо толчки, производимые колебательным движением, не пригодны для воспроизведения вращательного движения, если не будет трения.</se>
+    <se lang="latin" variant_id="1">Nam impulsiones, a motu tremulo profectae, ad gyratorium motum producendum sine frictione non quadrant.</se>
+    <weight variant_id="1">0,224176</weight>
+  </para>
+  <para id="205">
+    <se lang="russian" variant_id="0">Отсюда следует с необходимостью, что частицы эфира должны быть шероховатыми на своей поверхности.</se>
+    <se lang="latin" variant_id="1">Hinc necessario sequitur, particulas aetheris esse in superficie scabras.</se>
+    <weight variant_id="1">0,209091</weight>
+  </para>
+  <para id="206">
+    <se lang="russian" variant_id="0">Определение</se>
+    <se lang="latin" variant_id="1">Definitio</se>
+    <weight variant_id="1">0,24</weight>
+  </para>
+  <para id="207">
+    <se lang="" variant_id="0">§.</se>
+    <se lang="" variant_id="1">§.</se>
+    <weight variant_id="1">1,8</weight>
+  </para>
+  <para id="208">
+    <se lang="russian" variant_id="0">Я называю расположение шарообразных тел, находящихся в соприкосновении, квадратным или кубическим, когда линии, соединяющие центры шаров, образуют квадраты.</se>
+    <se lang="latin" variant_id="1">Situm sphaericorum corporum, in contactu positorum, appello quadratum seu cubicum, quando lineae, centra globorum conjungentes, formant quadrata.</se>
+    <weight variant_id="1">0,276923</weight>
+  </para>
+  <para id="209">
+    <se lang="russian" variant_id="0">Треугольным я называю то расположение, при котором эти линии составляют треугольники.</se>
+    <se lang="latin" variant_id="1">Triangulum autem situm nomino, si lineae illae triangula efficiunt.</se>
+    <weight variant_id="1">0,22</weight>
+  </para>
+  <para id="210">
+    <se lang="russian" variant_id="0">Изъяснение</se>
+    <se lang="latin" variant_id="1">Scholium</se>
+    <weight variant_id="1">0,233333</weight>
+  </para>
+  <para id="211">
+    <se lang="" variant_id="0">§.</se>
+    <se lang="" variant_id="1">§.</se>
+    <weight variant_id="1">1,8</weight>
+  </para>
+  <para id="212">
+    <se lang="russian" variant_id="0">Таким образом, когда шарообразные частицы расположены так, что каждая их четверка имеет центры в углах квадрата abcd, и по две четверки точно вписаны в куб — то расположение будет квадратное.</se>
+    <se lang="latin" variant_id="1">Nempe quando particulae sphaericae ita sunt dispositae, ut earum quisque quaternio centra habet in angulis quadrati abcd, bini autem quaterniones cubo adaequate inscribuntur, tum situs est quadratus.</se>
+    <weight variant_id="1">0,386897</weight>
+  </para>
+  <para id="213">
+    <se lang="russian" variant_id="0">Если же линии lm, mn, nl образуют треугольник, то я называю расположение треугольным, при котором фигура, образуемая четырьмя частицами, будет ромбической.</se>
+    <se lang="latin" variant_id="1">Si vero lineae lm, mn, nl triangulum formant, triangulum situm appello, ubi figura formatur inter quatuor romboica.</se>
+    <weight variant_id="1">0,692</weight>
+  </para>
+  <para id="214">
+    <se lang="russian" variant_id="0">Присовокупление</se>
+    <se lang="latin" variant_id="1">Corollarium</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="215">
+    <se lang="" variant_id="0">§.</se>
+    <se lang="" variant_id="1">§.</se>
+    <weight variant_id="1">1,8</weight>
+  </para>
+  <para id="216">
+    <se lang="russian" variant_id="0">Между расположением квадратным и треугольным существуют промежуточные расположения почти бесчисленные; именно, когда частицы a и d отходят друг от друга, а b и c друг к другу приближаются, и наоборот, как это можно видеть на фигурах..</se>
+    <se lang="latin" variant_id="1">Inter situm quadratum et triangulum dari medios situs fere infinitos; nempe quando corpusculis a et d a se invicem ~~~ recedentibus b et c ad se mutuo accedunt, et contra; quemadmodum in figuris.. videre est.</se>
+    <weight variant_id="1">0,127714</weight>
+  </para>
+  <para id="217">
+    <se lang="russian" variant_id="0">Положение</se>
+    <se lang="latin" variant_id="1">Theorema</se>
+    <weight variant_id="1">0,266667</weight>
+  </para>
+  <para id="218">
+    <se lang="" variant_id="0">§.</se>
+    <se lang="" variant_id="1">§.</se>
+    <weight variant_id="1">1,8</weight>
+  </para>
+  <para id="219">
+    <se lang="russian" variant_id="0">В телах, лишенных сцепления, эфир находится в расположении квадратном или ромбическом, свободном, не стесненном..</se>
+    <se lang="latin" variant_id="1">Aether in corporibus non cohaerentibus est in situ quadrato vel romboico libero, non stricto.</se>
+    <weight variant_id="1">0,222222</weight>
+  </para>
+</body>
+</html>

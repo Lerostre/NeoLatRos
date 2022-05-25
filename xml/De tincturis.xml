@@ -1,0 +1,702 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html>
+<head>
+</head>
+<body>
+  <para id="0">
+    <se lang="" variant_id="0">§ 2</se>
+    <se lang="" variant_id="1">§ 2</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="1">
+    <se lang="russian" variant_id="0">Сколь разнообразные и удивительные тела рождает природа в недрах земля, хорошо знают те, кто когда-либо имел удовольствие осмотреть хорошее собрание минералов или не гнушался ползать по темным грязным рудникам.</se>
+    <se lang="latin" variant_id="1">Quam varia, eaque admiranda corpora in penetralibus terrae natura progenerat, iis abunde constat, quibus splendidiora Minerophylacia aliquando perlustrare fuit volupe, vel quos tenebrosas et squallidas fodinas perreptare non distaeduit.</se>
+    <weight variant_id="1">0,257377</weight>
+  </para>
+  <para id="2">
+    <se lang="russian" variant_id="0">Некоторые минералы играют и роскошествуют разнообразными, прекрасными красками; и нередко, выдавая себя за что-нибудь более ценное, вводят в заблуждение не знающих минералогии.</se>
+    <se lang="latin" variant_id="1">Quaedam enim diversis iisque elegantibus coloribus ludunt atque superbiunt; nec raro preciosius aliquid mentiendo mineralogiae ignaris imponunt.</se>
+    <weight variant_id="1">0,237209</weight>
+  </para>
+  <para id="3">
+    <se lang="russian" variant_id="0">Иные же покрыты грубой одеждою и обманывают взоры людей неопытных, представляясь чем-то презренным: так наружность благородных металлов часто бывает невзрачной, а металлов низких — прикрашенной.</se>
+    <se lang="latin" variant_id="1">Nonnulla autem sordido velamine adoperta sunt et vilius quicquam repraesentando imperitorum oculos eludunt. ~~~ Ita nobilium metallorum facies plerumque obfuscatur, fucatur saepe ignobilium.</se>
+    <weight variant_id="1">-0,00267857</weight>
+  </para>
+  <para id="4">
+    <se lang="russian" variant_id="0">Наконец, многие из минералов обладают фигурою, свойственной обычно обитателям поверхности земли или воздуха, или вод; это — или действительно существовавшие животные и растения, за очень продолжительный промежуток времени приобревшие твердость камня, или настоящие минералы, принявшие их фигуру старанием прихотливой природы.</se>
+    <se lang="latin" variant_id="1">Denique plurima eorum figures prae se ferunt, quae alias telluris superficiem vel aëra aut aquas incolunt; eaque tum vera animalia aut vegetabilia sunt, et longissimo aevo petream duritiem induere; tum mera mineralia sunt, et ludentis naturae industria eorum figuram sibi adsciverunt.</se>
+    <weight variant_id="1">0,248571</weight>
+  </para>
+  <para id="5">
+    <se lang="" variant_id="0">§ 2</se>
+    <se lang="" variant_id="1">§ 2</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="6">
+    <se lang="russian" variant_id="0">С таким же изумлением видим мы у металлов, которые применяем уже очищенными, присущее столь твердому телу свойство тягучей и податливой ковкости и наблюдаем, что эти тела — самые достойные света дня и столь блестящие — находятся в невидимых недрах гор.</se>
+    <se lang="latin" variant_id="1">Nec metallorum, quae iam defaecata in usum adhibemus, sine pari admiratione possumus indolem contemplari, quod tam duro corpori tenax tractabilisque insit ductilitas, quodque caecos montium recessus tam fulgida et luce dieque dignissima corpora occupent.</se>
+    <weight variant_id="1">0,288785</weight>
+  </para>
+  <para id="7">
+    <se lang="russian" variant_id="0">Именно этими качествами они наиболее резко отличаются от остальных тел, так что их уместно определить как блестящие ковкие тела.</se>
+    <se lang="latin" variant_id="1">Atque istae quidem sunt qualitates, quae metalla a reliquis corporibus optime distinguunt, ut ea per corpora fulgida et ductilia congrue definiri possint.</se>
+    <weight variant_id="1">0,237838</weight>
+  </para>
+  <para id="8">
+    <se lang="" variant_id="0">§ 3</se>
+    <se lang="" variant_id="1">§ 3</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="9">
+    <se lang="russian" variant_id="0">Только что названные качества, составляющие видовое отличие металлов от других тел, присущи одним из них в большей степени, чем другим.</se>
+    <se lang="latin" variant_id="1">Memoratae qualitates, quae specificam differentiam metallorum ab aliis corporibus constituunt, quibusdam eorum firmius inhaerent, quam reliquis.</se>
+    <weight variant_id="1">0,266667</weight>
+  </para>
+  <para id="10">
+    <se lang="russian" variant_id="0">Так, некоторые довольно легко действием огня превращаются в пепел и стекло, теряя блеск и ковкость; остальные же этому почти или совершенно не подвержены. ~~~ Этим дают обозначение благородных, тем — неблагородных.</se>
+    <se lang="latin" variant_id="1">Nimirum quaedam actione ignis in cineres et vitrum non adeo difficile rediguntur, fulgore et ductilitate amissis; alia vero vix aut ne vix quidem id patiuntur; unde haec nobilitatis, illa vero ignobilitatis nomine donantur.</se>
+    <weight variant_id="1">-0,00652174</weight>
+  </para>
+  <para id="11">
+    <se lang="russian" variant_id="0">К первым относятся золото и серебро, а остальные четыре, именно медь и олово, железо и свинец, — к последним.</se>
+    <se lang="latin" variant_id="1">Aurum et argentum ad prius, reliqua quatuor, cuprum nempe et stannum, ferrum et plumbum, ad posterius genus referuntur.</se>
+    <weight variant_id="1">0,26413</weight>
+  </para>
+  <para id="12">
+    <se lang="" variant_id="0">§ 4</se>
+    <se lang="" variant_id="1">§ 4</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="13">
+    <se lang="russian" variant_id="0">Качества тел не могут претерпеть какое-либо изменение без того, чтобы не произошло какого-нибудь изменения в нечувствительных частях их.</se>
+    <se lang="latin" variant_id="1">Qualitates corporum haud ullam mutationem subire possunt, quin in eorum partibus insensibilibus mutatio aliqua contingat.</se>
+    <weight variant_id="1">0,266667</weight>
+  </para>
+  <para id="14">
+    <se lang="russian" variant_id="0">А изменение в теле может произойти только тогда, если к нему что-либо прибавится или уйдет от него, или переменят расположение его части.</se>
+    <se lang="latin" variant_id="1">Haec autem in corpore nulla fit, nisi eidem aliquid accedat decedatve, aut ejusdem partes transponantur.</se>
+    <weight variant_id="1">0,214286</weight>
+  </para>
+  <para id="15">
+    <se lang="russian" variant_id="0">Неблагородные металлы при обжигании выделяют пары, поражающие чувство обоняния и вызывающие кашель.</se>
+    <se lang="latin" variant_id="1">Metalla ignobilia dum calcinantur, vapores emittunt, sensum olfactus adeo ferientes tussimque excitantes.</se>
+    <weight variant_id="1">0,279775</weight>
+  </para>
+  <para id="16">
+    <se lang="russian" variant_id="0">Свинец, переводимый в стекло силою огня в пробирной печи, испускает дым, видимый для глаз; эти явления ясно свидетельствуют, что обжигание и остеклование неблагородных металлов происходят вследствие удаления некоторых частей их.</se>
+    <se lang="latin" variant_id="1">Plumbum dum in docimastico furno ignis vigore in vitrum urgetur, fumum emittit oculis spectandum; quae phaenomena manifesto loquuntur, ignobilium metallorum calcinationem vitrificationemque fieri ob decessum partium.</se>
+    <weight variant_id="1">0,2875</weight>
+  </para>
+  <para id="17">
+    <se lang="" variant_id="0">§ 5</se>
+    <se lang="" variant_id="1">§ 5</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="18">
+    <se lang="russian" variant_id="0">Хотя обожженные металлы увеличиваются в весе, откуда можно было бы заключить, что это изменение совершается от прибавления какой-то посторонней материи, однако 1) восстановление металлов, ниже (§ 10 и 11) упоминаемое, свидетельствует об удалении материи, 2) как и металлы, которые, будучи переведены в стекло, теряют в абсолютном весе; 3) что увеличение веса в обожженных телах может происходить от совсем иной причины, чем от прибавления какой-либо внешней материи, согласится всякий, кто не отрицает, что тяготительная материя должна сильнее действовать на бока корпускул, освободившиеся от взаимного касания при прокаливании.</se>
+    <se lang="latin" variant_id="1">Quamvis autem calcinata metalla etiam pondere augeantur, indeque inferri possit, mutationem illam ob accessionem alicujus materiae peregrinae fieri; verum tamen 1) reductio metallorum, inferius (§ 10 et 11) notata, decessum tuetur; 2) ut et metalla, quae in vitrum redacta de pondere absoluto amittunt; 3) augmentum ponderis in calcinatis ab alia prorsus causa, quam ab accessione materiae alicujus externae, proficisci posse existimabit, qui gravificam materiam in liberate corpusculorum latera a contactu per calcinationem fortius agere debere non negat.</se>
+    <weight variant_id="1">1,21664</weight>
+  </para>
+  <para id="19">
+    <se lang="" variant_id="0">§ 6</se>
+    <se lang="" variant_id="1">§ 6</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="20">
+    <se lang="russian" variant_id="0">Но если частицы какого-нибудь смешанного тела, которые подобны всему телу в отношении частных качеств и по составу, извлекаются силою огня или каким-либо другим способом, то тело не претерпевает какого-либо изменения качеств, но лишь уменьшается его масса.</se>
+    <se lang="latin" variant_id="1">Verum si alicujus corporis particulae mixti, nempe quae ratione qualitatum particularium et mixtionis integro corpori sunt similes, vi ignis vel alia quacunque ratione detrahuntur, corpus nullam mutationem qualitatum suarum patitur, sed solum diminuitur ejus massa.</se>
+    <weight variant_id="1">0,286486</weight>
+  </para>
+  <para id="21">
+    <se lang="russian" variant_id="0">Это и происходит при перегонке ртути или возгонке серы.</se>
+    <se lang="latin" variant_id="1">Quod fit, ubi destillamus mercurium, aut sulphur sublimamus.</se>
+    <weight variant_id="1">0,2625</weight>
+  </para>
+  <para id="22">
+    <se lang="russian" variant_id="0">Но неблагородные металлы изменяют свой вид при обжигании и стекловании (§ 3).</se>
+    <se lang="latin" variant_id="1">Ast calcinatione et vitrificatione forma metallorum ignobilium immutatur. (§ 3). ~~~ </se>
+    <weight variant_id="1">0,3</weight>
+  </para>
+  <para id="23">
+    <se lang="russian" variant_id="0">Итак, очевидно, что они — тела смешанные и что во время прокаливания и остеклования из них удаляется некоторая летучая составная часть.</se>
+    <se lang="latin" variant_id="1">Patet igitur ea esse corpora mixta atque calcinationis et vitrificationis tempore miscibile aliquod volatile iisdem subtrahi.</se>
+    <weight variant_id="1">-0,00258621</weight>
+  </para>
+  <para id="24">
+    <se lang="" variant_id="0">§ 7</se>
+    <se lang="" variant_id="1">§ 7</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="25">
+    <se lang="russian" variant_id="0">До тех пор, пока эта летучая составная часть неблагородных металлов находится в них, остаются неприкосновенными блеск металла и ковкость его; а как только ее изгонит ярость огня, эти металлы разрыхляются в пепел и, наконец, сплавляются в хрупкую не блестящую массу.</se>
+    <se lang="latin" variant_id="1">Quamdiu volatile hoc ignobilium metallorum miscibile iisdem inhaeret, fulgor metallicus et ductilitas manent incolumes; at quam primum ignis violentia abigitur, metalla haec in cineres fatiscunt et tandem in massam fragilem minus fulgentem conflantur.</se>
+    <weight variant_id="1">0,290455</weight>
+  </para>
+  <para id="26">
+    <se lang="russian" variant_id="0">Из этого всего ясно, что блеск и ковкость низких металлов зависят от этого летучего начала.</se>
+    <se lang="latin" variant_id="1">Unde perspicuum est, fulgorem et ductilitatem metallorum ignobilium a volatili illo principio pendere.</se>
+    <weight variant_id="1">0,25</weight>
+  </para>
+  <para id="27">
+    <se lang="" variant_id="0">§ 8</se>
+    <se lang="" variant_id="1">§ 8</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="28">
+    <se lang="russian" variant_id="0">Хотя благородные металлы, месяцами подвергаемые действию самого сильного огня, не поддаются его силе, однако аналогия дает весьма сильный довод в пользу того, что достаточное основание их блеска и ковкости находится в некоторой летучей составной части, которая соединена с постоянной составной частью их гораздо прочнее.</se>
+    <se lang="latin" variant_id="1">Quamvis autem nobilia metalla per menses validissimo igne exagitata vim ejus eludunt, ex analogia tamen fortissimum adfertur argumentum, fulgoris et ductilitatis eorum rationem sufficientem in volatili quodam miscibili positam, quod fixo eorundem miscibili multo strictius adhaeret.</se>
+    <weight variant_id="1">0,26371</weight>
+  </para>
+  <para id="29">
+    <se lang="russian" variant_id="0">Имеются и свидетельства известных химиков, согласно которым золото и серебро медленным и продолжительным обжиганием можно превратить в пепел.</se>
+    <se lang="latin" variant_id="1">Nec desunt etiam celebrium Chymicorum testimonia, quae doceant, aurum et argentum leni et diuturna calcinatione in cineres converti posse.</se>
+    <weight variant_id="1">0,22623</weight>
+  </para>
+  <para id="30">
+    <se lang="russian" variant_id="0">Это будет более очевидно из сказанного ниже (§ 14, 15, 19).</se>
+    <se lang="latin" variant_id="1">Ex inferius tamen dicendis erit hoc magis perspicuum (§ 14, 15, 19).</se>
+    <weight variant_id="1">1,252</weight>
+  </para>
+  <para id="31">
+    <se lang="" variant_id="0">§ 9</se>
+    <se lang="" variant_id="1">§ 9</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="32">
+    <se lang="russian" variant_id="0">Так как помянутая летучая составная часть металлов сообщает им металлический вид и как бы осветляет их блестящим цветом, то ей уместно дать название блеска.</se>
+    <se lang="latin" variant_id="1">Quoniam memoratum miscibile metallorum volatile formam metallorum illis conciliat, eaque fulgido colore quasi tingit, quare non incongrue tincturae nomine salutari potest.</se>
+    <weight variant_id="1">0,259701</weight>
+  </para>
+  <para id="33">
+    <se lang="" variant_id="0">§ 10</se>
+    <se lang="" variant_id="1">§ 10</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="34">
+    <se lang="russian" variant_id="0">Селитра, хотя бы подвергалась действию пламени в тигле вплоть до красного каления, совершенно не загорается пламенем, если к ней не прибавить тела, содержащего горючую материю: тогда она вспыхивает мгновенным пламенем.</se>
+    <se lang="latin" variant_id="1">Nitrum quamvis ad candescentiam usque in puro crucibulo igne urgetur, flammam tamen minime concipit, nisi corpus inflammabili materia praeditum illi ingeratur: tum enim pernici flamma detonare solet.</se>
+    <weight variant_id="1">0,272414</weight>
+  </para>
+  <para id="35">
+    <se lang="russian" variant_id="0">Неблагородные металлы в опилках дают с этой солью в огне вспышку; отсюда вполне очевидно, что в неблагородных металлах находится некоторая горючая материя.</se>
+    <se lang="latin" variant_id="1">Metalla ignobilia in scobem limata cum dicto sale in igne etiam fulminant.</se>
+    <weight variant_id="1">-0,0328125</weight>
+  </para>
+  <para id="36">
+    <se lang="russian" variant_id="0">Когда таковая выгнана взрывом, то остаток металла обращается в стеклующуюся массу.</se>
+    <se lang="latin" variant_id="1">Unde facile apparet, metallis ignobilibus inflammabilem quandam materiam inesse.</se>
+    <weight variant_id="1">0,3</weight>
+  </para>
+  <para id="37">
+    <se lang="russian" variant_id="0">Поэтому совершенно очевидно, что блеск неблагородных металлов состоит, главным образом, из того горючего вещества, которое обычно у химиков зовется флогистоном.</se>
+    <se lang="latin" variant_id="1">Quoniam autem ea per detonationem excussa, reliquum metalli in massam vitrescentem redigitur; manifesto igitur patet tincturam metallorum ignobilium ex inflammabili substantia, quae alias apud Chymicos Phlogiston audit, praecipue constare.</se>
+    <weight variant_id="1">0,152113</weight>
+  </para>
+  <para id="38">
+    <se lang="" variant_id="0">§ 11</se>
+    <se lang="" variant_id="1">§ 11</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="39">
+    <se lang="russian" variant_id="0">Справедливость сказанного подкрепляет и самое восстановление металлов, которое вновь дает стеклам и металлическим окалинам блеск и ковкость.</se>
+    <se lang="latin" variant_id="1">Asserti veritatem adstruit ipsa metallorum reductio, qua vitris et calcibus metallicis fulgor et ductilitas restaurantur.</se>
+    <weight variant_id="1">0,252778</weight>
+  </para>
+  <para id="40">
+    <se lang="russian" variant_id="0">Ибо для восстановления металлов необходимо требуется флогистон.</se>
+    <se lang="latin" variant_id="1">Etenim ad metalla reducenda phlogiston necessario requiritur.</se>
+    <weight variant_id="1">0,289286</weight>
+  </para>
+  <para id="41">
+    <se lang="russian" variant_id="0">Так называемый черный флюс, который обычно применяется для этой цели, есть не что иное, как уголь винного камня, сожженного с селитрою.</se>
+    <se lang="latin" variant_id="1">Fluor niger sic dictus, qui ad hoc opus adhiberi saepius solet, nil aliud est, quam carbo tartari cum nitro detonati.</se>
+    <weight variant_id="1">0,248485</weight>
+  </para>
+  <para id="42">
+    <se lang="russian" variant_id="0">Свинцовый глёт с порошком древесного угля, оловянная окалина с углем сожженного сала при прокаливании в огне с серою и табаком вновь приобретают вид металла.</se>
+    <se lang="latin" variant_id="1">Vitrum plumbi cum carbonibus lignorum pulverisatis, stannum calcinatum cum carbone sebi usti, cum sulphure vero tostum adjecta herba Nicotiana, in igne metallicam formam recuperant.</se>
+    <weight variant_id="1">0,102128</weight>
+  </para>
+  <para id="43">
+    <se lang="" variant_id="0">* Шталь в Трактате о солях, глава 31.</se>
+    <se lang="" variant_id="1">* Stahlius in Tractatu de salibus, cap. 31. ~~~ </se>
+    <weight variant_id="1">0,645968</weight>
+  </para>
+  <para id="44">
+    <se lang="russian" variant_id="0">А все названные тела насыщены горючей материей.</se>
+    <se lang="latin" variant_id="1">Omnia autem haec corpora inflammabili materia referta sunt.</se>
+    <weight variant_id="1">0,221429</weight>
+  </para>
+  <para id="45">
+    <se lang="" variant_id="0">§ 12</se>
+    <se lang="" variant_id="1">§ 12</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="46">
+    <se lang="russian" variant_id="0">И другие операции химии доказывают то же самое.</se>
+    <se lang="latin" variant_id="1">Nec aliae quoque operationes Chymicae idem non probant.</se>
+    <weight variant_id="1">0,241463</weight>
+  </para>
+  <para id="47">
+    <se lang="russian" variant_id="0">Так, при растворении какого-нибудь неблагородного металла, особенно железа, в кислотных спиртах из отверстия склянки вырывается горючий пар, который представляет собою не что иное, как флогистон, выделившийся от трения растворителя с молекулами металла и увлеченный вырывающимся воздухом с более тонкими частями спирта.</se>
+    <se lang="latin" variant_id="1">Siquidem spiritibus acidis metallum aliquod ignobile, praesertim ferrum, solventibus, ex orificio vitri vapor prorumpit inflammabilis, qui nil aliud est, quam phlogiston, frictione Menstrui ad metalli moleculas facta absumptum, et cum tenuioribus spiritus partibus erumpente aëre raptum.</se>
+    <weight variant_id="1">0,267984</weight>
+  </para>
+  <para id="48">
+    <se lang="russian" variant_id="0">Ибо 1) чистые пары кислых спиртов невоспламенимы; 2) извести металлов, разрушившихся при потере горячих паров, совсем не могут быть восстановлены без добавления какого-либо тела, изобилующего горючей материей.</se>
+    <se lang="latin" variant_id="1">Nam 1) vapores spirituum acidorum puri inflammabiles non sunt; 2) calces metallorum, quae emissis ardentibus vaporibus soluta sunt, sine adjecto corpore aliquo, quod inflammabili materia satis abundat, reduci prorsus nequeunt.</se>
+    <weight variant_id="1">0,49146</weight>
+  </para>
+  <para id="49">
+    <se lang="" variant_id="0">§ 13</se>
+    <se lang="" variant_id="1">§ 13</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="50">
+    <se lang="russian" variant_id="0">Когда железо растворяется в самом концентрированном купоросном масле, то на дно падает черный порошок, который оказывается настоящею серою.</se>
+    <se lang="latin" variant_id="1">Quando ferrum in oleo vitrioli concentratissimo solvitur, pulvis niger fundum petit, qui tandem verum sulphur esse depraehenditur.</se>
+    <weight variant_id="1">0,27913</weight>
+  </para>
+  <para id="51">
+    <se lang="russian" variant_id="0">Последняя состоит из флогистона и серной кислоты, свойства которой тождественны со свойствами купоросной кислоты.</se>
+    <se lang="latin" variant_id="1">Hoc autem constat ex phlogisto et acido sulphureo, quod cum vitriolico ejusdem est indolis.</se>
+    <weight variant_id="1">0,216456</weight>
+  </para>
+  <para id="52">
+    <se lang="russian" variant_id="0">Следовательно, к купоросной кислоте, растворяющей железо, присоединяется флогистон железа, и так составляется сера.</se>
+    <se lang="latin" variant_id="1">Acido igitur vitrioli ferrum solventi phlogiston martis jungitur, indeque sulphur componitur.</se>
+    <weight variant_id="1">0,228571</weight>
+  </para>
+  <para id="53">
+    <se lang="" variant_id="0">* Наша диссертация о действии химических растворителей, § 14 в 31.. Нов. комм. т.</se>
+    <se lang="" variant_id="1">* Dissertatio nostra de actione menstruorum, § 14 et 31.. Nov. comm., t.</se>
+    <weight variant_id="1">3,26066</weight>
+  </para>
+  <para id="54">
+    <se lang="russian" variant_id="0">I.</se>
+    <se lang="latin" variant_id="1">I.</se>
+    <weight variant_id="1">1,8</weight>
+  </para>
+  <para id="55">
+    <se lang="" variant_id="0">** Шталь в Трактате о сере.</se>
+    <se lang="" variant_id="1">** Stahlius in Tractatu de sulphure.</se>
+    <weight variant_id="1">0,61118</weight>
+  </para>
+  <para id="56">
+    <se lang="russian" variant_id="0">Согласно Бехеру, из ила, напитанного льняным маслом, скатанного в шарики, затем обожженного и отмытого от более легкой земли, образуется черный порошок; из него магнитом извлекается железо, в котором есть золото; это никогда не удается без льняного масла.</se>
+    <se lang="latin" variant_id="1">Becherus Author est ex limo, oleo lini impraegnato et in globulos formato, deinde tosto et a terra leviore eluto, pulverem nigrum produci, indeque magnetis virtute ferrum extrahi, cui aurum inest; id ipsum tamen sine oleo lini haud unquam succedere.</se>
+    <weight variant_id="1">0,288679</weight>
+  </para>
+  <para id="57">
+    <se lang="russian" variant_id="0">Для приготовления бронзы из меди берут каламин и к нему прибавляют растертый древесный уголь для того, чтобы части этого минерала, обладающие природою металла, восстановились и могли соединиться с медью.</se>
+    <se lang="latin" variant_id="1">Ad orichalcum ex cupro conficiendum adhibetur lapis calaminaris, cui carbones triti adduntur, eum in finem, ut partes lapidis, quae metallicae sunt indolis, reductae cum cupro conjungi possint.</se>
+    <weight variant_id="1">0,285714</weight>
+  </para>
+  <para id="58">
+    <se lang="" variant_id="0">§ 15</se>
+    <se lang="" variant_id="1">§ 15</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="59">
+    <se lang="russian" variant_id="0">Приведенными до сих пор фактами достаточно устанавливается справедливость положения, выдвинутого нами в § 10. Хотя все, сказанное там, относится более к неблагородным металлам, однако легкое соединение таковых с благородными металлами при сплавлении совершенно ясно указывает на однородность имеющегося в них блеска, тем более, что окраска благороднейшего из всех металлов усиливается флогистоном неблагородных металлов.</se>
+    <se lang="latin" variant_id="1">Ex allatis hactenus documentis satis constat id, quod § 10 proposuimus. ~~~ Quae omnia licet ad ignobilia metalla potius referenda sunt, facilis tamen eorundem cum nobilibus per fusionem conjunctio, homogeneitatem, quae in eorum tincturis est, haud obscure arguit; praesertim cum phlogisto ignobilium color nobilissimi metallorum exaltari soleat.</se>
+    <weight variant_id="1">-0,035</weight>
+  </para>
+  <para id="60">
+    <se lang="russian" variant_id="0">Так, более красивый цвет золоту придает железистый или медистый королек сурьмы, который посредством плавления насыщен флогистоном железа или меди.</se>
+    <se lang="latin" variant_id="1">Siquidem regulus antimonii martialis aut venereus, qui phlogisto ferri aut cupri per fusionem impraegnatus est, pulchriorem auro colorem inducit.</se>
+    <weight variant_id="1">0,297656</weight>
+  </para>
+  <para id="61">
+    <se lang="russian" variant_id="0">Когда применяют при очищении металлов крепкие водки, то стараются удержать в них выделяющиеся при растворении тонкие (и притом воспламеняющиеся, § 12) пары, внося металл очень небольшими порциями в растворитель, чтобы при помощи этих паров извлечь золото из природного серебра.</se>
+    <se lang="latin" variant_id="1">Qui aquas gradatorias parant, subtiles vapores inter solvendum egredientes (nempe illos inflammabiles § 12) cohibere solent, metallum menstruo parcissime ingerendo, ut nempe horum auxilio ex mero argento aurum extrahant.</se>
+    <weight variant_id="1">0,426943</weight>
+  </para>
+  <para id="62">
+    <se lang="" variant_id="0">§ 16</se>
+    <se lang="" variant_id="1">§ 16</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="63">
+    <se lang="russian" variant_id="0">Что металлы получают блеск в недрах земли, вполне очевидно доказывают не только золото, серебро и медь, часто находимые самородными, но о том же говорят и те металлы, которые встречаются в соединении с другими минералами.</se>
+    <se lang="latin" variant_id="1">Metalla in telluris gremio tingi non solum aurum, argentum et cuprum, quae saepe defaecata reperiuntur, evidentissime ostendunt, sed et ea, quae aliis mineralibus involuta prodeunt, idem loquuntur.</se>
+    <weight variant_id="1">0,219101</weight>
+  </para>
+  <para id="64">
+    <se lang="russian" variant_id="0">Так, селитряный спирт растворяет некоторые колчеданы, изобилующие железом; при этом сера, которая образует их в соединении с металлом, падает на дно в виде порошка. ~~~ Это — очевидное указание на то, что железо, даже находящееся в жилах, не лишено своего флогистона, — так как металл, лишенный своего флогистона, отнюдь не подвергается действию селитряного спирта.</se>
+    <se lang="latin" variant_id="1">Siquidem pyrites nonnullos ferri feraces spiritus nitri solvit, sulphure, quod eosdem cum metallo iunctum componit, sub forma pulveris fundum petente, manifesto indicio, etiam ferrum, dum in venis adhuc haeret, suo phlogisto non destitui, cum metallum, hoc phlogisto privatum, spiritus nitri minime adoriri soleat.</se>
+    <weight variant_id="1">-0,0214286</weight>
+  </para>
+  <para id="65">
+    <se lang="russian" variant_id="0">Заметь к тому же, что с обожженными металлами сера не дает минералов, а с необожженными дает.</se>
+    <se lang="latin" variant_id="1">Adde quod sulphur cum metallis calcinatis in mineras conflari nequeat, id quod cum integris facit.</se>
+    <weight variant_id="1">0,277215</weight>
+  </para>
+  <para id="66">
+    <se lang="" variant_id="0">§ 17</se>
+    <se lang="" variant_id="1">§ 17</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="67">
+    <se lang="russian" variant_id="0">Предусмотрительность высшего божества сделала так, что род человеческий, рассеянный на поверхности земли, какую бы часть ее ни населял, всюду находит металлы, необходимые для удовлетворения своих потребностей.</se>
+    <se lang="latin" variant_id="1">Supremi Numinis providentia ita comparatum est, ut humanum genus, per telluris superficiem diffusum, quamcunque ejus partem incolat, ubivis metalla ad usum suum necessaria reperiat.</se>
+    <weight variant_id="1">0,250943</weight>
+  </para>
+  <para id="68">
+    <se lang="russian" variant_id="0">Так как для образования их требуется огромное количество дающего блеск флогистона, то премудрость того же провидения наполнила в изобилии глубочайшие недра гор жирным минералом, который мы называем серою, благодаря чему металлы были созданы не только некогда, в младенческие времена мира, но рождаются в большом количестве и до сего дня.</se>
+    <se lang="latin" variant_id="1">Ad haec autem progeneranda cum ingens copia tingentis phlogisti requiratur, eiusdem Numinis sapientia pinguis mineralis, quod sulphur appellamus, abundantia imas montium latebras adimplevit, quo factum est, ut non olim duntaxat et a mundi incunabulis metalla fuerint producta, verum etiam hunc usque in diem abunde generentur.</se>
+    <weight variant_id="1">0,29258</weight>
+  </para>
+  <para id="69">
+    <se lang="" variant_id="0">* Шталь. ~~~ О сере.</se>
+    <se lang="" variant_id="1">* Stahlius de sulphure.</se>
+    <weight variant_id="1">0,25625</weight>
+  </para>
+  <para id="70">
+    <se lang="" variant_id="0">** Многие, впрочем, уверены, что все металлы были при сотворении мира созданы богом там, где они теперь открываются трудами рудокопов.</se>
+    <se lang="" variant_id="1">** Quamvis non desunt, qui sibi persuasum habent, metalla omnia a mundi exordio ita fuisse a Deo creata, prout nunc fossorum opera deteguntur.</se>
+    <weight variant_id="1">0,0649631</weight>
+  </para>
+  <para id="71">
+    <se lang="russian" variant_id="0">Однако существуют весьма веские данные, подтверждающие обратное, и некоторые из них желательно привести и здесь.</se>
+    <se lang="latin" variant_id="1">Verum luculentissima documenta non desunt, quae partem contrariam tuentur, quorum quaedam hic recensere lubet.</se>
+    <weight variant_id="1">0,296939</weight>
+  </para>
+  <para id="72">
+    <se lang="russian" variant_id="0">В шведской провинции Ангерманнии жители разрабатывают железную жилу на дне озера; и когда со дна извлечено все вещество, так что ничего больше не остается, то через 20—30 лет оно снова возрождается, и снова производится сбор.</se>
+    <se lang="latin" variant_id="1">In Angermannia, Sweciae provincia, venam ferri in fundo lacuum incolae piscantur, quumque fundum evacuatur materia, adeo ut nil amplius residuum sit, post elapsos 20 aut 30 annos rursus renascitur et colligitur.</se>
+    <weight variant_id="1">0,283516</weight>
+  </para>
+  <para id="73">
+    <se lang="russian" variant_id="0">В Тосканском герцогстве, в горе Везулан, имеются свинцовые рудники, где колодцы и подземные ходы, после извлечения руды, через 10 лет снова наполняются и снова разрабатываются.</se>
+    <se lang="latin" variant_id="1">In ducatu Hetruriae mons Vesulanus minera plumbi refertus est, ubi putei et cuniculi, gleba metallica evacuati, tandem post 10 annos novo implentur et denuo exhauriuntur.</se>
+    <weight variant_id="1">1,55699</weight>
+  </para>
+  <para id="74">
+    <se lang="russian" variant_id="0">Остров Ильва [Эльба] Тосканского моря очень богат железом; на нем выработанный металл через 10 лет возрождается вновь, как это было уже и в древние времена, согласно свидетельству Марона: „Остров Ильва изобилует неисчерпаемыми железными рудами“.</se>
+    <se lang="latin" variant_id="1">Insula Ilva maris Tusci ferri est feracissima, in qua exhaustum metallum post 10 annos rursus regeneratur, quod etiam antiquis temporibus fuisse patet ex illo Maronis. Insula inexhaustis chalybum generosa metallis.</se>
+    <weight variant_id="1">1,42548</weight>
+  </para>
+  <para id="75">
+    <se lang="russian" variant_id="0">В руднике св. Лаврентия, в Абертамии, истощившемся 20 лет назад, было найдено самородное серебро, родившееся на деревянном бруске.</se>
+    <se lang="latin" variant_id="1">Aberthamiae in fodina sancti Laurentii, quae ante 20 annos exhausta fuit, argentum purum inventum est fulcro ligneo innatum.</se>
+    <weight variant_id="1">2,34794</weight>
+  </para>
+  <para id="76">
+    <se lang="russian" variant_id="0">Из всех доказательств, однако, самым веским является часто наблюдаемое рудокопами насыщение бесплодных жил испарениями и разрушение богатых жил, что немцы называют выветриванием.</se>
+    <se lang="latin" variant_id="1">Omnium autem argumentorum fortissimum est saepe observata a fossoribus sterilium venarum per halitum impraegnatio et divitum destructio, quod Germani Wettern vocant.</se>
+    <weight variant_id="1">0,275342</weight>
+  </para>
+  <para id="77">
+    <se lang="russian" variant_id="0">Земля в своих недрах содержит такое количество серы, что не только ею заполнены подземелья (не известен ни один рудник и ни один род металла, который бы не содержал серы), но это ископаемое выделяется даже на поверхности земли.</se>
+    <se lang="latin" variant_id="1">Tantam vero copiam sulphuris terra in sinu suo continet, ut non solum cryptae ejus illo refertae sint (nulla fodina aut metalli genus sine sulphure reperitur), sed etiam super ejus superficiem hoc fossile prorumpat.</se>
+    <weight variant_id="1">0,286957</weight>
+  </para>
+  <para id="78">
+    <se lang="russian" variant_id="0">На островах жаркой Индии и холодной Исландии горы выбрасывают столько серы, что покрытые ею они издали кажутся как бы позолоченными.</se>
+    <se lang="latin" variant_id="1">Montes insularum aestuosae Indiae et gelidae Islandiae tantum sulphuris fundunt, ut quidam eo delibuti tanquam auro inducti eminus spectentur.</se>
+    <weight variant_id="1">0,271053</weight>
+  </para>
+  <para id="79">
+    <se lang="russian" variant_id="0">Минеральные источники нередко выносят природный серный цвет.</se>
+    <se lang="latin" variant_id="1">Fontes minerales plurimi flores sulphuris nativos proferunt.</se>
+    <weight variant_id="1">0,3</weight>
+  </para>
+  <para id="80">
+    <se lang="russian" variant_id="0">Кроме всего другого, об этом свидетельствуют и пламя вулканических гор, где сера не может сгореть, хотя горит громадным пламенем в течение многих веков.</se>
+    <se lang="latin" variant_id="1">Prae reliquis vero montium vulcaniorum incendia, ubi sulphur per plurima saecula vastissima flamma consumi non potest, id testantur.</se>
+    <weight variant_id="1">0,1</weight>
+  </para>
+  <para id="81">
+    <se lang="" variant_id="0">§ 19</se>
+    <se lang="" variant_id="1">§ 19</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="82">
+    <se lang="russian" variant_id="0">Что именно флогистон серы придает блеск металлам в земле, доказывает следующее: 1) сера, превращенная в порошок и растертая с песком или илом и обработанная таким образом, как сказано в § 14 об иле и льняном масле, дает металл.</se>
+    <se lang="latin" variant_id="1">Quod vero sulphuris phlogiston metalla in tellure tingat, sequentia probant. ~~~ 1) Sulphur in pulverem redactum et cum arena aut limo tritum, et tandem eadem ratione tractatum, prout § 14 de limo et oleo lini dictum est, metallum largitur.</se>
+    <weight variant_id="1">0,607</weight>
+  </para>
+  <para id="83">
+    <se lang="russian" variant_id="0">2) Она же окрашивает металлы в более яркие цвета, что можно видеть в сверкающих минералах свинца, как и в железном серном колчедане и в медном пирите.</se>
+    <se lang="latin" variant_id="1">2) Idem minerale metalla vividiore colore tingit, quod videre est in minera plumbi splendida, ut et in pyrite sulphureo martiali aut venereo.</se>
+    <weight variant_id="1">0,418038</weight>
+  </para>
+  <para id="84">
+    <se lang="russian" variant_id="0">3) Золото, медленно растираемое со слюною и водою, издает серный запах.</se>
+    <se lang="latin" variant_id="1">3) Aurum cum saliva et aqua leniter tritum odorem sulphureum emittit.</se>
+    <weight variant_id="1">0,54</weight>
+  </para>
+  <para id="85">
+    <se lang="russian" variant_id="0">4) Но еще большее подкрепление приносит полное тождество названного флогистона.</se>
+    <se lang="latin" variant_id="1">4) Majus tamen firmamentum affert dicti phlogisti identitas.</se>
+    <weight variant_id="1">0,538889</weight>
+  </para>
+  <para id="86">
+    <se lang="russian" variant_id="0">Действительно, подобно тому как металлы восстанавливаются из окалин и стекол обыкновенным древесным углем (о чем сказано выше, § 11), так и сера возрождается из купоросного масла, которое в соединении с постоянной щелочью по прибавлении порошка угля сперва переходит в печень, а из профильтрованного водного ее раствора прибавленный перегнанный уксус осаждает серное молоко.</se>
+    <se lang="latin" variant_id="1">Enimvero prout metalla ex calcibus et vitris plerumque vegetabilium carbonibus reducuntur, ut supra § 11 monuimus; ita quoque et sulphur regeneratur ex oleo vitrioli, quod cum alcali fixo combinatum et adjecto pulvere carbonum in hepar colliquatum, denique aqua solutum et transcolatum aceto destillato, in lac sulphuris praecipitatur.</se>
+    <weight variant_id="1">0,327328</weight>
+  </para>
+  <para id="87">
+    <se lang="" variant_id="0">§ 20</se>
+    <se lang="" variant_id="1">§ 20</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="88">
+    <se lang="russian" variant_id="0">Впрочем, металлы значительно различаются друг от друга как блеском, так и ковкостью: причину этого различия должно искать в остальных составных частях металлов, которые, будучи примешаны к флогистону в разных отношениях, закрепляются вместе с ним на поверхности каждой корпускулы металлического смешения.</se>
+    <se lang="latin" variant_id="1">Ceterum metalla cum fulgore tum etiam ductilitate multum inter se differunt; cuius discrepantiae ratio sufficiens quaerenda est in reliquis metallorum miscibilibus, quae phlogisto varia proportione admixta simul cum illo in superficie cujuslibet corpusculi metallici mixti haerent.</se>
+    <weight variant_id="1">0,276923</weight>
+  </para>
+  <para id="89">
+    <se lang="russian" variant_id="0">Ведь так как блеск и ковкость происходят от флогистона, то, следовательно, в металлах более блестящих и более ковких флогистон расположен более густо на поверхности их, чем в тех, которые меньше блещут и менее ковки. ~~~ И где флогистон менее густо прилегает к поверхности корпускул смешения, там частицы других составных частей должны быть вкраплены между ними и проглядывать сквозь их промежутки.</se>
+    <se lang="latin" variant_id="1">Etenim cum fulgor et ductilitas a phlogisto proficiscantur, sequitur metalla, quae magis fulgida et ductilia sunt, horum superficiem densius phlogiston occupare, quam eorum, quae minus fulgent minusque ductilia sunt; adeoque, ubi inflammabile minus stipatum superficiei corpusculorum mixti adhaeret, ibi necesse est, ut particulae aliorum miscibilium illis sint interpositae, vel per ejus interstitiola prospiciant.</se>
+    <weight variant_id="1">0,258553</weight>
+  </para>
+  <para id="90">
+    <se lang="" variant_id="0">§ 21</se>
+    <se lang="" variant_id="1">§ 21</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="91">
+    <se lang="russian" variant_id="0">Мы убеждаемся на основании достаточно веских фактов, что кислотное начало примешано к блеску некоторых металлов, и в каждом — в различном количестве.</se>
+    <se lang="latin" variant_id="1">Acidum principium tincturae quorundam metallorum admisceri, et quidem diversa quantitate, haud levibus documentis convincimur.</se>
+    <weight variant_id="1">0,260526</weight>
+  </para>
+  <para id="92">
+    <se lang="russian" variant_id="0">Ибо металлы получают свой флогистон из серы (§ 17, 18); поэтому вероятно, что и кислота серы соединяется с самими металлами.</se>
+    <se lang="latin" variant_id="1">Etenim metalla phlogiston suum ex sulphure recipiunt (§ 17, 18), adeo igitur probabile est, etiam acidum sulphuris cum ipsis metallis jungi.</se>
+    <weight variant_id="1">0,543261</weight>
+  </para>
+  <para id="93">
+    <se lang="russian" variant_id="0">Наконец, неблагородные металлы, именно медь и железо, которые менее ковки и менее блестят, чем более благородные, содержат меньшее количество флогистона (§ 20), однако обладают связывающим качеством, присущим кислым телам.</se>
+    <se lang="latin" variant_id="1">Denique metalla ignobilia, cuprum nempe et ferrum, quae minus ductilia sunt minusque fulgent, quam nobilia, minore quantitate phlogisti praedita sunt (§ 20), adstringente tamen virtute gaudent, quae acidorum corporum est propria.</se>
+    <weight variant_id="1">0,492308</weight>
+  </para>
+  <para id="94">
+    <se lang="russian" variant_id="0">Далее, все металлы растворяются кислотными спиртами, и тем быстрее, чем они более вяжущие.</se>
+    <se lang="latin" variant_id="1">Porro omnia metalla acidis spiritibus solvuntur, et quidem eo promptius, quo magis stiptica sunt.</se>
+    <weight variant_id="1">0,277215</weight>
+  </para>
+  <para id="95">
+    <se lang="russian" variant_id="0">Так как растворению тел в растворителях очень содействует их однородность, не приходится сомневаться, что в металлах, особенно вяжущих, вместе с флогистоном находится и кислота.</se>
+    <se lang="latin" variant_id="1">Cum vero ad corpora in menstruis solvenda homogeneitas eorum multum conferat, dubitandum sane non est, quin metallis, praesertim vero stipticis, cum phlogisto etiam acidum inhaereat.</se>
+    <weight variant_id="1">0,292258</weight>
+  </para>
+  <para id="96">
+    <se lang="russian" variant_id="0">Поэтому не без основания Сведенборг считает входящей в состав железа сырую серу, именно кислоту серы, соединенную с флогистоном.</se>
+    <se lang="latin" variant_id="1">Hinc non sine ratione sulphur crudum ferro a Swedenborgio adscribitur, nempe acidum sulphuris cum phlogisto conjunctum.</se>
+    <weight variant_id="1">0,28</weight>
+  </para>
+  <para id="97">
+    <se lang="russian" variant_id="0">Сравним опыт, описанный у славнейшего Потта, который из металлов, растворенных в селитряном спирте, осажденных обыкновенной солью или ее спиртом и перегнанных со ртутью, по его словам, получил настоящую киноварь.</se>
+    <se lang="latin" variant_id="1">Confer experimentum, apud cel. ~~~ Pott descriptum, qui ex metallis solutis in spiritu nitri et sale communi aut ejus spiritu praecipitatis et cum mercurio destillatis, veram cinnabarim obtineri asserit.</se>
+    <weight variant_id="1">-0,00857143</weight>
+  </para>
+  <para id="98">
+    <se lang="russian" variant_id="0">Сюда же относится тот факт, что серебро, сплавленное с серою, превращается в мягкий минерал — „стеклянную руду“, похожую на свинец: так, по прибавлении серы металл, до того благородный, весьма ковкий и блестящий, приближается по характеру к неблагородному металлу.</se>
+    <se lang="latin" variant_id="1">Huc quoque pertinet, quod argentum, cum sulphure confusum, convertitur in mineram mollem, Glaß-Ertz, plumbo non absimilem: nempe adjecto sulphure, nobile et adeo ductile atque fulgidum metallum ad ignobile accedit.</se>
+    <weight variant_id="1">0,234225</weight>
+  </para>
+  <para id="99">
+    <se lang="" variant_id="0">* Наша диссертация о действии растворителей, § 10.. Нов. комм., t.</se>
+    <se lang="" variant_id="1">* Dissertatio nostra de actione menstruorum, § 10, Nov. comm., t.</se>
+    <weight variant_id="1">1,04464</weight>
+  </para>
+  <para id="100">
+    <se lang="russian" variant_id="0">Мышьяк обладает свойством придавать металлам блеск; олову придает твердость и звон и делает его более плотным; медь и железо отбеливает, а соединенный с неблагородными металлами сплавлением при более длительной обработке облагораживает часть их.</se>
+    <se lang="latin" variant_id="1">Arsenicum metalla tingendi virtutem possidet: stanno duritiem sonumque conciliat et ipsum compactius reddit; cuprum et ferrum dealbat, atque cum ignobilibus metallis per fusionem unitum et diutius tractat umpartem eorum nobilitat.</se>
+    <weight variant_id="1">0,282178</weight>
+  </para>
+  <para id="101">
+    <se lang="russian" variant_id="0">Поэтому весьма вероятно, что в состав блеска металлов входит некоторая мышьяковистая часть (особенно металлов, которые добываются из жил чаще в соединении с мышьяком, чем с серою) и что благодаря ей они от других отличаются блеском и крепостью.</se>
+    <se lang="latin" variant_id="1">Unde maxime probabile est, partem quandam arsenicalem tincturam metallorum ingredi (praesertim vero eorum, quae frequentius cum arsenico, quam cum sulphure, ex venis eruuntur) eaque ab aliis fulgore et tenacitate distinguere.</se>
+    <weight variant_id="1">0,281726</weight>
+  </para>
+  <para id="102">
+    <se lang="russian" variant_id="0">Это можно с достаточным основанием утверждать прежде всего об олове.</se>
+    <se lang="latin" variant_id="1">Quod prae reliquis de stanno non sine sufficiente ratione affirmari potest.</se>
+    <weight variant_id="1">0,27</weight>
+  </para>
+  <para id="103">
+    <se lang="russian" variant_id="0">Действительно: 1) этот металл всегда находят в содержащей мышьяк породе; 2) ковкость его много уступает вязкости не только благородных, но даже и некоторых из неблагородных металлов; а ковкость понижается некоторым началом, чужеродным огненной материи, примешанным к блеску (§ 19).</se>
+    <se lang="latin" variant_id="1">Siquidem 1) hoc metallum semper in gleba arsenicali reperitur. ~~~ 2) Ductilitas eius non solum nobilium, verum etiam quorundam ignobilium metallorum tenacitati multum cedit; haec vero aliquo principio, inflammabili materiae heterogeneo, tincturae admixto infringitur (§ 19.).</se>
+    <weight variant_id="1">0,109244</weight>
+  </para>
+  <para id="104">
+    <se lang="russian" variant_id="0">Мы не решаемся приписать это кислоте, так как олово менее стиптично, чем другие более ковкие металлы; 3) олово охотнее растворяется в спиртах, содержащих кислоту соли.</se>
+    <se lang="latin" variant_id="1">Quod tamen acido tribuere non audemus, cum stannum sit minus stipticum, quam alia metalla ductiliora. ~~~ 3) Stannum lubentius in eis spiritibus solvitur, quibus acidum salis inest.</se>
+    <weight variant_id="1">-0,0114583</weight>
+  </para>
+  <para id="105">
+    <se lang="russian" variant_id="0">Насколько оно аналогично мышьяку, можно увидеть из того, что олово, сплавленное с серебром в роговое вещество и возогнанное, дает ядовитую материю, напоминающую по внешнему виду мышьяк.</se>
+    <se lang="latin" variant_id="1">Hoc autem quam analogum arsenico sit, inde perspici potest, quod cum argento in corneam substantiam fusum et sublimatum materiam exhibeat venenosam et, quoad formam externam, arsenico non absimilem.</se>
+    <weight variant_id="1">0,279503</weight>
+  </para>
+  <para id="106">
+    <se lang="" variant_id="0">§ 23</se>
+    <se lang="" variant_id="1">§ 23</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="107">
+    <se lang="russian" variant_id="0">Существует сильное подозрение, что также и в флогистоне серебра и меди находится некоторая мышьяковистая составная часть, так как оба они часто добываются из земли в соединении с мышьяком.</se>
+    <se lang="latin" variant_id="1">Nec parva suspicio est etiam argenti et cupri phlogisto arsenicale aliquod miscibile inhaerere, cum utrumque saepius cum arsenico ex terra eruatur.</se>
+    <weight variant_id="1">0,220312</weight>
+  </para>
+  <para id="108">
+    <se lang="russian" variant_id="0">Когда жила мышьяковистой меди, сложенная в кучи, подвергается сушению огнем в течение месяца и больше для подготовки к выплавке, то вырастают прекраснейшие медные волокна, играющие всеми цветами радуги и вполне заслуживающие названия дерева Венеры.</se>
+    <se lang="latin" variant_id="1">Vena cupri arsenicalis, quando in cumulos congesta igne per mensem et amplius torretur et ad fusionem praeparatur, in filamenta cuprea splendidissima et coloribus iridis ludentia excrescit, quae adeo congrue arbor veneris salutari possunt.</se>
+    <weight variant_id="1">0,225532</weight>
+  </para>
+  <para id="109">
+    <se lang="russian" variant_id="0">Это же мне удалось видеть у славнейшего Генкеля несколько раз для красной серебряной руды, названной „ротгюльден“.</se>
+    <se lang="latin" variant_id="1">Quod etiam cum minera argenti rubea, Rothgüden dicta, factum apud cel. ~~~ Henkelium videre mihi aliquoties licuit.</se>
+    <weight variant_id="1">-0,00151515</weight>
+  </para>
+  <para id="110">
+    <se lang="russian" variant_id="0">Названный автор месяцами нагревал в песке глыбу мышьяковистого серебра, регулируя силу огня таким образом, чтобы мышьяк, хоть и очень медлительно, мог возгоняться.</se>
+    <se lang="latin" variant_id="1">Nempe laudatus auctor dictam glebam argenti arsenicalem per menses in arena digesserat, ignis gradum ejusmodi subministrans, quo arsenicum, aegerrime quidem, sublimari potest.</se>
+    <weight variant_id="1">0,274825</weight>
+  </para>
+  <para id="111">
+    <se lang="russian" variant_id="0">Тогда серебро после улетучивания мышьяка вытянулось в тонкие волокна.</se>
+    <se lang="latin" variant_id="1">Tum argentum, volatili illo corpore in auras recedente, in tenuia filamenta distractum est.</se>
+    <weight variant_id="1">0,212903</weight>
+  </para>
+  <para id="112">
+    <se lang="russian" variant_id="0">Оба эти опыта наглядно показывают однородность мышьяка с серебром и медью.</se>
+    <se lang="latin" variant_id="1">Utraque experientia homogeneitatem arsenici cum argento et cupro non obscure indicat.</se>
+    <weight variant_id="1">0,249231</weight>
+  </para>
+  <para id="113">
+    <se lang="" variant_id="0">§ 24</se>
+    <se lang="" variant_id="1">§ 24</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="114">
+    <se lang="russian" variant_id="0">Сказанное (в § 20—23) находит немаловажное подкрепление в том, что сера и мышьяк, прибавленные в больших количествах к металлам и сплавленные с ними, почти совершенно уничтожают ковкость их.</se>
+    <se lang="latin" variant_id="1">Non exiguum firmamentum assertis (§ 20—23) inde affertur, quod sulphur et arsenicum, largius metallis per fusionem addita, ductilitatem eorum prorsus infringunt.</se>
+    <weight variant_id="1">0,389885</weight>
+  </para>
+  <para id="115">
+    <se lang="russian" variant_id="0">Поэтому мы подозреваем, что королек сурьмы, цинк и висмут не что иное, как металлы, содержащие более тесно соединенные с ними в избыточном количестве серу или мышьяк, или оба вместе, и поэтому сделавшиеся хрупкими.</se>
+    <se lang="latin" variant_id="1">Et hinc regulum antimonii, zincum et wismutum nil aliud esse suspicamur, quam metalla nimio sulphure vel arsenico, aut utroque simul intimius cum iis juncto, onerata et fragilia facta.</se>
+    <weight variant_id="1">0,252532</weight>
+  </para>
+  <para id="116">
+    <se lang="" variant_id="0">§ 25</se>
+    <se lang="" variant_id="1">§ 25</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="117">
+    <se lang="russian" variant_id="0">Так как приобретению блеска немало содействует равномерное расположение частей, при котором солнечные лучи отражаются параллельно и больше блестят, чем беспорядочные, то неудивительно, что у названных выше полуметаллов сохраняется некоторый блеск, хотя они и не обладают какой-либо ковкостью.</se>
+    <se lang="latin" variant_id="1">Quoniam autem ad fulgorem conciliandum non parum confert etiam aequabilis partium dispositio, qua radii solis paralleli reflectuntur magisque fulgent, quam confusi; unde mirum non est supradictis semimetallis fulgorem utcunque conservari, quamvis nulla ductilitate amplius gaudeant.</se>
+    <weight variant_id="1">0,290361</weight>
+  </para>
+  <para id="118">
+    <se lang="" variant_id="0">§ 26</se>
+    <se lang="" variant_id="1">§ 26</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="119">
+    <se lang="russian" variant_id="0">Чтобы все это изложить более ясно и строже доказать, мы могли бы привести еще многое, может быть никогда еще не предложенное, что мы замыслили уже несколько лет тому назад;</se>
+    <se lang="latin" variant_id="1">Ad haec omnia dilucidius exponenda atque firmius demonstranda plura quidem, et forte non alias unquam tentata, conferre possemus, quae jam ante aliquot annos animo concepta habemus;</se>
+    <weight variant_id="1">0,261151</weight>
+  </para>
+  <para id="120">
+    <se lang="russian" variant_id="0">но отсутствие химической лаборатории мешает нам произвести самые опыты, а потому мы лишены выводимых из них доказательств.</se>
+    <se lang="latin" variant_id="1">verum quoniam laboratorio Chymico destituimur, ideo cum ab ipsis experimentis instituendis prohibemur, tum etiam deducendis inde argumentis caremus.</se>
+    <weight variant_id="1">0,249558</weight>
+  </para>
+  <para id="121">
+    <se lang="" variant_id="0">§ 27</se>
+    <se lang="" variant_id="1">§ 27</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="122">
+    <se lang="russian" variant_id="0">Правда, нам хорошо известно, что имеется несколько опытов, показывающих, как извлекать серу и блеск из металлов; эти опыты можно видеть в сочинениях Исаака Голландского и в диссертации славного Потта о серах металлов.</se>
+    <se lang="latin" variant_id="1">Quamvis autem nos haud lateat, plurima prostare experimenta, quibus ostenditur modus sulphura et tincturas metallorum extrahendi, quod videre est in scriptis Is. ~~~ Hollandi et in Diss. clar. Pott de sulphuribus metallorum; </se>
+    <weight variant_id="1">-0,02</weight>
+  </para>
+  <para id="123">
+    <se lang="russian" variant_id="0">Но не легко поверить, что эти составные части металлов могут быть выделены сами по себе в чистом и подлинном виде, когда для их извлечения предписывается брать соляные и сернистые тела. ~~~ Хотя последние скрыты под благозвучным названием раскрывателей, мы, однако, не можем не заподозрить, что применяемое для раскрывания металлов средство, соединившееся со смешанными корпускулами металлов, очень часто, если не всегда, выдается за то, что надлежит найти.</se>
+    <se lang="latin" variant_id="1">verum gemina et sincera haec metallorum miscibilia separatim sisti posse non facile credendum est, cum ad ea elicienda salina et sulfurea corpora praescribantur; quae licet specioso nomine aperientium obvelantur, non tamen suspicari non possumus, quin eadem, quae ad metalla aperienda adhibentur, cum mixtis metallorum corpusculis combinata, saepius, si non semper, pro quaesitis venditentur.</se>
+    <weight variant_id="1">-0,00934959</weight>
+  </para>
+  <para id="124">
+    <se lang="russian" variant_id="0">Прежде чем закончить, считаем небесполезным присовокупить некое основанное на аналогии предположение о превращении металлов, вытекающее, как мы полагаем, из превращения их блеска, которым мы занимались.</se>
+    <se lang="latin" variant_id="1">Finem verbis imposituri non inutile fore arbitramur, si analogicam aliquam coniecturam de metallorum transmutatione adjiciamus, quam a transmutandis eorum tincturis, de quibus nunc egimus, proficisci posse existimamus.</se>
+    <weight variant_id="1">0,276536</weight>
+  </para>
+  <para id="125">
+    <se lang="" variant_id="0">§ 28</se>
+    <se lang="" variant_id="1">§ 28</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="126">
+    <se lang="russian" variant_id="0">Кто хоть с порога заглянул в спагирическое искусство, тот знает, что более слабые кислоты изгоняются из солей более сильными и как бы осаждаются.</se>
+    <se lang="latin" variant_id="1">Qui artem spagiricam vel a limine salutaverunt, haud jam ignorant, acida debiliora ex alcalinis per fortiora expelli et quasi praecipitari.</se>
+    <weight variant_id="1">0,292562</weight>
+  </para>
+  <para id="127">
+    <se lang="russian" variant_id="0">Так, уксус по прилитии соляного спирта удаляется из поташа; сам же он уступает место селитряному спирту, который изгоняется наиболее крепкой из кислот, какова серная.</se>
+    <se lang="latin" variant_id="1">Sic acetum affuso spiritu salis ex cineribus clavellatis extruditur; ipse vero nitroso spiritui locum cedit, per acidorum fortissimum, quod sulfureum est, expellendo.</se>
+    <weight variant_id="1">0,125373</weight>
+  </para>
+  <para id="128">
+    <se lang="" variant_id="0">* Именно когда была писана эта диссертация — в 1745 г. Она, однако, была выстроена в 1748 г. при президенте Академии сиятельнейшем графе Разумовском.</se>
+    <se lang="" variant_id="1">* Nempe, quando scripta est haec dissertatio, An. 1745.. Quod tamen An. ~~~ 1748, dirigente Academiam praeside excellentissimo comite Razumowsky, exstructum est.</se>
+    <weight variant_id="1">0,61938</weight>
+  </para>
+  <para id="129">
+    <se lang="russian" variant_id="0">Серная кислота считается химиками самой чистой из всех и наиболее свободной от инородных частей; ибо они утверждают, что в селитряном спирте имеется нечто горючее, в соляном — нечто мышьяковистое; что уксус загрязнен пригорелыми продуктами, показывает его перегонка через песок.</se>
+    <se lang="latin" variant_id="1">Acidum sulfureum omnium purissimum et ab heterogeneis partibus defaecatissimum esse a Chymicis censetur; nam nitroso spiritui inflammabile, salino autem arsenicale aliquid inesse affirmant; acetum empyreumate inquinatum esse destillatio ejus ex arena prodit.</se>
+    <weight variant_id="1">0,282895</weight>
+  </para>
+  <para id="130">
+    <se lang="russian" variant_id="0">Кислые частицы все более и более ослабляются при этом процессе и делаются менее способными прочно присоединять к себе щелочи.</se>
+    <se lang="latin" variant_id="1">Quibus singulis acidae particulae magis magisque debilitantur, minusque aptae redduntur ad alcalia firmiter sibi adiungenda.</se>
+    <weight variant_id="1">0,291667</weight>
+  </para>
+  <para id="131">
+    <se lang="russian" variant_id="0">С этим согласуется их удельный вес; а именно, чем концентрированнее кислотный серный спирт, тем больший имеет он удельный вес: очевидно, что тяжесть спиртов увеличивается от кислотных частиц.</se>
+    <se lang="latin" variant_id="1">Quocum etiam gravitas eorum specifica convenit: etenim spiritus acidus sulfuris quo concentratior est, eo etiam specifice gravior; unde patet gravitatem spirituum ab acidis particulis augeri.</se>
+    <weight variant_id="1">0,296386</weight>
+  </para>
+  <para id="132">
+    <se lang="russian" variant_id="0">Так, кубический дюйм купоросного масла, который того же естества, как и серный спирт, весит 7 драхм 59 гранов, селитряного спирта — 6 драхм 24 грана, соляного спирта — 5 драхм 49 гранов, перегнанного уксуса — 5 драхм 11 гранов.</se>
+    <se lang="latin" variant_id="1">Hinc quoque spiritus acidi, quo fortiores sunt et cum alcali arctius junguntur, eo sunt etiam specifice graviores. ~~~ Quippe pollex cubicus olei vitrioli, quod cum spiritu sulfuris est ejusdem indolis, ponderat drachmas 7 et grana 59, spiritus nitri dr. ~~~ 6, gr. ~~~ 24; spiritus salis dr. ~~~ 5.. gr. ~~~ 49, acetum destillatum dr. ~~~ 5.. gr. ~~~ 11.</se>
+    <weight variant_id="1">-0,230132</weight>
+  </para>
+  <para id="133">
+    <se lang="" variant_id="0">§ 29</se>
+    <se lang="" variant_id="1">§ 29</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="134">
+    <se lang="russian" variant_id="0">Мы считаем, что природа, при превращении металлов, может поступать подобным же образом, опираясь на помощь мастеров химического искусства.</se>
+    <se lang="latin" variant_id="1">Non absimili ratione in transmutandis metallis naturam, artificum industria opem ferente, procedere posse arbitramur.</se>
+    <weight variant_id="1">0,251429</weight>
+  </para>
+  <para id="135">
+    <se lang="russian" variant_id="0">Более концентрированный флогистон, окрашивая более благородные металлы, пристает к ним прочнее.</se>
+    <se lang="latin" variant_id="1">Siquidem phlogiston concentratius, quod metalla nobiliora tingit, iisdem firmius adhaeret.</se>
+    <weight variant_id="1">0,285366</weight>
+  </para>
+  <para id="136">
+    <se lang="russian" variant_id="0">Итак, если кто-нибудь, очень сведущий в химическом искусстве, обладает самым концрентированным и тщательнейше очищенным от инородных примесей флогистоном, то мы верим, что он сможет, изгнав нечистый блеск, осадить и превратить более низкие металлы в благороднейший металл.</se>
+    <se lang="latin" variant_id="1">Itaque si quis in arte Chymica versatissimus phlogiston concentratissimum et ab heterogeneis solertissime defaecatum possidet, eum metalla ignobiliora, tinctura impuriore expulsa, in nobilissimum metallum praecipitare et convertere posse credimus.</se>
+    <weight variant_id="1">0,275455</weight>
+  </para>
+  <para id="137">
+    <se lang="" variant_id="0">* Эйзеншмидт в новом рассуждения о весах и мерах, стр.</se>
+    <se lang="" variant_id="1">* Eisenschmidius in disquisitione nova de ponderibus et mensuris, p.</se>
+    <weight variant_id="1">0,481423</weight>
+  </para>
+  <para id="138">
+    <se lang="russian" variant_id="0">174.</se>
+    <se lang="latin" variant_id="1">174.</se>
+    <weight variant_id="1">1,8</weight>
+  </para>
+</body>
+</html>

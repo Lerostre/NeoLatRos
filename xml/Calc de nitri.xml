@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html>
+<head>
+</head>
+<body>
+  <para id="0">
+    <se lang="russian" variant_id="0">1. Один гран серы при сжигании наполняет тяжелым серным запахом камеру в 10 кубических сажен, т. е. 3430 кубических футов.</se>
+    <se lang="latin" variant_id="1">1. Sulfuris granum unicum combustum implea odore gravi sulphureo cameram 10 orgyarum cubicarum, hoc est pedum cubic. 3430.</se>
+    <weight variant_id="1">2,24</weight>
+  </para>
+  <para id="1">
+    <se lang="russian" variant_id="0">2. А для того, чтобы этот серный запах так рассеялся в воздухе, что обоняние нисколько не будет его ощущать, пар должен разредиться по меньшей мере в сто раз, и следовательно один гран серы должен распространиться на 343 000 кубических футов.</se>
+    <se lang="latin" variant_id="1">2. Ut autem odor iste sulphureus per aërem ita extenuetur, ut nullo modo olfacto sentiri possit, opportet ad minimum centuplo esse vapor rarior, adeoque granum unicum sulfuris extendi per 343 000 pedes cubicos.</se>
+    <weight variant_id="1">1,40539</weight>
+  </para>
+  <para id="2">
+    <se lang="russian" variant_id="0">3. Предположим, что селитроносная стена с обеих сторон открыта воздуху на протяжении 10 футов в ширину и 100 футов в длину, так что воздуху открыта поверхность в 1000 квадратных футов.</se>
+    <se lang="latin" variant_id="1">3. Supponamus parietem nitriferum utrinque aëri exponi in latitudinem pedes 10, in longitudinem vero pedes centum, adeoque 1000 pedum quadratarum planiciem aëri exponi.</se>
+    <weight variant_id="1">0,531757</weight>
+  </para>
+  <para id="3">
+    <se lang="russian" variant_id="0">4. Предположим наконец, что при соприкосновении воздуха со стеной ежесекундно [слой воздуха] отлагает в матрице всю свою воздушную кислоту толщиной в одну линию.</se>
+    <se lang="latin" variant_id="1">4. Supponamus denique aërem in contactu cum pariete ad crassitiem unius lineae totum acidum aëreum quolibet minuto secundo in matrice deponere.</se>
+    <weight variant_id="1">0,397964</weight>
+  </para>
+  <para id="4">
+    <se lang="russian" variant_id="0">5. Будем следовательно иметь:</se>
+    <se lang="latin" variant_id="1">5. Erit ergo:</se>
+    <weight variant_id="1">0,703846</weight>
+  </para>
+  <para id="5">
+    <se lang="russian" variant_id="0">квадратных линий в дюйме 144</se>
+    <se lang="latin" variant_id="1">quadratae lineae in poll. ~~~ 144</se>
+    <weight variant_id="1">7,4625</weight>
+  </para>
+  <para id="6">
+    <se lang="russian" variant_id="0">квадратных дюймов в футе 144</se>
+    <se lang="latin" variant_id="1">quadrati poll. in ped. ~~~ 144</se>
+    <weight variant_id="1">7,4625</weight>
+  </para>
+  <para id="7">
+    <se lang="russian" variant_id="0">квадратных линий воздуха на поверхности кв. фута 20736</se>
+    <se lang="latin" variant_id="1">quadratae lin. aëris in superf. pedis q. ~~~ 20736</se>
+    <weight variant_id="1">7,2</weight>
+  </para>
+  <para id="8">
+    <se lang="russian" variant_id="0">кубических линий на поверхности селитроносной стены 20736000</se>
+    <se lang="latin" variant_id="1">cubicae lineae in superficie parietis nitriferi 20736000</se>
+    <weight variant_id="1">4,40147</weight>
+  </para>
+  <para id="9">
+    <se lang="russian" variant_id="0">Кубический фут имеет кубических линий 2820256</se>
+    <se lang="latin" variant_id="1">pes cubicus habet lineas cubicas = 2820256</se>
+    <weight variant_id="1">4,98185</weight>
+  </para>
+  <para id="10">
+    <se lang="russian" variant_id="0">Итак, в одну секунду селитроносная стена будет поглощать кислоту из 7 кубических футов, т. е. приблизительно 1/50000 часть грана.</se>
+    <se lang="latin" variant_id="1">Ergo in uno minuto secundo paries ille nitrifer absorbebit acidum ex 7 pedibus cubicis, — adeoque 1/50000 partem grani circiter.</se>
+    <weight variant_id="1">2,09455</weight>
+  </para>
+  <para id="11">
+    <se lang="russian" variant_id="0">6. Отсюда через вычисление видно, что стена указанной величины извлекает из воздуха 21/2 драхмы 40 гран, и потому едва ли можно получить один фунт селитры.</se>
+    <se lang="latin" variant_id="1">6. Hinc autem per calculum patet ejus modi amplo pariete attrahi ex aëre acidi II s gr. ~~~ 40 atque adeo vix libram unicam nitri compar[ar]i posse.</se>
+    <weight variant_id="1">1,39286</weight>
+  </para>
+</body>
+</html>

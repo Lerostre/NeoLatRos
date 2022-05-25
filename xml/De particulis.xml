@@ -1,0 +1,737 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html>
+<head>
+</head>
+<body>
+  <para id="0">
+    <se lang="russian" variant_id="0">О КАЧЕСТВАХ И ЧАСТЯХ ТЕЛ ВООБЩЕ</se>
+    <se lang="latin" variant_id="1">DE QUALITATIBUS ET PARTIBUS CORPORUM IN GENERE</se>
+    <weight variant_id="1">0,144444</weight>
+  </para>
+  <para id="1">
+    <se lang="" variant_id="0">§ 1</se>
+    <se lang="" variant_id="1">§ 1</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="2">
+    <se lang="russian" variant_id="0">Тело есть несопроницаемая протяженность, обладающая силой инерции.</se>
+    <se lang="latin" variant_id="1">Corpus est extensum incompenetrabile, vi inertiae praeditum.</se>
+    <weight variant_id="1">0,267273</weight>
+  </para>
+  <para id="3">
+    <se lang="russian" variant_id="0">Под протяжением понимают измерение в длину, ширину и глубину, с которым неразрывно связан вид тела, т. е. определенное положение границ, в которых заключена протяженность тела.</se>
+    <se lang="latin" variant_id="1">Per extensionem intelligitur dimensio in longum, latum et profundum, quacum inseparabili nexu conjuncta est figura corporis, hoc est definitus status terminorum, quibus extensio corporis includitur.</se>
+    <weight variant_id="1">0,256863</weight>
+  </para>
+  <para id="4">
+    <se lang="russian" variant_id="0">Несопроницаемостью называется то, в силу чего одно тело не может находиться вместе с другим, одинаковым с ним, в одном и том же пространстве, напр.: один кубический фут воды не может занимать одно и то же пространство вместе с другим кубическим футом воды.</se>
+    <se lang="latin" variant_id="1">Incompenetrabilitatis nomine id salutatur, quo fit, ut corpus unum cum alio sibi aequali eodem spacio simul compraehendi non possit, e. g.: pes cubicus aquae occupare non potest idem spatium simul cum altero pede cubico aquae.</se>
+    <weight variant_id="1">0,0310345</weight>
+  </para>
+  <para id="5">
+    <se lang="russian" variant_id="0">То свойство, по которому тела, приведенные в движение, противятся силе, останавливающей движение, а тела покоящиеся борются с силой, их толкающей, зовется силой инерции.</se>
+    <se lang="latin" variant_id="1">Illud vero, quo corpora mota vi motum cohibenti resistunt, vel corpora quiescentia vi impellenti refragantur, vis inertiae audit.</se>
+    <weight variant_id="1">0,20708</weight>
+  </para>
+  <para id="6">
+    <se lang="russian" variant_id="0">Непрерывная перемена места называется движением; пребывание на одном месте — покоем.</se>
+    <se lang="latin" variant_id="1">Continua loci mutatio dicitur motus, in uno loco perseverantia quies vocatur.</se>
+    <weight variant_id="1">0,269118</weight>
+  </para>
+  <para id="7">
+    <se lang="" variant_id="0">§ 2</se>
+    <se lang="" variant_id="1">§ 2</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="8">
+    <se lang="russian" variant_id="0">То, что сообщает телам их общие качества, называется материей, которая в телах осязаемых бывает двоякой, а именно, собственной и посторонней.</se>
+    <se lang="latin" variant_id="1">Id, quod catholicas qualitates corporibus tribuit, materia appellatur, quae in corporibus palpabilibus duplex depraehenditur, nimirum propria et peregrina.</se>
+    <weight variant_id="1">0,260976</weight>
+  </para>
+  <para id="9">
+    <se lang="russian" variant_id="0">Собственная материя — та, из которой тело состоит и известным образом определяется; при ее изменении неизбежно изменяется и само тело.</se>
+    <se lang="latin" variant_id="1">Propria est ex qua corpus constat et certo modo determinatur, eaque aliter determinata, corpus mutari necessum est.</se>
+    <weight variant_id="1">0,252</weight>
+  </para>
+  <para id="10">
+    <se lang="russian" variant_id="0">Посторонняя материя — та, которая заполняет в теле промежутки, свободные от собственной материи, напр., воздух в порах воды есть материя посторонняя, как и сама вода в порах дерева или губки.</se>
+    <se lang="latin" variant_id="1">Materia peregrina est, quae interstitia corporis a materia propria vacua replet, e. g. aër in poris aquae est materia peregrina, ut et aqua ipsa in poris ligni aut spongiae.</se>
+    <weight variant_id="1">0,265068</weight>
+  </para>
+  <para id="11">
+    <se lang="russian" variant_id="0">Посторонняя материя подразделяется на связанную и протекающую.</se>
+    <se lang="latin" variant_id="1">Peregrina materia subdividitur in cohaerentem et praeterlabentem.</se>
+    <weight variant_id="1">0,284211</weight>
+  </para>
+  <para id="12">
+    <se lang="russian" variant_id="0">Под связанной разумеется та, в которой сила инерции соединяется с силой инерции собственной материи, или, другими словами, они вместе приходят в движение и производят усилие, покоятся и сопротивляются движению.</se>
+    <se lang="latin" variant_id="1">Cohaerentis nomine venit, cujus vis inertiae cum vi inertiae materiae propriae conjungitur, seu quod idem est, cum eadem movetur et impetum facit vel cum eadem quiescit et motui resistit.</se>
+    <weight variant_id="1">0,256875</weight>
+  </para>
+  <para id="13">
+    <se lang="russian" variant_id="0">Материя же протекающая, наоборот, не присоединяет силы своей инерции к силе инерции собственной материи, а свободно струится через промежутки в теле.</se>
+    <se lang="latin" variant_id="1">Contra vero materia praeterlabens vim inertiae suae cum vi inertiae materiae propriae non conjungit, sed libere per interstitia corporum labitur.</se>
+    <weight variant_id="1">0,292913</weight>
+  </para>
+  <para id="14">
+    <se lang="russian" variant_id="0">Примером связанной ~~~ материи могут служить воздух, содержащийся в воде, и вода, заключающаяся в порах дерева или губки.</se>
+    <se lang="latin" variant_id="1">Cohaerentis exemplum praebet aër in aquae interstitiis contentus et aqua in poris ligni vel spongiae inclusa.</se>
+    <weight variant_id="1">-0,0142105</weight>
+  </para>
+  <para id="15">
+    <se lang="russian" variant_id="0">Существование протекающей материи будет доказано далее .</se>
+    <se lang="latin" variant_id="1">Praeterlabentis existentia in sequentibus demonstrabitur.</se>
+    <weight variant_id="1">0,658333</weight>
+  </para>
+  <para id="16">
+    <se lang="russian" variant_id="0">Здесь следует отметить, что так как протекающая материя свободно льется сквозь поры тел, то она должна находиться в порах, соответственно своей плотности и емкости пор, и, таким образом, пребывать в равновесии с остальной подобной ей материей, окружающей тело извне.</se>
+    <se lang="latin" variant_id="1">Hic notandum est, quod quoniam materia praeterlabens ~~~ per poros corporum libere perfluit, ergo pro ratione densitatis suae et capacitatis pororum in poris contineri adeoque cum reliqua sibi simili externa corpus ambiente aequilibrium semper servare debet.</se>
+    <weight variant_id="1">-0,00403587</weight>
+  </para>
+  <para id="17">
+    <se lang="" variant_id="0">§ 3</se>
+    <se lang="" variant_id="1">§ 3</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="18">
+    <se lang="russian" variant_id="0">Материя обладает инерцией в соответствии с количеством, т. е. большее количество покоящейся материи с большей силой сопротивляется движению, а находящейся в движении производит напор с большей силой, чем меньшее количество ее же; напр., кубический фут железа сопротивляется и производит напор с удвоенной силой, а один — с силой, равной единице.</se>
+    <se lang="latin" variant_id="1">Materia iners est pro ratione quantitatis suae, hoc est major quantitas materiae quiescens majore vi motui resistit, vel majore vi impetum facit, quam minor quantitas ejusdem, e. g. pes cubicus ferri duplici vi resistit et impetum facit, unus simplici.</se>
+    <weight variant_id="1">0,185581</weight>
+  </para>
+  <para id="19">
+    <se lang="russian" variant_id="0">Поэтому, если какое-нибудь тело инертнее другого, обладающею тем же объемом или протяженностью, то тела эти отличаются друг от друга количеством собственной материи или еще и посторонней, с ним связанной пропорционально инерции.</se>
+    <se lang="latin" variant_id="1">Quamobrem, si corpus aliquod magis iners est quam aliud sub eodem volumine, sive extensione; corpora haec quantitate materiae propriae vel etiam simul peregrinae cohaerentis inter se differunt pro ratione inertiae.</se>
+    <weight variant_id="1">0,279032</weight>
+  </para>
+  <para id="20">
+    <se lang="" variant_id="0">§ 4</se>
+    <se lang="" variant_id="1">§ 4</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="21">
+    <se lang="russian" variant_id="0">От этих общих качеств тел зависят все те физические законы, которые составляют основы механики.</se>
+    <se lang="latin" variant_id="1">A catholicis hisce qualitatibus corporum dependent omnes illae leges naturales, quae mechanices dogmata constituunt.</se>
+    <weight variant_id="1">0,224096</weight>
+  </para>
+  <para id="22">
+    <se lang="russian" variant_id="0">И так как под одно и то же данное родовое обозначение подходят все тела, то из этого следует, что тела любой протяженности самые большие и самые малые, подчинены законам механики,</se>
+    <se lang="latin" variant_id="1">Quoniam autem omnia corpora sub eadem hac generica notione compraehenduntur; unde sequitur, corpora quantumvis vastae vel quantumvis exiguae extensionis legibus mechanices esse subjecta,</se>
+    <weight variant_id="1">0,272185</weight>
+  </para>
+  <para id="23">
+    <se lang="russian" variant_id="0">и поэтому все то, что происходит в них от общих качеств, может быть объяснено по законам движения.</se>
+    <se lang="latin" variant_id="1">atque adeo omnia ea, quae a catholicis qualitatibus in illis proficiscuntur, per regulas motus expliari posse.</se>
+    <weight variant_id="1">0,253012</weight>
+  </para>
+  <para id="24">
+    <se lang="russian" variant_id="0">Поэтому я предпосылаю здесь некоторые общие аксиомы, относящиеся к законам движения; аксиомы эти необходимы для доказательства дальнейшего.</se>
+    <se lang="latin" variant_id="1">Quamobrem axiomata quaedam generalia ad leges motus spectantia hic praemitto, quae necessaria sunt ad sequentia demonstranda.</se>
+    <weight variant_id="1">0,264865</weight>
+  </para>
+  <para id="25">
+    <se lang="" variant_id="0">§ 5</se>
+    <se lang="" variant_id="1">§ 5</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="26">
+    <se lang="russian" variant_id="0">I.</se>
+    <se lang="latin" variant_id="1">I.</se>
+    <weight variant_id="1">1,8</weight>
+  </para>
+  <para id="27">
+    <se lang="russian" variant_id="0">Ни одно тело не может быть естественным образом приведено в движение, если его не толкнет другое тело.</se>
+    <se lang="latin" variant_id="1">Nullum corpus naturaliter in motum excitari potest, nisi ab alio corpore sit impulsum.</se>
+    <weight variant_id="1">0,252</weight>
+  </para>
+  <para id="28">
+    <se lang="russian" variant_id="0">II.</se>
+    <se lang="latin" variant_id="1">II.</se>
+    <weight variant_id="1">1,8</weight>
+  </para>
+  <para id="29">
+    <se lang="russian" variant_id="0">Ни одно тело не может привести в движение другое, если само оно предварительно не будет приведено в движение.</se>
+    <se lang="latin" variant_id="1">Nullum corpus potest in motum excitare aliud corpus, nisi ipsum prius sit in motum excitatum.</se>
+    <weight variant_id="1">0,25125</weight>
+  </para>
+  <para id="30">
+    <se lang="russian" variant_id="0">III.</se>
+    <se lang="latin" variant_id="1">III.</se>
+    <weight variant_id="1">1,8</weight>
+  </para>
+  <para id="31">
+    <se lang="russian" variant_id="0">Если движущееся тело каким-либо образом соединено с движущим, то оба двигаются в одном и том же направлении.</se>
+    <se lang="latin" variant_id="1">Si corpus motum cum movente quacunque ratione est connexum, utrumque movetur secundum eandem directionem.</se>
+    <weight variant_id="1">0,3</weight>
+  </para>
+  <para id="32">
+    <se lang="russian" variant_id="0">IV.</se>
+    <se lang="latin" variant_id="1">IV.</se>
+    <weight variant_id="1">1,8</weight>
+  </para>
+  <para id="33">
+    <se lang="russian" variant_id="0">Тела, приведенные в движение одной и той же силой, имеют количество движения, пропорциональное инерции или количеству материи.</se>
+    <se lang="latin" variant_id="1">Corpora eadem vi in motum excitata, habent quantitatem motus pro ratione inertiae, sive quantitate materiae.</se>
+    <weight variant_id="1">0,249474</weight>
+  </para>
+  <para id="34">
+    <se lang="" variant_id="0">§ 6</se>
+    <se lang="" variant_id="1">§ 6</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="35">
+    <se lang="russian" variant_id="0">Кроме общих качеств чувствительных тел, имеются еще частные качества такого характера, что по устранении их тело может остаться в своей сущности.</se>
+    <se lang="latin" variant_id="1">Praeter catholicas qualitates corporum sensibilium dantur aliae qualitates particulares, quae ejus sunt indolis, ut sublatis illis corpus in esse suo persistere possit.</se>
+    <weight variant_id="1">0,247619</weight>
+  </para>
+  <para id="36">
+    <se lang="russian" variant_id="0">Таковы тяжесть, теплота, сцепление частей, цвета и т. п., ибо для существования тела требуется только то, что охвачено определением.</se>
+    <se lang="latin" variant_id="1">Hujusmodi sunt gravitas, calor, cohaesio partium, colores etc., etenim ad existentiam corporis nihil amplius requiritur, quam quod definitione compraehensum est.</se>
+    <weight variant_id="1">0,234783</weight>
+  </para>
+  <para id="37">
+    <se lang="" variant_id="0">§ 7</se>
+    <se lang="" variant_id="1">§ 7</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="38">
+    <se lang="russian" variant_id="0">Тела как состоящие из материи могут делиться на мельчайшие части.</se>
+    <se lang="latin" variant_id="1">Corpora ob materiam ex qua constant dividi possunt in partes minutissimas.</se>
+    <weight variant_id="1">0,257895</weight>
+  </para>
+  <para id="39">
+    <se lang="russian" variant_id="0">Деление это может рассматриваться двояким образом, а именно, математически и физически.</se>
+    <se lang="latin" variant_id="1">Divisio haec duplici ratione considerari potest, nimirum mathematice et physice.</se>
+    <weight variant_id="1">0,275</weight>
+  </para>
+  <para id="40">
+    <se lang="russian" variant_id="0">Я говорю, что тело делится математически, когда в данном его объеме исчислением предуказываются любые части.</se>
+    <se lang="latin" variant_id="1">Corpus mathematice dividi dico, quando in data ejus extensione partes pro lubitu per calculum assignantur.</se>
+    <weight variant_id="1">0,293548</weight>
+  </para>
+  <para id="41">
+    <se lang="russian" variant_id="0">Физически тело делится, когда части его в действительности отделяются одна от другой.</se>
+    <se lang="latin" variant_id="1">Physice corpus dividitur, quando partes ejus actu a se invicem sejunguntur.</se>
+    <weight variant_id="1">0,259091</weight>
+  </para>
+  <para id="42">
+    <se lang="russian" variant_id="0">Так как чистое математическое деление определяется произвольно и нельзя доказать, что в телах имеются действительно отделимые друг от друга части, предуказанные математически, то мы, оставив его в стороне, постараемся исследовать только физическое деление тел, определяя, однако, где возможно, и математически общие качества физических частей.</se>
+    <se lang="latin" variant_id="1">Quoniam autem pura mathematica divisio arbitrio determinetur, neque demonstrari potest, partes mathematice assignatas dari in corporibus actu a se invicem separabiles; quamobrem de ea minus solliciti, solam physicam corporum divisionem pervestigare tentabimus; verum tamen, ubi licebit, qualitates partium physicarum catholicas mathematice determinabimus.</se>
+    <weight variant_id="1">0,286047</weight>
+  </para>
+  <para id="43">
+    <se lang="russian" variant_id="0">Глава 2</se>
+    <se lang="latin" variant_id="1">Caput 2</se>
+    <weight variant_id="1">11,3</weight>
+  </para>
+  <para id="44">
+    <se lang="russian" variant_id="0">О НЕЧУВСТВИТЕЛЬНЫХ ФИЗИЧЕСКИХ ЧАСТИЦАХ</se>
+    <se lang="latin" variant_id="1">DE PARTICULIS PHYSICIS INSENSIBILIBUS</se>
+    <weight variant_id="1">0,291429</weight>
+  </para>
+  <para id="45">
+    <se lang="" variant_id="0">§ 8</se>
+    <se lang="" variant_id="1">§ 8</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="46">
+    <se lang="russian" variant_id="0">Физически тела делятся на частицы поразительной малости. ~~~ Это явствует из следующего.</se>
+    <se lang="latin" variant_id="1">Physice corpora dividuntur in particulas stupendae exilitatis, quod ex sequentibus elucet.</se>
+    <weight variant_id="1">-0,00779221</weight>
+  </para>
+  <para id="47">
+    <se lang="russian" variant_id="0">1) Кубическая линия парижского фута золота весит приблизительно 3 грана; а один гран мастера́ растягивают в тончайший листок, имеющий 36 кв. дюймов; итак, три грана, или кубическая линия золота, растянутая в такой листок, равняются приблизительно 108 кв. дюймам или 15 552 кв. линиям.</se>
+    <se lang="latin" variant_id="1">1) Auri linea cubica pedis Parisiensis ponderat circiter grana 3; singula vero grana extenduntur ab artificibus in bracteam tenuissimam, quae tenet 36 pollices quadratos; tria igitur grana, sive linea cubica auri in ejusmodi bracteam extensa adaequat 108 pollices quadratos sive 15 552 lineas quadratas.</se>
+    <weight variant_id="1">0,783333</weight>
+  </para>
+  <para id="48">
+    <se lang="russian" variant_id="0">Так как квадратная линия есть основание кубической линии, то 15 552 квадратных линий золотого листка, точно наложенные друг на друга, составят кубическую линию золота, следовательно, толщина этого листка равна одной линии парижского фута. ~~~ И сторона кубических частиц золота, которые, будучи плотно положены одна возле другой, составляют листок, равна линии; откуда видно, что в одной кубической линии парижского фута золота содержится 3 761 479 876 608 таких частиц, и таким образом в одной кубической песчинке, сторона которой равна 1/10 линии, может содержаться 3 761 479 876 таких же частиц, которые физически отделяются друг от друга.</se>
+    <se lang="latin" variant_id="1">Quoniam autem linea quadrata est basis lineae cubicae, ideoque 15 552 lineae quadratae bracteae aureae una super alteram congruenter positae constituent lineam cubicam auri, consequenter crassities istiusmodi aequalis est unius lineae pedis Parisiensis; atque adeo latus particularum cubicarum auri, quae per congruentem juxtapositionem bracteam constituunt, aequalis est lineae, unde patet in una linea cubica auri pedis Parisiensis 3 761 479 876 608 ejusmodi particulas contineri, adeoque in uno granulo cubico arenae, cujus latus aequale est 1/10 lineae, easdem particulas compraehendi posse 3 761 479 876, quae physice a se invicem sejunguntur.</se>
+    <weight variant_id="1">0,121124</weight>
+  </para>
+  <para id="49">
+    <se lang="russian" variant_id="0">2) Далее, хотя тля столь малое насекомое, что ее едва можно разглядеть простым глазом, однако де Малезье наблюдал в микроскоп мельчайшие существа, величина любого из которых относилась к величине тли, как 1 к 27 000 000.. И так как эти существа живут и, следовательно, имеют части и сосуды, необходимые для движения, питания и чувствования, т. е. мускулы, вены, нервы и пути для жизненного дыхания, которые все должны быть физически расчленены, то отсюда ясно, что в телах имеются мельчайшие нечувствительные частицы, физически разделимые.</se>
+    <se lang="latin" variant_id="1">2) Porro licet tinea sit tam exiguum insectum, ut vix nudo oculo conspici possit; verum tamen de Malezieu per microscopium animalcula observavit quorum cujuslibet magnitudo erat ad magnitudinem tineae ut 1 ad 27 000 000.. Quae animalcula quoniam vivunt, habent igitur partes et vascula ad motum, nutritionem et sensationem necessaria, hoc est musculos, venas, nervos et spiritus vitales; quae omnia quoniam physice distincta esse debent, unde patet dari in corporibus particulas minutissimas insensibiles physice separabiles.</se>
+    <weight variant_id="1">0,887459</weight>
+  </para>
+  <para id="50">
+    <se lang="russian" variant_id="0">Можно было бы представить еще много подобных примеров, но этого не допускает стремление к краткости, и стоящая перед нами цель побуждает исследовать остальное, что в других местах недостаточно разъяснено и, пожалуй, даже вовсе неизвестно; особенно же то, что мы исследуем в § .</se>
+    <se lang="latin" variant_id="1">Plura quidem ejus modi documenta proponi possent; verum brevitatis studium id non permittit, et instituti ratio avocat ad reliqua pervestiganda, quae alias non satis explicate, imo forsan neque cognita habentur, praecipue vero ea, quae § indigitabimus.</se>
+    <weight variant_id="1">0,266667</weight>
+  </para>
+  <para id="51">
+    <se lang="" variant_id="0">§ 9</se>
+    <se lang="" variant_id="1">§ 9</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="52">
+    <se lang="russian" variant_id="0">Отдельные физические частицы тел имеют протяжение.</se>
+    <se lang="latin" variant_id="1">Particulae corporum physicae singulae sunt extensae.</se>
+    <weight variant_id="1">0,286957</weight>
+  </para>
+  <para id="53">
+    <se lang="russian" variant_id="0">Положим, что отдельные физические частицы не имеют протяжения, т. е. не занимают никакого пространства. ~~~ Тогда, образуя тела, эти частицы или взаимно соприкасаются, или нет.</se>
+    <se lang="latin" variant_id="1">Ponamus particulas physicas singulas non esse extensas, hoc est nullum spacium occupare, ergo corpora constituendo vel se mutuo contingunt vel non contingent.</se>
+    <weight variant_id="1">-0,0152174</weight>
+  </para>
+  <para id="54">
+    <se lang="russian" variant_id="0">В первом случае частица b, находящаяся в соприкосновении с частицей a, не будет занимать вне ее никакого пространства, т. е. она совпадает с ней в одной и той же точке; частица c, находящаяся в соприкосновении с частицей b, будет соприкасаться также и с частицей a и совпадет с нею в одной и той же точке, потому что соприкасается с частицей b и совпадает с ней в одной точке; частица d, соприкасаясь с частицей c и совпадая с ней в одной точке, будет соприкасаться поэтому с частицей a и совпадет с ней в одной точке; и таким же образом остальные частицы будут соприкасаться с частицей a и совпадут с нею в одной точке.</se>
+    <se lang="latin" variant_id="1">In casu priore particula b posita in contactu cum particula a nullum spacium extra hanc occupabit, ergo cum eadem in unum punctum coincidet; particula c posita in contactu cum particula b continget etiam particulam a et cum ea in unum punctum coincidet, quia contingit particulam b et cum ea in unum punctum coincidit; particula d quoniam contingit particulam c et cum ea in unum punctum coincidit, ideo continget particulam a et cum ea in unum punctum coincidet; et sic reliquae particulae contingent particulam a et cum ea in unum punctum coincident.</se>
+    <weight variant_id="1">0,43259</weight>
+  </para>
+  <para id="55">
+    <se lang="russian" variant_id="0">Из этого ясно, что физические части, не имеющие протяжения и приведенные в соприкосновение, не могут составить ничего протяженного.</se>
+    <se lang="latin" variant_id="1">Ex his elucet, partes physicas minus extensas et in contactu constitutas nihil extensi componere posse.</se>
+    <weight variant_id="1">0,216667</weight>
+  </para>
+  <para id="56">
+    <se lang="russian" variant_id="0">Во втором случае, когда непротяженные частицы лишены взаимного соприкосновения, то между ближайшими частицами a и b будет пространство, которое, хотя и будет крайне малым, может, тем не менее, по отношению к непротяженному рассматриваться как бесконечно большое.</se>
+    <se lang="latin" variant_id="1">In casu posteriore, ubi particulae minus extensae mutuo contactu carent, inter proximas particulas a et b dabitur spacium, quod licet fuerit maxime exiguum tamen respectu inextensi tanquam infinite magnum considerari potest.</se>
+    <weight variant_id="1">0,436731</weight>
+  </para>
+  <para id="57">
+    <se lang="russian" variant_id="0">Поэтому между частицами a и b может поместиться бесконечно большое число непротяженных частиц, равно как и между частицами b и c, c и d и т. д.</se>
+    <se lang="latin" variant_id="1">Unde inter particulas a et b constitui poterit numerus infinite magnus particularum minus extensarum, aeque ac inter partuculas b et c, c et d etc.</se>
+    <weight variant_id="1">0,421671</weight>
+  </para>
+  <para id="58">
+    <se lang="russian" variant_id="0">Таким образом в определенном протяжении тела, состоящего из непротяженных и взаимно несоприкасающихся частиц, окажется возможным поместить бесконечное число тел такого же протяжения, т. е. тела будут сопроницаемы.</se>
+    <se lang="latin" variant_id="1">adeoque in determinate extensione cujuslibet corporis ex particulis minus extensis sine mutuo earum contactu compositis collocari poterit infinitus numerus corporum ejusdem extensionis, hoc est corpora erunt compenetrabilia.</se>
+    <weight variant_id="1">0,2175</weight>
+  </para>
+  <para id="59">
+    <se lang="russian" variant_id="0">А так как оба эти случая противоречат двум общим свойствам тел, а именно протяженности и несопроницаемости (§ 1), то невозможно, чтобы физические части тел были непротяженными.</se>
+    <se lang="latin" variant_id="1">Quoniam autem uterque casus pugnat cum duabus qualitatibus corporum catholicis, nimirum cum extensione et incompenetrabilitate (§ 1), quamobrem fieri nequit, ut partes corporum physicae sint minus extensae.</se>
+    <weight variant_id="1">0,564588</weight>
+  </para>
+  <para id="60">
+    <se lang="russian" variant_id="0">Впрочем, во втором случае кто-либо, может быть, припишет непротяженным частицам некую центробежную силу, которая будет отталкивать от них остальные частицы на определенное расстояние.</se>
+    <se lang="latin" variant_id="1">Caeterum in casu posteriore aliquis forte tribuet vim quandam centrifugam particulis minus extensis, qua reliquae particulae ad determinatam distantiam ab illis repelluntur.</se>
+    <weight variant_id="1">0,282353</weight>
+  </para>
+  <para id="61">
+    <se lang="russian" variant_id="0">Центробежная сила, однако, естественно может быть приписана только тому, что вращается вокруг некоторого центра.</se>
+    <se lang="latin" variant_id="1">Verum tamen vis centrifuga naturaliter iis tantum adscribi potest, quae motu centrali rotantur.</se>
+    <weight variant_id="1">0,242857</weight>
+  </para>
+  <para id="62">
+    <se lang="russian" variant_id="0">А так как непротяженные части не могут иметь поверхность, раздельную от центра, то они не могут ни вращаться вокруг центра, ни оказывать естественным образом на другие частицы действия центробежной силы.</se>
+    <se lang="latin" variant_id="1">Cum vero partes minus extensae superficiem a centro distinctam habere non possint, igitur nec motu centrali moveri nec vim centrifugam in alias particulas naturaliter exercere queunt.</se>
+    <weight variant_id="1">0,269811</weight>
+  </para>
+  <para id="63">
+    <se lang="" variant_id="0">§ 10</se>
+    <se lang="" variant_id="1">§ 10</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="64">
+    <se lang="russian" variant_id="0">Отдельные физические частицы несопроницаемы, обладают силой, инерции, могут, двигаться и находиться в состоянии покоя.</se>
+    <se lang="latin" variant_id="1">Particulae physicae singulae sunt incompenetrabiles, vt inertiae praeditae, motus et quietis capaces.</se>
+    <weight variant_id="1">0,250549</weight>
+  </para>
+  <para id="65">
+    <se lang="russian" variant_id="0">Действительно, положим, что физические частицы сопроницаемы. ~~~ Тогда частица b займет вместе с частицей a одно и то же пространство; частица c займет то же самое пространство, что и частицы b и a, а частица d займет то же самое пространство, что и частицы c, b и a и т. д.</se>
+    <se lang="latin" variant_id="1">Etenim ponatur particulas physicas esse compenetrabiles, ergo particula b idem spatium occupabit simul cum particula a, particula c idem spacium occupabit simul cum particula b et a, et particula d idem spacium occupabit simul cum particula c, b et a etc.</se>
+    <weight variant_id="1">0,241702</weight>
+  </para>
+  <para id="66">
+    <se lang="russian" variant_id="0">Следовательно, все физические частицы, составляющие чувствительное тело, займут место только одной физической частицы, а так как она нечувствительна (§ ), то чувствительное тело окажется одновременно нечувствительным.</se>
+    <se lang="latin" variant_id="1">Consequenter omnes particulae physicae, quae constituunt corpus sensibile, occupabunt tantum spacium unius particulae physicae, quae quoniam insensibilis est (§ ) erit ergo corpus sensibile simul insensibile.</se>
+    <weight variant_id="1">0,396437</weight>
+  </para>
+  <para id="67">
+    <se lang="russian" variant_id="0">Так как это нелепо, то, значит, физические частицы несопроницаемы.</se>
+    <se lang="latin" variant_id="1">Quod quoniam absurdum est, igitur particulae physicae sunt incompenetrabiles.</se>
+    <weight variant_id="1">0,244068</weight>
+  </para>
+  <para id="68">
+    <se lang="russian" variant_id="0">Это — первое.</se>
+    <se lang="latin" variant_id="1">Quod erat primum.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="69">
+    <se lang="russian" variant_id="0">Предположим далее, что ни одна из физических частиц, обозначаемых буквами a, b, c, d и т. д., не обладает силой инерции.</se>
+    <se lang="latin" variant_id="1">Porro ponamus particulas physicas singulas nulla vi inertiae esse praeditas, eaeque indigitentur literis a, b, c, d etc.</se>
+    <weight variant_id="1">0,922668</weight>
+  </para>
+  <para id="70">
+    <se lang="russian" variant_id="0">Итак, в отношении силы инерции частица a = 0, b = 0, c = 0, и т. д. ~~~ = 0 Следовательно, получится a + b + c + d = 0 и т. д. = 0; </se>
+    <se lang="latin" variant_id="1">Igitur quoad vim inertiae erit particula a = 0, b = 0, c = 0, d = 0 etc.= 0.. Consequenter erit a + b + c + d etc. = 0, </se>
+    <weight variant_id="1">0,709853</weight>
+  </para>
+  <para id="71">
+    <se lang="russian" variant_id="0">иначе говоря, чувствительные тела, состоящие из физических частиц, ~~~ будут вовсе лишены силы инерции, что противоречит общему свойству тел; итак, очевидно, что каждая физическая частица наделена силой инерции.</se>
+    <se lang="latin" variant_id="1">hoc est corpora sensibilia composita ex particulis physicis erunt nulla vi inertiae praedita, quod cum pugnet cum qualitate corporum catholica, quare evidens est singulas particulas ~~~ physicas gaudere vi inertiae.</se>
+    <weight variant_id="1">-0,174224</weight>
+  </para>
+  <para id="72">
+    <se lang="russian" variant_id="0">Это — второе.</se>
+    <se lang="latin" variant_id="1">Quod erat alterum.</se>
+    <weight variant_id="1">0,175</weight>
+  </para>
+  <para id="73">
+    <se lang="russian" variant_id="0">Затем, если целое может двигаться, то могут двигаться также и его части; но чувствительные тела могут двигаться; следовательно, и части их, т. е. физические частицы, способны двигаться. ~~~ Это — третье.</se>
+    <se lang="latin" variant_id="1">Denique si totum moveri potest, possunt moveri etiam ejus partes; sed corpora sensibilia moveri possunt, ergo et partes eorum, hoc est particulae physicae sunt motus capaces, quod erat tertium.</se>
+    <weight variant_id="1">-0,005625</weight>
+  </para>
+  <para id="74">
+    <se lang="russian" variant_id="0">И наконец, так как ничто не происходит без достаточного основания к тому, чтобы оно скорее было, чем не было, то должно существовать достаточное основание, в силу которого физические частицы двигались бы.</se>
+    <se lang="latin" variant_id="1">Tandem, quoniam nihil fit sine ratione sufficiente, cur aliquid potius sit quam non sit; quamobrem ratio sufficiens dari debet, cur particulae physicae commoveantur.</se>
+    <weight variant_id="1">0,235417</weight>
+  </para>
+  <para id="75">
+    <se lang="russian" variant_id="0">При отсутствии его физические частицы не могут двигаться; следовательно, физические частицы могут находиться в покое.</se>
+    <se lang="latin" variant_id="1">Hac enim sublata particulae physicae moveri non possunt; adeoque particulae physicae sunt capaces quietis.</se>
+    <weight variant_id="1">0,268085</weight>
+  </para>
+  <para id="76">
+    <se lang="russian" variant_id="0">Это — четвертое.</se>
+    <se lang="latin" variant_id="1">Quod erat quartum.</se>
+    <weight variant_id="1">0,26</weight>
+  </para>
+  <para id="77">
+    <se lang="russian" variant_id="0">Примечание.</se>
+    <se lang="latin" variant_id="1">Nota.</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="78">
+    <se lang="russian" variant_id="0">Здесь не ставится вопрос, покоятся ли физические частицы в действительности, а только, — могут ли они быть в состоянии покоя.</se>
+    <se lang="latin" variant_id="1">Hic non inquiritur, an particulae physicae actu quiescant, sed quod quiescere possint.</se>
+    <weight variant_id="1">0,177632</weight>
+  </para>
+  <para id="79">
+    <se lang="" variant_id="0">§ 11</se>
+    <se lang="" variant_id="1">§ 11</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="80">
+    <se lang="russian" variant_id="0">Итак, раз физические частицы, даже нечувствительные, протяженны (§ 9), несопроницаемы, обладают силой инерции, способны двигаться и находиться в покое (§ 10), то, следовательно, они суть тела (§ 1), и потому все, зависящее от общих их качеств, можно объяснить по законам механики (§ 4).</se>
+    <se lang="latin" variant_id="1">Itaque, quoniam particulae physicae etiam insensibiles sunt extensae (§ 9), incompenetrabiles, vi inertiae praeditae, motus et quietis capaces (§ 10), consequenter sunt corpora (§ 1), atque adeo omnia ea, quae a qualitatibus catholicis in illis proficiscuntur per regulas mechanicas explicari possunt (§ 4).</se>
+    <weight variant_id="1">0,81974</weight>
+  </para>
+  <para id="81">
+    <se lang="" variant_id="0">§ 12</se>
+    <se lang="" variant_id="1">§ 12</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="82">
+    <se lang="russian" variant_id="0">Всякое изменение в теле может произойти только в тех случаях, если к нему прибавить части или отнять их от него, или переставить их, или изменить их движение.</se>
+    <se lang="latin" variant_id="1">Nulla mutatio in corpore contingere potest nisi vel partes illi addantur vel detrahantur, vel transponantur, vel motus earum aliter determinetur.</se>
+    <weight variant_id="1">0,285827</weight>
+  </para>
+  <para id="83">
+    <se lang="russian" variant_id="0">А так как части, которые прибавляют или отнимают, или переставляют, или заставляют двигаться по-иному, действительно можно разделить, то они являются физическими (§ 7) и, следовательно,</se>
+    <se lang="latin" variant_id="1">Quoniam autem partes quae adduntur vel detrahuntur, vel transponuntur, vel quarum motus aliter determinatur, sunt actu divisibiles, sunt ergo physicae (§ 7) adeoque corpora</se>
+    <weight variant_id="1">0,516</weight>
+  </para>
+  <para id="84">
+    <se lang="russian" variant_id="0">телами (§ 11).</se>
+    <se lang="" variant_id="1">(§ 11).</se>
+    <weight variant_id="1">2,04286</weight>
+  </para>
+  <para id="85">
+    <se lang="russian" variant_id="0">А так как прибавление, отнятие и перестановка физических частей, а также сообщение им нового движения (поскольку они суть тела, § 11) предполагают движение и так как всякое движение в теле может быть вызвано только другим движущимся телом (§ 5), то поэтому изменения, которые происходят в телах, вызываются движением действующего тела.</se>
+    <se lang="latin" variant_id="1">Quoniam autem additio, detractio et transpositio partium physicarum atque nova determinatio motus earum (tanquam corporum, § 11) motum supponit, neque ullus motus in corporibus excitari potest nisi ab alio corpore moto (§ 5), quamobrem mutationes quae in corporibus fiunt producuntur a motu corporis agentis.</se>
+    <weight variant_id="1">0,542982</weight>
+  </para>
+  <para id="86">
+    <se lang="russian" variant_id="0">Но если тела действуют движением, то они действуют также остальными общими качествами, неразрывно с ними связанными.</se>
+    <se lang="latin" variant_id="1">Verum quando corpora agunt motu, agunt etiam reliquis qualitatibus catholicis, inseparabili nexu secum conjunctis.</se>
+    <weight variant_id="1">0,3</weight>
+  </para>
+  <para id="87">
+    <se lang="russian" variant_id="0">Следовательно, все изменения в телах происходят от общих качеств действующего тела.</se>
+    <se lang="latin" variant_id="1">Consequenter omnes mutationes corporum proficiscuntur a qualitatibus catholicis corporis agentis.</se>
+    <weight variant_id="1">0,239189</weight>
+  </para>
+  <para id="88">
+    <se lang="russian" variant_id="0">Отсюда также следует, что сила инерции и несопроницаемость без движения не могут вызвать никакого движения.</se>
+    <se lang="latin" variant_id="1">Hinc quoque sequitur vim inertiae et incompenetrabilitatem nullum motum sine motu producere posse.</se>
+    <weight variant_id="1">0,275862</weight>
+  </para>
+  <para id="89">
+    <se lang="" variant_id="0">§ 13</se>
+    <se lang="" variant_id="1">§ 13</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="90">
+    <se lang="russian" variant_id="0">Симилярным называется тело, любая чувствительная часть которого в отношении частных качеств подобна любой другой чувствительной части, напр., любая чувствительная часть золота сходна с любой другой чувствительной его частью, т. е. она имеет тот же самый удельный вес, цвет, сцепление физических частей и т. д.</se>
+    <se lang="latin" variant_id="1">Corpus similare est, cujus quaelibet pars sensibilis quod ad qualitates particulares similis est cuilibet alteri parti sensibili, e. g. quaelibet pars sensibilis auri similis est cuilibet alteri parti sensibili ejusdem, hoc est gaudet eadem gravitate specifica, colore, cohaesione partium physicarum etc.</se>
+    <weight variant_id="1">0,297736</weight>
+  </para>
+  <para id="91">
+    <se lang="russian" variant_id="0">Телами однородными в отношении частных качеств я называю те, которые сходны во всех частных качествах, напр., кусок золота обладает всеми теми же частными качествами, что и другой кусок золота.</se>
+    <se lang="latin" variant_id="1">Corpora particulariter homogenea dico, quae omnibus qualitatibus particularibus conveniunt, e. g. frustum auri convenit omnibus qualitatibus particularibus cum alio frusto auri.</se>
+    <weight variant_id="1">0,28481</weight>
+  </para>
+  <para id="92">
+    <se lang="russian" variant_id="0">Разнородными в отношении частных качеств я называю ~~~ такие тела, которые различаются частными качествами, напр. золото и воду.</se>
+    <se lang="latin" variant_id="1">Corpora particulariter heterogenea appello, quae qualitatibus particularibus differunt, e. g. ut aurum et aqua.</se>
+    <weight variant_id="1">-0,0181818</weight>
+  </para>
+  <para id="93">
+    <se lang="russian" variant_id="0">А так как любая чувствительная частица симилярных тел обладает теми же частными качествами, что и все тело, то отсюда ясно, что достаточное основание для частных качеств заключается в нечувствительных частицах тел.</se>
+    <se lang="latin" variant_id="1">Cum vero corporum similarium particula quaelibet sensibilis, qualitates particulares possideat non secus ac integrum corpus, unde apparet qualitatum particularium rationem sufficientem contineri in particulis corporum insensibilibus.</se>
+    <weight variant_id="1">0,261081</weight>
+  </para>
+  <para id="94">
+    <se lang="" variant_id="0">§ 14</se>
+    <se lang="" variant_id="1">§ 14</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="95">
+    <se lang="russian" variant_id="0">Смешанное тело есть симилярное тело, состоящее из других симилярных тел, разнородных в отношении частных качеств, так что в любой нечувствительной частице составляющие части находятся в том же количественном отношении друг к другу, в каком они находятся во всем смешанном теле.</se>
+    <se lang="latin" variant_id="1">Corpus mixtum est corpus similare, quod constat ex alis corporibus similaribus particulariter heterogeneis, ita ut in qualibet sensibili particula miscibilia eandem rationem quantitatis habeant inter se, quam eadem miscibilia in toto corpore mixto habent.</se>
+    <weight variant_id="1">0,278475</weight>
+  </para>
+  <para id="96">
+    <se lang="russian" variant_id="0">Так, порох состоит из угля, серы и селитры — тел симилярных, в отношении частных качеств разнородных.</se>
+    <se lang="latin" variant_id="1">Ita pulvis pyrius componitur ex carbone, sulphure et nitro, corporibus similaribus particulariter heterogeneis.</se>
+    <weight variant_id="1">0,255172</weight>
+  </para>
+  <para id="97">
+    <se lang="russian" variant_id="0">Тела, в отношении частных качеств разнородные, которые образуют смешанное, называются составляющими.</se>
+    <se lang="latin" variant_id="1">Corpora particulariter heterogenea, quae mixtum componunt, vocantur miscibilia.</se>
+    <weight variant_id="1">0,226027</weight>
+  </para>
+  <para id="98">
+    <se lang="russian" variant_id="0">Физические частицы смешанного тела бывают двух родов, а именно: частицы смешанного и частицы составляющих.</se>
+    <se lang="latin" variant_id="1">Particulae physicae corporis mixti sunt duplicis generis, nempe particulae mixti et particulae misibilium.</se>
+    <weight variant_id="1">0,296809</weight>
+  </para>
+  <para id="99">
+    <se lang="russian" variant_id="0">Частицы смешанною отличаются тем свойством, что ~~~ при дальнейшем физическом делении каждой смешанное тело разлагается на составляющие.</se>
+    <se lang="latin" variant_id="1">Particulae mixti ejus sunt indolis, ut singulis ulterius physice divisis, corpus mixtum in miscibilia resolvitur.</se>
+    <weight variant_id="1">-0,03</weight>
+  </para>
+  <para id="100">
+    <se lang="russian" variant_id="0">Частицы составляющих — это те, которые образуют отдельные частицы смешанного.</se>
+    <se lang="latin" variant_id="1">Particulae miscibilium sunt, quae componunt singulas particulas mixti.</se>
+    <weight variant_id="1">0,276563</weight>
+  </para>
+  <para id="101">
+    <se lang="russian" variant_id="0">Здесь должно различать между составляющими и посторонней материей, ибо хотя воздух и рассеян повсюду в порах воды, но для ее образования он не имеет никакого значения; ибо, если его удалить с помощью воздушного насоса, то вода продолжает пребывать в свойственном ей виде и остается водой, равно как вода, очищенная от загрязнения путем гниения или перегонки.</se>
+    <se lang="latin" variant_id="1">Hic distinguendum est inter ~~~ miscibilia et materiam peregrinam, etenim licet aër in aqua per poros ubique disseminatus sit, ad eam tamen constituendam nihil confert; eo quippe ope anthliae subducto, aqua in specifica sua forma persistit et manet aqua, non secus ac per putrefactionem vel destillationem a sordibus liberata.</se>
+    <weight variant_id="1">-0,0145683</weight>
+  </para>
+  <para id="102">
+    <se lang="russian" variant_id="0">Нередко, однако, случается, что одно и то же тело в одном и том же теле играет роль и составляющего и посторонней материи, напр., дерево путем перегонки дает немалое количество воды, а само в конце концов превращается в уголь.</se>
+    <se lang="latin" variant_id="1">Non raro tamen contingit, quod idem corpus in uno eodemque corpore simul et miscibile et materiam peregrinam agat, e. g: lignum per destillationem suppeditat aquae quantitatem non contemnendam et ipsum tandem in carbonem convertitur.</se>
+    <weight variant_id="1">0,282632</weight>
+  </para>
+  <para id="103">
+    <se lang="russian" variant_id="0">Это показывает, что вода в дереве была как нечто составляющее.</se>
+    <se lang="latin" variant_id="1">Quo ostenditur aquam in ligno tanquam miscibile fuisse.</se>
+    <weight variant_id="1">0,269388</weight>
+  </para>
+  <para id="104">
+    <se lang="russian" variant_id="0">Но если это самое дерево до перегонки пробыло некоторое время под водой, то тогда лишнюю воду, удерживающуюся в порах дерева, должно было бы рассматривать как постороннюю материю.</se>
+    <se lang="latin" variant_id="1">Verum idem lignum si fuerit ante destillationem per aliquod tempus sub aqua detentum, jam tum aqua superflua poris ligni inhaerens pro materia peregrina habenda est.</se>
+    <weight variant_id="1">0,274648</weight>
+  </para>
+  <para id="105">
+    <se lang="" variant_id="0">§ 15</se>
+    <se lang="" variant_id="1">§ 15</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="106">
+    <se lang="russian" variant_id="0">Частные качества изменяются вследствие различного соединения и разделения составляющих: 1) Когда частицы одного составляющего выходят из взаимного соприкосновения и смешиваются с проникающими в промежутки частицами другого составляющего, таким же образом отделившимися одна от другой, напр., медь, растворенная в крепкой водке и таким образом смешанная с частицами растворителя, образует симилярную массу зеленого цвета, который не наблюдается ни в меди, ни в растворителе в отдельности.</se>
+    <se lang="latin" variant_id="1">Per variam combinationem et separationem miscibilium qualitates particulares mutantur, 1) quando unius miscibilis particulae a mutuo contactu sejunguntur et interpositis particulis alterius miscibilis pari ratione sejunctis, permiscentur, e. g.: cuprum in aqua forti dissolutum, et hac ratione cum particulis menstrui permixtum, abit in massam similarem coloris viridis qui nec in cupro nec in menstruo seorsim conspicitur.</se>
+    <weight variant_id="1">0,30629</weight>
+  </para>
+  <para id="107">
+    <se lang="russian" variant_id="0">Амальгама олова, насыщенная большим количеством этого металла, становится хрупкой и ломкой, тогда как каждое из смешанных тел, взятое по отдельности, этим качеством не обладает; постоянная щелочь и нашатырный спирт по отдельности обладают невыносимым вкусом; вкус же селитры, тела, получаемого их смешением, можно терпеть.</se>
+    <se lang="latin" variant_id="1">Amalgama stanni, majore quantitate hujus metalli refertum, fit fragile et friabile, cum tamen singula corpora commixta seorsim hac qualitate careant; alcali fixum et nitri spiritus separatim gustata sapore intolerabili linguam afficiunt; contra vero saporem nitri, corporis ex illis mixti, minus aegre ferre possumus.</se>
+    <weight variant_id="1">0,294565</weight>
+  </para>
+  <para id="108">
+    <se lang="russian" variant_id="0">2) Когда смешанное разлагается на составляющие, т. е. когда частицы составляющего освобождаются от других находящихся в промежутках между ними частиц и сливаются в одну сплошную массу, напр., зерно имеет пресный вкус, но путем брожения из него извлекают винный спирт и уксус — жидкости очень резкого вкуса.</se>
+    <se lang="latin" variant_id="1">2) Quando mixtum in miscibilia resolvitur, hoc est particulae miscibilium ab aliis particulis interpositis liberantur et in unam massam conflantur, e. g.: frumenta gaudent sapore lenissimo, per fermentationem tamen ex illis eliciuntur spiritus vini et acetum, liquores sapidissimi.</se>
+    <weight variant_id="1">0,0378738</weight>
+  </para>
+  <para id="109">
+    <se lang="russian" variant_id="0">Прозрачные жидкие масла, сгорев, дают сажу, — вещество и цветом и консистенцией совершенно не похожее на эти жидкости.</se>
+    <se lang="latin" variant_id="1">Ex limpidis oleis stillatitiis per combustionem fuligo colligitur, materia ab illis liquoribus colore et consistentia toto caelo diversa.</se>
+    <weight variant_id="1">0,244118</weight>
+  </para>
+  <para id="110">
+    <se lang="russian" variant_id="0">3) Когда изменяется связь частиц: селитряный спирт, напр., — это прозрачная бесцветная жидкость, но, испаряясь, он дает тело красного цвета, и, наоборот, соляный спирт желтоватого цвета дает пары белые.</se>
+    <se lang="latin" variant_id="1">3) Quando conexio particularum mutatur, e. g. spiritus nitri est liquor limpidus nullo colore tinctus, solutus tamen in vapores corpus rubeum repraesentat, et contra spiritus salis flavente quidem liquore gaudet, in vapores tamen albos resolvitur.</se>
+    <weight variant_id="1">0,333143</weight>
+  </para>
+  <para id="111">
+    <se lang="russian" variant_id="0">Ртуть при длительном и сильном встряхивании распадается в черный порошок, а подвергнутая возгонке, сама по себе разлагается в красный порошок.</se>
+    <se lang="latin" variant_id="1">Mercurius per diuturnam et fortem concussionem in nigrum pulverem collabitur, ut praecipitatus per se in rubrum pulverem fatiscit.</se>
+    <weight variant_id="1">0,273684</weight>
+  </para>
+  <para id="112">
+    <se lang="russian" variant_id="0">Из этого следует, что достаточное основание для частных качеств содержится в частицах смешанного и составляющих, которые, будучи реально разделимы, суть частицы физические (§ 7), и поэтому органы чувств при восприятии частных качеств испытывают воздействие физических частиц, и именно нечувствительных (§ 14), но составляющих тела чувствительные.</se>
+    <se lang="latin" variant_id="1">Ex his sequitur qualitatum particularium rationem sufficientem contineri in particulis mixti et miscibilium, quae quoniam actu dividuntur, sunt ergo physicae (§ 7); adeoque organa sensoria ad percipiendas qualitates particulares determinantur particulis physicis et quidem insensibilibus (§ 14) corpora sensibilia constituentibus.</se>
+    <weight variant_id="1">0,43504</weight>
+  </para>
+  <para id="113">
+    <se lang="" variant_id="0">§ 16</se>
+    <se lang="" variant_id="1">§ 16</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="114">
+    <se lang="russian" variant_id="0">Симилярными простыми телами я называю тела, которые реально не делятся на составляющие, симилярные и разнородные в отношении частных качеств тела, как вода, известь и т. д.</se>
+    <se lang="latin" variant_id="1">Corpora similaria simpliciora appello quae in miscibilia sive corpora similaria particulariter heterogenea actu non dividuntur, ut aqua terra calcarea etc.</se>
+    <weight variant_id="1">0,206897</weight>
+  </para>
+  <para id="115">
+    <se lang="russian" variant_id="0">Путем химического анализа удается достичь того, что в смешанных телах обнаруживаются тела симилярные простые, из чего явствует, что и смешанные тела состоят из симилярных простых тел.</se>
+    <se lang="latin" variant_id="1">In corporibus mixtis per analisim Chymicam eousque pervenitur, ut tandem corpora similaria simpliciora prodeant, unde patet etiam corpora mixta constare ex corporibus similaribus simplicioribus.</se>
+    <weight variant_id="1">0,275472</weight>
+  </para>
+  <para id="116">
+    <se lang="russian" variant_id="0">При этом простые тела этого рода принимают некоторое определенное число частных качеств и не могут в отношении их меняться до бесконечности, если к ним не подмешано других тел, инородных в отношении частных качеств.</se>
+    <se lang="latin" variant_id="1">Caeterum simpliciora hujusmodi corpora determinatum quendam numerum qualitatum particularium in se recipiunt, neque in infinitum respectu illarum mutari possunt, sine admixtione aliorum corporum particulariter heterogeneorum.</se>
+    <weight variant_id="1">0,270652</weight>
+  </para>
+  <para id="117">
+    <se lang="russian" variant_id="0">Напр., вода меняется только или разрежаясь в пар, или застывая в лед; чистое купоросное масло допускает только одно частное качество: связь физических частиц в нем может становиться крепче и слабее.</se>
+    <se lang="latin" variant_id="1">E.. g. aqua alias non mutatur, nisi quod vel in vapores resolvitur, vel in glaciem constringitur, oleum vitrioli purissimum nullum aliam qualitatem particularem recipit, nisi quod pari ratione particularum physicarum nexus strictior vel laxior redditur.</se>
+    <weight variant_id="1">0,211765</weight>
+  </para>
+  <para id="118">
+    <se lang="russian" variant_id="0">Можно привести много подобных же примеров, но так как они известны каждому причастному к химии, то мы воздержимся от дальнейших доказательств.</se>
+    <se lang="latin" variant_id="1">Plura hujusmodi exempla in medium proferri possent, verum quoniam cuilibet in chymicis versato nota sunt, quamobrem pluribus documentis proponendis supersedemus.</se>
+    <weight variant_id="1">0,25122</weight>
+  </para>
+  <para id="119">
+    <se lang="" variant_id="0">§ 17</se>
+    <se lang="" variant_id="1">§ 17</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="120">
+    <se lang="russian" variant_id="0">Достаточное основание для частных качеств содержится в общих качествах физических нечувствительных частиц, образующих чувствительные тела.</se>
+    <se lang="latin" variant_id="1">Ratio sufficiens qualitatum particularium continetur in qualitatibus catholicis particularum physicarum insensibilium, quae corpora sensibilia constituunt.</se>
+    <weight variant_id="1">0,2592</weight>
+  </para>
+  <para id="121">
+    <se lang="russian" variant_id="0">Действительно, органы</se>
+    <se lang="latin" variant_id="1">Etenim organa sensoria ad percipiendas</se>
+    <weight variant_id="1">0,1</weight>
+  </para>
+  <para id="122">
+    <se lang="russian" variant_id="0">чувств при восприятии частных качеств испытывают воздействие физических нечувствительных частиц, образующих чувствительные тела (§ 15).</se>
+    <se lang="latin" variant_id="1">qualitates particulares determinantur particulis insensibilibus physicis corpora sensibilia constituentibus (§ 15).</se>
+    <weight variant_id="1">0,754717</weight>
+  </para>
+  <para id="123">
+    <se lang="russian" variant_id="0">А так как все изменения в телах происходят от общих качеств действующего тела (§ 12), то в то время как мы воспринимаем чувствами те или другие частные качества чувствительных тел, изменения, возникшие в органах чувств, происходят от общих качеств физических нечувствительных частиц, образующих чувствительные тела; это значит, что достаточное основание для частных качеств заключается в общих качествах физических нечувствительных частиц, образующих чувствительные тела.</se>
+    <se lang="latin" variant_id="1">Verum quoniam omnes mutationes corporum proficiscuntur a qualitatibus catholicis corporis agentis (§ 12), igitur dum alias atque alias qualitates particulares corporum sensibilium sensibus percipimus, mutationes in organis sensoriis inde ortae proficiscuntur a qualitatibus catholicis particularum physicarum insensibilium, quae corpora sensibilia constituunt; hoc est, ratio sufficiens qualitatum particularium continetur in qualitatibus catholicis particularum physicarum insensibilium, quae corpora sensibilia constituunt.</se>
+    <weight variant_id="1">0,358524</weight>
+  </para>
+  <para id="124">
+    <se lang="" variant_id="0">§ 18</se>
+    <se lang="" variant_id="1">§ 18</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="125">
+    <se lang="russian" variant_id="0">Так как все, что зависит от общих качеств в физических нечувствительных частицах, можно объяснить законами механики (§ 11) и так как частные качества происходят от общих качеств физических нечувствительных частиц (§ 16), то, следовательно, частные качества можно объяснить законами механики.</se>
+    <se lang="latin" variant_id="1">Quoniam vero omnia ea, quae a qualitatibus catholicis in particulis physicis insensibilibus contingunt, per dogmata mechanices explicari queunt (§ 11), quamobrem, cum qualitates particulares proficiscantur a qualitatibus catholicis particularum physicarum insensibilium (§ 16), igitur qualitates particulares explicari possunt per dogmata mechanices ...</se>
+    <weight variant_id="1">0,448366</weight>
+  </para>
+  <para id="126">
+    <se lang="" variant_id="0">§ 19</se>
+    <se lang="" variant_id="1">§ 19</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="127">
+    <se lang="russian" variant_id="0">Когда физические частицы, составляющие чувствительные тела и заключающие в себе достаточное основание частных качеств, делятся на другие, меньшие, то меняются общие качества, а именно, сила инерции, сосредоточенная в одной частице, разделяется, и масса частиц уменьшается, а так как достаточное основание частных качеств заключается в общих качествах нечувствительных физических частиц (§ 16), то при разделении физических нечувствительных частиц, от которых зависят частные качества, на другие — меньшие, частные</se>
+    <se lang="latin" variant_id="1">Quando particulae physicae corpora sensibilia constituentes, in quibus ratio sufficiens continetur qualitatum particularium, in alias minores dividuntur; mutantur qualitates catholicae, nimirum, vis inertiae conjuncta in una particula disjungitur, et moles particularum minuitur; cum vero qualitatum particularium ratio sufficiens contineatur in qualitatibus catholicis particularum insensibilium physicarum (§ 16), quamobrem particulis insensibilibus physicis, in quibus qualitatum particularium ratio continetur,</se>
+    <weight variant_id="1">0,396082</weight>
+  </para>
+  <para id="128">
+    <se lang="russian" variant_id="0">качества должны измениться, и поэтому тело, у которого частицы этого рода делятся, обязательно превращается в другое тело, инородное в отношении частных качеств (§ 13).</se>
+    <se lang="latin" variant_id="1">divisis in alias minores, qualitates particulares mutari debent, adeoque corpus, cujus ejusmodi particulae dividuntur, transmutari cogitur in aliud corpus particulariter heterogeneum (§ 13).</se>
+    <weight variant_id="1">0,50274</weight>
+  </para>
+  <para id="129">
+    <se lang="" variant_id="0">§ 20</se>
+    <se lang="" variant_id="1">§ 20</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="130">
+    <se lang="russian" variant_id="0">Существуют физические нечувствительные частицы, содержащие в себе достаточное основание для частных качеств, неделимые, т. е. такие, которые естественным образом нельзя разделить на другие, меньшие.</se>
+    <se lang="latin" variant_id="1">Dantur particulae physicae insensibiles rationem sufficientem qualitatum particularium in se continentes, indivisibiles, hoc est, quae in alias minores naturaliter dividi non possunt.</se>
+    <weight variant_id="1">0,276074</weight>
+  </para>
+  <para id="131">
+    <se lang="russian" variant_id="0">Действительно, предположим, что таких частиц нет и что все физические нечувствительные частицы, объясняющие собой наличие частных качеств, могут реально делиться до бесконечности.</se>
+    <se lang="latin" variant_id="1">Ponamus enim ejusmodi particulas non dari, erunt igitur omnes particulae physicae insensibiles, in quibus ratio sufficiens qualitatum particularium continetur, actu divisibiles in infinitum.</se>
+    <weight variant_id="1">0,281132</weight>
+  </para>
+  <para id="132">
+    <se lang="russian" variant_id="0">Но так как тела, чьи физические нечувствительные частицы, содержащие в себе достаточное основание частных качеств, делятся, должны превращаться в другие инородные в отношении частных качеств тела (§ 19), то все симилярные, в том числе и простые тела, могут получать бесконечное число частных качеств.</se>
+    <se lang="latin" variant_id="1">Quoniam autem corpora, quorum particulae physicae insensibiles rationem sufficientem qualitatum particularium in se continentes dividuntur, transmutari debent in alia corpora particulariter heterogenea (§ 19), quamobrem omnia corpora similaria etiam simpliciora infinitum numerum qualitatum particularium in se actu recipere poterunt.</se>
+    <weight variant_id="1">0,405985</weight>
+  </para>
+  <para id="133">
+    <se lang="russian" variant_id="0">Так как это противоречит опыту (§ 16), то отсюда ясно, что имеются физические нечувствительные частицы, содержащие в себе достаточное основание частных качеств, не поддающиеся делению, т. е. такие, которые нельзя разделить на другие, меньшие.</se>
+    <se lang="latin" variant_id="1">Quod quoniam experientiae repugnat (§ 16), unde patet dari particulas physicas insensibiles, qualitatum particularium rationem sufficientem in se continentes, indivisibiles, hoc est, quae in alias minores actu dividi non possunt.</se>
+    <weight variant_id="1">0,480116</weight>
+  </para>
+  <para id="134">
+    <se lang="russian" variant_id="0">Такие частицы краткости ради мы будем именовать в дальнейшем физическими монадами.</se>
+    <se lang="latin" variant_id="1">Istiusmodi particulas brevitatis causa monades physicas in sequentibus nuncupabimus.</se>
+    <weight variant_id="1">0,283562</weight>
+  </para>
+  <para id="135">
+    <se lang="" variant_id="0">§ 21</se>
+    <se lang="" variant_id="1">§ 21</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="136">
+    <se lang="russian" variant_id="0">Из этого следует, что в физических монадах такого рода нет частей, которые можно было бы отнять и придать другим или перенести из одного места в другое; следовательно, их протяженность, вид, плотность материи и сила инерции не могут быть изменены; следовательно, физические монады суть физические частицы, твердые и неизменяемые, с определенной протяженностью, видом, плотностью материи и силой инерции.</se>
+    <se lang="latin" variant_id="1">Hinc sequitur in monadibus physicis ejus modi partes non dari, quae detrahi et aliis addi aut ex uno loco in alium transferri possent, consequenter extensio earum, figura, densitas materiae et vis inertiae mutari nequeunt; adeoque monades physicae sunt particulae physicae solidae et immutabiles, determinata extensione, figura, densitate materiae et vi inertiae praeditae.</se>
+    <weight variant_id="1">0,279422</weight>
+  </para>
+  <para id="137">
+    <se lang="russian" variant_id="0">Из этого ясно также, что конечная причина частных качеств заключается в физических монадах.</se>
+    <se lang="latin" variant_id="1">Ex his quoque elucet rationem sufficientem qualitatum particularium in monadibus physicis ultimo contineri.</se>
+    <weight variant_id="1">0,24</weight>
+  </para>
+  <para id="138">
+    <se lang="russian" variant_id="0">Глава 3</se>
+    <se lang="latin" variant_id="1">Caput 3</se>
+    <weight variant_id="1">11,3</weight>
+  </para>
+  <para id="139">
+    <se lang="russian" variant_id="0">О ДВИЖЕНИИ ФИЗИЧЕСКИХ МОНАД И О ТЕПЛОТЕ И ХОЛОДЕ ТЕЛ</se>
+    <se lang="latin" variant_id="1">DE MOTU MONADUM PHYSICARUM DEQUE CALORE ET FRIGORE CORPORUM</se>
+    <weight variant_id="1">0,245455</weight>
+  </para>
+  <para id="140">
+    <se lang="" variant_id="0">§ 22</se>
+    <se lang="" variant_id="1">§ 22</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="141">
+    <se lang="russian" variant_id="0">Внутреннее движение тела — это движение его физических нечувствительных частиц.</se>
+    <se lang="latin" variant_id="1">Motus intestinus corporis est quo moventur particulae corporum physicae insensibiles.</se>
+    <weight variant_id="1">0,274648</weight>
+  </para>
+  <para id="142">
+    <se lang="russian" variant_id="0">Оно может быть круговым, поступательным или колебательным.</se>
+    <se lang="latin" variant_id="1">Hic autem est centralis vel progressivus vel tremulus.</se>
+    <weight variant_id="1">0,26875</weight>
+  </para>
+  <para id="143">
+    <se lang="russian" variant_id="0">Под круговым я разумею движение, при котором физические нечувствительные частицы вращаются вокруг собственного своего центра; поступательным называю движение, при котором физические нечувствительные частицы переходят с одного места на другое.</se>
+    <se lang="latin" variant_id="1">Centralem dico, quo particulae insensibiles physicae circa proprium suum centrum rotantur, progressivum apello, quo particulae insensibiles physicae ex uno loco in alium demigrant.</se>
+    <weight variant_id="1">0,19434</weight>
+  </para>
+  <para id="144">
+    <se lang="russian" variant_id="0">Колебательным движение бывает тогда, когда любая физическая нечувствительная частица в течение кратчайшего промежутка времени на ничтожнейшем пространстве перемещается взад и вперед, находясь в непрерывном движении.</se>
+    <se lang="latin" variant_id="1">Motus tremulus est, quando quaelibet particula insensibilis physica, brevissimo temporis intervallo, per minutissimum spatiolum ultro citroque impellitur et sic continue agitatur.</se>
+    <weight variant_id="1">0,24</weight>
+  </para>
+  <para id="145">
+    <se lang="russian" variant_id="0">Эти четыре определения примем только как гипотетические, пока правильность их не будет доказана в последующем.</se>
+    <se lang="latin" variant_id="1">Quatuor istae definitiones assumantur modo tanquam hypotheticae, priusquam veritas earum fuerit in sequentibus evicta.</se>
+    <weight variant_id="1">0,272165</weight>
+  </para>
+</body>
+</html>

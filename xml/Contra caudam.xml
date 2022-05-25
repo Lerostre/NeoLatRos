@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html>
+<head>
+</head>
+<body>
+  <para id="0">
+    <se lang="russian" variant_id="0">1. Почему хвост в конце обрывается, а не наполняет небо парами.</se>
+    <se lang="latin" variant_id="1">1. Cur abrupte desinit cauda, non vaporibus coelum implet.</se>
+    <weight variant_id="1">0,582692</weight>
+  </para>
+  <para id="1">
+    <se lang="russian" variant_id="0">На основании гипотетической скорости движения вычислить количество паров, так чтобы оно покрыло небо.</se>
+    <se lang="latin" variant_id="1">Ex celeritate computanda motus hypothetica computanda est multitudo vaporum ut coelum tegat.</se>
+    <weight variant_id="1">0,270732</weight>
+  </para>
+  <para id="2">
+    <se lang="russian" variant_id="0">2. Воздух, хотя и весьма тонкий, должен быть виден повсюду.</se>
+    <se lang="latin" variant_id="1">2. Quamvis suptilis videri debet aer ubique.</se>
+    <weight variant_id="1">0,585</weight>
+  </para>
+  <para id="3">
+    <se lang="russian" variant_id="0">3. Отрицаются ньютоновы пары вместе с поступательным движением света.</se>
+    <se lang="latin" variant_id="1">3. Newtoniani vaporesc negantur cum progressivo motu luminis.</se>
+    <weight variant_id="1">0,595833</weight>
+  </para>
+  <para id="4">
+    <se lang="russian" variant_id="0">4. Для краткости, я опустил явления в кометах, с помощью которых я хочу доказать.</se>
+    <se lang="latin" variant_id="1">4. Brevitatis causa omisi phaenomena cometarum quibus demonstrare volo.</se>
+    <weight variant_id="1">0,576923</weight>
+  </para>
+  <para id="5">
+    <se lang="russian" variant_id="0">5. Вне атмосферы пары.</se>
+    <se lang="latin" variant_id="1">5. Extra atmosphaeram vapores.</se>
+    <weight variant_id="1">0,785714</weight>
+  </para>
+  <para id="6">
+    <se lang="russian" variant_id="0">6. На основании увеличения хвоста в течение короткого времени следует отрицать движение паров, и его же следует вычислить так, чтобы оно оказалось быстрее движения кометы.</se>
+    <se lang="latin" variant_id="1">6. Ex incremento caudae brevi tempore facto negandus est motus vaporum et idem computandus ut sit celerior motu cometae.</se>
+    <weight variant_id="1">0,320192</weight>
+  </para>
+  <para id="7">
+    <se lang="russian" variant_id="0">7. Полоса эфира такого размера, какой имеет хвост, двигаться не может.</se>
+    <se lang="latin" variant_id="1">7. Tantus tractus aetheris moveri non posse quanta est cauda.</se>
+    <weight variant_id="1">0,528283</weight>
+  </para>
+  <para id="8">
+    <se lang="russian" variant_id="0">8. На основании быстроты, с которой происходит увеличение, можно заключить, что небо в короткое время может наполниться такого рода парами и прыжок покоя.. огромные движения</se>
+    <se lang="latin" variant_id="1">8. Ex celeritate incrementi potest induci coelum brevi tempore posse ejusmodi vaporibus compleri et saltus quietis motus enormes</se>
+    <weight variant_id="1">0,354355</weight>
+  </para>
+</body>
+</html>

@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html>
+<head>
+</head>
+<body>
+  <para id="0">
+    <se lang="" variant_id="0">§ 1</se>
+    <se lang="" variant_id="1">§ 1</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="1">
+    <se lang="russian" variant_id="0">Трояким образом отводит природа от чувства зрения тела̀, от коих может пройти прямой луч к глазу.</se>
+    <se lang="latin" variant_id="1">Triplici ratione removet natura a sensu visionis corpora, a quibus radius directus ad oculum pertingere potest.</se>
+    <weight variant_id="1">0,249398</weight>
+  </para>
+  <para id="2">
+    <se lang="russian" variant_id="0">Во-первых, расстоянием бо́льшим, чем то, которое позволяет заметить и различить эти предметы; во-вторых, недоступной наблюдению малостью, вследствие коей тела, даже наиболее близкие, не могут изобразиться в глазу.</se>
+    <se lang="latin" variant_id="1">Primo majore distantia, quam quae objecta conspicere et distinguere permittat; secundo inperceptibili parvitate, ob quam etiam proxima in oculo depingi nequeunt.</se>
+    <weight variant_id="1">0,202817</weight>
+  </para>
+  <para id="3">
+    <se lang="russian" variant_id="0">В обоих случаях причина состоит в узости угла зрения.</se>
+    <se lang="latin" variant_id="1">Utrobique angustiae anguli visionis in causa sunt.</se>
+    <weight variant_id="1">0,293333</weight>
+  </para>
+  <para id="4">
+    <se lang="russian" variant_id="0">В-третьих, недостатком света, вследствие чего предметы, и близкие и достаточно большие, не видны или не различаются.</se>
+    <se lang="latin" variant_id="1">Tertio defectus luminis, cujus gratia objecta et proxima et satis magna non apparent aut non distinguuntur.</se>
+    <weight variant_id="1">0,270968</weight>
+  </para>
+  <para id="5">
+    <se lang="" variant_id="0">§ 2</se>
+    <se lang="" variant_id="1">§ 2</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="6">
+    <se lang="russian" variant_id="0">Для наблюдения издалека вещей, очень удаленных и тем утаенных от зрения, искусство смертных изобрело телескопы, непрерывным трудом сделав их столь совершенными, что они приспособлены не только к общим человеческим нуждам, но оказались полезнейшими даже для наблюдения небесных тел.</se>
+    <se lang="latin" variant_id="1">Ad res nimium remotas et ob id visui ereptas e longinquo spectandas invenit industria mortalium telescopia, eaque ita continuo labore et successibus affabre fecit, ut non solum communibus humanis usibus aptaverit; imo etiam ad caelestia corpora contemplanda reddiderit utilissima.</se>
+    <weight variant_id="1">0,297531</weight>
+  </para>
+  <para id="7">
+    <se lang="russian" variant_id="0">Мельчайшие же вещи становятся заметными при помощи микроскопов, которые каждый день выносят на свет чудесные тайны природы.</se>
+    <se lang="latin" variant_id="1">Rerum minutissima conspicua facta sunt microscopiis, quae de die in diem emendata mira naturae mysteria in lucem proferunt.</se>
+    <weight variant_id="1">0,297196</weight>
+  </para>
+  <para id="8">
+    <se lang="" variant_id="0">§ 3</se>
+    <se lang="" variant_id="1">§ 3</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="9">
+    <se lang="russian" variant_id="0">Но никто из ученых, насколько я знаю, не только не потрудился, но даже не подумал о том, как извлечь вещи ~~~ из темноты, чтобы можно было заметить их ночью или хотя бы в густые сумерки.</se>
+    <se lang="latin" variant_id="1">Verum tamen ad res ex ipsis tenebris eripiendas ad easque noctu aut crepusculis solum obscurioribus conspiciendas nemo, quantum mihi quidem constat, eruditorum mon solum animum adhibuit, verum etiam haud quisquam hac de re cogitavit.</se>
+    <weight variant_id="1">-0,0483553</weight>
+  </para>
+  <para id="10">
+    <se lang="" variant_id="0">§ 4</se>
+    <se lang="" variant_id="1">§ 4</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="11">
+    <se lang="russian" variant_id="0">В телескопе удаленное приближается и наблюдается как близкое. ~~~ При помощи микроскопов увеличивается очень малое и может быть рассматриваемо не хуже, чем большое.</se>
+    <se lang="latin" variant_id="1">Admota sunt telescopiis remota et quasi propinqua cernuntur; amplificata sunt ope microscopiorum perquam exigua et non secus atque magna perlustrantur.</se>
+    <weight variant_id="1">-0,0101504</weight>
+  </para>
+  <para id="12">
+    <se lang="russian" variant_id="0">Остается, следовательно, действовать, для того чтобы скрытое в темноте обнаружить посредством сгущения света.</se>
+    <se lang="latin" variant_id="1">Restat igitur, ut ea, quae in obscuritate latent, aucta per condensationem luce appareant.</se>
+    <weight variant_id="1">0,227848</weight>
+  </para>
+  <para id="13">
+    <se lang="" variant_id="0">§ 5</se>
+    <se lang="" variant_id="1">§ 5</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="14">
+    <se lang="russian" variant_id="0">Пусть, однако, никто не думает, что я хочу изготовить оптическое средство, которое позволяло бы при полном отсутствии света видеть тела ясно и отчетливо.</se>
+    <se lang="latin" variant_id="1">Ne quis tamen putet me optare medium opticum, quo omni luce praeclusa corpora clare et distincte conspici possint.</se>
+    <weight variant_id="1">0,195918</weight>
+  </para>
+  <para id="15">
+    <se lang="russian" variant_id="0">Ибо и с помощью совершеннейших телескопов нельзя ясно различать тела, бесконечно удаленные, а самые острые микроскопы не позволяют различить первые начала смешанных тел.</se>
+    <se lang="latin" variant_id="1">Enimvero quemadmodum exquisitissimis telescopiis non in infinitum remota corpora clare conspici, et acutissimis microscopiis non prima mixtorum principia discerni possunt;</se>
+    <weight variant_id="1">-0,0123214</weight>
+  </para>
+  <para id="16">
+    <se lang="russian" variant_id="0">Точно так же, выдвигая мое предложение, я не надеюсь, что возможно изобрести и построить инструмент, который сделал бы всё видимым в темноте при полном преграждении доступа света.</se>
+    <se lang="latin" variant_id="1">sic neque hoc proponens spero, ut lucis aditu prorsus praecluso ad omnia in tenebris conspicua reddenda instrumentum excogitari et construi possit.</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="17">
+    <se lang="" variant_id="0">§ 6</se>
+    <se lang="" variant_id="1">§ 6</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="18">
+    <se lang="russian" variant_id="0">Но я не сомневаюсь, что где есть свет, как бы он ни был слаб, с помощью некоторого оптического инструмента можно много яснее различать предметы, чем невооруженным глазом.</se>
+    <se lang="latin" variant_id="1">At ubi lux adest, quantumvis sit debilis, clarius multo, quam nudo oculo, res auxilio alicujus optici instrumenti conspici posse non dubito.</se>
+    <weight variant_id="1">0,240496</weight>
+  </para>
+  <para id="19">
+    <se lang="russian" variant_id="0">Ведь света не только почти потухающих сумерек, но и глубокой ночи, ночным животным хватает для различения вещей, для нахождения себе подобных, для избежания враждебных животных, для разыскания пищи и радостей.</se>
+    <se lang="latin" variant_id="1">Quippe lux non solum crepusculorum jam prope exstinctorum; verum noctis mediae sufficit animalibus nocturnis ad res distinguendas, ut sui similia inveniant, infesta sibi animalia evitent, victum et delicias suas inveniant.</se>
+    <weight variant_id="1">0,278453</weight>
+  </para>
+  <para id="20">
+    <se lang="" variant_id="0">§ 7</se>
+    <se lang="" variant_id="1">§ 7</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="21">
+    <se lang="russian" variant_id="0">Я предполагаю, что эти животные, помимо оптического строения глаза, обладают и более острой чувствительностью оптического нерва, так что на них слабый ночной свет может действовать так же, как на нас большая сила дневного света.</se>
+    <se lang="latin" variant_id="1">Equidem praeter structuram oculi opticam habere haec animalia acutiorem sensum nervi optici ipse suspicor, ubi debilis actio luminis nocturni eundem effectum exerere possit, quem magna vis diei in nobis producit;</se>
+    <weight variant_id="1">-0,00221239</weight>
+  </para>
+  <para id="22">
+    <se lang="russian" variant_id="0">Но всё же размеры зрачка глаза совы даже в присутствии света ясно показывают, что для ночного зрения много значит большее количество света, собранное бо́льшим отверстием.</se>
+    <se lang="latin" variant_id="1">verum tamen amplitudo pupillae, quam etiam luce praesente bubonis habet oculos, clare sat indicat, majorem copiam luminis ampliore apertura captam ad nocturnam visionem conferre.</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="23">
+    <se lang="" variant_id="0">§ 8</se>
+    <se lang="" variant_id="1">§ 8</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="24">
+    <se lang="russian" variant_id="0">Побужденный этим, я начал думать о трубе, при помощи которой глаз мог бы яснее и отчетливее, чем обычно, различать вещи в темноте.</se>
+    <se lang="latin" variant_id="1">Haec sunt quibus inductus de tubo cogitare incepi, quo auxiliante clarius et distinctius solito oculus in obscuro res discernere posset;</se>
+    <weight variant_id="1">-0,0132124</weight>
+  </para>
+  <para id="25">
+    <se lang="russian" variant_id="0">И усилия мои не вовсе лишены были успеха, о котором я и счел не бесполезным сообщить ученому миру.</se>
+    <se lang="latin" variant_id="1">nec conamina mea successu prorsus caruere, quem ut erudito orbi indicarem non incassum futurum existimavi.</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="26">
+    <se lang="" variant_id="0">§ 9</se>
+    <se lang="" variant_id="1">§ 9</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="27">
+    <se lang="russian" variant_id="0">Поскольку наш зрачок не может расширяться еще больше и собирать большее количество света, я применил два стекла — одно с большей поверхностью, которое захватывало бы огромную массу лучей и собирало бы их преломлением, другое, значительно меньшее, которое, снова преломляя лучи, превращало бы их в параллельные.</se>
+    <se lang="latin" variant_id="1">Cum enim pupilla nostra justo amplius explicari et majorem copiam luminis capere non possit; adhibui duo vitra, alterum quod majore superficie ingentem vim radiorum excipiat et per refractionem colligat; alterum multum minus refractos rursum radios parallelos reddat.</se>
+    <weight variant_id="1">0,254741</weight>
+  </para>
+  <para id="28">
+    <se lang="" variant_id="0">§ 10</se>
+    <se lang="" variant_id="1">§ 10</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="29">
+    <se lang="russian" variant_id="0">С этой целью я позаботился изготовить трубу с двумя линзами такого рода, что одна из них, бо́льшая, собирала свет преломлением, другая же, меньшая, восстанавливала параллельность собранных лучей, чтобы предметы были видимы отчетливее вследствие возрастания света.</se>
+    <se lang="latin" variant_id="1">Hunc in usum confici curavi tubum ex duabus lentibus, ita aptatis, ut una earum amplior lumen per refractionem condensaret, altera minor radios condensatos parallelos redderet, quibus objecta aucto lumine distincta apparerent.</se>
+    <weight variant_id="1">0,249746</weight>
+  </para>
+  <para id="30">
+    <se lang="russian" variant_id="0">Каков был успех этого опыта и какую он подает надежду, можно видеть из действия этой трубы, которая предлагается суждению собрания академиков.</se>
+    <se lang="latin" variant_id="1">Qui successus hujus tentaminis sit quaeque spes inde oriatur, videre licet ex effectu illius tubi, qui judicio conventus academici exponitur.</se>
+    <weight variant_id="1">0,3</weight>
+  </para>
+  <para id="31">
+    <se lang="" variant_id="0">§ 11</se>
+    <se lang="" variant_id="1">§ 11</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="32">
+    <se lang="russian" variant_id="0">Но так как всякое дело вначале обычно встречает трудности, и у меня нет времени для дальнейшего усовершенствования этого инструмента, то я предлагаю это для дальнейшего рассмотрения уважаемым коллегам, которые могут судить, на какую пользу роду человеческому следует от этого надеяться в обычной жизни.</se>
+    <se lang="latin" variant_id="1">Cum vero omne initium difficultatibus premi soleat, nec mihi tempus sufficiat ad hoc instrumentum ulterius excolendum, idcirco Clariss. ~~~ Collegis expendendam porro hanc rem commendo, qui pervidere possunt, quantum generi humano emolumentum in vita communi hinc sit sperandum.</se>
+    <weight variant_id="1">-0,0124481</weight>
+  </para>
+</body>
+</html>

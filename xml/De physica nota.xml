@@ -1,0 +1,2012 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html>
+<head>
+</head>
+<body>
+  <para id="0">
+    <se lang="russian" variant_id="0">1. Надо подумать о безвредном свете гниющего дерева и светящихся червей.</se>
+    <se lang="latin" variant_id="1">1. Cogitandum de luce innocente lignorum putrescentium et vermium lucentium.</se>
+    <weight variant_id="1">0,54929</weight>
+  </para>
+  <para id="1">
+    <se lang="russian" variant_id="0">Затем надо написать, что свет и теплота не всегда взаимно связаны и потому различествуют.</se>
+    <se lang="latin" variant_id="1">Scribendum denique quod lux et calor non semper secum invicem sunt conjuncta ideoque differunt.</se>
+    <weight variant_id="1">0,276623</weight>
+  </para>
+  <para id="2">
+    <se lang="russian" variant_id="0">2. Сено и солома, слегка смоченные и сложенные в кучу не только согреваются, но и выделяют зловонные пары и даже воспламеняются или распадаются в порошок, довольно схожий с пеплом.</se>
+    <se lang="latin" variant_id="1">2. Faenum et stramen levius humectata et accumulata non solum incalescunt sed et vapores olidos emittunt, imo et flammam concipiunt, vel in pulverem collabuntur non absimilem cineribus.</se>
+    <weight variant_id="1">0,393506</weight>
+  </para>
+  <para id="3">
+    <se lang="russian" variant_id="0">3. Здесь во вступлении надо упомянуть, что я не увлечен химическими приманками и видимостями, а построил эту теорию на основании самых простых опытов; физики поступили бы разумнее, если бы не пренебрегали ими.</se>
+    <se lang="latin" variant_id="1">3. Hic in introitu commemorandum, me non Chymicis lenociniis et apparentiis captum esse, sed super vulgares experientias theoriam hanc struxisse; consultius fecissent physici, si eas non contemnissent.</se>
+    <weight variant_id="1">0,402058</weight>
+  </para>
+  <para id="4">
+    <se lang="russian" variant_id="0">4. В трактате о воздухе надо написать о его упругости и об упругости тел; надо поставить опыт в безвоздушном пространстве</se>
+    <se lang="latin" variant_id="1">4. In tractatu de aëre scribendum de ejusdem elatere, et de elatere corporum; instituendum experimentum in spatio ab aere vacuo</se>
+    <weight variant_id="1">0,425549</weight>
+  </para>
+  <para id="5">
+    <se lang="russian" variant_id="0">5. Пучок раскаленных железных прутьев от дутья меха плавится.</se>
+    <se lang="latin" variant_id="1">5. Fasciculus bacillorum ferreorum ignitorum folle afflatus liquescit.</se>
+    <weight variant_id="1">0,578788</weight>
+  </para>
+  <para id="6">
+    <se lang="russian" variant_id="0">6. Прозрачные тела в любом положении пропускают лучи, значит их корпускулы круглы.</se>
+    <se lang="latin" variant_id="1">6. Corpora pellucida quolibet situ radios transmittunt, habent ergo corpuscula rotunda.</se>
+    <weight variant_id="1">0,525342</weight>
+  </para>
+  <para id="7">
+    <se lang="russian" variant_id="0">7. Как от смешения простых цветов мы видим образование сложных, например, и т. д., также сложные цвета происходят от различных составных частей материи, откуда несомненно, что тела, отражающие [различные] простые цвета, имеют неодинаковые составные части.</se>
+    <se lang="latin" variant_id="1">7. Ut per commixtionem colorum simplicium videmus nasci compositos e. g. etc. etiam colores compositi ex diversis miscibilibus materiae proveniunt, unde constabit: quae corpora reflectunt colores simplices, ea habent varia miscibilia.</se>
+    <weight variant_id="1">0,368993</weight>
+  </para>
+  <para id="8">
+    <se lang="russian" variant_id="0">8. Тела, имеющие меньшие корпускулы, сильнее толкают тяготительную материю, более ей сопротивляются, причем</se>
+    <se lang="latin" variant_id="1">8. Corpora quae minutiora corpuscula habent ea etiam plus in materiam gravificam inpingunt, plus eidem resistunt, at vis</se>
+    <weight variant_id="1">0,489543</weight>
+  </para>
+  <para id="9">
+    <se lang="russian" variant_id="0">9. Формы не зависят от расположения корпускул, ибо корпускулы двигаются и, следовательно, круглы.</se>
+    <se lang="latin" variant_id="1">9. Formae a situ corpusculorum non dependent, nam corpuscula moventur, ergo sunt rotunda.</se>
+    <weight variant_id="1">0,483906</weight>
+  </para>
+  <para id="10">
+    <se lang="russian" variant_id="0">10. В пояснении форму корпускул следует выводить из форм кристаллов солей и камней; углы, противоположные углам, и стороны, противоположные сторонам, равны, а диагонали соответствуют кругам, так расположенным.</se>
+    <se lang="latin" variant_id="1">10. In scholio figura corpusculorum deducatur ex figuris crystallorum salium et lapidum; angulia ngulis latera lateribus oposita sunt aequalia et diagonales, conveniunt cum circulis ita dispositis.</se>
+    <weight variant_id="1">0,392146</weight>
+  </para>
+  <para id="11">
+    <se lang="russian" variant_id="0">11. Смотри ложную теорию Мариотта о воздухе.</se>
+    <se lang="latin" variant_id="1">11. Vide theoriam Mariotti falsam de aëre.</se>
+    <weight variant_id="1">0,659211</weight>
+  </para>
+  <para id="12">
+    <se lang="russian" variant_id="0">12. Многие хотели объяснить природные явления по их подобию: иной говорит, что воздух подобен пуху, а по-моему, напротив подобен дереву, которое также тонет, напитавшись водою; я говорю также, что воздух подобен семени плауна; и еще говорю, если можно пользоваться подобиями в качестве доказательства, что воздух подобен свинцу, как свинец — ртути.</se>
+    <se lang="latin" variant_id="1">12. Multi voluerunt phaenomena naturalia similitudine demonstrare: ille dicit aërem similem esse lanae, ego vero contra ligno, quod etiam aqua imbutum submergitur; dico etiam aërem similem esse licopodii, dico etiam, si liceret similibus pro documentis uti, aërem similem esse plumbo; quia plumbum primo argento vivo.</se>
+    <weight variant_id="1">0,337945</weight>
+  </para>
+  <para id="13">
+    <se lang="russian" variant_id="0">13. Воздух входит в винный спирт раньше, так как флогистон легче и, следовательно, больше совмещается с воздухом.</se>
+    <se lang="latin" variant_id="1">13. Aër ingreditur in spiritum vini prius, quia phlogiston est levius ergo cum aëre magis congruit.</se>
+    <weight variant_id="1">0,431122</weight>
+  </para>
+  <para id="14">
+    <se lang="russian" variant_id="0">14. В начале рассуждения о материи надо поместить определение ее: материя есть протяженное несопроницаемое, делимое на нечувствительные части (сперва, однако, сказать, что тела состоят из материи и формы, и показать, что последняя зависит от первой). ~~~ 2) Надо доказать, что существуют неделимые корпускулы.</se>
+    <se lang="latin" variant_id="1">14. In principio dissertationis de materia ponatur de hac definitio: Materia est extensum incompenetrabile, in partes insensibiles divisibile (Prius tamen ponatur corpora existere ex materia et forma, et posteriorem a priori dependere demonstretur) 2) demonstretur dari corpuscula indivisibilia.</se>
+    <weight variant_id="1">0,0370513</weight>
+  </para>
+  <para id="15">
+    <se lang="russian" variant_id="0">15. Можно было бы принять за аксиому, что сходные жидкие тела при взаимном соприкосновении сливаются.</se>
+    <se lang="latin" variant_id="1">15. Posset pro axiomate sumi, similia corpora fluida si sese attingunt confluunt Mariotte disc.</se>
+    <weight variant_id="1">0,482143</weight>
+  </para>
+  <para id="16">
+    <se lang="russian" variant_id="0">16. На людей, имеющих заслуги перед республикой науки, я не буду нападать за их ошибки, а постараюсь применить к делу их добрые мысли.</se>
+    <se lang="latin" variant_id="1">16. Viros de republica literaria bene meritos non invadam in quibus errarunt, bona sensa eorum in usum revocabo.</se>
+    <weight variant_id="1">0,405317</weight>
+  </para>
+  <para id="17">
+    <se lang="russian" variant_id="0">17. Не отрицаю, что воздух может в некоторой небольшой степени прилипать к более грубым телам, вследствие сравнительно большой плоскости соприкосновения.</se>
+    <se lang="latin" variant_id="1">17. Aërem cum corporibus grossioribus aliquantulum cohaerere posse non nego ob majus planum contactus.</se>
+    <weight variant_id="1">0,351648</weight>
+  </para>
+  <para id="18">
+    <se lang="russian" variant_id="0">18. Собаки безошибочно отыскивают хозяина на улицах и на перекрестках среди беспорядочной толпы идущих в разные стороны людей.</se>
+    <se lang="latin" variant_id="1">18. Canes herum per compita et trivia in errantium hominum tumultuario concursu certo detegunt.</se>
+    <weight variant_id="1">0,403571</weight>
+  </para>
+  <para id="19">
+    <se lang="russian" variant_id="0">19. Фосфор, разбавленный маслом, светит в темноте.</se>
+    <se lang="latin" variant_id="1">19. Phosphorus oleo dilutus in tenebris lucet.</se>
+    <weight variant_id="1">0,646429</weight>
+  </para>
+  <para id="20">
+    <se lang="russian" variant_id="0">20. Фокус зажигательного зеркала, полученный от луны, не производит никакого изменения в термометре.</se>
+    <se lang="latin" variant_id="1">20. Focus speculi caustici a luna productus nullam alterationem in thermometro facit.</se>
+    <weight variant_id="1">0,475506</weight>
+  </para>
+  <para id="21">
+    <se lang="russian" variant_id="0">21. Если выставить на один и тот же градус теплоты два тела одного и того же веса — одно твердое, другое жидкое, — то твердое увеличивается в объеме меньше, чем жидкое.</se>
+    <se lang="latin" variant_id="1">21. Duo corpora unum solidum, fluidum alterum ejusdem ponderis si eidem caloris gradui exponantur, solidum minus intumescit fluido.</se>
+    <weight variant_id="1">0,395826</weight>
+  </para>
+  <para id="22">
+    <se lang="russian" variant_id="0">22. Плавкие твердые тела могут соединяться только сплавлением.</se>
+    <se lang="latin" variant_id="1">22. Corpora solida fusilia non possunt jungi nisi per fusionem.</se>
+    <weight variant_id="1">0,627976</weight>
+  </para>
+  <para id="23">
+    <se lang="russian" variant_id="0">23. Так как при самом сильном холоде тяжесть не уменьшается, то, следовательно, теплота не зависит от вхождения теплотворной материи.</se>
+    <se lang="latin" variant_id="1">23. Quoniam in acutissimo frigore gravitas non minuitur, ergo calor non dependet a ingressu materiae calorificae.</se>
+    <weight variant_id="1">0,425471</weight>
+  </para>
+  <para id="24">
+    <se lang="russian" variant_id="0">24. Селитряный спирт, прилитый к измельченному льду, производит самый резкий холод (Бургаве, Об огне); итак сильнейший холод можно произвести при помощи .</se>
+    <se lang="latin" variant_id="1">24. Spiritus nitri glaciei rasae affusus frigus producit acutissimum (Boerhaave, De igne), sic frigus per produci potest maximum.</se>
+    <weight variant_id="1">0,402632</weight>
+  </para>
+  <para id="25">
+    <se lang="russian" variant_id="0">25. Самые высокие из гор равны едва 1/859 полудиаметра земли (Бургаве, Об огне).</se>
+    <se lang="latin" variant_id="1">25. Altissimi montium vix aequant 1/859 semidiametri telluris (Boerh., De igne).</se>
+    <weight variant_id="1">0,791429</weight>
+  </para>
+  <para id="26">
+    <se lang="russian" variant_id="0">26. Термометр при обдувании мехами не испытывает изменения.</se>
+    <se lang="latin" variant_id="1">26. Termometrum folle afflatum non alteratur.</se>
+    <weight variant_id="1">0,642857</weight>
+  </para>
+  <para id="27">
+    <se lang="russian" variant_id="0">27. Теплота, как и свет, распространяется прямолинейно (Бургаве, Об огне).</se>
+    <se lang="latin" variant_id="1">27. Calor prout lux per lineam rectam propagatur (Boerh., De igne).</se>
+    <weight variant_id="1">0,532049</weight>
+  </para>
+  <para id="28">
+    <se lang="russian" variant_id="0">28. Черные тела легче загораются от попавшей на них искры.</se>
+    <se lang="latin" variant_id="1">28. Corpora nigra facilius ab illapsa scintilla accenduntur.</se>
+    <weight variant_id="1">0,609804</weight>
+  </para>
+  <para id="29">
+    <se lang="russian" variant_id="0">29. Дерево под водою сгорает внутри, при нетронутой поверхности. ~~~ Следовательно, лучи или эфир всегда находятся в движении, и вода не замедляет [его].</se>
+    <se lang="latin" variant_id="1">29. Lignum sub aqua intus comburitur superficie intacta, igitur radii seu aether semper est in motu neque aqua retardatur.</se>
+    <weight variant_id="1">0,0258621</weight>
+  </para>
+  <para id="30">
+    <se lang="russian" variant_id="0">Вот весьма веское доказательство совмещения.</se>
+    <se lang="latin" variant_id="1">En congruentiae argumentum fortissimum.</se>
+    <weight variant_id="1">0,267568</weight>
+  </para>
+  <para id="31">
+    <se lang="russian" variant_id="0">31. Так как теплота последовательно проникает в тела, то корпускулы ее, стало быть, имеют между собою промежутки.</se>
+    <se lang="latin" variant_id="1">31. Quia calor successive corpora penetrat, ergo corpuscula ejus habent intervalla inter se.</se>
+    <weight variant_id="1">0,452091</weight>
+  </para>
+  <para id="32">
+    <se lang="russian" variant_id="0">32. Звук распространяется последовательно, значит одни корпускулы воздуха находятся на некотором расстоянии от других.</se>
+    <se lang="latin" variant_id="1">32. Sonus successive propagatur, ergo corpuscula ejus a se invicem distant.</se>
+    <weight variant_id="1">0,370896</weight>
+  </para>
+  <para id="33">
+    <se lang="russian" variant_id="0">33. Горючие вещества, содержащие большое количество земли, дают более сильный жар.</se>
+    <se lang="latin" variant_id="1">33. Combustibilia majore copia terrae praedita calorem habent validiorem.</se>
+    <weight variant_id="1">0,568657</weight>
+  </para>
+  <para id="34">
+    <se lang="russian" variant_id="0">34. Как тела легкие приобретают от пороха легкое движение, а тяжелые или более крупные — большее, так и более крупные корпускулы приводятся в большее и более сильное движение, чем более легкие или меньшие.</se>
+    <se lang="latin" variant_id="1">34. Sicut corpora levia levem motum a pulvere pirio accipiunt gravia vel majora majorem, ita corpuscula majora in majorem motum et violentiorem excitantur quam leviora vel minora.</se>
+    <weight variant_id="1">0,368433</weight>
+  </para>
+  <para id="35">
+    <se lang="russian" variant_id="0">35. Так как тела, приобретающие вес при обжигании, теряют его после восстановления, ясно, что увеличение веса их произошло не от огня, поскольку обе операции совершаются при помощи огня.</se>
+    <se lang="latin" variant_id="1">35. Quoniam corpora quae per calcinationem poadus acquirunt post reductionem idem omittunt, patet pondus non ab igne in illis profectum fuisse, cum utraque operatio ope ignis perficiatur.</se>
+    <weight variant_id="1">0,403416</weight>
+  </para>
+  <para id="36">
+    <se lang="russian" variant_id="0">36. Фосфор перед воспламенением, при рассматривании под микроскопом, представляется как бы кипящим.</se>
+    <se lang="latin" variant_id="1">36. Phosphorus ante inflammationem per microscopium spectatus ferventi similis spectatur.</se>
+    <weight variant_id="1">0,543459</weight>
+  </para>
+  <para id="37">
+    <se lang="russian" variant_id="0">37. Большее количество горючего вызывает более сильный огонь, меньшее — меньший, и соответственно плотности; следовательно, не от посторонней материи.</se>
+    <se lang="latin" variant_id="1">37. Pabuli major copia ignem excitat validiorem, minor minorem, et pro ratione densitatis, ergo non a materia peregrina.</se>
+    <weight variant_id="1">0,375038</weight>
+  </para>
+  <para id="38">
+    <se lang="russian" variant_id="0">38. Воздух не может в барометре проникнуть через ртуть.</se>
+    <se lang="latin" variant_id="1">38. Aër per argentum vivum in Barometro penetrare non potest.</se>
+    <weight variant_id="1">0,186</weight>
+  </para>
+  <para id="39">
+    <se lang="russian" variant_id="0">40. Влажные [тела], как влажный песок, при сотрясении становятся более жидкими.</se>
+    <se lang="latin" variant_id="1">40. Humida quassata, ut arena humida, liquidiora evadunt.</se>
+    <weight variant_id="1">0,523718</weight>
+  </para>
+  <para id="40">
+    <se lang="russian" variant_id="0">41. Измельченные тела выбрасывают от сотрясения более крупные части вверх.</se>
+    <se lang="latin" variant_id="1">41. Per concussionem corpora comminuta grossiores partes sursum ejiciunt.</se>
+    <weight variant_id="1">0,6</weight>
+  </para>
+  <para id="41">
+    <se lang="russian" variant_id="0">42. К хорошо полированной медной пластинке, понемногу погружаемой в воду, пристают воздушные пузырьки.</se>
+    <se lang="latin" variant_id="1">42. Laminae cupreae politissimae sensim aquae immersae bullulae aëreae adhaerent.</se>
+    <weight variant_id="1">0,499754</weight>
+  </para>
+  <para id="42">
+    <se lang="russian" variant_id="0">43. Погруженное в воду узкое горло сосуда, наполненного воздухом, показывает, что вода не может своей тяжестью расслабить воздух и проникнуть в него.</se>
+    <se lang="latin" variant_id="1">43. Collum angustum phiolae aëre plenae aquae immersum testatur aquam gravitate sua non posse dissolvere et penetrare aërem.</se>
+    <weight variant_id="1">0,400097</weight>
+  </para>
+  <para id="43">
+    <se lang="russian" variant_id="0">44. Чем более вода нагревается, тем легче освобождается из нее воздух.</se>
+    <se lang="latin" variant_id="1">44. Quo aqua magis incalescit, eo aër facilius se ex eadem expedit.</se>
+    <weight variant_id="1">0,52931</weight>
+  </para>
+  <para id="44">
+    <se lang="russian" variant_id="0">45. Вода не принимает больше известного количества воздуха даже при сжатии.</se>
+    <se lang="latin" variant_id="1">45. Aqua plus justo äeris non recipit neque compressione adjuvante.</se>
+    <weight variant_id="1">0,537727</weight>
+  </para>
+  <para id="45">
+    <se lang="russian" variant_id="0">46. Чистое купоросное масло от холода уплотняется, разведенное — нет.</se>
+    <se lang="latin" variant_id="1">46. Oleum vitrioli meracissimum frigore concrescit, dilutius non item.</se>
+    <weight variant_id="1">0,590323</weight>
+  </para>
+  <para id="46">
+    <se lang="russian" variant_id="0">47. Если медленно приливать воду к купоросу, очень слабо прокаленному и не растертому, то белая известь снова превращается в купорос.</se>
+    <se lang="latin" variant_id="1">47. Vitriolo lenissime calcinato nec contrito, si aqua leniter affunditur, tum calx alba rursus in vitriolum convertitur.</se>
+    <weight variant_id="1">0,441433</weight>
+  </para>
+  <para id="47">
+    <se lang="russian" variant_id="0">48. Прокаленные кости, если они еще не распались, с шипением впитывают приливаемую воду и снова отвердевают.</se>
+    <se lang="latin" variant_id="1">48. Ossa calcinata, si non sunt adhuc dilapsa, tunc affusam aquam cum sibilo imbibunt et rursus solidescunt.</se>
+    <weight variant_id="1">0,473279</weight>
+  </para>
+  <para id="48">
+    <se lang="russian" variant_id="0">49. Как сильно давление эфира, можно видеть по железной проволоке.</se>
+    <se lang="latin" variant_id="1">49. Quam violenta sit pressio aetheris videri potest in filo ferreo.</se>
+    <weight variant_id="1">0,567643</weight>
+  </para>
+  <para id="49">
+    <se lang="russian" variant_id="0">50. В трактате о материи надо лишь показать, что сцепление зависит только от величины корпускул, а объяснение отложить на будущее.</se>
+    <se lang="latin" variant_id="1">50. In tractatu de materia solum demonstrandum est, quod cohaesio a sola magnitudine corpusculorum dependeat, ratione inposterum reservata.</se>
+    <weight variant_id="1">0,428691</weight>
+  </para>
+  <para id="50">
+    <se lang="russian" variant_id="0">51. Раскаленные угли, будучи покрыты золою, сохраняют огонь долгое время.</se>
+    <se lang="latin" variant_id="1">51. Prunae in cineribus sepultae ignem per longum tempus servant.</se>
+    <weight variant_id="1">0,531348</weight>
+  </para>
+  <para id="51">
+    <se lang="russian" variant_id="0">52. Ковкие тела при изменении расположения [корпускул] сохраняют сцепление, а хрупкие — нет.</se>
+    <se lang="latin" variant_id="1">52. Corpora ductilia mutato situ cohaesionem servant, fragilia vero non item.</se>
+    <weight variant_id="1">0,493478</weight>
+  </para>
+  <para id="52">
+    <se lang="russian" variant_id="0">53. Так как эфир проникает через тела, как через решето, а теплота движется вместе с движением тела, то, следовательно, она зависит не только от присутствия эфира.</se>
+    <se lang="latin" variant_id="1">53. Quoniam aether corpora tanquam cribrum penetrat, at calor corpore cum moto commovetur, ergo non a sola praesentia aetheris dependet.</se>
+    <weight variant_id="1">0,389916</weight>
+  </para>
+  <para id="53">
+    <se lang="russian" variant_id="0">Однако вообще теплота легко входит в тела, но с ними не движется.</se>
+    <se lang="latin" variant_id="1">Sic quoque in genere calor facile corpora ingreditur, ast cum illis non commovetur.</se>
+    <weight variant_id="1">0,207273</weight>
+  </para>
+  <para id="54">
+    <se lang="russian" variant_id="0">54. Примесь однородных веществ увеличивает прозрачность тел.</se>
+    <se lang="latin" variant_id="1">54. Homogenea admixta promovent in corporibus pelluciditatem.</se>
+    <weight variant_id="1">0,669643</weight>
+  </para>
+  <para id="55">
+    <se lang="russian" variant_id="0">55. Если корпускулы флогистона движутся одни, то дают безвредный огонь, что доказывает зажженный винный спирт и самые чистые эфирные масла.</se>
+    <se lang="latin" variant_id="1">55. Corpuscula phlogisti si sola moventur, producunt ignem innocentem, quod probat spiritus vini accensus olea stillaticia purissima.</se>
+    <weight variant_id="1">0,459104</weight>
+  </para>
+  <para id="56">
+    <se lang="russian" variant_id="0">Но только я думаю, что это происходит от движения ядовитой материи, так как безвредный свет возникает в гниющем, а фосфор содержит соляной спирт.</se>
+    <se lang="latin" variant_id="1">Sed modo puto hoc fieri a motu materiae venenosae, quia lux innocua fit in putridis, et phosphorus habet is.</se>
+    <weight variant_id="1">0,191209</weight>
+  </para>
+  <para id="57">
+    <se lang="russian" variant_id="0">56. Соль винного камня покрывает крышку кристаллами, а стенки — щелочной кожицею.</se>
+    <se lang="latin" variant_id="1">56. Sal tartari operculum crystallis incrustat et latera pellicula obducit alcalina.</se>
+    <weight variant_id="1">0,533333</weight>
+  </para>
+  <para id="58">
+    <se lang="russian" variant_id="0">57. В деле, столь глубоко скрытом и непосредственно недоступном чувствам, я постараюсь двигаться самым осмотрительным образом (а проверял я, как на пробирном камне, по правилу, предписанному славным Вольфом в Элементах арифметики, т. е. заимствованному от деления чисел); я не призна́ю никакого измышления и никакой гипотезы, какой бы вероятной она ни казалась, без точных доказательств, подчиняясь правилам, руководящим рассуждениями.</se>
+    <se lang="latin" variant_id="1">57. In re tam profunde abdita nec sensibus obvia circumspectissimus pergere conabor (probavi autem ad regulam tanquam ad lidium lapidem, quam praescripsit cl. ~~~ Wolfius in El. ~~~ Arith. hoc est a divisione numerorum abstracta) nulli fictioni sive hypothesi utcunque probabili sine documentis applaudam regulis, quae ratiocinia dirigunt adstrictus.</se>
+    <weight variant_id="1">-0,233129</weight>
+  </para>
+  <para id="59">
+    <se lang="russian" variant_id="0">Сам Вольф писал о свободе философствования (я ему многим обязан).</se>
+    <se lang="latin" variant_id="1">W. ipse de libertate philosophandi scripsit (cui multa debeo).</se>
+    <weight variant_id="1">0,294643</weight>
+  </para>
+  <para id="60">
+    <se lang="russian" variant_id="0">58. Свет не есть материя, истекающая из светящегося тела; это доказывает черная доска, выставленная против солнца.</se>
+    <se lang="latin" variant_id="1">58. Lux non est materia a corpore lucido effluens, tabula nigra soli opposite testatur.</se>
+    <weight variant_id="1">0,401316</weight>
+  </para>
+  <para id="61">
+    <se lang="russian" variant_id="0">59. Есть тела, хоть и не столь прозрачные (пузырь животных, вода полная пузырьков), так как пропускают лишь беспорядочные лучи; но свет пропускается ими в окна бань.</se>
+    <se lang="latin" variant_id="1">59. Sunt corpora quae licet non tam sint translucida (ut vesicae, aqua bullis referta), nam radios confusos transmittunt; tamen lux in hipocausta ab iis transmittitur.</se>
+    <weight variant_id="1">0,409047</weight>
+  </para>
+  <para id="62">
+    <se lang="russian" variant_id="0">60. Химия есть правая рука физики, математика — глаза; но больше та, которая указывает дорогу к правильному суждению.</se>
+    <se lang="latin" variant_id="1">60. Chymia est manus Physicae dextra, mathesis oculi; sed ea potius, quae recte judicandi viam monstrat.</se>
+    <weight variant_id="1">0,440207</weight>
+  </para>
+  <para id="63">
+    <se lang="russian" variant_id="0">61. Кейль во Введении в истинную физику, стр.</se>
+    <se lang="latin" variant_id="1">61. Keilius in introductione ad Physicam veram p.</se>
+    <weight variant_id="1">0,603333</weight>
+  </para>
+  <para id="64">
+    <se lang="russian" variant_id="0">47 и сл., объясняет невыразимой тонкостью света то, что хотя солнце постоянно, от самого начала создания, с величайшей скоростью испускает свет во все части мира, оно все же не испытало сколько-нибудь заметной потери в своей величине за все это время; оно, наверное, уже далеко оттолкнуло бы от себя все тела мира в целом, ибо скорость поразительна, плотность эфира велика, земля не прозрачна и плотна, нелегко пропускает воздух.</se>
+    <se lang="latin" variant_id="1">47 et sequ. per ineffabilem lucis subtilitatem fit, ut sol etiamsi continuo ab ipsius creationis exordio lucem celerrime in omnem mundi partem emittat, non tamen sensibile quidquam per omne illud tempus de sua magnitudine amisit, sed jam longe a se repulisset omnia corpora mundi totalia, nam celeritas foret stupenda, gravitas aetheris est magna, tellus est opaca et crassa, non facile aëra transmittit.</se>
+    <weight variant_id="1">0,806368</weight>
+  </para>
+  <para id="65">
+    <se lang="russian" variant_id="0">62. В прозрачных телах лучи распространяются прямолинейно, откуда следует, что свет распространяется не через</se>
+    <se lang="latin" variant_id="1">62. In pellucidis radii propagantur per lineam rectam, unde sequitur lucem non per sinuosos poros propagari. Neque lux ~~~ </se>
+    <weight variant_id="1">0,490526</weight>
+  </para>
+  <para id="66">
+    <se lang="russian" variant_id="0">63. В центре пустого шарика при вращении его и натирании можно видеть эфир.</se>
+    <se lang="latin" variant_id="1">63. In centro globuli vacui rotati et affricti aether videri potest.</se>
+    <weight variant_id="1">0,1125</weight>
+  </para>
+  <para id="67">
+    <se lang="russian" variant_id="0">64. Цвета видимы со всех сторон или точек, следовательно, происходят не от преломления.</se>
+    <se lang="latin" variant_id="1">64. Colores conspiciuntur ab omni parte sive puncto, ergo non fiunt per refractionem.</se>
+    <weight variant_id="1">0,506286</weight>
+  </para>
+  <para id="68">
+    <se lang="russian" variant_id="0">65. Красные кораллы, растертые в порошок, становятся белыми.</se>
+    <se lang="latin" variant_id="1">65. Corallia rubra trita alba evadunt.</se>
+    <weight variant_id="1">0,557143</weight>
+  </para>
+  <para id="69">
+    <se lang="russian" variant_id="0">66. Многие частицы, оторванные от металла, кажутся квадратными или ромбоидальными, чем обнаруживают шарообразную форму корпускул.</se>
+    <se lang="latin" variant_id="1">66. Multae particulae mettalli abruptae quadratae vel romboidicae apparent, quo figuram corpusculorum sphaericam produnt.</se>
+    <weight variant_id="1">0,480909</weight>
+  </para>
+  <para id="70">
+    <se lang="russian" variant_id="0">67. Прозрачные частицы известей не суть корпускулы или монады.</se>
+    <se lang="latin" variant_id="1">67. Particulae pellucidae calcium non sunt corpuscula sive monades.</se>
+    <weight variant_id="1">0,573214</weight>
+  </para>
+  <para id="71">
+    <se lang="russian" variant_id="0">68. Солнечные лучи не проходят через прозрачные тела, но приводят их в движение, ибо если бы проходили, то многие лучи (если не все), отражаемые корпускулами, не пропускались бы вовсе и до глаза доходила бы ничтожная часть их, так что предметы, рассматриваемые через стекло, были бы весьма темными.</se>
+    <se lang="latin" variant_id="1">68. Radii solis per diaphana non transeunt, sed illa movent, si enim transirent, multi radii a corpusculis reflexi non forent transmissi (imo nulli) et minima eorum pars ad oculum pertingeret, adeoque objecta per vitrum spectata obscurissima forent.</se>
+    <weight variant_id="1">0,324529</weight>
+  </para>
+  <para id="72">
+    <se lang="russian" variant_id="0">69. Через прозрачные тела можно ясно видеть предметы, через полупрозрачные — смутно.</se>
+    <se lang="latin" variant_id="1">69. Per corpora diaphana, objecta distincte videri possunt, per semiadiaphana confuse.</se>
+    <weight variant_id="1">0,538</weight>
+  </para>
+  <para id="73">
+    <se lang="russian" variant_id="0">70. Прозрачность зависит не от плотности, не от тяжести, не от тонкости, не от грубости, не от состава, а от правильного размещения и положения частей.</se>
+    <se lang="latin" variant_id="1">70. Pelluciditas non dependet a consistentia, neque a gravitate neque a subtilitate neque a crassitie neque a compositione, sed a regulari dispositione et situ partium.</se>
+    <weight variant_id="1">0,37585</weight>
+  </para>
+  <para id="74">
+    <se lang="russian" variant_id="0">71. Подлежит рассмотрению прозрачное тело окрашенное и не окрашенное.</se>
+    <se lang="latin" variant_id="1">71. Diaphanum tinctum et non considerandum.</se>
+    <weight variant_id="1">0,556071</weight>
+  </para>
+  <para id="75">
+    <se lang="russian" variant_id="0">72. Если бы тело было прозрачным от пор, то более легкие тела были бы и более прозрачными.</se>
+    <se lang="latin" variant_id="1">72. Si corpus foret diaphanum a poris, tunc corpora leviora essent magis diaphana.</se>
+    <weight variant_id="1">0,497619</weight>
+  </para>
+  <para id="76">
+    <se lang="russian" variant_id="0">73. Вода дает весьма живое отражение, если дно сосуда будет черное, но брошенные в нее же белые или окрашенные тела на таком же дне живо выступают.</se>
+    <se lang="latin" variant_id="1">73. Aqua imaginem vividissime repraesentat, si vasis fundum fuerit nigrum, eadem tamen iniecta sibi corpora alba vel colorata ab eodem fundo vivide repraesentat.</se>
+    <weight variant_id="1">0,383871</weight>
+  </para>
+  <para id="77">
+    <se lang="russian" variant_id="0">74. Свинец не входит в трещины купели.</se>
+    <se lang="latin" variant_id="1">74. Plumbum cupellae fissuras non ingreditur.</se>
+    <weight variant_id="1">0,657983</weight>
+  </para>
+  <para id="78">
+    <se lang="russian" variant_id="0">75. У многих глубоко укоренилось убеждение, что метод философствования, опирающийся на атомы, либо не может объяснить происхождения вещей, либо, поскольку может, отвергает бога-творца. ~~~ И в том, и в другом они, конечно, глубоко ошибаются, ибо нет никаких природных начал, которые могли бы яснее и полнее объяснить сущность материи и всеобщего движения, и никаких, которые с большей настоятельностью требовали бы существования всемогущего двигателя.</se>
+    <se lang="latin" variant_id="1">75. Inhaeret in multorum animis altius infixa persvasio, quod ea, quae per atomos adornatur philosophandi ratio, vel rerum genesim explicare nequit, vel, qua potis est, Deum creatorem respuit; at utrinque sane graviter erratum est, cum nulla sint principia naturae, quae modum materiae motusve cosmopolitici, planius aut plenius enodent, nullaque omnipotentem motorem magis poscant et efflagitent.</se>
+    <weight variant_id="1">-0,02</weight>
+  </para>
+  <para id="79">
+    <se lang="russian" variant_id="0">Пример объяснения творения дают следующие рассуждения.</se>
+    <se lang="latin" variant_id="1">Exemplum geneseos explicatae adferunt dissertationes sequentes.</se>
+    <weight variant_id="1">0,246</weight>
+  </para>
+  <para id="80">
+    <se lang="russian" variant_id="0">76. Первичная материя Аристотеля, называемая ϋλη, тождественна с простой сущностью, иначе говоря, с тем, к чему не приложимы „что“, „какой“ и „сколько“.</se>
+    <se lang="latin" variant_id="1">76. Materia prima Aristotelis, quam ϋλην vocant, idem est cum ente simplici, hoc est neque quid neque quale neque quantum.</se>
+    <weight variant_id="1">0,362857</weight>
+  </para>
+  <para id="81">
+    <se lang="russian" variant_id="0">77. Материя есть то, что дает телам протяженность и силу сопротивления.</se>
+    <se lang="latin" variant_id="1">77. Materia est id quod dat extensionem et vim resistendi corporibus.</se>
+    <weight variant_id="1">0,540164</weight>
+  </para>
+  <para id="82">
+    <se lang="russian" variant_id="0">78. Сила сопротивления, присущая материи, обнаруживается при помощи порошка и клина.</se>
+    <se lang="latin" variant_id="1">78. Vis resistendi materiae ostenditur per pulverem et cuneum.</se>
+    <weight variant_id="1">0,492857</weight>
+  </para>
+  <para id="83">
+    <se lang="russian" variant_id="0">79. Движение весомых тел к центру земли ускоряется, а должно было бы замедляться от сопротивления среды.</se>
+    <se lang="latin" variant_id="1">79. Motus gravium versus centrum telluris acceleratur et deberet retardari ob resistentiam medii.</se>
+    <weight variant_id="1">0,500493</weight>
+  </para>
+  <para id="84">
+    <se lang="russian" variant_id="0">80. Перо и золотая монета в пустоте падают с одной и той же скоростью, — следовательно, эфир не оказывает помехи.</se>
+    <se lang="latin" variant_id="1">80. Pluma et nummus aureus in vacuo eadem celeritate descendunt, ergo aether non impedit.</se>
+    <weight variant_id="1">0,430769</weight>
+  </para>
+  <para id="85">
+    <se lang="russian" variant_id="0">81. Необходимо сказать о тесном расположении корпускул.</se>
+    <se lang="latin" variant_id="1">81. Dicendum de situ stricto corpusculorum.</se>
+    <weight variant_id="1">0,646071</weight>
+  </para>
+  <para id="86">
+    <se lang="russian" variant_id="0">82. Винный камень поднимается по бокам стеклянного сосуда, и срастаются в зерна.</se>
+    <se lang="latin" variant_id="1">82. Tartarus ascendit per latera vitri, et concrescunt in granis.</se>
+    <weight variant_id="1">0,505486</weight>
+  </para>
+  <para id="87">
+    <se lang="russian" variant_id="0">83. Имеющиеся у меня полированные пластины мрамора зимою едва можно разнять грузом в 580 фунтов, тогда как воздух сдавливает эти пластины с силою, равной 5 фунтам, основание пластин 25 парижских линий (смотри: Гамбергер, Элементы физики, гл.</se>
+    <se lang="latin" variant_id="1">83. Marmora polita quae ego possideo, à 580 libris hyeme vix divelli possunt, cum aër eadem marmora comprimat vi aequali 5 libris, marmorum basis est 25 linearum Parisiensium. ~~~ (Vide Hamberger, E. ph., cap.</se>
+    <weight variant_id="1">0,666138</weight>
+  </para>
+  <para id="88">
+    <se lang="russian" variant_id="0">84. Что стороны касания корпускул плоски, этого не позволяет допустить отвердение жидкостей, ибо они тогда не могли бы выключить эфир .</se>
+    <se lang="latin" variant_id="1">84. Latera contactus esse plana vetat fluidorum solidescentia, aetherem enim excludere non possent .</se>
+    <weight variant_id="1">0,605618</weight>
+  </para>
+  <para id="89">
+    <se lang="russian" variant_id="0">85. Если бы корпускулы воздуха соприкасались, звук распространяется, как свет[?].</se>
+    <se lang="latin" variant_id="1">85. Si corpuscula aëris essent contigua, sonus ut lux propagantur.</se>
+    <weight variant_id="1">0,496456</weight>
+  </para>
+  <para id="90">
+    <se lang="russian" variant_id="0">86. Через листовой свинец, сложенный и согнутый в виде сифона и погруженный одним концом в ртуть, — ртуть, подобно воде через пористое тело, удаляется из сосуда в течение 24 часов. ~~~ Этот же результат дают и золотые ткани.</se>
+    <se lang="latin" variant_id="1">86. Per plumbum foliatum compactum et in modum siphonis formatum atque una extremitate in positum, ut aquam per corpus porosum ex vase transtillare fecit spacio 24 horarum; hoc faciunt etiam telae aureae.</se>
+    <weight variant_id="1">0,559077</weight>
+  </para>
+  <para id="91">
+    <se lang="russian" variant_id="0">87. Ртуть в стеклянной капиллярной трубке не поднимается.</se>
+    <se lang="latin" variant_id="1">87. Mercurius in tubo capillari vitreo non ascendit.</se>
+    <weight variant_id="1">0,601418</weight>
+  </para>
+  <para id="92">
+    <se lang="russian" variant_id="0">88. Что смешение жидких тел зависит не только от сцепления, ясно из того, что масло пристает к воде, а вода — к маслу.</se>
+    <se lang="latin" variant_id="1">88. Quod permixtio corporum fluidorum non a sola cohaesione dependeat, patet, quod oleum aquae et aqua oleo cohaeret.</se>
+    <weight variant_id="1">0,44565</weight>
+  </para>
+  <para id="93">
+    <se lang="russian" variant_id="0">89. Подъем жидкостей в капиллярной трубке в линиях: вода 25; спирт 18, 19; раствор поташа 25, 26; селитряный спирт Глаубера 20; купоросное масло 26; скипидар 18, 19; моча 33, 34; летучий спирт соли аммония 30, 33.</se>
+    <se lang="latin" variant_id="1">89. Ascensus fluidorum in tubulo capillari ad lineas 26. alcohol 18. 19. p. d. ~~~ 25. 26. Spiritus nitri Glaub. ~~~ 20. 26. Aeth. tereb. ~~~ 18. 19. 34. 30. 33.</se>
+    <weight variant_id="1">-0,211364</weight>
+  </para>
+  <para id="94">
+    <se lang="russian" variant_id="0">90. В теплое время звук бывает сильнее, чем в холодное, потому что тогда корпускулы двигаются быстрее, сильнее сотрясают друг друга.</se>
+    <se lang="latin" variant_id="1">90. Tempore calido sonus est fortior, quam frigido, quia tunc corpuscula celerius moventur, fortius se invicem vibrant.</se>
+    <weight variant_id="1">0,438095</weight>
+  </para>
+  <para id="95">
+    <se lang="russian" variant_id="0">91. Воздух сходен со светом и в том, что из любой точки может быть услышан звук, и спутанные волны его не препятствуют звуку.</se>
+    <se lang="latin" variant_id="1">91. Aër cum luce etiam in hoc convenit, quod ex quolibet puncto sonus audiri potest, nec perplexae ejus undulationes sonum impediunt.</se>
+    <weight variant_id="1">0,407792</weight>
+  </para>
+  <para id="96">
+    <se lang="russian" variant_id="0">Это доказывает, что и эфир есть тело.</se>
+    <se lang="latin" variant_id="1">Hoc demonstrat etiam aethera esse corpus.</se>
+    <weight variant_id="1">0,253125</weight>
+  </para>
+  <para id="97">
+    <se lang="russian" variant_id="0">92. Твердые металлы плавают на расплавленных, совсем как лед на воде.</se>
+    <se lang="latin" variant_id="1">92. Metalla solida liquefactis innatant non aliter ac glacies aquae.</se>
+    <weight variant_id="1">0,572727</weight>
+  </para>
+  <para id="98">
+    <se lang="russian" variant_id="0">93. Расширение нагретых тел происходит от расширения заключающегося в них воздуха.</se>
+    <se lang="latin" variant_id="1">93. Extensio corporum calefactorum fit ab extensione aëris inclusi.</se>
+    <weight variant_id="1">0,536066</weight>
+  </para>
+  <para id="99">
+    <se lang="russian" variant_id="0">Отсюда нельзя вывести и заключить, что материя теплоты сохраняется в нагретом теле.</se>
+    <se lang="latin" variant_id="1">Inde deduci et concludi non potest materiam caloris in corpore calefacto conservari.</se>
+    <weight variant_id="1">0,29589</weight>
+  </para>
+  <para id="100">
+    <se lang="russian" variant_id="0">Это опровергает и § 92.</se>
+    <se lang="latin" variant_id="1">Quod et § 92 refutat.</se>
+    <weight variant_id="1">0,766667</weight>
+  </para>
+  <para id="101">
+    <se lang="russian" variant_id="0">94. Тела, удельно более тяжелые, нагреваются сильнее, чем удельно более легкие; следовательно, тела удельно более тяжелые принимают в себя больше теплотворной материи, чем удельно более легкие.</se>
+    <se lang="latin" variant_id="1">94. Corpora specifice graviora magis incalescunt, quam specifice leviora, igitur corpora specifice graviora plus materiae calorificae admittunt, quam specifice leviora.</se>
+    <weight variant_id="1">0,405109</weight>
+  </para>
+  <para id="102">
+    <se lang="russian" variant_id="0">Далее, тела удельно более легкие имеют более вместительные поры, следовательно, принимают в себя больше теплотворной материи, чем удельно более тяжелые, что нелепо.</se>
+    <se lang="latin" variant_id="1">Denique corpora specifice leviora habent capaciores poros, ergo plus materiae calorificae admittunt, quam specifice graviora, quod absurdum est.</se>
+    <weight variant_id="1">0,2625</weight>
+  </para>
+  <para id="103">
+    <se lang="russian" variant_id="0">95. В трактате о материи, или о более общих качествах материи, надо рассуждать о теплоте и о холоде как об общем</se>
+    <se lang="latin" variant_id="1">95. In tractatu de materia, sive de qualitatibus materiae generalioribus, tractandum de calore et frigore tanquam de qualitate</se>
+    <weight variant_id="1">0,403639</weight>
+  </para>
+  <para id="104">
+    <se lang="russian" variant_id="0">96. Так как рассеянный воздух лишен упругости, то, значит, отдельные корпускулы воздуха не упруги.</se>
+    <se lang="latin" variant_id="1">96. Quoniam aër disseminatus elatere caret, sequitur singula aëris corpuscula non esse elastica.</se>
+    <weight variant_id="1">0,510797</weight>
+  </para>
+  <para id="105">
+    <se lang="russian" variant_id="0">97. Всякая без исключения упругость зависит от рассеянного воздуха.</se>
+    <se lang="latin" variant_id="1">97. Omnis prorsus vis elastica dependet ab aëre disseminato.</se>
+    <weight variant_id="1">0,561111</weight>
+  </para>
+  <para id="106">
+    <se lang="russian" variant_id="0">98. О тонкости нитей паутины см. ~~~ Реомюр. ~~~ Сцепление, что имеют бобовые стебли.</se>
+    <se lang="latin" variant_id="1">98. De subtilitate telorum araneae videatur Reaumur, cohaesio, quod fabales habent.</se>
+    <weight variant_id="1">-0,115764</weight>
+  </para>
+  <para id="107">
+    <se lang="russian" variant_id="0">99. Надо также обдумать загибание света.</se>
+    <se lang="latin" variant_id="1">99. Considerandum quoque de inflexione luminis.</se>
+    <weight variant_id="1">0,671815</weight>
+  </para>
+  <para id="108">
+    <se lang="russian" variant_id="0">100. Отталкивание бумажки из пустоты трубки термометра надо рассмотреть в Академии.</se>
+    <se lang="latin" variant_id="1">100. Repulsio chartulae a vacuo termometri examinetur in Acad.</se>
+    <weight variant_id="1">0,491371</weight>
+  </para>
+  <para id="109">
+    <se lang="russian" variant_id="0">101. Если бы эфир не был весом, он не входил бы в колокол [воздушного насоса].</se>
+    <se lang="latin" variant_id="1">101. Si aether non foret gravis non intraret in campanam.</se>
+    <weight variant_id="1">0,476727</weight>
+  </para>
+  <para id="110">
+    <se lang="russian" variant_id="0">102. У котла, полного кипящей воды, дно, по удалении от огня, имеет едва заметную теплоту, но как только вода перестает кипеть, дно нагревается.</se>
+    <se lang="latin" variant_id="1">102. Ahenum aqua ebulliente plenum ab igne ablutum fundum habet vix sensibili calore praeditum, dum vero aqua cessat ebullire, fundum incalescit.</se>
+    <weight variant_id="1">0,429106</weight>
+  </para>
+  <para id="111">
+    <se lang="russian" variant_id="0">103. Тонкая нитка на холодном железе не сгорает от пламени свечи; свинец, завернутый в бумагу, плавится без повреждения бумаги.</se>
+    <se lang="latin" variant_id="1">103. Filum tenue super ferrum frigidum flamma candelae non comburit, plumbum chartae involutum liquatur charta illisa.</se>
+    <weight variant_id="1">0,459328</weight>
+  </para>
+  <para id="112">
+    <se lang="russian" variant_id="0">Сравнить с благовонными конусами.</se>
+    <se lang="latin" variant_id="1">Hic conferantur coni odoriferi.</se>
+    <weight variant_id="1">0,27931</weight>
+  </para>
+  <para id="113">
+    <se lang="russian" variant_id="0">104. Кусок железа, подвешенный на нитке в кипящей воде, оставленный там на несколько минут и затем вынутый, имеет едва заметную теплоту, а после нескольких секунд оказывается очень горячим.</se>
+    <se lang="latin" variant_id="1">104. Frustum ferri in fervente aqua filo suspensum atque aliquot minutorum spatio detentum et tandem extractum vix calorem sensibilem habet, post minuta vero aliquot secunda calidissimum evadit.</se>
+    <weight variant_id="1">0,396167</weight>
+  </para>
+  <para id="114">
+    <se lang="russian" variant_id="0">105. Если накалить в горизонтальном положении с одного конца довольно толстую железную проволоку и расположить ее вертикально, нагретой стороной вниз, то теплота сразу распространяется доверху; отсюда следует, что эфир имеет вес, ибо в этом случае, нагревшись и сделавшись более редким, он поднимается вверх.</se>
+    <se lang="latin" variant_id="1">105. Fili ferrei crassioris ab ignita una extremitate in situ horizontali, dum illud verticaliter dirigitur parte calefacta deorsum spectante, calor repente propagatur ad superiora: hinc sequitur aetherem esse gravem, nam hoc in casu calefactus et rarefactus sursum ascendit.</se>
+    <weight variant_id="1">0,341923</weight>
+  </para>
+  <para id="115">
+    <se lang="russian" variant_id="0">106. Шероховатость корпускул по отношению к шарообразности всего тела надо считать бесконечно малой; указать на горы луны и земля.</se>
+    <se lang="latin" variant_id="1">106. Asperitas corpusculorum est respectu totius rotunditatis corporis pro infinite parva habenda, montes lunae et telluris, demonstretur.</se>
+    <weight variant_id="1">0,440351</weight>
+  </para>
+  <para id="116">
+    <se lang="russian" variant_id="0">107. Тройное пламя свечи: 1) красное — горящей светильни, 2) синее — около светильни и 3) желтое — посредине.</se>
+    <se lang="latin" variant_id="1">107. Flamma triplex candelae. ~~~ 1) Rubra ellychnii adusti; 2) caerulea ad ellychnium, [3)] flava in medio.</se>
+    <weight variant_id="1">0,230769</weight>
+  </para>
+  <para id="117">
+    <se lang="russian" variant_id="0">106. Как распространяется через твердые тела звук, так распространяется и свет.</se>
+    <se lang="latin" variant_id="1">106. Sicut sonus propagatur per corpora solida, ita quoque et lux.</se>
+    <weight variant_id="1">0,482759</weight>
+  </para>
+  <para id="118">
+    <se lang="russian" variant_id="0">107. Если два куска железа в воде ударить друг о друга, то они издают тот звук, какой дает содержащий эту воду сосуд без воды.</se>
+    <se lang="latin" variant_id="1">107. Frusta duo ferri in aqua sibi invicem allisa eum sonum edunt, quem vas aquam continens edit sine aqua.</se>
+    <weight variant_id="1">0,403846</weight>
+  </para>
+  <para id="119">
+    <se lang="russian" variant_id="0">109. Один опыт я ставлю выше, чем тысячу мнений, рожденных только воображением.</se>
+    <se lang="latin" variant_id="1">109. Unam experientiam sexcentis opinionibus in sola imaginatione natis praepono.</se>
+    <weight variant_id="1">0,555584</weight>
+  </para>
+  <para id="120">
+    <se lang="russian" variant_id="0">Но считаю необходимым сообразовать опыты с нуждами физики.</se>
+    <se lang="latin" variant_id="1">Sed tamen experientias ad usum Physicum revocandas esse censeo.</se>
+    <weight variant_id="1">0,276923</weight>
+  </para>
+  <para id="121">
+    <se lang="russian" variant_id="0">110. Мощный и слабый звуки распространяются с одинаковой скоростью.</se>
+    <se lang="latin" variant_id="1">110. Sonus vastus et debilis pari celeritate feruntur.</se>
+    <weight variant_id="1">0,559864</weight>
+  </para>
+  <para id="122">
+    <se lang="russian" variant_id="0">111. Дергем заметил, что звук на расстоянии ¼, ½, ¾ слышен в ¼, ½, ¾ времени (§ 13, глава 2, том III, Вольф).</se>
+    <se lang="latin" variant_id="1">111. Derhamus observavit sonum in ¼, ½, ¾ spacii in ¼, ½, ¾ temporis audiri (§ 13, cap. 2, tom. ~~~ 3, Wolf.) </se>
+    <weight variant_id="1">1,65022</weight>
+  </para>
+  <para id="123">
+    <se lang="russian" variant_id="0">Следовательно, он движется равномерным движением.</se>
+    <se lang="latin" variant_id="1">Ergo movetur motu aequabili.</se>
+    <weight variant_id="1">-0,0142857</weight>
+  </para>
+  <para id="124">
+    <se lang="russian" variant_id="0">112. Скорости звука не замедляет и не ускоряет никакая погода или состояние воздуха, кроме попутного или встречного ветра.</se>
+    <se lang="latin" variant_id="1">112. Celeritatem soni nulla tempestas et constitutio aëris praeter ventum secundum vel contrarium retardat aut accelerat.</se>
+    <weight variant_id="1">0,473667</weight>
+  </para>
+  <para id="125">
+    <se lang="russian" variant_id="0">113. Когда под эллиптическим сводом человек тихо говорит в одном его фокусе, то стоящий в другом фокусе может все слышать, а в прочих местах ничего не слышно.</se>
+    <se lang="latin" variant_id="1">113. In fornice Elliptico homine in uno foco leniter loquente qui in altero stat, omnia audire potest, reliquis locis nil auditur.</se>
+    <weight variant_id="1">0,377435</weight>
+  </para>
+  <para id="126">
+    <se lang="russian" variant_id="0">Вольф, Эксп., том III, глава 2, § 19.</se>
+    <se lang="latin" variant_id="1">Wol., Ex., tom. ~~~ III, cap. ~~~ II, § 19.</se>
+    <weight variant_id="1">0,161111</weight>
+  </para>
+  <para id="127">
+    <se lang="russian" variant_id="0">114. Так как магнитная материя действует и через огонь, то она, следовательно, отлична от огня; так как тела не делаются тяжелее от произведенного теплотою более быстрого</se>
+    <se lang="latin" variant_id="1">114. Quoniam materia magnetica et per ignem agit, ergo ab igne diversa, quoniam celeriore agitatione aetheris per calorem producta corpora graviora non fiunt, ergo aether a materia gravifica</se>
+    <weight variant_id="1">0,374376</weight>
+  </para>
+  <para id="128">
+    <se lang="russian" variant_id="0">5. Дерево, напитанное водою, разрушается; более твердое разрушается легче, чем мягкое, и горячая вода скорее разрушает дерево, чем холодная.</se>
+    <se lang="latin" variant_id="1">115. Lignum aqua imbutum rumpitur, lignum durius rumpitur facilius quam molle, fervida aqua celerius lignum rumpit, quam frigida.</se>
+    <weight variant_id="1">0,273684</weight>
+  </para>
+  <para id="129">
+    <se lang="russian" variant_id="0">116. Воздух ни с какой стороны не проникает сквозь бычий и свиной пузырь в пространство, наполненное воздухом; вода проникает сквозь пузырь в воздух только с той стороны, которая у живого животного обращена наружу.</se>
+    <se lang="latin" variant_id="1">116. Vesicam bubulam et suillam aër nulla ex parte penetrat in spacium aere plenum, aqua vesicam penetrat in aërem, solum ab ea parte, quae in animali vivente exteriora spectat.</se>
+    <weight variant_id="1">0,334437</weight>
+  </para>
+  <para id="130">
+    <se lang="russian" variant_id="0">117. Симилярная материя — это та, у которой каждая чувствительная часть в отношении внутренних качеств оказывается подобна целому, причем сходны и корпускулы.</se>
+    <se lang="latin" variant_id="1">117. Materia similaris est cujus quaelibet pars sensibilis, quoad qualitates intrinsecus, toti similis depraehenditur, etiam corpuscula conveniunt.</se>
+    <weight variant_id="1">0,453133</weight>
+  </para>
+  <para id="131">
+    <se lang="russian" variant_id="0">Причины различных следствий различны.</se>
+    <se lang="latin" variant_id="1">Diversae diversorum effectuum sunt causae.</se>
+    <weight variant_id="1">0,265714</weight>
+  </para>
+  <para id="132">
+    <se lang="russian" variant_id="0">Я совершенно отрицаю несходство корпускул, как-либо влияющее на внутренние качества, конечно, в той же симилярной материи, а в остальных допускаю.</se>
+    <se lang="latin" variant_id="1">Dissimilitudinem in corpusculis, quae ad qualitates intrinsecus aliquid confert, prorsus nego, nempe in eadem materia similari; alias lasse passieren.</se>
+    <weight variant_id="1">0,288281</weight>
+  </para>
+  <para id="133">
+    <se lang="russian" variant_id="0">118. Некоторые тела в нагретом виде ковки, в охлажденном хрупки, в расплавленном прозрачны, в застывшем непрозрачны.</se>
+    <se lang="latin" variant_id="1">118. Corpora quaedam suntca lefacta ductilia, frigefacta fragilia, liquefacta pellucida, congelata opaca.</se>
+    <weight variant_id="1">0,502165</weight>
+  </para>
+  <para id="134">
+    <se lang="russian" variant_id="0">119. Воздух в воде и спиртах разделен в порах на свои элементы, иначе ведь эти жидкости не были бы столь прозрачны.</se>
+    <se lang="latin" variant_id="1">119. Aër in aqua et spiritibus divisus est in poris in sua elementa, alias enim liquores illi non forent tam pellucidi.</se>
+    <weight variant_id="1">0,423993</weight>
+  </para>
+  <para id="135">
+    <se lang="russian" variant_id="0">Это показывают тела, вскипающие на огне под колоколом воздушного насоса или при осаждении.</se>
+    <se lang="latin" variant_id="1">Quod demonstrant effervescentia corpora super ignem, sub anthlia vel per praecipitationem.</se>
+    <weight variant_id="1">0,292405</weight>
+  </para>
+  <para id="136">
+    <se lang="russian" variant_id="0">120. Если бы теплотворная материя приставала к известям, то сами извести, вынутые из огня, оставались бы горячими. ~~~ Следовательно, или эта материя к ним не пристает, или пристающая материя — не теплотворная.</se>
+    <se lang="latin" variant_id="1">120. Si materia calorifica calcibus adhaereret, calces ipsae ex igne extractae in calore perseverarent, ergo vel materia illa non adhaeret, vel adhaeret non calorifica.</se>
+    <weight variant_id="1">0,0128333</weight>
+  </para>
+  <para id="137">
+    <se lang="russian" variant_id="0">121. Не следует выдумывать много разных причин там, где достаточно одной; таким образом, раз центрального движения корпускул достаточно для объяснения теплоты, так как оно может увеличиваться до бесконечности, то не следует придумывать другие причины.</se>
+    <se lang="latin" variant_id="1">121. Multae et variae causae fingendae non sunt ubi una sufficit, itaque, sed motus centralis corpusculorum ad calorem explicandum sufficit, quia in infinitum augeri potest, ergo aliae causae fingendae non sunt.</se>
+    <weight variant_id="1">0,333094</weight>
+  </para>
+  <para id="138">
+    <se lang="russian" variant_id="0">122. Снег, тая от соли, делается холоднее; поэтому, если бы теплота представляла собою концентрированную теплотворную материю, то, несомненно, теплотворная материя скорее изгонялась</se>
+    <se lang="latin" variant_id="1">122. Nix dum a sale diffluit frigidior evadit, quamobrem si calor constaret in materia calorifica concentrata, certe materia calorifica tunc potius in oppositum corpus e. g. in aquam,</se>
+    <weight variant_id="1">0,42284</weight>
+  </para>
+  <para id="139">
+    <se lang="russian" variant_id="0">123. Надо дать определение материи собственной, посторонней, связанной, протекающей, сперва доказать существование пор у тел.</se>
+    <se lang="latin" variant_id="1">123. Definiatur materia propria peregrina, cohaerens, praeterlabens, prius demonstrentur pori corporum.</se>
+    <weight variant_id="1">0,493158</weight>
+  </para>
+  <para id="140">
+    <se lang="russian" variant_id="0">124. Ошибки замечать не многого стоит; дать нечто лучшее — вот, что приличествует достойному человеку.</se>
+    <se lang="latin" variant_id="1">124. Errores depraehendere leve est, meliora praestare virum probum decet. ~~~ 125. Si aëris vim elasticam explicando ponamus vel circellos vel cycloides vel vesiculas elasticas, tunc nihil explicabimus, nam eadem quaestio relinquetur semper inexplicata, eritque petitio principii.</se>
+    <weight variant_id="1">0,469742</weight>
+  </para>
+  <para id="141">
+    <se lang="russian" variant_id="0">126. Тела, падая, проходят в первую секунду 15½ рейнских футов, в две — 62, в три — 139½, в четыре — 248, в пять — 387½ (Вольф, Эксп., т.</se>
+    <se lang="latin" variant_id="1">126. Corpora cadunt in priore minuto secundo 15½ pedes Rhenanos, in duobus 62, in 3. 139½ in 4. 248, in 5. 387½ (Wolf, Ex., t.</se>
+    <weight variant_id="1">0,865708</weight>
+  </para>
+  <para id="142">
+    <se lang="russian" variant_id="0">На не очень большом расстоянии различие силы тяжести было бы велико и можно было бы построить неверные весы.</se>
+    <se lang="latin" variant_id="1">In spatio non nimis magno foret magna gravitatis differentia et possent construi librae falsae.</se>
+    <weight variant_id="1">0,26747</weight>
+  </para>
+  <para id="143">
+    <se lang="russian" variant_id="0">127. Световой путь, направленный перпендикулярно, после зеркала, соединяется с отраженным лучом и делается более светлым.</se>
+    <se lang="latin" variant_id="1">127. Via lucida perpendiculariter directa a speculo cum radio reflexo unitur, et via evadit lucidior.</se>
+    <weight variant_id="1">0,420084</weight>
+  </para>
+  <para id="144">
+    <se lang="russian" variant_id="0">128. Световой путь виден даже в самом призматическом стекле.</se>
+    <se lang="latin" variant_id="1">128. Via lucida etiam in ipso vitro prismatico videtur.</se>
+    <weight variant_id="1">0,569388</weight>
+  </para>
+  <para id="145">
+    <se lang="russian" variant_id="0">Там же, § 146.</se>
+    <se lang="latin" variant_id="1">Ibid., § 146.</se>
+    <weight variant_id="1">1,8</weight>
+  </para>
+  <para id="146">
+    <se lang="russian" variant_id="0">129. Надо предложить учение о движении первичном и производном.</se>
+    <se lang="latin" variant_id="1">129. Proponatur doctrina de motu primitivo et derivativo.</se>
+    <weight variant_id="1">0,604487</weight>
+  </para>
+  <para id="147">
+    <se lang="russian" variant_id="0">130. О причине удельной плотности солнечных лучей и о соответствии с известным началом откладывается до рассуждения об этих началах.</se>
+    <se lang="latin" variant_id="1">130. De ratione gravitatis specificae radiorum solarium et de convenientia cum certis principiis reservatur ad tractatum de principiis.</se>
+    <weight variant_id="1">0,44755</weight>
+  </para>
+  <para id="148">
+    <se lang="russian" variant_id="0">131. Нитка, помещенная по пути светового луча, разделяет свет и дает тень большей величины, чем она сама; по обоим краям тени находятся радужные цвета.</se>
+    <se lang="latin" variant_id="1">131. Viae lucidae filum expositum lucem dividit, et umbram majorem, quam ipsum est, efficit, ad utrumque latus umbrae sunt colores iridis.</se>
+    <weight variant_id="1">0,411364</weight>
+  </para>
+  <para id="149">
+    <se lang="russian" variant_id="0">132. Свет, пропускаемый между двумя остриями ножей, перпендикулярно пересекающими путь, разделяется на две части, оставляя посредине тень.</se>
+    <se lang="latin" variant_id="1">132. Inter duas acies laminarum viam perpendiculariter secantes lux transmissa in duas partes dividitur relicta in medio umbra.</se>
+    <weight variant_id="1">0,434524</weight>
+  </para>
+  <para id="150">
+    <se lang="russian" variant_id="0">133. Надо объяснить, почему раскаленные тела испускают свет.</se>
+    <se lang="latin" variant_id="1">133. Explicandum est, unde fiat, quod corpora ignita lucem emittunt.</se>
+    <weight variant_id="1">0,600606</weight>
+  </para>
+  <para id="151">
+    <se lang="russian" variant_id="0">134. Надо рассмотреть глубже, каким образом цветные лучи проникают через прозрачные тела и именно через сложенные друг с другом стекла различного цвета; надо, чтобы отсюда получилось не только объяснение этого, но и доказательство моего положения о цветах и его обоснования.</se>
+    <se lang="latin" variant_id="1">134. Considerandum profundius, quomodo radii colorati diaphana penetrent et quidem per vitra apposite diversi coloris, ita ut inde non solum rei explicatio, sed theseos et fundamenti ipsius de coloribus demonstratio inde oriatur.</se>
+    <weight variant_id="1">0,335409</weight>
+  </para>
+  <para id="152">
+    <se lang="russian" variant_id="0">135. Прежде всего надо говорить о свете и эфире и, наконец, алгебраически доказать: 1) что корпускулы эфира круглы, 2) что они одинаковы.</se>
+    <se lang="latin" variant_id="1">135. I-(mo) agendum de luce et aethere, tandem algebraice demonstrandum 1° corpuscula aetheris esse rotunda, 2° aequalia.</se>
+    <weight variant_id="1">0,435826</weight>
+  </para>
+  <para id="153">
+    <se lang="russian" variant_id="0">Там же предпослать о колебательном движении.</se>
+    <se lang="latin" variant_id="1">Ubi praeponatur de motu oscillatorio.</se>
+    <weight variant_id="1">0,247059</weight>
+  </para>
+  <para id="154">
+    <se lang="russian" variant_id="0">136. Надо напомнить, что я при объяснении явлений буду поступать так, чтобы не только они легко объяснялись из основного положения, но и доказывали самое это положение.</se>
+    <se lang="latin" variant_id="1">136. Monendum, ego in explicandis phaenomenis ita progrediar, ut non solum ea ex thesi facile explicentur, sed etiam thesim ipsam demonstrent.</se>
+    <weight variant_id="1">0,385557</weight>
+  </para>
+  <para id="155">
+    <se lang="russian" variant_id="0">137. Тело тогда прозрачно, когда корпускулы преобладающей составной части непосредственно касаются друг друга и, будучи твердыми, не уступают удару.</se>
+    <se lang="latin" variant_id="1">137. Corpus tunc est pellucidum quando corpuscula mixti praedominantis se mutuo immediate contingunt, et tanquam solida ictui cedere nesciunt.</se>
+    <weight variant_id="1">0,435714</weight>
+  </para>
+  <para id="156">
+    <se lang="russian" variant_id="0">Ибо в других случаях промежуточные корпускулы уступают ударам и движение не распространяется до другой стороны [тела].</se>
+    <se lang="latin" variant_id="1">Alias enim corpuscula intermedia ictibus cedunt et motus ad alterum latus non propagatur.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="157">
+    <se lang="russian" variant_id="0">Вследствие этого тонкие тела прозрачны, так как движение распространяется на некоторое пространство и в непрозрачных.</se>
+    <se lang="latin" variant_id="1">Hinc fit quod tenuia sunt pellucida, quia motus per aliquod spacium in opacis propagatur.</se>
+    <weight variant_id="1">0,194805</weight>
+  </para>
+  <para id="158">
+    <se lang="russian" variant_id="0">138. Толченое стекло не прозрачно, так как корпускулы не соприкасаются.</se>
+    <se lang="latin" variant_id="1">138. Vitrum contusum non est pellucidum, quia non sunt corpuscula continuata.</se>
+    <weight variant_id="1">0,54929</weight>
+  </para>
+  <para id="159">
+    <se lang="russian" variant_id="0">Мокрая бумага более прозрачна, как и полотно.</se>
+    <se lang="latin" variant_id="1">Charta madida est pellucidior ut et lintea.</se>
+    <weight variant_id="1">0,284211</weight>
+  </para>
+  <para id="160">
+    <se lang="russian" variant_id="0">139. Один свет затемняет другой, например солнце — свет свечи; подобно тому как более сильный голос заглушает другой, слабый.</se>
+    <se lang="latin" variant_id="1">139. Lux una alteram obscurat, ut sol lucem candelae, quem admodum vox fortior aliam debilem.</se>
+    <weight variant_id="1">0,383796</weight>
+  </para>
+  <para id="161">
+    <se lang="russian" variant_id="0">Отсюда следует, что свет есть материя.</se>
+    <se lang="latin" variant_id="1">Unde sequitur lucem esse materiam.</se>
+    <weight variant_id="1">0,270968</weight>
+  </para>
+  <para id="162">
+    <se lang="russian" variant_id="0">140. О разделении пурпурного цвета на синий и красный см. самого Мариотта Опыт о природе цветов, стр.</se>
+    <se lang="latin" variant_id="1">140. De divisione coloris purpurei in caeruleum et rubrum videatur ipse Mariottus Essay de nature des couleurs pag.</se>
+    <weight variant_id="1">0,421839</weight>
+  </para>
+  <para id="163">
+    <se lang="russian" variant_id="0">141. Окрашенные призмы преломляют не все цвета, но только те, которыми окрашены, а из прочих некоторые имеются, но очень слабые (160).</se>
+    <se lang="latin" variant_id="1">141. Prismata colorata non omnes colores refringunt, sed eos tantum quibus tincta sunt, caeterorum sunt quidam sed adeo debiles. (160)</se>
+    <weight variant_id="1">0,439286</weight>
+  </para>
+  <para id="164">
+    <se lang="russian" variant_id="0">Отсюда на основании опыта следует выводить сложные цвета при складывании стекол.</se>
+    <se lang="latin" variant_id="1">Hinc ex posterioribus deducantur colores compositi per complicationem vitrorum.</se>
+    <weight variant_id="1">0,274648</weight>
+  </para>
+  <para id="165">
+    <se lang="russian" variant_id="0">142. Для жидкого и твердого состояния надо рассмотреть расположение</se>
+    <se lang="latin" variant_id="1">142. In fluiditate et soliditate considerandus situs .</se>
+    <weight variant_id="1">0,559864</weight>
+  </para>
+  <para id="166">
+    <se lang="russian" variant_id="0">143. Твердость земли не зависит от веса, так как она легче ртути, и не от сцепления, так как, будучи превращена в порошок, она снова сливается.</se>
+    <se lang="latin" variant_id="1">143. Fixitas terrae non dependet a pondere, quia levior est Mercurio, neque a cohaesione quia in pulverem resoluta rursus confluit.</se>
+    <weight variant_id="1">0,424436</weight>
+  </para>
+  <para id="167">
+    <se lang="russian" variant_id="0">Так и прокаленные твердые соли, например щелочи.</se>
+    <se lang="latin" variant_id="1">Sic et salia fixa calcinata, ut alcali.</se>
+    <weight variant_id="1">0,220588</weight>
+  </para>
+  <para id="168">
+    <se lang="russian" variant_id="0">Следовательно — от величины.</se>
+    <se lang="latin" variant_id="1">Ergo a magnitudine.</se>
+    <weight variant_id="1">0,166667</weight>
+  </para>
+  <para id="169">
+    <se lang="russian" variant_id="0">Это надо доказать и по способу Гейнзия.</se>
+    <se lang="latin" variant_id="1">Quod et in modum Heinsii demonstretur.</se>
+    <weight variant_id="1">0,3</weight>
+  </para>
+  <para id="170">
+    <se lang="russian" variant_id="0">144. Кусок железа требует большой силы, чтобы его разломать, но при скоблении тонким напильником постепенно измельчается с приложением едва заметной силы.</se>
+    <se lang="latin" variant_id="1">144. Frustum ferri magna vi indiget priusquam rumpatur; at subtili lima rasum vi vix sensibili successive consumitur.</se>
+    <weight variant_id="1">0,37055</weight>
+  </para>
+  <para id="171">
+    <se lang="russian" variant_id="0">Следовательно, силе, ломающей цельный кусок, сопротивляется только совокупность сцепления лишь отдельных корпускул; каждое сцепление, рассмотренное в отдельности, почти равно нулю.</se>
+    <se lang="latin" variant_id="1">Igitur vi frangenti integrum frustum resistit tantum conspirata tantum singulorum corpusculorum cohaesio, quae in singulis considerata fere nulla est.</se>
+    <weight variant_id="1">0,234586</weight>
+  </para>
+  <para id="172">
+    <se lang="russian" variant_id="0">146. Нити, вытягиваемые через отверстия, нагреваются от трения.</se>
+    <se lang="latin" variant_id="1">146. Fila per foramina tracta incalescunt per affrictum.</se>
+    <weight variant_id="1">0,592157</weight>
+  </para>
+  <para id="173">
+    <se lang="russian" variant_id="0">147. Абсолютное сцепление двух цилиндров из одного и того же вещества, но различной толщины пропорционально квадратам диаметров.</se>
+    <se lang="latin" variant_id="1">147. Cohaesio absoluta duorum cylindrorum ejusdem materiae sed diversae crassitiei est, ut quadrata diametrorum.</se>
+    <weight variant_id="1">0,461386</weight>
+  </para>
+  <para id="174">
+    <se lang="russian" variant_id="0">148. Надо здесь сказать о смешении, но лишь вообще.</se>
+    <se lang="latin" variant_id="1">148. Tractandum hic de mixtione, sed adeo in genere.</se>
+    <weight variant_id="1">0,593333</weight>
+  </para>
+  <para id="175">
+    <se lang="russian" variant_id="0">149. Веса двух тел, обладающих на одинаковом расстоянии от центра земли одинаковым весом, на различных от него расстояниях находятся между собою вообще в двойном обратном отношении расстояний от центра земли.</se>
+    <se lang="latin" variant_id="1">149. Pondera duorum corporum, quae in aequali distantia a centro telluris aequiponderant, in diversis ab eodem intervallis sunt generaliter in ratione duplicata inversa distantiarum a centro telluris.</se>
+    <weight variant_id="1">0,39862</weight>
+  </para>
+  <para id="176">
+    <se lang="russian" variant_id="0">Крафт, Эксп. физика, см. в Механике Вольфа; надо сопоставить алгебраически с ускорением движения падающих тел и отсюда дать доказательство.</se>
+    <se lang="latin" variant_id="1">Krafft Phys. exp. videatur in Wolfii Mech. et conferatur cum motu accelerato corporum cadentium algebraice et inde fiat Demonstr.</se>
+    <weight variant_id="1">0,273214</weight>
+  </para>
+  <para id="177">
+    <se lang="russian" variant_id="0">150. 1 часть золота окрашивает 1280 частей стекла в рубиновый цвет (Кункель, Химическая лаборатория, глава 1).</se>
+    <se lang="latin" variant_id="1">150. Pars 1 auri tingit 1280 partes vitri in rubinum (Kunckel, Lab. ch., cap. I),</se>
+    <weight variant_id="1">2,75909</weight>
+  </para>
+  <para id="178">
+    <se lang="russian" variant_id="0">С этим сопоставить растягивание золота в тонкие листочки и на поверхности серебряной проволоки.</se>
+    <se lang="latin" variant_id="1">hic conferatur extensio auri in bracteas et per superficiem fili argentei.</se>
+    <weight variant_id="1">0,229412</weight>
+  </para>
+  <para id="179">
+    <se lang="russian" variant_id="0">Бургаве, см. также Бойля, Об атмосфере твердых тел.</se>
+    <se lang="latin" variant_id="1">Bourh., videatur quoque Boyle de athmosphaeris corporum consistentium.</se>
+    <weight variant_id="1">0,173333</weight>
+  </para>
+  <para id="180">
+    <se lang="russian" variant_id="0">151. Надо сказать также о сопроницаемости и о порах тел, а равно о том, насколько тела сопроницаемы через поры; для этого сделать опыты.</se>
+    <se lang="latin" variant_id="1">151. Dicendum quoque de compenetrabilitate et de poris corporum, simul et quatenus sunt corpora compenetrabilia per poros, in hunc usum fiant experimenta.</se>
+    <weight variant_id="1">0,381297</weight>
+  </para>
+  <para id="181">
+    <se lang="russian" variant_id="0">Воздух в воде [имеет объем] больше воды.</se>
+    <se lang="latin" variant_id="1">Aër in aqua major aqua.</se>
+    <weight variant_id="1">0,075</weight>
+  </para>
+  <para id="182">
+    <se lang="russian" variant_id="0">152. Свинец при прокаливании уменьшается в объеме, в весе увеличивается.</se>
+    <se lang="latin" variant_id="1">152. Plumbum calcinatum mole minuitur, pondere augetur.</se>
+    <weight variant_id="1">0,592647</weight>
+  </para>
+  <para id="183">
+    <se lang="russian" variant_id="0">153. Здесь я предполагаю уже известными определения наименований, ибо не занимаюсь изложением для новичков системы применения определений.</se>
+    <se lang="latin" variant_id="1">153. Hic nominum definitiones suppono tanquam cognitas, nam non sistema tyronibus propono usus definitionum.</se>
+    <weight variant_id="1">0,416495</weight>
+  </para>
+  <para id="184">
+    <se lang="russian" variant_id="0">154. Пусть не выставляют здесь трудно объяснимых явлений в качестве доказательств для защиты противной стороны или для ниспровержения моей системы, ибо все это я объясню в свое время и тем же самым даже докажу мое основное положение.</se>
+    <se lang="latin" variant_id="1">154. Non hic objiciantur phaenomena difficilia explicatu tanquam argumenta in partem contrariam defendendam, sive ad destruendum meum sistema; nam haec omnia suo tempore explicabo, imo iisdem thesim meam demonstrabo.</se>
+    <weight variant_id="1">0,385789</weight>
+  </para>
+  <para id="185">
+    <se lang="russian" variant_id="0">Здесь надо лишь смотреть, достаточны ли доказательства выдвинутого положения.</se>
+    <se lang="latin" variant_id="1">Hic tantum videatur, an demonstrationes satisfaciant rei propositae.</se>
+    <weight variant_id="1">0,26129</weight>
+  </para>
+  <para id="186">
+    <se lang="russian" variant_id="0">Но мы дивимся тем слонам, которые носят [на себе] башни.</se>
+    <se lang="latin" variant_id="1">Sed turrigeros elephantorum miramur.</se>
+    <weight variant_id="1">0,176471</weight>
+  </para>
+  <para id="187">
+    <se lang="russian" variant_id="0">Элементы природных вещей столь же необходимы, как и их познание.</se>
+    <se lang="latin" variant_id="1">Elementa rerum naturalium tam necessaria, quam eorum cognitio.</se>
+    <weight variant_id="1">0,3</weight>
+  </para>
+  <para id="188">
+    <se lang="russian" variant_id="0">155. Мягкость зависит от более тонких корпускул, находящихся в промежутках; наподобие глины: по удалении их получается камень, кирпич.</se>
+    <se lang="latin" variant_id="1">155. Mollicies dependet a corpusculis subtilioribus interpositis ut limus; his abactis evadit lapis, later.</se>
+    <weight variant_id="1">0,428125</weight>
+  </para>
+  <para id="189">
+    <se lang="russian" variant_id="0">156. Природа весьма проста; что этому противоречит, должно быть отвергнуто.</se>
+    <se lang="latin" variant_id="1">156. Natura est simplicissima, quid ei obstat repudiandum.</se>
+    <weight variant_id="1">0,548428</weight>
+  </para>
+  <para id="190">
+    <se lang="russian" variant_id="0">157. Бойлево разделение корпускул на полушария не имеет места, так как разделенные корпускулы не были бы сферическими.</se>
+    <se lang="latin" variant_id="1">157. Boyliana divisio corpusculorum in Hemisphaeria locum non habet, quia divisa corpuscula non essent sphaerica.</se>
+    <weight variant_id="1">0,478589</weight>
+  </para>
+  <para id="191">
+    <se lang="russian" variant_id="0">158. В пояснении о быстром движении корпускул (после совмещения) надо прибавить разделение времени.</se>
+    <se lang="latin" variant_id="1">158. In scholio de motu corpusculorum pernici (post congruentiam) addatur divisio temporis.</se>
+    <weight variant_id="1">0,505159</weight>
+  </para>
+  <para id="192">
+    <se lang="russian" variant_id="0">В самом деле, может быть, кто-нибудь возразит, что это не может совершаться в такой короткий промежуток времени.</se>
+    <se lang="latin" variant_id="1">Scilicet, fortassis aliquis objiciatur, quod exiguo hoc temporis spatiolo fieri nequeat.</se>
+    <weight variant_id="1">0,231646</weight>
+  </para>
+  <para id="193">
+    <se lang="russian" variant_id="0">159. Корпускулы двигаются и от тяготительной материи.</se>
+    <se lang="latin" variant_id="1">159. Corpuscula moventur etiam a materia gravifica.</se>
+    <weight variant_id="1">0,662234</weight>
+  </para>
+  <para id="194">
+    <se lang="russian" variant_id="0">160. Сколь трудно полагать основания! Ведь [при этом] мы должны как бы одним взглядом охватывать совокупность всех вещей, чтобы нигде не встретилось противопоказаний.</se>
+    <se lang="latin" variant_id="1">160. Quam difficile sit principia condere, etenim universitatem rerum omnium quasi uno intuitu spectare debemus nequid obstet.</se>
+    <weight variant_id="1">0,3</weight>
+  </para>
+  <para id="195">
+    <se lang="russian" variant_id="0">Сравнить с делением и извлечением корней кубических и более высоких степеней.</se>
+    <se lang="latin" variant_id="1">Divisio et extractio radicum cubicarum et dignitatum altiorum comparetur.</se>
+    <weight variant_id="1">0,290909</weight>
+  </para>
+  <para id="196">
+    <se lang="russian" variant_id="0">Я, однако, отваживаюсь здесь на это, опираясь на положение или изречение, что природа крепко держится своих законов и всюду одинакова.</se>
+    <se lang="latin" variant_id="1">Verum hic fretus principio sive dicto, quod natura sit legum suarum tenax et sibi ubique similis, haec audeo.</se>
+    <weight variant_id="1">0,225806</weight>
+  </para>
+  <para id="197">
+    <se lang="russian" variant_id="0">161. Надо посмотреть Комментарии: нет ли там чего-либо подходящего для доказательства моих положений.</se>
+    <se lang="latin" variant_id="1">161. Videndi sunt commentarii, an aliquid ibi sit ad theses meas demonstrandas idoneum.</se>
+    <weight variant_id="1">0,473036</weight>
+  </para>
+  <para id="198">
+    <se lang="russian" variant_id="0">162. Красные корпускулы движутся скорее, так как они тяжелее, поэтому они ударяют с большей силой и встречают большее сопротивление от подобных себе.</se>
+    <se lang="latin" variant_id="1">162. Corpuscula rubra celerius moventur quia sunt graviora unde majori vi percutiant, majorem resistentiam habent a sibi similibus.</se>
+    <weight variant_id="1">0,421688</weight>
+  </para>
+  <para id="199">
+    <se lang="russian" variant_id="0">163. Так как свет можно заставить возникнуть всюду, даже в темной комнате, то, значит, всюду в готовности находятся лучи всех цветов; однако те, что находятся в темной комнате, не движутся вместе с теми (которые отделены), следовательно не совмещаются и отличаются также по плотности.</se>
+    <se lang="latin" variant_id="1">163. Quoniam ubique lux excitari potest etiam in camera obsc[ura], ergo ubique radii omnium colorum ubique praesto sunt, at praesentes in camera obscura cum illis non commoventur (qui divisi sunt), ergo non congruunt, atque adeo gravitate differunt.</se>
+    <weight variant_id="1">0,338482</weight>
+  </para>
+  <para id="200">
+    <se lang="russian" variant_id="0">164. Сетчатка в глазу черна для того, чтобы все цвета совмещались с нею: если в глаз входит красный — совмещаются красные цвета, а остальные не входят и ничего не отображают.</se>
+    <se lang="latin" variant_id="1">164. Retina in oculo ideo nigra est, ut omnes colores cum ea congruant, et rubro in oculum admisso rubri congruunt, caeteri non sunt admissi, nihil repraesentant.</se>
+    <weight variant_id="1">0,393845</weight>
+  </para>
+  <para id="201">
+    <se lang="russian" variant_id="0">165. Цвета зависят одновременно от движения вращательного и колебательного.</se>
+    <se lang="latin" variant_id="1">165. Colores dependunt simul a motu vertiginis et oscillatorio.</se>
+    <weight variant_id="1">0,536842</weight>
+  </para>
+  <para id="202">
+    <se lang="russian" variant_id="0">166. Белые растительные и животные вещества, будучи обожжены, делаются черными; значит: 1) тотчас устраняется материя, несовместимая с лучами, а остальные сливаются в своем смешении.</se>
+    <se lang="latin" variant_id="1">166. Vegetabilia et animalia alba adusta fiunt nigra, ergo 1° materia radiis incongrua statim abigitur, reliquae confunduntur in mixtione sua.</se>
+    <weight variant_id="1">0,356457</weight>
+  </para>
+  <para id="203">
+    <se lang="russian" variant_id="0">167. Как в воздухе от медленного колебания не возникает звука, так и в эфире — света.</se>
+    <se lang="latin" variant_id="1">167. Sicut a vibratione tarda aër in sonum non excitatur, ita et aether in lumen.</se>
+    <weight variant_id="1">0,474457</weight>
+  </para>
+  <para id="204">
+    <se lang="russian" variant_id="0">Мухи и комары вызывают в воздухе звук крыльями, а более крупные птицы — нет, как и сравнительно медленное колебание руки, также колебания струн.</se>
+    <se lang="latin" variant_id="1">Muscae et culices aërem in sonum excitant alis, non aves majores, sive vibratio lenior manus, item vibratio chordarum.</se>
+    <weight variant_id="1">0,238235</weight>
+  </para>
+  <para id="205">
+    <se lang="russian" variant_id="0">168. Вода, увлажняя тела, делает их более темными.</se>
+    <se lang="latin" variant_id="1">168. Aqua corpora madefaciendo reddit obscuriora.</se>
+    <weight variant_id="1">0,721905</weight>
+  </para>
+  <para id="206">
+    <se lang="russian" variant_id="0">169. Железные проволоки были заключены в камень и помещены по склонению магнитной иглы; через десять лет, когда железо подверглось коррозии и вошло в камень, он превратился в магнит, как наблюдал де Ла Гир, История корол. ~~~ Академии Наук за 1705 г.</se>
+    <se lang="latin" variant_id="1">169. Fila ferrea lapidi inclusa et secundum declinationem acus magneticae posita; postea per decem annos ferro corroso et lapidem ingresso lapis in magnetem mutatus est, observavit de la Hire, l’Histoire de l’Académie Roy. des sciences Ao 1705.</se>
+    <weight variant_id="1">0,025</weight>
+  </para>
+  <para id="207">
+    <se lang="russian" variant_id="0">170. Растертый купорос делается беловатым.</se>
+    <se lang="latin" variant_id="1">170. Vitriolum tritum evadit albidum.</se>
+    <weight variant_id="1">0,757143</weight>
+  </para>
+  <para id="208">
+    <se lang="russian" variant_id="0">171. Ни одна материя так быстро не замерзает, как вода, ибо все жидкости, более легкие и более тяжелые, замерзают позднее.</se>
+    <se lang="latin" variant_id="1">171. Nulla materia tam cito congelatur quam aqua, nam omnia fluida leviora et graviora serius congelantur.</se>
+    <weight variant_id="1">0,437761</weight>
+  </para>
+  <para id="209">
+    <se lang="russian" variant_id="0">Следовательно, эфир слабее приводит ее в движение и менее с нею совмещается; поэтому вода есть причина белизны во многих телах.</se>
+    <se lang="latin" variant_id="1">Consequenter aether eam debilius commovet, adeoque minus congruit, ergo aqua in pluribus corporibus est albedinis causa.</se>
+    <weight variant_id="1">0,291509</weight>
+  </para>
+  <para id="210">
+    <se lang="russian" variant_id="0">172. Нерастертая киноварь имеет бурый цвет, растертая — красный, растертый шифер становится белым, а сурьма не растертая — блестяща, растертая — черная, ртуть, растертая с серою, — черна.</se>
+    <se lang="latin" variant_id="1">172. Cinnabaris non trita est fusca, trita rubet, ardesia trita alba evadit, at antimonium non tritum splendet, tritum nigricat, mercurius cum sulfure contritus niger est.</se>
+    <weight variant_id="1">0,38921</weight>
+  </para>
+  <para id="211">
+    <se lang="russian" variant_id="0">Да и все блестящие металлические тела чернеют от растирания.</se>
+    <se lang="latin" variant_id="1">Imo omnia corpora splendentia metallica per triturationem nigrescunt.</se>
+    <weight variant_id="1">0,243396</weight>
+  </para>
+  <para id="212">
+    <se lang="russian" variant_id="0">Если их элементы теряют связь друг с другом, то они, понятно, становятся черными, так как там есть всякие составные части.</se>
+    <se lang="latin" variant_id="1">Si eorum principia dissolvuntur, ea nimirum nigra evadunt ubi omnia miscibilia sunt.</se>
+    <weight variant_id="1">0,178378</weight>
+  </para>
+  <para id="213">
+    <se lang="russian" variant_id="0">173. Гематит более красен после растирания [в порошок].</se>
+    <se lang="latin" variant_id="1">173. Haematites magis rubet ubi fuerit contritus.</se>
+    <weight variant_id="1">0,641667</weight>
+  </para>
+  <para id="214">
+    <se lang="russian" variant_id="0">174. По удалении воздуха, масло под колоколом воздушного насоса не так быстро растоплялось, как с воздухом.</se>
+    <se lang="latin" variant_id="1">174. Aëre extracto butirum non tam cito sub campana liquescebat, quam cum aëre.</se>
+    <weight variant_id="1">0,40559</weight>
+  </para>
+  <para id="215">
+    <se lang="russian" variant_id="0">175. Надо показать, что холод заключается не в растворенных солях.</se>
+    <se lang="latin" variant_id="1">175. Demonstretur frigus consistere non in salibus solutis.</se>
+    <weight variant_id="1">0,605556</weight>
+  </para>
+  <para id="216">
+    <se lang="russian" variant_id="0">176. Если держать каплю воды под вареным маслом, то она при нагревании дает пузырек воздуха большей величины, чем сама капля.</se>
+    <se lang="latin" variant_id="1">176. Aquae gutta sub oleo cocto detenta atque calefacta emittit aëris bullam majorem ipsa gutta aquae.</se>
+    <weight variant_id="1">0,412426</weight>
+  </para>
+  <para id="217">
+    <se lang="russian" variant_id="0">179. О прижатии кусков мрамора в пустоте, см.</se>
+    <se lang="latin" variant_id="1">179. De compressione marmorum in vacuo videatur Mémoir.</se>
+    <weight variant_id="1">0,558333</weight>
+  </para>
+  <para id="218">
+    <se lang="russian" variant_id="0">180. Окрашенные лучи, пропущенные через цветное стекло, собранные в фокус.</se>
+    <se lang="latin" variant_id="1">180. Radii colorati per vitrum coloratum transmissi in focum collecti.</se>
+    <weight variant_id="1">0,55368</weight>
+  </para>
+  <para id="219">
+    <se lang="russian" variant_id="0">181. Преломление — не причина цветов, так как цвета видны непосредственно на теле.</se>
+    <se lang="latin" variant_id="1">181. Refractio non est causa colorum, quia colores proxime ad corpus videntur.</se>
+    <weight variant_id="1">0,517726</weight>
+  </para>
+  <para id="220">
+    <se lang="russian" variant_id="0">Надо доказать прежде всего, что тела не могут быть окрашенными от преломления.</se>
+    <se lang="latin" variant_id="1">Demonstrandum hoc primo, quod per refractionem corpora colorata esse non possunt.</se>
+    <weight variant_id="1">0,282353</weight>
+  </para>
+  <para id="221">
+    <se lang="russian" variant_id="0">Из шарообразности корпускул и непроницаемости отдельных корпускул для света: ведь если бы они были проницаемы, то ни одно тело не было бы прозрачным, так как корпускулы преломляли бы лучи.</se>
+    <se lang="latin" variant_id="1">Ex rotunditate corpusculorum et quod singula corpuscula sunt luci minus pervia, nam si forent pervia, nullum corpus foret pellucidum, quia corpuscula radios refringerent.</se>
+    <weight variant_id="1">0,275839</weight>
+  </para>
+  <para id="222">
+    <se lang="russian" variant_id="0">2) Не зависят цвета от дырочек или пор, или только и единственно от разного расположения корпускул.</se>
+    <se lang="latin" variant_id="1">2° Non dependunt colores a foraminulis seu poris, et a solo et unico situ diverso corpusculorum.</se>
+    <weight variant_id="1">0,289024</weight>
+  </para>
+  <para id="223">
+    <se lang="russian" variant_id="0">Показав и опровергнув это, надо изложить мое мнение.</se>
+    <se lang="latin" variant_id="1">His demonstratis et refutatis proponatur mea opinio.</se>
+    <weight variant_id="1">0,293478</weight>
+  </para>
+  <para id="224">
+    <se lang="russian" variant_id="0">1821. Не буду заранее указывать, какие корпускулы с какими больше совмещаются, ибо в особом рассуждении скажу об элементах.</se>
+    <se lang="latin" variant_id="1">1821. Non prius indicabo, quae corpuscula cum quibus magis congruant, nam in peculiari dissertatione proponam de principiis.</se>
+    <weight variant_id="1">0,461111</weight>
+  </para>
+  <para id="225">
+    <se lang="russian" variant_id="0">1822. Положим, что при самом сильном морозе, под арктическим кругом, ударяется сталь о кремень.</se>
+    <se lang="latin" variant_id="1">1822. Ponamus tempore gelidissimo sub circulo arctico chalibem ad silicem allidi.</se>
+    <weight variant_id="1">0,504795</weight>
+  </para>
+  <para id="226">
+    <se lang="russian" variant_id="0">На малом расстоянии видны желтый и синий и не видны еще красный и фиолетовый.</se>
+    <se lang="latin" variant_id="1">Momento temporis scintilla prosiliet,</se>
+    <weight variant_id="1">0,0428571</weight>
+  </para>
+  <para id="227">
+    <se lang="russian" variant_id="0">184. Пропустим зеленые лучи в темной комнате через желтое или синее стекло; если они при этом получают цвет стекла, то будет вполне очевидно, что они сложны. ~~~ Так же надо судить о пурпурном и золотистом.</se>
+    <se lang="latin" variant_id="1">184. Radii virides in camera obscura trajiciantur per vitrum flavum vel caeruleum et si vitri colorem recipiunt, tunc manifesto patebit eos esse compositos, sic et de purpureo et aureo judicandum.</se>
+    <weight variant_id="1">0,0163765</weight>
+  </para>
+  <para id="228">
+    <se lang="russian" variant_id="0">185. Воздух сжимается пропорционально нагрузке, и упругость пропорциональна плотности.</se>
+    <se lang="latin" variant_id="1">185. Aër comprimitur in ratione ponderum et vis elastica est densitati proportionalis.</se>
+    <weight variant_id="1">0,588312</weight>
+  </para>
+  <para id="229">
+    <se lang="russian" variant_id="0">186. Кубический фут воздуха, по Вольфу, весит 585 гранов.</se>
+    <se lang="latin" variant_id="1">186. Pes cubicus aëris secundum Wolfium pendet 585 gr.</se>
+    <weight variant_id="1">3,88125</weight>
+  </para>
+  <para id="230">
+    <se lang="russian" variant_id="0">187. Вытяжка нефритового дерева отражает синий цвет, пропускает красный.</se>
+    <se lang="latin" variant_id="1">187. Tinctura ligni Nephritici reflectit colorem caeruleum, transmittit rubrum.</se>
+    <weight variant_id="1">0,568182</weight>
+  </para>
+  <para id="231">
+    <se lang="russian" variant_id="0">Но и mom и другой впадают в фиолетовый, и это происходит от большего промежутка, так как синие лучи при проникновении через тело слабеют скорее, чем красные, и потому эту вытяжку надо наливать в узкий сосуд или трубку.</se>
+    <se lang="latin" variant_id="1">Sed uterque ad violaceum proclivis est et hoc fit a majore intervallo, nam caerulei penetrando corpus celerius defatigantur, quam rubri, ideoque tinctura ista infundatur intra vas angustum sive tubulum.</se>
+    <weight variant_id="1">0,286286</weight>
+  </para>
+  <para id="232">
+    <se lang="russian" variant_id="0">188. Вода, волнуемая бурями, бьется об утесы, катится по крутизнам скал, рассыпаясь от водопадов в воздухе, бьется об утесы [и] твердые тела и все-таки не разрушается.</se>
+    <se lang="latin" variant_id="1">188. Aqua fluctibus exagitata ad scopulos alliditur, per saxa praerupta labitur, ex cataractis in aëre dissipata ad scopulos ad corpora solida alliditur, tamen non destruitur.</se>
+    <weight variant_id="1">0,396635</weight>
+  </para>
+  <para id="233">
+    <se lang="russian" variant_id="0">Так и воздух.</se>
+    <se lang="latin" variant_id="1">Ita aër.</se>
+    <weight variant_id="1">0,15</weight>
+  </para>
+  <para id="234">
+    <se lang="russian" variant_id="0">Отсюда следует, что есть неделимые корпускулы.</se>
+    <se lang="latin" variant_id="1">Unde sequitur dari corpuscula indivisibilia.</se>
+    <weight variant_id="1">0,292683</weight>
+  </para>
+  <para id="235">
+    <se lang="russian" variant_id="0">189. Шарообразность корпускул надо доказывать 1) из неизменной протяженности; 2) из неизменности формы; 3) тем, что</se>
+    <se lang="latin" variant_id="1">189. Rotunditas corpusculorum demonstranda 1) ex immutabili extensione, 2) ex immutabilitate formae, 3) quod dissiparentur,</se>
+    <weight variant_id="1">1,02353</weight>
+  </para>
+  <para id="236">
+    <se lang="russian" variant_id="0">190. Для доказательства неизменности природы корпускул, того, что они не изменяются подобно Вертумну, следует применить разные способы анализа кислотами и флогистоном из разных минералов, переходя даже из одного царства в другое.</se>
+    <se lang="latin" variant_id="1">190. Ad demonstrandam immutabilem naturam corpusculorum, quod non sint instar Vertumni mutabilia, inducendi sunt varii modi analiseos, acidorum et phlogisti ex variis mineralibus, imo ex uno regno in aliud.</se>
+    <weight variant_id="1">0,365</weight>
+  </para>
+  <para id="237">
+    <se lang="russian" variant_id="0">191. Совмещение может быть доказано зажиганием пороха.</se>
+    <se lang="latin" variant_id="1">191. Congruentia demonstrari potest per accensionem pulveris pyrii.</se>
+    <weight variant_id="1">0,603</weight>
+  </para>
+  <para id="238">
+    <se lang="russian" variant_id="0">Алмаз, режущий стекло, также распространение ощущения по нервам.</se>
+    <se lang="latin" variant_id="1">Adamas vitrum scindens, item tactus per nervos propagatus.</se>
+    <weight variant_id="1">0,265385</weight>
+  </para>
+  <para id="239">
+    <se lang="russian" variant_id="0">192. Пламя из 15 гранов зажженной серы, объемом в горошину, за один час наполняет целую баню запахом серы.</se>
+    <se lang="latin" variant_id="1">192. Sulphuris accensi ex 15 granis mole lentis flamma per horam unicam hypocaustum integrum odore sulphuris replet.</se>
+    <weight variant_id="1">2,26374</weight>
+  </para>
+  <para id="240">
+    <se lang="russian" variant_id="0">193. Надо подумать о воспламеняемости и свете фосфора.</se>
+    <se lang="latin" variant_id="1">193. De accensione et luce Phosphori cogitandum.</se>
+    <weight variant_id="1">0,640909</weight>
+  </para>
+  <para id="241">
+    <se lang="russian" variant_id="0">194. Сера разлагает все металлы, но в ковком виде; на извести их она не действует.</se>
+    <se lang="latin" variant_id="1">194. Sulphur o[mn]ia metalla solvit, sed in forma mallea bili, calces non aggreditur.</se>
+    <weight variant_id="1">0,492857</weight>
+  </para>
+  <para id="242">
+    <se lang="russian" variant_id="0">195. Из-за не вполне правильной системы начал много вредного вкрадывается в медицину и в другие науки.</se>
+    <se lang="latin" variant_id="1">195. A minus recto systemate principiorum multa mala in rem medicam et alias disciplinas influunt.</se>
+    <weight variant_id="1">0,477035</weight>
+  </para>
+  <para id="243">
+    <se lang="russian" variant_id="0">196. Надобно считать началами только то, что на основании рассуждения и опыта оказывается неделимым далее на другие известные нам части.</se>
+    <se lang="latin" variant_id="1">196. Ea solum pro principiis sumenda quae nec ratione nec experientia ultro divisibilia in alia miscibilia nota nobis constant.</se>
+    <weight variant_id="1">0,428378</weight>
+  </para>
+  <para id="244">
+    <se lang="russian" variant_id="0">197. Опыт Бойля над растениями, питаемыми водою (см. заметку ), не доказывает изменения корпускул, так как 1) в растениях немного постоянной земли; 2) вода, которою</se>
+    <se lang="latin" variant_id="1">197. Boylianum experimentum de plantis aqua nutritis (vid. ~~~ Not ) non probat permutationem corpusculorum, quia 1°) quia plantae parum terrae fixae habent, 2) quod aqua, qua humectantur,</se>
+    <weight variant_id="1">0,0538732</weight>
+  </para>
+  <para id="245">
+    <se lang="russian" variant_id="0">198. Если бы я захотел читать, еще не зная букв, это было бы бессмыслицей.</se>
+    <se lang="latin" variant_id="1">198. Si vellem legere verum literas non adhuc nossem, res absurda!</se>
+    <weight variant_id="1">0,524138</weight>
+  </para>
+  <para id="246">
+    <se lang="russian" variant_id="0">Точно так же, если бы я захотел судить о явлениях природы, не имея никакого представления о началах вещей, это было бы такой же бессмыслицей.</se>
+    <se lang="latin" variant_id="1">Itaque si de rebus naturalibus judicare vellem neque de prinicipiis rerum nullam ideam haberem, pari ratione absurdum foret.</se>
+    <weight variant_id="1">0,269444</weight>
+  </para>
+  <para id="247">
+    <se lang="russian" variant_id="0">199. Любой цвет от смачивания водою делается гуще. ~~~ Почему?</se>
+    <se lang="latin" variant_id="1">199. Quicunque color aqua madefactus fit saturior, quare?</se>
+    <weight variant_id="1">0,143333</weight>
+  </para>
+  <para id="248">
+    <se lang="russian" variant_id="0">Надо подумать.</se>
+    <se lang="latin" variant_id="1">Cogitandum.</se>
+    <weight variant_id="1">0,25</weight>
+  </para>
+  <para id="249">
+    <se lang="russian" variant_id="0">200. Цыпленок, может быть, доказывает изменчивость корпускул. ~~~ О! о!</se>
+    <se lang="latin" variant_id="1">200. Pipio forte adstruit mutabilitatem corpusculorum.</se>
+    <weight variant_id="1">0,196639</weight>
+  </para>
+  <para id="250">
+    <se lang="russian" variant_id="0">Подвергни перегонке цыпленка и яйцо и рассмотри сухой остаток.</se>
+    <se lang="latin" variant_id="1">O! o! destilla pipionem et ovum et vide siccum relictum.</se>
+    <weight variant_id="1">0,25625</weight>
+  </para>
+  <para id="251">
+    <se lang="russian" variant_id="0">201. Авторы трудов по химии неправильно пользуются терминами, так как иногда разным вещам (сера, соль ..) придают одно и то же название, а часто одну вещь обозначают многими названиями.</se>
+    <se lang="latin" variant_id="1">201. Authores chymici terminis abutuntur, ut sicuti aliquando rebus diversis (sulphur, sales, ..) idem nomen imponunt, ita saepe rem unam multis nominibus insigniunt.</se>
+    <weight variant_id="1">0,523469</weight>
+  </para>
+  <para id="252">
+    <se lang="russian" variant_id="0">202. Что касается тех мистических писателей, которые уклоняются от сообщения своих знаний, то они с меньшим уроном для своего доброго имени и с меньшей тягостью для своих читателей могли бы скрыть это учение, если бы вовсе не писали книг, вместо того, чтобы писать плохие.</se>
+    <se lang="latin" variant_id="1">202. Quod scriptores illos mysticos spectat, qui scientiam suam tergiversantur communicare, illi cum minore existimationis suae damno minorique lectorum suorum molestia eam doctrinam celarent, nullos scribendo libros, quam scribendo malos.</se>
+    <weight variant_id="1">0,369887</weight>
+  </para>
+  <para id="253">
+    <se lang="russian" variant_id="0">203. Те, кто пишут темно, либо невольно выдают этим свое невежество, либо намеренно, но худо скрывают его.</se>
+    <se lang="latin" variant_id="1">203. Qui obscure scribunt ignorantiam suam vel produnt inscii vel tegunt consulto male.</se>
+    <weight variant_id="1">0,455844</weight>
+  </para>
+  <para id="254">
+    <se lang="russian" variant_id="0">Смутно пишут о том, что смутно себе представляют.</se>
+    <se lang="latin" variant_id="1">Confuse de iis scribunt quae confusae sibi imaginantur.</se>
+    <weight variant_id="1">0,25814</weight>
+  </para>
+  <para id="255">
+    <se lang="russian" variant_id="0">204. Можно доказать неодинаковость величины корпускул тем, что имеются постоянные более легкие тела и летучие более тяжелые; значит, корпускулы их различаются величиною.</se>
+    <se lang="latin" variant_id="1">204. Magnitudinis diversitas in corpusculis demonstrari potest, ex eo, quod dantur corpora leviora fixa et graviora volatilia, unde corpuscula eorum magnitudine differunt.</se>
+    <weight variant_id="1">0,426435</weight>
+  </para>
+  <para id="256">
+    <se lang="russian" variant_id="0">Примером служат шпат и возогнанная ртуть, киноварь и охра, олово и королек сурьмы, сера и стекло или бура.</se>
+    <se lang="latin" variant_id="1">Exemplum praebent spatum et sublimatus, cinnabaris et ochra, stannum et regulus ii, sulphur et vitrum sive Borax.</se>
+    <weight variant_id="1">0,273333</weight>
+  </para>
+  <para id="257">
+    <se lang="russian" variant_id="0">205. Пусть никто с первого взгляда не удивляется тому, что из корпускул одной формы, т. е. круглых, возникает столько разных форм; сперва пусть согласится с доказательствами, чтобы дальнейшее подтверждение доказательств получить в явлениях природы, находящих тут превосходное объяснение.</se>
+    <se lang="latin" variant_id="1">205. Nequis miretur primo intuitu ab una forma corpusculorum nimirum rotundorum tot diversas formas oriri, sed primo in demonstrationibus acquiescat, ulteriorem demonstrationis confirmationem ex phaenomenis rerum naturalium hinc optime explicatis collaturus.</se>
+    <weight variant_id="1">0,365054</weight>
+  </para>
+  <para id="258">
+    <se lang="russian" variant_id="0">206. Как куски полированного мрамора, несмотря на очень сильное сцепление, легко можно двигать к краям, так и корпускулы хотя и крепко сцеплены, тем не менее могут двигаться друг около друга.</se>
+    <se lang="latin" variant_id="1">206. Ut marmora polita non obstante fortissima cohaesione versus latera facile moveri possunt, ita et corpuscula, licet firmiter cohaereant, nihilominus tamen juxta se invicem moveri possunt.</se>
+    <weight variant_id="1">0,403794</weight>
+  </para>
+  <para id="259">
+    <se lang="russian" variant_id="0">Корпускулы не могут быть угловатыми, так как уничтожится сцепление. ~~~ Это надо доказать прежде всего.</se>
+    <se lang="latin" variant_id="1">Corpuscula angularia esse non possunt, quia cohaesio tolletur, hoc primo demonstrandum.</se>
+    <weight variant_id="1">-0,0211538</weight>
+  </para>
+  <para id="260">
+    <se lang="russian" variant_id="0">И ветвистыми они не могут быть.</se>
+    <se lang="latin" variant_id="1">Et ramosa non possunt esse.</se>
+    <weight variant_id="1">0,2625</weight>
+  </para>
+  <para id="261">
+    <se lang="russian" variant_id="0">207. Я думаю, что блеск зависит от параллельного расположения лучей.</se>
+    <se lang="latin" variant_id="1">207. Splendorem puto dependere a parallello radiorum situ.</se>
+    <weight variant_id="1">0,58805</weight>
+  </para>
+  <para id="262">
+    <se lang="russian" variant_id="0">208. Теплота и свет различны, так как лучи, отраженные от зеркала, больше светят, но меньше греют, чем прямые.</se>
+    <se lang="latin" variant_id="1">208. Calor et lux sunt diverse, quoniam radii a speculo reflexi plus lucent, minus calefaciunt, quam directi.</se>
+    <weight variant_id="1">0,466667</weight>
+  </para>
+  <para id="263">
+    <se lang="russian" variant_id="0">209. Насекомые, в которых мы не видим ничего механического, на деле имеют механические части; откуда мы по справедливости можем заключить, что корпускулы подчинены механическим законам.</se>
+    <se lang="latin" variant_id="1">209. Insecta, in quibus nihil mechanici videmus, habent revera partes mechanicas unde possumus jure suspicari corpuscula esse mechanicis legibus subjecta.</se>
+    <weight variant_id="1">0,385923</weight>
+  </para>
+  <para id="264">
+    <se lang="russian" variant_id="0">И это совершенно верно: ведь все, что имеет протяжение и движется, подчинено механическим законам, а корпускулы протяженны и движутся.</se>
+    <se lang="latin" variant_id="1">Imo verissimum est, nam omne quod extensum et movetur legibus mechanices subjectum est, sed corpuscula sunt extensa et moventur.</se>
+    <weight variant_id="1">0,283784</weight>
+  </para>
+  <para id="265">
+    <se lang="russian" variant_id="0">210. Непрерывное образование и разрушение тел достаточно говорят о движении корпускул.</se>
+    <se lang="latin" variant_id="1">210. Perpetua generatio et destructio corporum satis abunde loquitur motum corpusculorum.</se>
+    <weight variant_id="1">0,538462</weight>
+  </para>
+  <para id="266">
+    <se lang="russian" variant_id="0">211. В зимнее время продолжается движение в минералах, скрытых в земле, если даже поверхность земли замерзает; а теплота зависит от внутреннего движения корпускул, следовательно, даже в самых твердых минералах корпускулы находятся в движении.</se>
+    <se lang="latin" variant_id="1">211. Tempore hyberno motus in mineralibus terra conditis durat et si superficies telluris conglaciata sit, calor vero a motu corpusculorum intestino dependet, consequenter etiam in durissimis mineralibus corpuscula moventur.</se>
+    <weight variant_id="1">0,378788</weight>
+  </para>
+  <para id="267">
+    <se lang="russian" variant_id="0">212. Животное тело непрерывно испускает теплоту, но никогда не принимает ее в себя; следовательно, теплота не зависит от сосредоточения посторонней материи, а есть некое состояние тела.</se>
+    <se lang="latin" variant_id="1">212. Corpus animate calorem continuo exhalat, nunquam in se recipit, ergo calor non dependet a materia peregrina concentrata, sed est status quidam corporis.</se>
+    <weight variant_id="1">0,370255</weight>
+  </para>
+  <para id="268">
+    <se lang="russian" variant_id="0">213. При ударе огнива о кремень в безвоздушном пространстве искры выскакивают так же, как и в воздухе; был воспламенен даже порох, и можно было видеть довольно большое пламя.</se>
+    <se lang="latin" variant_id="1">213. Ex collisione silicis et chalibis in spacio ab aëre vacuo scintillae similiter prosiliunt ut in aëre, etiam pulvis pyrius accensus est et flamma major fuisse videbatur.</se>
+    <weight variant_id="1">0,397408</weight>
+  </para>
+  <para id="269">
+    <se lang="russian" variant_id="0">Бойль, Новые физико-механические опыты, опыт 14. Дым в пустоте совершенно подражает воде; течение и отклонение при наклоне сосуда.</se>
+    <se lang="latin" variant_id="1">Boyle, Nova experimenta physicomechanica, exp. ~~~ 14. Fumus in vacuo aquam prorsus imitatur, fluctus et inclinato vase deflexio.</se>
+    <weight variant_id="1">0,0153846</weight>
+  </para>
+  <para id="270">
+    <se lang="russian" variant_id="0">При поднесении раскаленного железа к стенке дым вблизи этой стенки разрежается и столбом поднимается к верхушке стеклянного сосуда, а по удалении железа</se>
+    <se lang="latin" variant_id="1">Admoto ferro candido ad latus fumus lateri proximus instar columnae rarescit, ad sum</se>
+    <weight variant_id="1">0,0575342</weight>
+  </para>
+  <para id="271">
+    <se lang="russian" variant_id="0">214. Два куска полированного мрамора (каждый в ширину и длину по 2½ дюйма, толщиной верхний — ½, нижний — ¼ дюйма) квадратной формы в пустом приемнике сцеплялись, хотя к нижнему и более тонкому куску подвешивался груз в 4 унции (он же, там же, опыт 31).</se>
+    <se lang="latin" variant_id="1">214. Duo marmora polita (utrumque latitudine et longitudine aequabant 2½ digiti, crassitiae superius ½ inferius ¼ digiti) quadratae figurae in recipiente vacuo cohaerebant licet inferiori eique tenuiori marmori pondus 4 unciarum appenderetur. ~~~ (Id., ib., exp. 31). ~~~ </se>
+    <weight variant_id="1">0,634942</weight>
+  </para>
+  <para id="272">
+    <se lang="russian" variant_id="0">Полированные поверхности были смочены винным спиртом.</se>
+    <se lang="latin" variant_id="1">Superficies politae erant illitae spiritu vini.</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="273">
+    <se lang="russian" variant_id="0">215. Хлеб, замешанный на воде, виноград, погруженный в воду, груши, сливы, молодое вино, недавно сваренные фрукты выделяют при брожении воздух и повышают ртуть в ртутном указателе.</se>
+    <se lang="latin" variant_id="1">215. Panis aqua subactus, uvae sub aqua mersae, pyra, pruna, mustum, poma recens cocta per fermentationem aërem producunt et mercurium in indice mercuriali elevant.</se>
+    <weight variant_id="1">0,390629</weight>
+  </para>
+  <para id="274">
+    <se lang="russian" variant_id="0">Продолжение новых физико-механических опытов, § 2.</se>
+    <se lang="latin" variant_id="1">Experimentorum novorum physicomechanicorum continuatio, articulus 2.</se>
+    <weight variant_id="1">0,61118</weight>
+  </para>
+  <para id="275">
+    <se lang="russian" variant_id="0">216. Если корпускулы не связаны с какой-либо более инертной материей, то не замедляют лучей и не производят цветов.</se>
+    <se lang="latin" variant_id="1">216. Si corpuscula non sunt adstricta ad aliquam materiam inertiorem radios tunc non retardant, nec colores producunt.</se>
+    <weight variant_id="1">0,454667</weight>
+  </para>
+  <para id="276">
+    <se lang="russian" variant_id="0">217. Все, что есть в природе, математически точно и определенно; хотя мы иногда сомневаемся в этой точности, но наше незнание нисколько не умаляет ее: если бы даже весь мир сомневался в том, что дважды два четыре, все-таки дважды два у всех сомневающихся дадут четыре.</se>
+    <se lang="latin" variant_id="1">217. Omnia quae in natura sunt, sunt mathematice certa et determinata, licet nos aliquando de ea certitudine dubitamus, nostra tamen ignoratio illi certitudini nihil derogat, et si totus universus dubitaret an bis duo fiat 4, bis duo tamen omnibus dubitantibus erit quatuor.</se>
+    <weight variant_id="1">0,359195</weight>
+  </para>
+  <para id="277">
+    <se lang="russian" variant_id="0">218. Вода в капиллярных трубках поднимается и в пустоте.</se>
+    <se lang="latin" variant_id="1">218. Aqua in tubulos capillares ascendit etiam in vacuo. ~~~</se>
+    <weight variant_id="1">0,15</weight>
+  </para>
+  <para id="278">
+    <se lang="russian" variant_id="0">219. Два цилиндра, свинцовый и оловянный, концами были опущены в ртуть; она поднимается по поверхности их одинаково и в воздухе, и в пустоте; глубже, однако, проникает в олово, чем в свинец. Опыт 20, § 11.</se>
+    <se lang="latin" variant_id="1">219. Cylindri duo plumbeus et stanneus extremitatibus immissi fuerunt mercurio, qui per superficiem eorum ascendit pariter in aëre ac in vacuo, profundius tamen penetrat in quam in Exp. 20, art. ~~~ 11.</se>
+    <weight variant_id="1">0,399698</weight>
+  </para>
+  <para id="279">
+    <se lang="russian" variant_id="0">220. Частицы воздуха, как и других тел, находятся в движении и в сжатом состоянии спокон веков и не стираются, следовательно, они весьма тверды.</se>
+    <se lang="latin" variant_id="1">220. Aëris particulae, ut aliorum corporum, in motu et in statu compresso ab aetherno durant, neque abraduntur ergo sunt solidissimae.</se>
+    <weight variant_id="1">0,424908</weight>
+  </para>
+  <para id="280">
+    <se lang="russian" variant_id="0">221. Вода имеет меньшее совмещение с лучами, поэтому и меньше нагревается, т. е. до ста градусов.</se>
+    <se lang="latin" variant_id="1">221. Aqua minorem congruentiam cum radiis habet, ergo minus incalescit, hoc est ad cent[esim]um gradum.</se>
+    <weight variant_id="1">0,4625</weight>
+  </para>
+  <para id="281">
+    <se lang="russian" variant_id="0">222. Из любой точки светящегося тела лучи тянутся к любой точке; следовательно, свет не есть материя, истекающая из светящегося тела; ведь из одной точки солнца должна была бы наполниться светом вся система планет.</se>
+    <se lang="latin" variant_id="1">222. Ex quolibet puncto corporis luminosi ad quodlibet punctum radii exporriguntur, ergo lux non est materia ex corpore luminoso promanans; ex uno nimirum puncto solis repleri deberet lumine integrum sistema planetarium.</se>
+    <weight variant_id="1">0,380707</weight>
+  </para>
+  <para id="282">
+    <se lang="russian" variant_id="0">223. Что теплота состоит в движении корпускул собственной материи, очевидно из того, что корпускулы от большей степени теплоты отделяются друг от друга и даже рассеиваются.</se>
+    <se lang="latin" variant_id="1">223. Calorem consistere in motu corpusculorum materiae propriae inde patet, quod corpuscula per majorem gradum caloris dilabuntur imo dissipantur.</se>
+    <weight variant_id="1">0,403846</weight>
+  </para>
+  <para id="283">
+    <se lang="russian" variant_id="0">224. Из более гладких и круглых...</se>
+    <se lang="latin" variant_id="1">224. Illa autem ex levibus atque rotundis...</se>
+    <weight variant_id="1">0,641475</weight>
+  </para>
+  <para id="284">
+    <se lang="" variant_id="0">[должно] состоять то, что жидко и обладает текучим телом.</se>
+    <se lang="latin" variant_id="1">Esse magis fluido quae corpore liquida constant.</se>
+    <weight variant_id="1">0,251163</weight>
+  </para>
+  <para id="285">
+    <se lang="russian" variant_id="0">225. Купорос, слегка обожженный до белизны, восстанавливается от прибавления воды.</se>
+    <se lang="latin" variant_id="1">225. Vitriolum leviter ad albedinem calcinatum affusa aqua restituitur.</se>
+    <weight variant_id="1">0,553846</weight>
+  </para>
+  <para id="286">
+    <se lang="russian" variant_id="0">226. Чем тоньше тела, не обладающие сцеплением, напр. песок, тем больше они при высыпании воспроизводят жидкость.</se>
+    <se lang="latin" variant_id="1">226. Corpora incohaerentia effusa quo sunt subtiliora, e. g. arena, effusa liquores magis referunt.</se>
+    <weight variant_id="1">0,459091</weight>
+  </para>
+  <para id="287">
+    <se lang="russian" variant_id="0">227. Алебастр, или парижский гипс, весьма мелко истолченный и положенный в нагретый железный или медный сосуд с плоским дном, при увеличении силы огня будет подобно жидкости волноваться и закипит.</se>
+    <se lang="latin" variant_id="1">227. Alebastrum vel gypsum parisiense subtilissime contusum et vasi ferreo vel cupreo plani fundi calefacto immissum, aucto ignis gradu successive materia instar liquoris undulabit et effervescet.</se>
+    <weight variant_id="1">0,405817</weight>
+  </para>
+  <para id="288">
+    <se lang="russian" variant_id="0">16. Поэтому возможно, что жидкости состоят из твердых корпускул, приведенных в движение.</se>
+    <se lang="latin" variant_id="1">16. Ergo fieri potest quod fluida constent ex corpusculis solidis, in motum concitatis.</se>
+    <weight variant_id="1">0,522977</weight>
+  </para>
+  <para id="289">
+    <se lang="russian" variant_id="0">228. В фокусе зажигательного стекла яркость велика от сгущения.</se>
+    <se lang="latin" variant_id="1">228. Focus vitri caustici fortis est per appressionem.</se>
+    <weight variant_id="1">0,584354</weight>
+  </para>
+  <para id="290">
+    <se lang="russian" variant_id="0">Надо написать о том, каким образом лучи, вышедшие из светящегося тела, разрежаются, хотя все полно эфира; ведь в середине лучи остаются в неподвижности.</se>
+    <se lang="latin" variant_id="1">Scribendum de eo, quomodo radii a corpore luminoso progressi rarescant, licet sint omnia plena aethere, nimirum in medio radii immoti relinquuntur.</se>
+    <weight variant_id="1">0,292969</weight>
+  </para>
+  <para id="291">
+    <se lang="russian" variant_id="0">229. Более плотные соли, брошенные в воду, идут на дно, однако, растворившись, в конце концов поднимаются: не может быть, чтобы вода находилась в покое.</se>
+    <se lang="latin" variant_id="1">229. Sales solidiores aquae injecti fundum petunt, sed tandem soluti ascendunt, fieri nequit ut aqua quiesceret.</se>
+    <weight variant_id="1">0,379501</weight>
+  </para>
+  <para id="292">
+    <se lang="russian" variant_id="0">230. Приливание окрашенных жидкостей к воде некоторым образом являет глазу внутреннее движение. ~~~ Рой пчел, колышущиеся листья, колеблющийся колокол.</se>
+    <se lang="latin" variant_id="1">230. Confusio liquoris colorati cum aqua motum intestinum quodammodo ob oculos ponit, apum examen, folia agitata, campana undulans.</se>
+    <weight variant_id="1">0,063059</weight>
+  </para>
+  <para id="293">
+    <se lang="russian" variant_id="0">231. Равенство объема корпускул эфира должно выводиться из правильности отражения, ибо, если бы объемы были неравны, то одна, отразившись от удара о другую, производила бы смятение; надо алгебраически доказать, основываясь на этом. ~~~ Каждая точка видна из каждой другой точки.</se>
+    <se lang="latin" variant_id="1">231. Aetheris corpusculorum moles aequalis derivetur a regulari reflexione, etenim si inaequalia essent unum ad aliud allisum reflecteretur et confusionem pareret, per algebram demonstretur ex fundamento isto, omne punctum ab omni puncto videtur.</se>
+    <weight variant_id="1">0,0350585</weight>
+  </para>
+  <para id="294">
+    <se lang="russian" variant_id="0">232. Шарообразность корпускул подкрепляется также формой кристаллов и различным количеством воды, содержащейся в них.</se>
+    <se lang="latin" variant_id="1">232. Rotunditas corpusculorum adstruitur etiam per crystallorum figuram et diversam quantitatem aquae in illis contentae.</se>
+    <weight variant_id="1">0,491509</weight>
+  </para>
+  <para id="295">
+    <se lang="russian" variant_id="0">233. Если бы эфир был тонким воздухом, то отсюда следовало бы, что в пустоте цвета́ и свет слабее; затем эфир удельно тяжелее; затем тела в пустоте были бы менее прочными.</se>
+    <se lang="latin" variant_id="1">233. Si aether esset aër subtilis, tunc sequeretur, in vacuo colores esse et lumen debilius, item aether est gravior specifice, item corpora in vacuo essent minus firma.</se>
+    <weight variant_id="1">0,40506</weight>
+  </para>
+  <para id="296">
+    <se lang="russian" variant_id="0">234. Эфир — причина сцепления, так как, будучи приведен в движение, уничтожает сцепление.</se>
+    <se lang="latin" variant_id="1">234. Aether cohaesionis est causa, quia commotus cohaesionem tollit</se>
+    <weight variant_id="1">0,511475</weight>
+  </para>
+  <para id="297">
+    <se lang="russian" variant_id="0">235. Сцепление в положении относится к сцеплению в положении как 6 к 14, в отдельных корпускулах; следовательно, в их соединении оно будет гораздо больше, ибо растет в удвоенном отношении диаметров, т. е. для 5 корпускул воды и 5 корпускул льда будет, как ; отсюда явствует, почему жидкие тела в небольших количествах приближаются к твердым.</se>
+    <se lang="latin" variant_id="1">235. Cohaesio ex situ ad cohaesionem ex situ est ut 6 ad 14 in singulis corpusculis, ergo in agregatione erit multo major, nam ea crescit in ratione duplicate diametrorum, ergo in 5 corpusculis aquae ad 5 corpuscula glaciei erit ut . ~~~ Hinc patet cur corpora fluida in parva quantitate ad solida accedunt.</se>
+    <weight variant_id="1">0,0697802</weight>
+  </para>
+  <para id="298">
+    <se lang="russian" variant_id="0">236. Положение не предполагает центрального движения; предполагает.</se>
+    <se lang="latin" variant_id="1">236. Situs motum centralem non implicat, implicat.</se>
+    <weight variant_id="1">0,56413</weight>
+  </para>
+  <para id="299">
+    <se lang="russian" variant_id="0">237. Заблуждались бы математики, если бы, отбросив самые простые понятия, стали исследовать трудные; заблуждаются физики, когда пренебрегают тем, что дает повседневный опыт, и ставят изысканные и трудные опыты.</se>
+    <se lang="latin" variant_id="1">237. Errarent mathematici, si rejectis notionibus simplicissimis ardua inquirerent; errant Physici, dum iis, quae quotidiana experientia suggerit, neglectis, exquisita et operosa experimenta instituunt.</se>
+    <weight variant_id="1">0,420055</weight>
+  </para>
+  <para id="300">
+    <se lang="russian" variant_id="0">238. Что простых сущностей не может быть, усматривается из того, что если бы они были, то они при образовании тел либо касались бы друг друга, либо нет. ~~~ Если бы касались, то все сбегались бы в одну точку и не могли бы образовать протяженных тел.</se>
+    <se lang="latin" variant_id="1">238. Entia simplicia dari non posse inde perspicitur, quod si darentur, tum corpora constituendo vel se invicem contingerent vel non, si contingerent, tunc in unum punctum omnia concurrerent, neque corpora extensa constituere possent.</se>
+    <weight variant_id="1">-0,00147059</weight>
+  </para>
+  <para id="301">
+    <se lang="russian" variant_id="0">Если бы не соприкасались, то тела были бы сопроницаемы.</se>
+    <se lang="latin" variant_id="1">Si non contingerent, forent compenetrabilia.</se>
+    <weight variant_id="1">0,24878</weight>
+  </para>
+  <para id="302">
+    <se lang="russian" variant_id="0">Мир в зародыше.</se>
+    <se lang="latin" variant_id="1">Mundus in nuce.</se>
+    <weight variant_id="1">0,3</weight>
+  </para>
+  <para id="303">
+    <se lang="russian" variant_id="0">239. Твердым телом называется такое, части которого так сцеплены, что без насилия не получают границ и фигуры от каких-либо иных поверхностей, кроме тех, которые придает им их собственная связь.</se>
+    <se lang="latin" variant_id="1">239. Corpus solidum est cujus partes ita cohaerent ut sine violentia a nullis aliis superficiebus terminum et figuram accipiant, quam ab illis, quas ipsarum nexus illis conciliat.</se>
+    <weight variant_id="1">0,381982</weight>
+  </para>
+  <para id="304">
+    <se lang="russian" variant_id="0">240. Смежность расположения не есть единственная причина твердости: это опровергают взвешенные тела; также и величина — не единственная причина, так как иначе твердые тела не могли бы делаться жидкими; необходим покой.</se>
+    <se lang="latin" variant_id="1">240. Juxtapositio sola soliditatis causa non est, quod negant, corpora suspensa, magnitudo etiam sola non est causa: quippe alias corpora solida fluida reddi non possent, quies necessaria est.</se>
+    <weight variant_id="1">0,362131</weight>
+  </para>
+  <para id="305">
+    <se lang="russian" variant_id="0">241. В конце рассуждения о материи: все явления могут быть доказаны, исходя только из сферической формы, при различии в объеме и тяжести.</se>
+    <se lang="latin" variant_id="1">241. Ad finem dissertationis de materia: ex sola sphaerica figura, sed diversa mole et gravitate, omnia phaenomena demonstrari possunt.</se>
+    <weight variant_id="1">0,447458</weight>
+  </para>
+  <para id="306">
+    <se lang="russian" variant_id="0">242. Удельно легче корпускулы, которые состоят из большего количества тяжелой материи.</se>
+    <se lang="latin" variant_id="1">242. Corpuscula specifice leviora sunt, quae constant ex majore quantitate materiae gravis.</se>
+    <weight variant_id="1">0,534615</weight>
+  </para>
+  <para id="307">
+    <se lang="russian" variant_id="0">Но истинное мое мнение</se>
+    <se lang="latin" variant_id="1">Sed opinio mea vera est, quod gravitas</se>
+    <weight variant_id="1">0,105</weight>
+  </para>
+  <para id="308">
+    <se lang="russian" variant_id="0">243. Отчего приписывающие сцепление клею не спросят, по какой же причине сцепляются корпускулы клея?</se>
+    <se lang="latin" variant_id="1">243. Qui cohaesionem glutini adscribunt, cur non quaerunt, qua ratione glutinis corpuscula cohaereant.</se>
+    <weight variant_id="1">0,504173</weight>
+  </para>
+  <para id="309">
+    <se lang="russian" variant_id="0">244. Части неразрушимых корпускул никогда не расторгаются; следовательно нечего допытываться о причине их сцепления.</se>
+    <se lang="latin" variant_id="1">244. Corpusculorum indestructibilium partes nunquam divelluntur, ergo nec in rationem cohaesionis inquirendum.</se>
+    <weight variant_id="1">0,518888</weight>
+  </para>
+  <para id="310">
+    <se lang="russian" variant_id="0">245. Два куска полированного мрамора диаметром 12/3 смазанные маслом сладкого миндаля и сложенные полированными поверхностями, выдержат груз в 400 унций</se>
+    <se lang="latin" variant_id="1">245. Duo marmora polita diametri 12/3 oleo amigdalarum dulcium delibuta et conjuncta politis superficiebus, sustinebunt pondus 400 unciarum.</se>
+    <weight variant_id="1">2,22063</weight>
+  </para>
+  <para id="311">
+    <se lang="russian" variant_id="0">Величина сцепления в миндальном масле может быть определена: столб давящего воздуха известен, следовательно будет виден излишек, которым эфир сжимает куски мрамора.</se>
+    <se lang="latin" variant_id="1">Cohaesionis quantitas in amigdalarum assignari potest aëris columna premens datur, ergo patebit excessus quo aether marmora comprimit.</se>
+    <weight variant_id="1">0,254762</weight>
+  </para>
+  <para id="312">
+    <se lang="russian" variant_id="0">246. Изменение сцепления: сцепление нередко меняется от вхождения материи в поры или от удаления ее из пор.</se>
+    <se lang="latin" variant_id="1">246. Mutatio cohaesionis non raro mutatur per accessum materiae in poros vel per recessum.</se>
+    <weight variant_id="1">0,446835</weight>
+  </para>
+  <para id="313">
+    <se lang="russian" variant_id="0">247. Что жидкости состоят из твердых тел, показывают: ртуть, осажденная сама по себе, также ртуть, превращенная взбалтыванием в черный порошок, также растворы твердых тел и другие осадки ртути из растворителей.</se>
+    <se lang="latin" variant_id="1">247. Fluida ex solidis constare monstrat us per se, item per concussionem in pulverem nigrum redactus, item solutiones solidorum, et alia praecipitata ii ex menstruis.</se>
+    <weight variant_id="1">0,336764</weight>
+  </para>
+  <para id="314">
+    <se lang="russian" variant_id="0">248. Бойль намекает, что движение твердых тел бесконечно медленно.</se>
+    <se lang="latin" variant_id="1">248. Motum solidorum esse infinite lentum innuit Boyle.</se>
+    <weight variant_id="1">0,573333</weight>
+  </para>
+  <para id="315">
+    <se lang="russian" variant_id="0">Рассуждение о внутренних движениях покоящихся твердых тел, отд.</se>
+    <se lang="latin" variant_id="1">Dissertatio de intestinis motibus solidorum quiescentium, sect.</se>
+    <weight variant_id="1">0,294737</weight>
+  </para>
+  <para id="316">
+    <se lang="russian" variant_id="0">249. Что воздух удельно тяжелее эфира, видно из того, что воздух в эфире оседает.</se>
+    <se lang="latin" variant_id="1">249. Quod aër aethere sit specifice gravior, inde patet, quod aër in aethere subsidat.</se>
+    <weight variant_id="1">0,478571</weight>
+  </para>
+  <para id="317">
+    <se lang="russian" variant_id="0">250. Возрождение упругости воздуха усматривается при зажигании пороха: тут от зажигания воздух вырывается из пор.</se>
+    <se lang="latin" variant_id="1">250. Aëris vis elastica renata perspicitur ex incensione pulveris pyrii, ubi per incensionem aër ex poris erumpit.</se>
+    <weight variant_id="1">0,4845</weight>
+  </para>
+  <para id="318">
+    <se lang="russian" variant_id="0">251. Удельный вес воздуха именно в отдельных корпускулах надо показать рассеянием в порах, во-вторых, сжатием.</se>
+    <se lang="latin" variant_id="1">251. Aëris gravitas specifica nempe in singulis corpusculis demonstretur per dissipationem in poris, 2° per compressionem.</se>
+    <weight variant_id="1">0,453827</weight>
+  </para>
+  <para id="319">
+    <se lang="russian" variant_id="0">252. Уподобления не доказывают, а лишь объясняют доказанное.</se>
+    <se lang="latin" variant_id="1">252. Similia non demonstrant, sed solum demonstrate explicant.</se>
+    <weight variant_id="1">0,622424</weight>
+  </para>
+  <para id="320">
+    <se lang="russian" variant_id="0">253. Движение стрелки в часах действительно происходит, однако, незаметно.</se>
+    <se lang="latin" variant_id="1">253. Motus indicis in horologio revera est, tamen non sentitur.</se>
+    <weight variant_id="1">0,535714</weight>
+  </para>
+  <para id="321">
+    <se lang="russian" variant_id="0">254. Древесина туи применяется токарями для точения не раньше, чем через 20 лет, иначе она хрупка и негодна в дело.</se>
+    <se lang="latin" variant_id="1">254. Lignum vitae ad tornandum a toreutis adhibetur non prius quam post annos 20, alias est fragile et ad opus ineptum.</se>
+    <weight variant_id="1">0,433673</weight>
+  </para>
+  <para id="322">
+    <se lang="russian" variant_id="0">255. Весьма многие считают цвета самостоятельными составными частями, но ошибаются: они, конечно, заимствуют это от ремесла красильщиков, но и самые краски меняют цвет.</se>
+    <se lang="latin" variant_id="1">255. Complurimi arbitrantur colores esse miscibilia singularia, sed falluntur, abstrahunt nimirum a tinctorum arte, at tincturae ipsae colores mutant.</se>
+    <weight variant_id="1">0,418657</weight>
+  </para>
+  <para id="323">
+    <se lang="russian" variant_id="0">257. Цвета не являются истечениями, исходящими из тел, ибо в потемках никакие цвета не видны, следовательно, они зависят от света или от эфира.</se>
+    <se lang="latin" variant_id="1">257. Colores non sunt effluvia e corporibus emanantia, nam in tenebris nulli colores conspiciuntur, sequitur eos a luce sive aethere dependere.</se>
+    <weight variant_id="1">0,431486</weight>
+  </para>
+  <para id="324">
+    <se lang="russian" variant_id="0">258. Когда звучит большой колокол, то чувство зрения не воспринимает никакого движения, а наощупь оно ощущается и причиняет боль руке; также и раскаленное железо; боль и движение в этих двух случаях различны.</se>
+    <se lang="latin" variant_id="1">258. Dum campana magna sonat, nullus quidem oculorum sensu motus percipitur, tactu tamen sentitur, et manui dolorem imprimit, sic et ferrum candens, dolor utriusque et motus diversus.</se>
+    <weight variant_id="1">0,369407</weight>
+  </para>
+  <para id="325">
+    <se lang="russian" variant_id="0">259. Тяготительная материя прижимает тела к земле чрез совмещение; элементы же различны, следовательно различна и материя.</se>
+    <se lang="latin" variant_id="1">259. Materia gravifica premit ad tellurem corpora per congruentiam, principia vero diversa sunt, ergo et materia.</se>
+    <weight variant_id="1">0,449471</weight>
+  </para>
+  <para id="326">
+    <se lang="russian" variant_id="0">260. Колебание эфира дает свет, а не звук; колебание воздуха дает звук, а не свет.</se>
+    <se lang="latin" variant_id="1">260. Per vibrationem aetheris prodit lux non sonus, per vibrationem aëris prodit sonus non lux.</se>
+    <weight variant_id="1">0,431786</weight>
+  </para>
+  <para id="327">
+    <se lang="russian" variant_id="0">261. Αιυήρ происходит от слова αιυω; греческая этимология соответствует существу вещи, ибо этот глагол обозначает „сжигаю“ и „сверкаю“.</se>
+    <se lang="latin" variant_id="1">261. Αιθήρ provenit a verbo αιθω, graeca derivatio, convenit cum re, nam hoc verbum significat uro et fulgeo.</se>
+    <weight variant_id="1">0,374916</weight>
+  </para>
+  <para id="328">
+    <se lang="russian" variant_id="0">262. Тела зажигаются при помощи ледяных чечевиц; следовательно теплота образуется не из материи, выходящей из солнца, но путем сгущения и собирания центрального движения в одну точку, ибо лучи со льдом не совмещаются, как вода, и, следовательно, не замедляются в движении.</se>
+    <se lang="latin" variant_id="1">262. Lentibus glacialibus corpora aduruntur itaque calor non consistit ex materia ex sole exeunte, sed per oppressionem et communicationem motus centralis in uno puncto, nam radii cum glacie ut aqua non congruunt, ideoque a motu non retardantur.</se>
+    <weight variant_id="1">0,344824</weight>
+  </para>
+  <para id="329">
+    <se lang="russian" variant_id="0">263. Даже маленькие тельца, видимые только в микроскопы, рассеивают лучи во все стороны; следовательно, видимость из каждой точки не зависит от большей шероховатости, но от круглости корпускул.</se>
+    <se lang="latin" variant_id="1">263. Etiam exigua corpuscula per sola microscopia spectabilia radios quaqua versum spargunt, ergo visibilitas ex omni puncto non dependet a grossiore scabritie, sed a rotunditate corpusculorum.</se>
+    <weight variant_id="1">0,409336</weight>
+  </para>
+  <para id="330">
+    <se lang="russian" variant_id="0">264. В начале надо сказать о белизне и черноте.</se>
+    <se lang="latin" variant_id="1">264. Initio agendum de albedine et nigredine.</se>
+    <weight variant_id="1">0,675</weight>
+  </para>
+  <para id="331">
+    <se lang="russian" variant_id="0">265. Корпускулы в живых и мертвых животных двигаются, в растениях живых и мертвых двигаются, также в минералах или неорганических телах, — следовательно во всем.</se>
+    <se lang="latin" variant_id="1">265. Corpuscula in animalibus vivis et mortuis moventur, in vegetabilibus vivis et mortuis moventur, in mineralibus sive in inorganicis, ergo in omnibus.</se>
+    <weight variant_id="1">0,417002</weight>
+  </para>
+  <para id="332">
+    <se lang="russian" variant_id="0">266. Я прошу либо принять, если это правильно, без односторонних пристрастий, ибо почетнее признать правильные чужие положения, чем поддерживать свои ложные.</se>
+    <se lang="latin" variant_id="1">266. Peto vel accipere si vera sunt sine partium studio, nam plus honoris est aliena vera agnoscere, quam sua falsa tueri.</se>
+    <weight variant_id="1">0,335402</weight>
+  </para>
+  <para id="333">
+    <se lang="russian" variant_id="0">267. Мои расчлененные доказательства легко приводятся в надлежащую форму, остальное я предлагаю в пояснениях.</se>
+    <se lang="latin" variant_id="1">267. Demonstrationes meae resolutae ad formam reducuntur facile, reliqua in scholiis propono.</se>
+    <weight variant_id="1">0,480769</weight>
+  </para>
+  <para id="334">
+    <se lang="russian" variant_id="0">268. Кислоты в замкнутом тигле.</se>
+    <se lang="latin" variant_id="1">268. Acida inclusa cruciate.</se>
+    <weight variant_id="1">0,855556</weight>
+  </para>
+  <para id="335">
+    <se lang="russian" variant_id="0">269. Дальнейшее предоставляю для рассмотрения физикам.</se>
+    <se lang="latin" variant_id="1">269. Ulteriora physicis relinquo examinanda.</se>
+    <weight variant_id="1">0,735714</weight>
+  </para>
+  <para id="336">
+    <se lang="russian" variant_id="0">270. В конце надо обещать трактат о началах.</se>
+    <se lang="latin" variant_id="1">270. In fine promittendus tractatus de principiis.</se>
+    <weight variant_id="1">0,621154</weight>
+  </para>
+  <para id="337">
+    <se lang="russian" variant_id="0">271. О сцеплении делимых корпускул надо судить, как об ускоренном, вечном, производном движении.</se>
+    <se lang="latin" variant_id="1">271. De cohaesione corpusculorum divisibilium judicandum ut de motu accelerato, aeterno, derivativo.</se>
+    <weight variant_id="1">0,513327</weight>
+  </para>
+  <para id="338">
+    <se lang="russian" variant_id="0">272. С неудержимой болтливостью они станут предлагать схоластические доводы.</se>
+    <se lang="latin" variant_id="1">272. Explosa loquacitate scholastica argumenta proponent.</se>
+    <weight variant_id="1">0,639683</weight>
+  </para>
+  <para id="339">
+    <se lang="russian" variant_id="0">273. Сквозь прозрачное тело лучи проникают почти из 180 градусов; следовательно свет не есть материя, изливающаяся из тел. Напротив, в выпуклом зеркале изображаются объекты из 180° в небольшом пространстве, что, следовательно, заставляет считать свет материей, истекающей из солнца.</se>
+    <se lang="latin" variant_id="1">273. Per corpus pellucidum radii penetrant fere ex 180 grad., ergo lux non est materia ex corporibus effluens, imo in speculo convexo repraesentantur objecta ex 180° in spacio exiguo, ergo implicat lucem esse materiam ex sole effluentem.</se>
+    <weight variant_id="1">1,92558</weight>
+  </para>
+  <para id="340">
+    <se lang="russian" variant_id="0">Мало того, и отражение в противоположном направлении и в стороны — перпендикулярно к прямому лучу, идущему от светящегося тела, — говорит за это, ибо луч, отраженный под прямым углом, был бы изогнутым, так как материя действует на подобную ей, и было бы ложным местоположение луны и планет.</se>
+    <se lang="latin" variant_id="1">Imo etiam, reflexio in contrarium et ad latera perpendiculariter radio directo a corpore luminoso procedente id implicat. Nam radius ad angulum rectum reflexus foret curvus: quia materia similis in similem agit, falsus foret locus lunae et planetarum.</se>
+    <weight variant_id="1">-0,0621622</weight>
+  </para>
+  <para id="341">
+    <se lang="russian" variant_id="0">274. Надо посмотреть, что я сам писал об этого роде материях в мелких диссертациях, а затем [посмотреть] во французских физических книгах, которые у меня есть.</se>
+    <se lang="latin" variant_id="1">274. Videnda sunt, quae de hujus modi materiis ipse scripsi in dissertatiunculis, tum in Gallicis libris physicis quos possideo.</se>
+    <weight variant_id="1">0,383036</weight>
+  </para>
+  <para id="342">
+    <se lang="russian" variant_id="0">275. Как мы можем видеть делимость на опыте и на основании рассуждения; сравнить делимость у воды и купоросного масла; как освободить его от воды.</se>
+    <se lang="latin" variant_id="1">275. Quomodo ratione ex experientia videre possumus divisibilitatem, comparetur, aquae et vitrioli, et quomodo ab aqua liberari possit.</se>
+    <weight variant_id="1">0,445395</weight>
+  </para>
+  <para id="343">
+    <se lang="russian" variant_id="0">276. Органические части.</se>
+    <se lang="latin" variant_id="1">276. Partes organicae.</se>
+    <weight variant_id="1">1,02273</weight>
+  </para>
+  <para id="344">
+    <se lang="russian" variant_id="0">Предисловие.</se>
+    <se lang="latin" variant_id="1">Generales.</se>
+    <weight variant_id="1">0,245455</weight>
+  </para>
+  <para id="345">
+    <se lang="russian" variant_id="0">Природа держится своих законов самым крепким образом даже в малейшем, чем мы пренебрегаем.</se>
+    <se lang="latin" variant_id="1">Natura legum suarum tenacissima etiam in minimis, quae nos negligimus.</se>
+    <weight variant_id="1">1,03544</weight>
+  </para>
+  <para id="346">
+    <se lang="russian" variant_id="0">Примеры — о свете.</se>
+    <se lang="latin" variant_id="1">Exempla de luce.</se>
+    <weight variant_id="1">0,28</weight>
+  </para>
+  <para id="347">
+    <se lang="russian" variant_id="0">Малейшее не должно причисляться к чудесам.</se>
+    <se lang="latin" variant_id="1">Minima miraculis adscribenda non sunt.</se>
+    <weight variant_id="1">0,274286</weight>
+  </para>
+  <para id="348">
+    <se lang="russian" variant_id="0">и механизм.</se>
+    <se lang="latin" variant_id="1">et mechanismus.</se>
+    <weight variant_id="1">0,190909</weight>
+  </para>
+  <para id="349">
+    <se lang="russian" variant_id="0">Так как корпускулы или монады неизменны, то от внутренней их силы не может произойти никакого ощутимого явления, поэтому они действуют, как тела в их общем понятии и согласно законам природы.</se>
+    <se lang="latin" variant_id="1">Corpuscula sive monades quoniam sunt immutabiles ergo ab intrinsecus earum vi nullum phaenomenon sensibile produci potest, consequenter agunt ut corpora sola idea generali et secundum leges naturae.</se>
+    <weight variant_id="1">1,3338</weight>
+  </para>
+  <para id="350">
+    <se lang="russian" variant_id="0">117. Здесь надо доказать, что явления происходят механически, и качества.</se>
+    <se lang="latin" variant_id="1">117. Hic demonstrand. phaenomena mechanice fieri, et qualitates.</se>
+    <weight variant_id="1">0,59774</weight>
+  </para>
+  <para id="351">
+    <se lang="russian" variant_id="0">Надо смотреть...</se>
+    <se lang="latin" variant_id="1">Videatur...</se>
+    <weight variant_id="1">2,73232</weight>
+  </para>
+  <para id="352">
+    <se lang="russian" variant_id="0">Форма.</se>
+    <se lang="latin" variant_id="1">Figura.</se>
+    <weight variant_id="1">0,257143</weight>
+  </para>
+  <para id="353">
+    <se lang="russian" variant_id="0">Разница объема.</se>
+    <se lang="latin" variant_id="1">Molis differentia.</se>
+    <weight variant_id="1">0,24</weight>
+  </para>
+  <para id="354">
+    <se lang="russian" variant_id="0">И разница тяжести.</se>
+    <se lang="latin" variant_id="1">Et gravitatis differentia.</se>
+    <weight variant_id="1">1,21111</weight>
+  </para>
+  <para id="355">
+    <se lang="russian" variant_id="0">Так как корпускулы движутся, то им надо приписать центробежную силу скорее, чем притягательную.</se>
+    <se lang="latin" variant_id="1">Quoniam corpuscula moventur adscribi igitur debet illis vis centrifuga quam attractrix.</se>
+    <weight variant_id="1">0,914153</weight>
+  </para>
+  <para id="356">
+    <se lang="russian" variant_id="0">Совмещение.</se>
+    <se lang="latin" variant_id="1">Congruentia.</se>
+    <weight variant_id="1">0,275</weight>
+  </para>
+  <para id="357">
+    <se lang="russian" variant_id="0">Теплоту чувствуем от совмещения.</se>
+    <se lang="latin" variant_id="1">Calorem sentimus per congruentiam.</se>
+    <weight variant_id="1">2,49117</weight>
+  </para>
+  <para id="358">
+    <se lang="russian" variant_id="0">Скорость центрального движения.</se>
+    <se lang="latin" variant_id="1">Celeritas motus centralis.</se>
+    <weight variant_id="1">0,24</weight>
+  </para>
+  <para id="359">
+    <se lang="russian" variant_id="0">Общие правила смешения и происшедшие от них изменения форм.</se>
+    <se lang="latin" variant_id="1">mixtionis regulae generales et inde profectae mutationes formarum.</se>
+    <weight variant_id="1">-0,0163636</weight>
+  </para>
+  <para id="360">
+    <se lang="" variant_id="0"></se>
+    <se lang="" variant_id="1"></se>
+    <weight variant_id="1">16,8</weight>
+  </para>
+  <para id="361">
+    <se lang="russian" variant_id="0">Существует жидкая материя, через которую распространяется теплота и свет от солнца и других светил.</se>
+    <se lang="latin" variant_id="1">Datur materia fluida per quam propagatur calor et lux a sole et aliis corporibus luminosis.</se>
+    <weight variant_id="1">0,265385</weight>
+  </para>
+  <para id="362">
+    <se lang="russian" variant_id="0">Никто не сомневается, что ветер — тело, так как производит давление, хотя он ветра и не видит.</se>
+    <se lang="latin" variant_id="1">Nemo dubitat ventum esse corpus quia pulsat et si non videt.</se>
+    <weight variant_id="1">0,135294</weight>
+  </para>
+  <para id="363">
+    <se lang="russian" variant_id="0">Никто, получив ночью удар палкою, не будет отрицать, что его ударило тело, хотя он палки не видит: одно чувство служит указанием для другого.</se>
+    <se lang="latin" variant_id="1">Nemo negaret baculo noctu percussus se corpore percussum fuisse licet baculum non videt, unus sensus alterius est documentum.</se>
+    <weight variant_id="1">0,269725</weight>
+  </para>
+  <para id="364">
+    <se lang="russian" variant_id="0">Материя эта отличается от воздуха.</se>
+    <se lang="latin" variant_id="1">Materia illa differt ab aëre.</se>
+    <weight variant_id="1">0,242308</weight>
+  </para>
+  <para id="365">
+    <se lang="russian" variant_id="0">Отличается от тяготительной материи.</se>
+    <se lang="latin" variant_id="1">differt a materia gravifica.</se>
+    <weight variant_id="1">0,207692</weight>
+  </para>
+  <para id="366">
+    <se lang="russian" variant_id="0">Корпускулы земли и воды весьма легкие.</se>
+    <se lang="latin" variant_id="1">Corpuscula terrae et aquae sunt levissima.</se>
+    <weight variant_id="1">0,264706</weight>
+  </para>
+  <para id="367">
+    <se lang="russian" variant_id="0">Распространение того и другого происходит движением.</se>
+    <se lang="latin" variant_id="1">Propagatio utriusque fit per motum.</se>
+    <weight variant_id="1">0,15</weight>
+  </para>
+  <para id="368">
+    <se lang="russian" variant_id="0">6. Теплота распространяется центральным ее движением.</se>
+    <se lang="latin" variant_id="1">6. Calor propagatur per motum ejus centralem.</se>
+    <weight variant_id="1">0,662718</weight>
+  </para>
+  <para id="369">
+    <se lang="russian" variant_id="0">Когда будет речь о прозрачных телах, надо сказать о том, почему прошедшие насквозь лучи затемняют отраженные, ибо когда мы смотрим через стекло, то едва видим свое изображение, а вещи, рассматриваемые через стекло, видим яснее; очевидно падающие лучи сообщают свою скорость стеклу и сами возвращаются замедленными.</se>
+    <se lang="latin" variant_id="1">Ubi de transparentibus sermo erit, dicendum est de eo qua ratione radii transmissi obfuscant reflexos, nam ubi per vitrum intuemus imaginem nostram vix videmus, res, quae per vitrum spectantur, clarius videntur, nimirum: radii incidentes celeritatem communicant suam vitro ipsi vero tardius redeunt.</se>
+    <weight variant_id="1">0,2861</weight>
+  </para>
+  <para id="370">
+    <se lang="russian" variant_id="0">7. Свет от колебательного [движения].</se>
+    <se lang="latin" variant_id="1">7. Lux per oscillatorium.</se>
+    <weight variant_id="1">0,7625</weight>
+  </para>
+  <para id="371">
+    <se lang="russian" variant_id="0">8. Каким образом свет усиливается и уменьшается, также и теплота.</se>
+    <se lang="latin" variant_id="1">8. Qua ratione lux augetur et minuitur, item et calor.</se>
+    <weight variant_id="1">0,502515</weight>
+  </para>
+  <para id="372">
+    <se lang="russian" variant_id="0">9. О белизне и черноте.</se>
+    <se lang="latin" variant_id="1">9. De albedine et nigredine.</se>
+    <weight variant_id="1">0,728571</weight>
+  </para>
+  <para id="373">
+    <se lang="russian" variant_id="0">О цветах.</se>
+    <se lang="latin" variant_id="1">De coloribus.</se>
+    <weight variant_id="1">0,166667</weight>
+  </para>
+  <para id="374">
+    <se lang="russian" variant_id="0">О сцеплении и тяжести эфира.</se>
+    <se lang="latin" variant_id="1">De cohaesione et gravitate aetheris.</se>
+    <weight variant_id="1">0,204</weight>
+  </para>
+  <para id="375">
+    <se lang="russian" variant_id="0">Общие законы воздуха для показания нижеследующего.</se>
+    <se lang="latin" variant_id="1">Leges aëris generales ad sequentia demonstranda.</se>
+    <weight variant_id="1">0,286364</weight>
+  </para>
+  <para id="376">
+    <se lang="russian" variant_id="0">Воздух при сильном толчке поднимает даже песок и поддерживает его.</se>
+    <se lang="latin" variant_id="1">Aër vehementius concussus rapit etiam arenam et sustinet.</se>
+    <weight variant_id="1">0,258824</weight>
+  </para>
+  <para id="377">
+    <se lang="russian" variant_id="0">Очень маленькие частицы воздуха, напр., диаметром 1/100 линии, поддерживают столб воздуха, весящий N/N. Возрожденная упругость воздуха.</se>
+    <se lang="latin" variant_id="1">Aëris particulae minimae e. g. diam. ~~~ 1/100 lin. sustinent columnam aëris N/N gravem, vis aëris elastica renata.</se>
+    <weight variant_id="1">-0,00653846</weight>
+  </para>
+  <para id="378">
+    <se lang="russian" variant_id="0">Летняя плотность воздуха поддерживает пары, а зимою не поддерживает.</se>
+    <se lang="latin" variant_id="1">Densitas aëris aestiva sustinet vapores quae hieme non sustinet.</se>
+    <weight variant_id="1">0,278947</weight>
+  </para>
+  <para id="379">
+    <se lang="russian" variant_id="0">О форме.</se>
+    <se lang="latin" variant_id="1">De figura.</se>
+    <weight variant_id="1">0,225</weight>
+  </para>
+  <para id="380">
+    <se lang="russian" variant_id="0">Почему нерасплавленные металлы плавают на расплавленных.</se>
+    <se lang="latin" variant_id="1">Cur fusis metallis innatent non fusa.</se>
+    <weight variant_id="1">0,127273</weight>
+  </para>
+  <para id="381">
+    <se lang="russian" variant_id="0">О движении и совмещении.</se>
+    <se lang="latin" variant_id="1">De motu, et congruentia.</se>
+    <weight variant_id="1">0,3</weight>
+  </para>
+  <para id="382">
+    <se lang="russian" variant_id="0">Надо доказать, что может быть внесено в поры тел с жидкостями и т. д.</se>
+    <se lang="latin" variant_id="1">Demonstrandum quod cum liquoribus in poros corporum invehi possit etc.</se>
+    <weight variant_id="1">0,273684</weight>
+  </para>
+  <para id="383">
+    <se lang="russian" variant_id="0">Тот же вопрос остается в 109.</se>
+    <se lang="latin" variant_id="1">Eadem manet in 109 quaestio.</se>
+    <weight variant_id="1">0,3</weight>
+  </para>
+  <para id="384">
+    <se lang="russian" variant_id="0">Об упругости.</se>
+    <se lang="latin" variant_id="1">De gravitate.</se>
+    <weight variant_id="1">0,3</weight>
+  </para>
+  <para id="385">
+    <se lang="russian" variant_id="0">И упругость небольшого количества пороха.</se>
+    <se lang="latin" variant_id="1">Unde mirum non est quod in aethere subsidat.</se>
+    <weight variant_id="1">0,3</weight>
+  </para>
+  <para id="386">
+    <se lang="russian" variant_id="0">Подтверждается объяснениями явлений, как</se>
+    <se lang="latin" variant_id="1">Confirmatur per explicationem phaenomenorum ut</se>
+    <weight variant_id="1">1,34605</weight>
+  </para>
+  <para id="387">
+    <se lang="russian" variant_id="0">О механизме смотри Бургаве, Медицинские наставления, стр. 13; Вольфа, Механику, § 745.</se>
+    <se lang="latin" variant_id="1">De mechanismo vide Boerhaave, Institutiones medicae, p. 13. Wolf, Mech., § 745. </se>
+    <weight variant_id="1">0,288</weight>
+  </para>
+  <para id="388">
+    <se lang="russian" variant_id="0">И на земле и в море я искал бы противопоказаний, следуя предписанию Вольфа.</se>
+    <se lang="latin" variant_id="1">Terra marique quaesiverim contraria, secutus Wolfii praescriptum.</se>
+    <weight variant_id="1">0,731909</weight>
+  </para>
+  <para id="389">
+    <se lang="russian" variant_id="0">О теплоте и холоде.</se>
+    <se lang="latin" variant_id="1">De calore et frigore.</se>
+    <weight variant_id="1">0,264706</weight>
+  </para>
+  <para id="390">
+    <se lang="russian" variant_id="0">Об упругости воздуха.</se>
+    <se lang="latin" variant_id="1">De elatere aëris.</se>
+    <weight variant_id="1">0,225</weight>
+  </para>
+  <para id="391">
+    <se lang="russian" variant_id="0">Об окрашенных телах.</se>
+    <se lang="latin" variant_id="1">De corporibus coloratis.</se>
+    <weight variant_id="1">0,236842</weight>
+  </para>
+  <para id="392">
+    <se lang="russian" variant_id="0">О действии растворителей.</se>
+    <se lang="latin" variant_id="1">De actione menstruorum.</se>
+    <weight variant_id="1">0,272727</weight>
+  </para>
+  <para id="393">
+    <se lang="russian" variant_id="0">О движении воздуха в рудниках.</se>
+    <se lang="latin" variant_id="1">De motu aëris in fodinis.</se>
+    <weight variant_id="1">0,231818</weight>
+  </para>
+  <para id="394">
+    <se lang="russian" variant_id="0">Размышление о теплоте.</se>
+    <se lang="latin" variant_id="1">Med[itatio] de calore.</se>
+    <weight variant_id="1">0,3</weight>
+  </para>
+  <para id="395">
+    <se lang="russian" variant_id="0">О движении воздуха в рудниках.</se>
+    <se lang="latin" variant_id="1">De motu aëris in f[odinis].</se>
+    <weight variant_id="1">0,2625</weight>
+  </para>
+  <para id="396">
+    <se lang="russian" variant_id="0">Об упругости воздуха.</se>
+    <se lang="latin" variant_id="1">De vi aëris elastica.</se>
+    <weight variant_id="1">0,284211</weight>
+  </para>
+  <para id="397">
+    <se lang="russian" variant_id="0">Об определении степени тепла.</se>
+    <se lang="latin" variant_id="1">De gradibus caloris deter[minandis].</se>
+    <weight variant_id="1">0,222222</weight>
+  </para>
+  <para id="398">
+    <se lang="russian" variant_id="0">О растворении металлов и солей вообще.</se>
+    <se lang="latin" variant_id="1">De solutione mettallorum et salium in g[ene]re.</se>
+    <weight variant_id="1">0,229412</weight>
+  </para>
+  <para id="399">
+    <se lang="russian" variant_id="0">6) Конструкция анемометра.</se>
+    <se lang="latin" variant_id="1">6) Constructio anemometri.</se>
+    <weight variant_id="1">1,05</weight>
+  </para>
+  <para id="400">
+    <se lang="russian" variant_id="0">7) О движениях земли, порождающих металлы.</se>
+    <se lang="latin" variant_id="1">7) De terrae motibus metalla parturientibus.</se>
+    <weight variant_id="1">0,712782</weight>
+  </para>
+</body>
+</html>

@@ -1,0 +1,312 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html>
+<head>
+</head>
+<body>
+  <para id="0">
+    <se lang="russian" variant_id="0">Опыт</se>
+    <se lang="latin" variant_id="1">Exper.</se>
+    <weight variant_id="1">0,18</weight>
+  </para>
+  <para id="1">
+    <se lang="russian" variant_id="0">Тяжелые тела, падая с возвышенного места, проходят в течение одной секунды 15½ рейнских футов, двух секунд — 62 рейнских фута, трех секунд — 139½, четырех секунд 248, пяти секунд — 387½</se>
+    <se lang="latin" variant_id="1">Corpora gravia quando de loco editiore decidunt tempore unius minuti secundi perlabuntuur 15½ pedes Rhenanos, duobus minutis secundis 62 ped[es] rhen[anos], tribus minutis secund[is] 139½, quatuor minutis sec[undis] 248, quinque min[utis] sec[undis] 387½</se>
+    <weight variant_id="1">1,3746</weight>
+  </para>
+  <para id="2">
+    <se lang="russian" variant_id="0">Присовокупление I</se>
+    <se lang="latin" variant_id="1">Coroll. ~~~ 1</se>
+    <weight variant_id="1">-0,0818182</weight>
+  </para>
+  <para id="3">
+    <se lang="russian" variant_id="0">Итак, тяжелые тела, несущиеся к центру земли, испытывают непрерывное ускорение движения, т. е. постоянно побуждаются к новому движению.</se>
+    <se lang="latin" variant_id="1">Corpora igitur gravia dum ad telluris centrum feruntur in motu continue accelerantur adeoque continuo in novum motum impelluntur.</se>
+    <weight variant_id="1">0,284071</weight>
+  </para>
+  <para id="4">
+    <se lang="russian" variant_id="0">Положение</se>
+    <se lang="latin" variant_id="1">Theorema</se>
+    <weight variant_id="1">0,266667</weight>
+  </para>
+  <para id="5">
+    <se lang="russian" variant_id="0">Так как никакое движение не может быть возбуждено в теле иначе, как если его толкает другое движущееся тело (§ ), то, следовательно, тяжелые тела, испытывая ускорение движения, получают приращение нового движения от какого-то толкающего их тела, которое само постоянно находится в движении.</se>
+    <se lang="latin" variant_id="1">Quoniam nullus motus in corpore excitari p[otes]t nisi ab alio corpore moto impellatur (§ ), corpora igitur gravia dum in motu accelerantur augmentum motus novi recipiunt ab aliquo corpore impellente, quo[d] ipsum est continuo in motu constitutum. ~~~</se>
+    <weight variant_id="1">0,0520606</weight>
+  </para>
+  <para id="6">
+    <se lang="russian" variant_id="0">NB Тяжесть покоящегося тела есть не что иное, как задержанное движение.</se>
+    <se lang="latin" variant_id="1">NB. Gravitas corporis quiescentis nil aliud e[st] quam motus impeditus.</se>
+    <weight variant_id="1">0,29</weight>
+  </para>
+  <para id="7">
+    <se lang="russian" variant_id="0">А так как стремление тяжелого тела к центру земли есть не что иное, как тяжесть, равно как и приращение движения тяжелого тела, устремляющегося к центру земли, то нет никакого сомнения, что они происходят от одной и той же причины.</se>
+    <se lang="latin" variant_id="1">Cum vero nisus corporis gravis versus centrum telluris est non aliud quam gravitas, pariter ac incrementum motus corporis gravis ad centrum telluris tendentis, nullum ergo dubium est quin ab [e]ad[e]m causa proficiscantur.</se>
+    <weight variant_id="1">0,296875</weight>
+  </para>
+  <para id="8">
+    <se lang="russian" variant_id="0">Следовательно, достаточное основание тяжести состоит в движении некоего тела, непрерывно толкающего тяжелые тела к центру земли.</se>
+    <se lang="latin" variant_id="1">Consequenter gravitatis ratio sufficiens consistit in motu corporis alicujus gravis versus centrum telluris continuo impellentis.</se>
+    <weight variant_id="1">0,294737</weight>
+  </para>
+  <para id="9">
+    <se lang="russian" variant_id="0">Иначе</se>
+    <se lang="latin" variant_id="1">Aliter</se>
+    <weight variant_id="1">0,25</weight>
+  </para>
+  <para id="10">
+    <se lang="russian" variant_id="0">Так как в центре земли тяжесть покоится, то она не есть вечное движение.</se>
+    <se lang="latin" variant_id="1">Quod in centro telluris quies[cit?] gravitas, n[on] e[st] motus aeternus.</se>
+    <weight variant_id="1">0,280328</weight>
+  </para>
+  <para id="11">
+    <se lang="russian" variant_id="0">Следовательно, она имеет достаточное основание в другом теле.</se>
+    <se lang="latin" variant_id="1">Consequen[ter] rationem sufficientem h[abe]t in alio c[orpo]re.</se>
+    <weight variant_id="1">0,283636</weight>
+  </para>
+  <para id="12">
+    <se lang="russian" variant_id="0">NB. Здесь [показать], что существуют... движением поднимаемые вверх.</se>
+    <se lang="latin" variant_id="1">NB. Hic et dari per motum sursum tollenda.</se>
+    <weight variant_id="1">0,0636364</weight>
+  </para>
+  <para id="13">
+    <se lang="russian" variant_id="0">Пояснение</se>
+    <se lang="latin" variant_id="1">Scholion</se>
+    <weight variant_id="1">0,266667</weight>
+  </para>
+  <para id="14">
+    <se lang="russian" variant_id="0">Тяжесть есть движение, следовательно, она есть частное качество.</se>
+    <se lang="latin" variant_id="1">Gravitas est motus, ergo est qualitas particularis.</se>
+    <weight variant_id="1">0,221739</weight>
+  </para>
+  <para id="15">
+    <se lang="russian" variant_id="0">Присовокупление</se>
+    <se lang="latin" variant_id="1">Corollarium</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="16">
+    <se lang="russian" variant_id="0">Так как тело, толкающее тяжелые тела к центру земли, недоступно чувствам, то оно есть тончайшая жидкость.</se>
+    <se lang="latin" variant_id="1">Quoniam corpus quo corpora gravia versus centrum telluris impelluntur sensibus obvium non est, igitur est fluidum subtilissimum.</se>
+    <weight variant_id="1">0,227473</weight>
+  </para>
+  <para id="17">
+    <se lang="russian" variant_id="0">Пояснение</se>
+    <se lang="latin" variant_id="1">Scholion</se>
+    <weight variant_id="1">0,266667</weight>
+  </para>
+  <para id="18">
+    <se lang="russian" variant_id="0">Это жидкое тело мы будем называть тяготительной жидкостью. ~~~ Так как его существование постигается рассуждением, то оно ему не противоречит, хотя его тонкость превосходит силы воображения.</se>
+    <se lang="latin" variant_id="1">Hoc corpus fluidum vocabimus fluidum gravificum, cujus existentia quoniam per rationem evincitur, illi igitur non refragatur, licet ejus subtilitas vires imaginationis superet.</se>
+    <weight variant_id="1">-0,00865385</weight>
+  </para>
+  <para id="19">
+    <se lang="russian" variant_id="0">Присовокупление</se>
+    <se lang="latin" variant_id="1">Corollarium</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="20">
+    <se lang="russian" variant_id="0">Так как повсюду, куда может проникнуть человеческая деятельность, тяжесть тел оказывается постоянной, то отсюда следует, что тяготительная жидкость присутствует везде.</se>
+    <se lang="latin" variant_id="1">Quoniam ubi[cun]que [h]ominum industriae pertingere datur gravitas corporum constans deprehenditur, igitur fluidum gravificum ubique praesens esse sequitur.</se>
+    <weight variant_id="1">0,282979</weight>
+  </para>
+  <para id="21">
+    <se lang="russian" variant_id="0">Присовокупление</se>
+    <se lang="latin" variant_id="1">Coroll.</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="22">
+    <se lang="russian" variant_id="0">Так как у тела, остающегося в одном и том же состоянии, тяжесть не меняется, т. е. не увеличивается и не уменьшается, то, следовательно, тяготительная материя всегда действует на тела с одной и той же силой.</se>
+    <se lang="latin" variant_id="1">Quoniam corpore eodem in statu permanente gravitas non mutatur, hoc e[st] nec augetur n[e]c minuitur, igitur materia gravifica eadem vi in corpora semper agit.</se>
+    <weight variant_id="1">0,218978</weight>
+  </para>
+  <para id="23">
+    <se lang="russian" variant_id="0">Следовательно, она движется постоянно с одной и той же скоростью.</se>
+    <se lang="latin" variant_id="1">Consequenter continuo eadem celeritate movetur.</se>
+    <weight variant_id="1">0,211364</weight>
+  </para>
+  <para id="24">
+    <se lang="russian" variant_id="0">Пояснение о пухе и...</se>
+    <se lang="latin" variant_id="1">Scholion de pluma et..</se>
+    <weight variant_id="1">0,284211</weight>
+  </para>
+  <para id="25">
+    <se lang="russian" variant_id="0">Опыт</se>
+    <se lang="latin" variant_id="1">Exper.</se>
+    <weight variant_id="1">0,18</weight>
+  </para>
+  <para id="26">
+    <se lang="russian" variant_id="0">При любом изменении поверхности тела его тяжесть не меняется, напр. если тело разделено на какие угодно части или его фигура изменена каким угодно образом, то поверхность увеличивается или уменьшается, но тяжесть остается все время та же, и после деления любая нечувствительная частица остается тяжелой.</se>
+    <se lang="latin" variant_id="1">Corporis superficie quomodocunque mutata gravitas n[on] alteratur, e. g. corpore in partes qualescunque diviso vel figura ejus quomodocunque mutata superficies quidem augetur vel minuitur, gravitas tamen eadem semper manet et post divisionem quaelibet particula insensibilis gravis p[er]manet.</se>
+    <weight variant_id="1">0,296512</weight>
+  </para>
+  <para id="27">
+    <se lang="russian" variant_id="0">Присовокупление</se>
+    <se lang="latin" variant_id="1">Corollarium</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="28">
+    <se lang="russian" variant_id="0">Итак, тяжесть не пропорциональна поверхности всего тела, но тяготительная жидкость действует на нечувствительные частицы тела.</se>
+    <se lang="latin" variant_id="1">Gravitas igitur superficiei totius corporis proportionalis non est, sed fluidum gravificum agit in particulas corporis insensibiles.</se>
+    <weight variant_id="1">0,286726</weight>
+  </para>
+  <para id="29">
+    <se lang="russian" variant_id="0">Положение</se>
+    <se lang="latin" variant_id="1">Theorema</se>
+    <weight variant_id="1">0,266667</weight>
+  </para>
+  <para id="30">
+    <se lang="russian" variant_id="0">Тяготительная жидкость действует на протяженные нечувствительные частицы.</se>
+    <se lang="latin" variant_id="1">Fluidum gravificum agit in particulas insensibiles extensas.</se>
+    <weight variant_id="1">0,229091</weight>
+  </para>
+  <para id="31">
+    <se lang="russian" variant_id="0">Доказательство</se>
+    <se lang="latin" variant_id="1">Demonstr.</se>
+    <weight variant_id="1">0,15</weight>
+  </para>
+  <para id="32">
+    <se lang="russian" variant_id="0">Действительно, жидкости воздействуют пропорционально количеству их движения и поверхности, которая сопротивляется движению, так что...</se>
+    <se lang="latin" variant_id="1">Etenim fluida agunt pro ratione quantitat[is] motus sui et superficiei quae motui resistit, adeoque...</se>
+    <weight variant_id="1">0,193333</weight>
+  </para>
+  <para id="33">
+    <se lang="russian" variant_id="0">Но непротяженные частицы не имеют никакой поверхности, следовательно не могут оказывать сопротивления жидкости, и жидкость не может на них воздействовать; откуда следует, что тяготительная жидкость действует на протяженные нечувствительные частицы.</se>
+    <se lang="latin" variant_id="1">Sed particulae inextensae nullam habent superficiem, consequenter fluidi[s] resistere non possunt, &lt;s&gt; neque fluidum in illa[s] agere, quam ob rem fluidum gravificum agit in particulas extensas insensibiles.</se>
+    <weight variant_id="1">0,237363</weight>
+  </para>
+  <para id="34">
+    <se lang="russian" variant_id="0">Пояснение</se>
+    <se lang="latin" variant_id="1">Scholion</se>
+    <weight variant_id="1">0,266667</weight>
+  </para>
+  <para id="35">
+    <se lang="russian" variant_id="0">a = 0, b = 0, c = 0, следовательно a + b + c = 0.</se>
+    <se lang="latin" variant_id="1">a = 0, b = 0, c = 0, ergo a + b + c = 0.</se>
+    <weight variant_id="1">2,85867</weight>
+  </para>
+  <para id="36">
+    <se lang="russian" variant_id="0">Присовокупление</se>
+    <se lang="latin" variant_id="1">Corollarium</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="37">
+    <se lang="russian" variant_id="0">Итак, тяготительная жидкость проникает через поры чувствительных тел; следовательно, она делится на нечувствительные частицы, которые, поскольку они реально делятся, являются физическими, следовательно протяженными, непроницаемыми и обладающими силой инерции.</se>
+    <se lang="latin" variant_id="1">Fluidum igitur gravificum per poros corporum sensibilium perfluit, consequenter dividitur in particulas insensibiles, quae quoniam actu dividuntur sunt ergo physicae consequenter exensae impenetrabiles et vi inertiae praeditae.</se>
+    <weight variant_id="1">0,520601</weight>
+  </para>
+  <para id="38">
+    <se lang="russian" variant_id="0">Присовокупление</se>
+    <se lang="latin" variant_id="1">Corollarium</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="39">
+    <se lang="russian" variant_id="0">Так как между физическими частицами и даже между самими монадами существуют поры, а сами частицы и монады протяженны и тяготительная жидкость свободно протекает через поры и действует на протяженные частицы, то, следовательно, тяготительная жидкость действует и на физические монады.</se>
+    <se lang="latin" variant_id="1">Quoniam inter particulas physicas imo et ipsas monades dantur pori ) ipsae vero particulae et monades sunt extensae atque fluidum gravificum p&lt;er&gt; poros libere perfluit et agit ~~~ in particulas extensas, consequenter fluidum gravificum agit etiam in monades physicas.</se>
+    <weight variant_id="1">0,701538</weight>
+  </para>
+  <para id="40">
+    <se lang="russian" variant_id="0">Присовокупление</se>
+    <se lang="latin" variant_id="1">Corollarium</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="41">
+    <se lang="russian" variant_id="0">Материя непроницаема, и можно проникать только через поры тел ~~~ .</se>
+    <se lang="latin" variant_id="1">Materia est impenetrabilis, nisi quatenus per poros corporum pervadere potest</se>
+    <weight variant_id="1">0,209821</weight>
+  </para>
+  <para id="42">
+    <se lang="russian" variant_id="0">Но физические монады не имеют пор такого рода, которые были бы проходимы для чуждого действующего тела; следовательно, тяготительная материя не проникает в физические монады, а только действует на их поверхность.</se>
+    <se lang="latin" variant_id="1">Sed monades physicae ejusmodi poros non habent qui alieno corpori agenti essent pervii, igitur materia gravifica monades physicas non penetrat, sed in solam superficiem earum agit.</se>
+    <weight variant_id="1">0,611169</weight>
+  </para>
+  <para id="43">
+    <se lang="russian" variant_id="0">Два пояснения</se>
+    <se lang="latin" variant_id="1">Scholia duo</se>
+    <weight variant_id="1">0,245455</weight>
+  </para>
+  <para id="44">
+    <se lang="russian" variant_id="0">1. против притяжения.</se>
+    <se lang="latin" variant_id="1">1. contra attractionem.</se>
+    <weight variant_id="1">1,02143</weight>
+  </para>
+  <para id="45">
+    <se lang="russian" variant_id="0">2. о способе движения тяготительной жидкости.</se>
+    <se lang="latin" variant_id="1">2. de ratione motus fluidi gravifici.</se>
+    <weight variant_id="1">0,657983</weight>
+  </para>
+  <para id="46">
+    <se lang="russian" variant_id="0">Положение</se>
+    <se lang="latin" variant_id="1">Theorema</se>
+    <weight variant_id="1">0,266667</weight>
+  </para>
+  <para id="47">
+    <se lang="russian" variant_id="0">Тяжесть физических монад пропорциональна плотности их материи.</se>
+    <se lang="latin" variant_id="1">Monadum physicarum gravitas proportionalis est densitat, materiae earundem.</se>
+    <weight variant_id="1">0,236842</weight>
+  </para>
+  <para id="48">
+    <se lang="russian" variant_id="0">Доказательство</se>
+    <se lang="latin" variant_id="1">Demonstr.</se>
+    <weight variant_id="1">0,15</weight>
+  </para>
+  <para id="49">
+    <se lang="russian" variant_id="0">Если тела устремляются с одной и той же скоростью, то их количество движения пропорционально количеству материи.</se>
+    <se lang="latin" variant_id="1">Si corpora eadem celeritate impelluntur, quantitas [motus] eorum est in ratione quantitatis materiae.</se>
+    <weight variant_id="1">0,648626</weight>
+  </para>
+  <para id="50">
+    <se lang="russian" variant_id="0">А так как скорость тяготительной жидкости в одном и том же месте одинакова, то поэтому тяготительная жидкость толкает физические монады с одной и той же скоростью; следовательно, количество движения физических монад, производимого тяготительной жидкостью, пропорционально плотности их материи. ~~~ Что и требовалось доказать.</se>
+    <se lang="latin" variant_id="1">Quoniam autem celeritas fluidi gravifici est aequalis in eodem loco quam ob remg monades physicae a fluido gravifico eadem celeritate impelluntur, consequenter quantitas motus monadum physicarum a fluido gravifico producti est in ratione densitatis materiae earundem. Q.. e. d. ~~~ </se>
+    <weight variant_id="1">0,741866</weight>
+  </para>
+  <para id="51">
+    <se lang="russian" variant_id="0">Присовокупление</se>
+    <se lang="latin" variant_id="1">Coroll.</se>
+    <weight variant_id="1">-0,009375</weight>
+  </para>
+  <para id="52">
+    <se lang="russian" variant_id="0">Итак, если физические монады различаются количеством материи или протяженностью, то тяжесть бо́льших или более плотных будет больше, чем тех, которые либо меньше объемом, либо уступают плотностью материи.</se>
+    <se lang="latin" variant_id="1">Si igitur monades physicae quantitate materiae vel extensione differunt, gravitas majorum v[el] densiorum erit major quam earum, quae vel mole minores sunt, vel materiae densitate inferiores.</se>
+    <weight variant_id="1">0,278443</weight>
+  </para>
+  <para id="53">
+    <se lang="russian" variant_id="0">Положение</se>
+    <se lang="latin" variant_id="1">Theorema</se>
+    <weight variant_id="1">0,266667</weight>
+  </para>
+  <para id="54">
+    <se lang="russian" variant_id="0">Корпускулы, на которые в конечном счете действует тяготительная материя, суть шарики.</se>
+    <se lang="latin" variant_id="1">Corpuscula in quae materia gravifica ultimo agit sunt globuli.</se>
+    <weight variant_id="1">0,185455</weight>
+  </para>
+  <para id="55">
+    <se lang="russian" variant_id="0">Доказательство и пояснение</se>
+    <se lang="latin" variant_id="1">Demonstratio et scholium</se>
+    <weight variant_id="1">0,273913</weight>
+  </para>
+  <para id="56">
+    <se lang="russian" variant_id="0">Положим, что они кубической формы и других, и докажем...</se>
+    <se lang="latin" variant_id="1">Constituantur cubicae figura[e] et aliarum atque demonstretur...</se>
+    <weight variant_id="1">0,238776</weight>
+  </para>
+  <para id="57">
+    <se lang="russian" variant_id="0">Присовокупление</se>
+    <se lang="latin" variant_id="1">Corollarium</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="58">
+    <se lang="russian" variant_id="0">Так как тяготительная материя в конечном счете действует на физические монады, то физические монады суть шарики.</se>
+    <se lang="latin" variant_id="1">Quoniam fluidum gravificum ultimo agit in monades physicas monades physicae igitur sunt globu[li].</se>
+    <weight variant_id="1">0,262069</weight>
+  </para>
+  <para id="59">
+    <se lang="russian" variant_id="0">Положение</se>
+    <se lang="latin" variant_id="1">Theor.</se>
+    <weight variant_id="1">0,171429</weight>
+  </para>
+  <para id="60">
+    <se lang="russian" variant_id="0">Физические монады более легких тел имеют бо́льшую величину и...</se>
+    <se lang="latin" variant_id="1">Monades physicae leviorum sunt majores et...</se>
+    <weight variant_id="1">0,18</weight>
+  </para>
+</body>
+</html>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html>
+<head>
+</head>
+<body>
+  <para id="0">
+    <se lang="russian" variant_id="0">1) Предлагается исследовать с помощью опытов и вычисления,а увеличивается ли преломление падающих лучей светящегося тела больше от твердости прозрачных тел или от их тяжести и насколько каждая из них противодействует или помогает другой.</se>
+    <se lang="latin" variant_id="1">1) Utrum duricies corporum diaphanorum magis an gravitas refractionem incidentium radiorum corporis luminosi intendat quantumque altera alteri officiat, vel proficiat, experimentis et calculo examinandum proponitur.</se>
+    <weight variant_id="1">0,39351</weight>
+  </para>
+  <para id="1">
+    <se lang="russian" variant_id="0">2) Требуется исследовать теоретически и практически, правильна ли гипотеза, полагающая, что материя тел пропорциональна их весу, например — содержится ли в золоте почти в двадцать раз большее количество материи, чем в воде того же объема.</se>
+    <se lang="latin" variant_id="1">2) Sit ne vera illa hypothesis, qua statuitur, materiam corporum esse ponderibus eorum proportionalem, ex. gr. utrum in auro vigecupla fere insit quantitas materiae, quam in aqua sub eodem volumine, theoria et praxi examinandum desideratur.</se>
+    <weight variant_id="1">0,380407</weight>
+  </para>
+</body>
+</html>

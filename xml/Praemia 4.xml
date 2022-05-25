@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html>
+<head>
+</head>
+<body>
+  <para id="0">
+    <se lang="russian" variant_id="0">Пусть в морском плавании, в пасмурную погоду, известны место и время и даны наклонение и склонение магнитной стрелки, определив затем, в другое время, насколько возможно, место корабля по его курсу и при данном изменении наклонения, найти законы и составить таблицы, чтобы по ним узнавать магнитное склонение.</se>
+    <se lang="latin" variant_id="1">In itinere navali, nubila tempestate, loco et tempore cognito, dataque inclinatione et declinatione versorii magnetici, alio post subsecuto tempore et loco navis per cursum ejus quantum fieri potest determinato, et data mutatione inclinationis, invenire leges et condere tabulas pro cognoscenda inde declinatione magnetica.</se>
+    <weight variant_id="1">0,280755</weight>
+  </para>
+  <para id="1">
+    <se lang="russian" variant_id="0">Ломоносов.</se>
+    <se lang="latin" variant_id="1">Lomonossof.</se>
+    <weight variant_id="1">0,272727</weight>
+  </para>
+</body>
+</html>

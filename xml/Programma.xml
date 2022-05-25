@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html>
+<head>
+</head>
+<body>
+  <para id="0">
+    <se lang="russian" variant_id="0">Хотя немало уже есть рассуждений, которые для истолкования электрических явлений написаны, а некоторые и награждения удостоены, однако нет сомнения, что множество опытов, которые после того учинены, и разность явлений, что недавно примечены, больше ясности рассуждениям о электрической силе принесть имеют.</se>
+    <se lang="latin" variant_id="1">Quamquam non pauca specimina exstant, quae ad explicanda electrica phaenomena conscripta, imo quaedam praemiorum honoribus ornata sint; verum tamen multitudo experimentorum, quae postea instituta, et varietas phaenomenorum, quae nuper detecta sunt, clarius lumen doctrinae de electricitate accensura esse existimantur.</se>
+    <weight variant_id="1">0,285448</weight>
+  </para>
+  <para id="1">
+    <se lang="russian" variant_id="0">Того ради Санктпетербургская имп. ~~~ Академия Наук всем натуры испытателям, при обещании обыкновенного награждения ста червонных, на 1755 год к первому числу июня месяца, для решения предлагает, чтобы сыскать подлинную электрической силы причину и составить точную ее теорию.</se>
+    <se lang="latin" variant_id="1">Idcirco Academia Scientiarum Imperialis Petropolitana omnibus atque singulis naturae indagatoribus pro obtinendo solito centum ducatorum praemio, ad annum 1755 ante diem 1 Junii, hoc elaborandum proponit, ut in veram electricitatis causam inquiratur, veraque ejus condatur theoria.</se>
+    <weight variant_id="1">0,0151321</weight>
+  </para>
+  <para id="2">
+    <se lang="russian" variant_id="0">Причем, сверх тех предуведомлений, которые к задачам обыкновенно присовокупляются, также и следующее предложить за полезно рассудила.</se>
+    <se lang="latin" variant_id="1">Quo circa praeter ea, quae ex more recepto problematis subjunguntur, monita, sequentia quoque attingere non inutile judicavit.</se>
+    <weight variant_id="1">0,278378</weight>
+  </para>
+  <para id="3">
+    <se lang="russian" variant_id="0">Остроумные произвольные положения, которые искуснейшие естественных таинств испытатели для изобретения электрической теории употребляли, недовольны быть кажутся к истолкованию недавно найденных свойств электрических; а сей недостаток произошел оттого, что некоторые к составлению подлинной электрической теории самые нужнейшие вещи недовольно наблюдены были, о которых мы здесь кратко упомянем.</se>
+    <se lang="latin" variant_id="1">Quandoquidemingeniosas hypotheses, quibus solertissimi arcanorum naturae scrutatores ad excolendam electricam theoriam sunt usi, detectis recens electricis proprietatibus explicandis haud sufficere posse videtur; eumque defectum inde exstitisse, quod non pauca, ad veram electricitatis theoriam condendam utilissima, non satis observata fuerint, quorum brevis hic fit mentio.</se>
+    <weight variant_id="1">0,284685</weight>
+  </para>
+  <para id="4">
+    <se lang="russian" variant_id="0">Первое: электрические явления много имеют общего с свойствами огня, много также и совсем противного.</se>
+    <se lang="latin" variant_id="1">Primo quidem, electrica phaenomena multa habent, quae cum ignis proprietatibus sunt communia; non pauca, quae ab ejus indole prorsus abhorrere videntur.</se>
+    <weight variant_id="1">0,146591</weight>
+  </para>
+  <para id="5">
+    <se lang="russian" variant_id="0">Пример первого есть, что огонь силою электрическою возбуждается; второго, что электрическая сила в произвождении своем огнем воспящается; например, стёкла, которые очень горячи, не могут произвесть электрической силы.</se>
+    <se lang="latin" variant_id="1">Prioris generis est, quod flamma per vim electricam excitetur; posterioris, quod ipsa vis electrica in productione sua igne inhibeatur: quemadmodum vitra nimium calida illam excitare recusant.</se>
+    <weight variant_id="1">0,257143</weight>
+  </para>
+  <para id="6">
+    <se lang="russian" variant_id="0">Притом, сквозь раскаленное железо, равно как и сквозь лед, сила сия распространяется.</se>
+    <se lang="latin" variant_id="1">Porro ipsa per candefactum igne ferrum et per glaciem pariter propagatur.</se>
+    <weight variant_id="1">0,248437</weight>
+  </para>
+  <para id="7">
+    <se lang="russian" variant_id="0">Того ради, по нашему мнению, должно осторожно смотреть и различать, что в причине произвождения электрической силы и огня есть общее и что особливое.</se>
+    <se lang="latin" variant_id="1">Quam ob rem sollicite perspiciendum et distinguendum esse arbitramur ea, quae in causa electricae vis et ignis communia, quae diversa sint.</se>
+    <weight variant_id="1">0,28</weight>
+  </para>
+  <para id="8">
+    <se lang="russian" variant_id="0">Ежели все сие точно и подробно будет рассмотрено и разобрано, то без сумнения большей ясности и света рассуждающим о электрической силе надеяться можно.</se>
+    <se lang="latin" variant_id="1">Quibus rite perpensis, et distincte evolutis, majorem in meditationibus et doctrina de electricitate claritatem exorituram esse speramus.</se>
+    <weight variant_id="1">0,277869</weight>
+  </para>
+  <para id="9">
+    <se lang="russian" variant_id="0">Второе: понеже тела, которые по другим свойствам натурою совсем разделены на разные роды, чрез электрические явления воедино совокупляются, так что стекло, тело ломкое, твердое, постоянное, к принятию пламени не способное и к минералам по большей части принадлежащее, с мягкою, вязкою, летучею и к сожжению способною шелковою материею, к животным токмо телам принадлежащею, чрез первоначальную электрическую силу во един вид соединяются. ~~~ </se>
+    <se lang="latin" variant_id="1">Secundo, cum corpora in diversa prorsus genera a natura alias discreta electricis phaenomenis in unum associentur, ita, ut vitrum, corpus fragile, durum, fixum, flammae concipiendae minus capax, et ad mineralium regnum potissimum spectans, cum molli, tenaci, volatili et combustili serica materia, ad animale regnum unice pertinente, primitivae electricitatis virtute in unam speciem copulentur;</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="10">
+    <se lang="russian" variant_id="0">Также животное одушевленное и металл, хотя совсем между собою суть различного рода, однако соединены чрез производную электрическую силу. ~~~</se>
+    <se lang="latin" variant_id="1">rursum animal vivum et metallum, corpora naturae regno, imo toto coelo differentia, derivativae electricitatis vinculo sint connexa:</se>
+    <weight variant_id="1">-0,161702</weight>
+  </para>
+  <para id="11">
+    <se lang="russian" variant_id="0">Того ради для изобретения подлинной сея материи теории за полезно почитаем и сие, чтобы качества обоего рода тел с осторожностию рассмотреть и приметить, которые из них всем телам, имеющим первоначальную электрическую силу, и которые всем телам, имеющим производную, суть общие;</se>
+    <se lang="latin" variant_id="1">quam ob rem ad veram hujus materiae theoriam condendam utilissimum fore judicamus, ut corporum utriusque generis qualitates particulares sedulo examinentur; atque eae, quae omnibus primitivae electricitatis corporibus communes sunt, non secus ac illae, quae omnibus derivativa virtute gaudentibus insunt, probe notentur:</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="12">
+    <se lang="russian" variant_id="0">ибо в противном случае надобно опасаться, чтоб мысль наша, пренебрегши свойства чувствительных тел и гоняясь за нечувствительными материями, не стала больше снисходить своим воображениям, нежели последовать строгости рассуждения.</se>
+    <se lang="latin" variant_id="1">alias enim timendum erit, ne ipsorum palpabilium corporum proprietatibus neglectis, insensibilium materiarum illecebris seducta mens imaginationi magis indulgeat, quam rigorem judicii sequatur.</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="13">
+    <se lang="russian" variant_id="0">Третие: представить можно три разные движения тончайшей электрической материи, которая сквозь скважины тел ходит, то есть прохождение, вертение и трясение.</se>
+    <se lang="latin" variant_id="1">Tertio denique, materiae subtilis electricae, cui pori corporum patent, diversi et quidem tres concipi possunt motus: nempe progressivus, gyratorius et tremulus.</se>
+    <weight variant_id="1">0,289051</weight>
+  </para>
+  <para id="14">
+    <se lang="russian" variant_id="0">Здесь равным образом примечать надобно, сколько и которые движения роды довольны к произведению электрических явлений быть могут, чтоб не приписать их которому-нибудь из вышеобъявленных движений напрасно, и потому вся теория, будучи поставлена на нетвердом основании, не была бы слаба и недостоверна.</se>
+    <se lang="latin" variant_id="1">Hic quoque animadvertendum esse videtur, quae et quot motuum genera ad producenda electrica phaenomena sufficiant: ne cui eorum precario illa tribuantur, et tota theoria infirmo fundamento superstructa, instabilis atque vaga reddatur.</se>
+    <weight variant_id="1">0,218049</weight>
+  </para>
+  <para id="15">
+    <se lang="russian" variant_id="0">Все сие не должно почитать за правило и необходимо нужную принадлежность, но за одно только напоминание, которое всякому оставляется на собственное его рассуждение и не может быть никому препятством в истолковании электрических явлений по своим собственным основаниям.</se>
+    <se lang="latin" variant_id="1">Haec non ut praecepta et requisita prorsus necessaria; sed ut monita, arbitrio cujusque observanda relinquuntur: nec etiam ulli secundum sua principia in explicandis electricis phaenomenis impedimento esse possunt.</se>
+    <weight variant_id="1">0,228191</weight>
+  </para>
+  <para id="16">
+    <se lang="russian" variant_id="0">Химическая проблема, которая задана прошлого года, чтобы изъяснить из физических и химических оснований причины разделения золота от серебра посредством крепкой водки и притом показать способ, как бы легче и дешевле разделять сии два металла, еще недовольно решена и для того отлагается для решения к будущему 1754 году, июня к 1 числу.</se>
+    <se lang="latin" variant_id="1">Problemati Chymico antehac proposito, nempe separationem auri ab argento, ope aquae fortis institui solitam, ex Physicis et Chymicis principiis explicare, artioremque methodum invenire, quae minore opera et pretio ad haec duo metalla secernenda indiget, quoniam non est satisfactum, ideo in annum 1754 diem 1 Junii, solvendum differtur.</se>
+    <weight variant_id="1">1,04582</weight>
+  </para>
+  <para id="17">
+    <se lang="russian" variant_id="0">В Санктпетербурге 1753 ноября 25 дня.</se>
+    <se lang="latin" variant_id="1">Petropoli 1753 die 25 Nov.</se>
+    <weight variant_id="1">6,16957</weight>
+  </para>
+</body>
+</html>

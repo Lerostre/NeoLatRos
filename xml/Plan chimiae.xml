@@ -1,0 +1,1712 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html>
+<head>
+</head>
+<body>
+  <para id="0">
+    <se lang="russian" variant_id="0">I</se>
+    <se lang="latin" variant_id="1">I</se>
+    <weight variant_id="1">1,8</weight>
+  </para>
+  <para id="1">
+    <se lang="russian" variant_id="0">ВВЕДЕНИЕ</se>
+    <se lang="latin" variant_id="1">PROLEGOMENA</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="2">
+    <se lang="russian" variant_id="0">1. О физической химии и ее назначении.</se>
+    <se lang="latin" variant_id="1">1. De Chymia Physica ejusque officio.</se>
+    <weight variant_id="1">0,728571</weight>
+  </para>
+  <para id="3">
+    <se lang="russian" variant_id="0">2. О частных качествах смешанного тела.</se>
+    <se lang="latin" variant_id="1">2. De qualitatibus particularibus corporis mixti.</se>
+    <weight variant_id="1">0,645238</weight>
+  </para>
+  <para id="4">
+    <se lang="russian" variant_id="0">3. О средствах, которыми изменяются смешанные [тела].</se>
+    <se lang="latin" variant_id="1">3. De mediis quibus mixta immutantur.</se>
+    <weight variant_id="1">0,596218</weight>
+  </para>
+  <para id="5">
+    <se lang="russian" variant_id="0">4. О приемах, которыми изменяются смешанные [тела].</se>
+    <se lang="latin" variant_id="1">4. De modis quibus mixta immutantur.</se>
+    <weight variant_id="1">0,601299</weight>
+  </para>
+  <para id="6">
+    <se lang="russian" variant_id="0">5. О родах и видах смешанных тел.</se>
+    <se lang="latin" variant_id="1">5. De generibus et speciebus corporum mixtorum.</se>
+    <weight variant_id="1">0,530172</weight>
+  </para>
+  <para id="7">
+    <se lang="russian" variant_id="0">6. О лаборатории и химическом оборудовании.</se>
+    <se lang="latin" variant_id="1">6. De laboratorio et supellectile chymica.</se>
+    <weight variant_id="1">0,720879</weight>
+  </para>
+  <para id="8">
+    <se lang="russian" variant_id="0">7. О применении чувств и предосторожностях.</se>
+    <se lang="latin" variant_id="1">7. De usu sensuum et cautelis.</se>
+    <weight variant_id="1">0,584127</weight>
+  </para>
+  <para id="9">
+    <se lang="russian" variant_id="0">8. О химических словах и обозначениях.</se>
+    <se lang="latin" variant_id="1">8. De verbis et charact[eribus] ch[ymicis].</se>
+    <weight variant_id="1">0,685714</weight>
+  </para>
+  <para id="10">
+    <se lang="russian" variant_id="0">9. О методе изложения физической химии.</se>
+    <se lang="latin" variant_id="1">9. De methodo Chymiam Ph[ysicam] tr[actandi].</se>
+    <weight variant_id="1">0,678571</weight>
+  </para>
+  <para id="11">
+    <se lang="russian" variant_id="0">10. Об употреблении физических опытов и инструментов в химии.</se>
+    <se lang="latin" variant_id="1">10. De adhibendis experimentis et instrumentis physicis in Chymia.</se>
+    <weight variant_id="1">0,572727</weight>
+  </para>
+  <para id="12">
+    <se lang="russian" variant_id="0">ФИЗИЧЕСКОЙ ХИМИИ ЧАСТЬ ОПЫТНАЯ</se>
+    <se lang="latin" variant_id="1">CHYMIAE PHYSICAE PARS EXPERIMENTALIS</se>
+    <weight variant_id="1">0,235714</weight>
+  </para>
+  <para id="13">
+    <se lang="russian" variant_id="0">Отдел 1</se>
+    <se lang="latin" variant_id="1">Sectio 1</se>
+    <weight variant_id="1">11,2571</weight>
+  </para>
+  <para id="14">
+    <se lang="russian" variant_id="0">Опыты над смешанными соляными телами.</se>
+    <se lang="latin" variant_id="1">Experimenta circa corpora mixta salina.</se>
+    <weight variant_id="1">0,282353</weight>
+  </para>
+  <para id="15">
+    <se lang="russian" variant_id="0">Отдел 2</se>
+    <se lang="latin" variant_id="1">Sectio 2</se>
+    <weight variant_id="1">11,2571</weight>
+  </para>
+  <para id="16">
+    <se lang="russian" variant_id="0">Опыты над смешанными воспламеняющимися телами.</se>
+    <se lang="latin" variant_id="1">Experimenta circa corpora mixta inflammabilia.</se>
+    <weight variant_id="1">0,3</weight>
+  </para>
+  <para id="17">
+    <se lang="russian" variant_id="0">Отдел 3</se>
+    <se lang="latin" variant_id="1">Sectio 3</se>
+    <weight variant_id="1">11,2571</weight>
+  </para>
+  <para id="18">
+    <se lang="russian" variant_id="0">Опыты над соками.</se>
+    <se lang="latin" variant_id="1">Experimenta circa succos.</se>
+    <weight variant_id="1">0,15</weight>
+  </para>
+  <para id="19">
+    <se lang="russian" variant_id="0">Отдел 4</se>
+    <se lang="latin" variant_id="1">Sectio 4</se>
+    <weight variant_id="1">11,2571</weight>
+  </para>
+  <para id="20">
+    <se lang="russian" variant_id="0">Опыты над металлами.</se>
+    <se lang="latin" variant_id="1">Experimenta circa metalla.</se>
+    <weight variant_id="1">0,205263</weight>
+  </para>
+  <para id="21">
+    <se lang="russian" variant_id="0">Отдел 5</se>
+    <se lang="latin" variant_id="1">Sectio 5</se>
+    <weight variant_id="1">11,2571</weight>
+  </para>
+  <para id="22">
+    <se lang="russian" variant_id="0">Опыты над полуметаллами.</se>
+    <se lang="latin" variant_id="1">Experimenta circa semimetalla.</se>
+    <weight variant_id="1">0,221739</weight>
+  </para>
+  <para id="23">
+    <se lang="russian" variant_id="0">Отдел 6</se>
+    <se lang="latin" variant_id="1">Sectio 6</se>
+    <weight variant_id="1">11,2571</weight>
+  </para>
+  <para id="24">
+    <se lang="russian" variant_id="0">Опыты над землями.</se>
+    <se lang="latin" variant_id="1">Experimenta circa terras.</se>
+    <weight variant_id="1">0,176471</weight>
+  </para>
+  <para id="25">
+    <se lang="russian" variant_id="0">Отдел 7</se>
+    <se lang="latin" variant_id="1">Sectio 7</se>
+    <weight variant_id="1">11,2571</weight>
+  </para>
+  <para id="26">
+    <se lang="russian" variant_id="0">Опыты над камнями.</se>
+    <se lang="latin" variant_id="1">Experimenta circa lapides.</se>
+    <weight variant_id="1">0,158824</weight>
+  </para>
+  <para id="27">
+    <se lang="russian" variant_id="0">ФИЗИЧЕСКОЙ ХИМИИ ЧАСТЬ ТЕОРЕТИЧЕСКАЯ</se>
+    <se lang="latin" variant_id="1">CHYMIAE PHYSICAE PARS THEORETICA</se>
+    <weight variant_id="1">0,26</weight>
+  </para>
+  <para id="28">
+    <se lang="russian" variant_id="0">Отдел 1</se>
+    <se lang="latin" variant_id="1">Sectio prima</se>
+    <weight variant_id="1">0,0857143</weight>
+  </para>
+  <para id="29">
+    <se lang="russian" variant_id="0">Теория о свойствах смешанного [тела] вообще.</se>
+    <se lang="latin" variant_id="1">Theoria de qualitatibus mixti in genere. </se>
+    <weight variant_id="1">-0,0166667</weight>
+  </para>
+  <para id="30">
+    <se lang="russian" variant_id="0">Отдел 2</se>
+    <se lang="latin" variant_id="1">Sectio secunda</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="31">
+    <se lang="russian" variant_id="0">Отдел 3</se>
+    <se lang="latin" variant_id="1">Sectio 3</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="32">
+    <se lang="russian" variant_id="0">Теория об изменениях смешанного [тела] вообще.</se>
+    <se lang="latin" variant_id="1">Theoria de mutationibus mixti in genere. ~~~ Sectio 3</se>
+    <weight variant_id="1">-0,0107143</weight>
+  </para>
+  <para id="33">
+    <se lang="russian" variant_id="0">О химических началах.</se>
+    <se lang="latin" variant_id="1">De principiis chymicis.</se>
+    <weight variant_id="1">0,27</weight>
+  </para>
+  <para id="34">
+    <se lang="russian" variant_id="0">Отдел 4</se>
+    <se lang="latin" variant_id="1">Sectio 4</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="35">
+    <se lang="russian" variant_id="0">Теория смешанных соляных [тел].</se>
+    <se lang="latin" variant_id="1">Sectio 4 ~~~ Theoria mixtorum salinorum.</se>
+    <weight variant_id="1">-0,0173077</weight>
+  </para>
+  <para id="36">
+    <se lang="russian" variant_id="0">Отдел 5</se>
+    <se lang="latin" variant_id="1">Sectio 5</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="37">
+    <se lang="russian" variant_id="0">Теория смешанных воспламеняющихся [тел].</se>
+    <se lang="latin" variant_id="1">Theoria mixtorum inflammabilium.</se>
+    <weight variant_id="1">-0,105263</weight>
+  </para>
+  <para id="38">
+    <se lang="russian" variant_id="0">Отдел 6</se>
+    <se lang="latin" variant_id="1">Sectio 6</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="39">
+    <se lang="russian" variant_id="0">Теория о соках.</se>
+    <se lang="latin" variant_id="1">Theoria de succis.</se>
+    <weight variant_id="1">0,235714</weight>
+  </para>
+  <para id="40">
+    <se lang="russian" variant_id="0">Отдел 7</se>
+    <se lang="latin" variant_id="1">Sectio 7</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="41">
+    <se lang="russian" variant_id="0">Теория металлического смешанного [тела].</se>
+    <se lang="latin" variant_id="1">Theoria mixti metallici.</se>
+    <weight variant_id="1">-0,028125</weight>
+  </para>
+  <para id="42">
+    <se lang="russian" variant_id="0">Отдел 8</se>
+    <se lang="latin" variant_id="1">Sectio 8</se>
+    <weight variant_id="1">11,2571</weight>
+  </para>
+  <para id="43">
+    <se lang="russian" variant_id="0">Теория полуметаллического смешанного [тела].</se>
+    <se lang="latin" variant_id="1">Theoria mixti semimetallici.</se>
+    <weight variant_id="1">0,133333</weight>
+  </para>
+  <para id="44">
+    <se lang="russian" variant_id="0">Отдел 9</se>
+    <se lang="latin" variant_id="1">Sectio 9</se>
+    <weight variant_id="1">11,2571</weight>
+  </para>
+  <para id="45">
+    <se lang="russian" variant_id="0">Теория землистого смешанного [тела].</se>
+    <se lang="latin" variant_id="1">Theoria mixti terrei.</se>
+    <weight variant_id="1">0,09</weight>
+  </para>
+  <para id="46">
+    <se lang="russian" variant_id="0">Отдел 10</se>
+    <se lang="latin" variant_id="1">Sectio 10</se>
+    <weight variant_id="1">11,2625</weight>
+  </para>
+  <para id="47">
+    <se lang="russian" variant_id="0">Теория каменистого смешанного [тела].</se>
+    <se lang="latin" variant_id="1">Theoria mixti lapidei.</se>
+    <weight variant_id="1">0,1</weight>
+  </para>
+  <para id="48">
+    <se lang="russian" variant_id="0">II</se>
+    <se lang="latin" variant_id="1">II</se>
+    <weight variant_id="1">1,8</weight>
+  </para>
+  <para id="49">
+    <se lang="russian" variant_id="0">ХИМИЧЕСКОЙ ЧАСТИ ПЕРВОЙ ОПЫТНОЙ</se>
+    <se lang="latin" variant_id="1">CHYMIAE PARTIS PRIORIS EXPERIMENTALIS</se>
+    <weight variant_id="1">0,237931</weight>
+  </para>
+  <para id="50">
+    <se lang="russian" variant_id="0">отдела первого</se>
+    <se lang="latin" variant_id="1">sectionis primae</se>
+    <weight variant_id="1">0,257143</weight>
+  </para>
+  <para id="51">
+    <se lang="russian" variant_id="0">Глава 1. О золах.</se>
+    <se lang="latin" variant_id="1">Caput 1. Dea cineribus clavellatis.</se>
+    <weight variant_id="1">0,58125</weight>
+  </para>
+  <para id="52">
+    <se lang="russian" variant_id="0">Глава 2. О солях выжатых [?].</se>
+    <se lang="latin" variant_id="1">Caput 2. De salibus expressis.</se>
+    <weight variant_id="1">0,776923</weight>
+  </para>
+  <para id="53">
+    <se lang="" variant_id="0">„ 3. О мочевой соли.</se>
+    <se lang="" variant_id="1">„ 3. De sale urinoso.</se>
+    <weight variant_id="1">1,28333</weight>
+  </para>
+  <para id="54">
+    <se lang="" variant_id="0">„ 4. О квасцах.</se>
+    <se lang="" variant_id="1">„ 4. De alumine.</se>
+    <weight variant_id="1">1,47857</weight>
+  </para>
+  <para id="55">
+    <se lang="" variant_id="0">„ 5. О купоросе.</se>
+    <se lang="" variant_id="1">„ 5. De vitriolo.</se>
+    <weight variant_id="1">1,48</weight>
+  </para>
+  <para id="56">
+    <se lang="" variant_id="0">„ 6. О селитре.</se>
+    <se lang="" variant_id="1">„ 6. De nitro.</se>
+    <weight variant_id="1">1,47692</weight>
+  </para>
+  <para id="57">
+    <se lang="" variant_id="0">„ 7. Об обыкновенной соли.</se>
+    <se lang="" variant_id="1">„ 7. De sale communi.</se>
+    <weight variant_id="1">1,22105</weight>
+  </para>
+  <para id="58">
+    <se lang="" variant_id="0">„ 8. Об аммонийной соли.</se>
+    <se lang="" variant_id="1">„ 8. De sale ammoniaco.</se>
+    <weight variant_id="1">1,28571</weight>
+  </para>
+  <para id="59">
+    <se lang="" variant_id="0">„ 9. О буре.</se>
+    <se lang="" variant_id="1">„ 9. De borrace.</se>
+    <weight variant_id="1">1,39091</weight>
+  </para>
+  <para id="60">
+    <se lang="russian" variant_id="0">Об уксусе.</se>
+    <se lang="latin" variant_id="1">De aceto.</se>
+    <weight variant_id="1">0,266667</weight>
+  </para>
+  <para id="61">
+    <se lang="" variant_id="0">„ 10. О кислых растительных соках через брожение.</se>
+    <se lang="" variant_id="1">„ 10. De succis vegetabilium acidis per fermentationem</se>
+    <weight variant_id="1">0,932576</weight>
+  </para>
+  <para id="62">
+    <se lang="" variant_id="0">„ 11. О солях из кислот.</se>
+    <se lang="" variant_id="1">„ 11.De salibus acidulorum.</se>
+    <weight variant_id="1">0,842857</weight>
+  </para>
+  <para id="63">
+    <se lang="russian" variant_id="0">Отдел 2</se>
+    <se lang="latin" variant_id="1">Sectio 2</se>
+    <weight variant_id="1">11,2571</weight>
+  </para>
+  <para id="64">
+    <se lang="russian" variant_id="0">Фосфор.</se>
+    <se lang="latin" variant_id="1">Phosphorus.</se>
+    <weight variant_id="1">0,15</weight>
+  </para>
+  <para id="65">
+    <se lang="russian" variant_id="0">Отдел 3</se>
+    <se lang="latin" variant_id="1">Sectio 3</se>
+    <weight variant_id="1">11,2571</weight>
+  </para>
+  <para id="66">
+    <se lang="russian" variant_id="0">О соках</se>
+    <se lang="latin" variant_id="1">De succis.</se>
+    <weight variant_id="1">0,18</weight>
+  </para>
+  <para id="67">
+    <se lang="russian" variant_id="0">Глава 1. Об выварках и сиропах.</se>
+    <se lang="latin" variant_id="1">Cap. 1. De decoctis et robis.</se>
+    <weight variant_id="1">0,718182</weight>
+  </para>
+  <para id="68">
+    <se lang="" variant_id="0">„ 2. Об аравийской камеди.</se>
+    <se lang="" variant_id="1">„ 2. De gummi arabico.</se>
+    <weight variant_id="1">1,24</weight>
+  </para>
+  <para id="69">
+    <se lang="" variant_id="0">„ 3. О прочих камедях.</se>
+    <se lang="" variant_id="1">„ 3. De reliquis gummatibus.</se>
+    <weight variant_id="1">1,21</weight>
+  </para>
+  <para id="70">
+    <se lang="" variant_id="0">„ 4. О рыбном клее.</se>
+    <se lang="" variant_id="1">„ 4. De colla piscium.</se>
+    <weight variant_id="1">1,24706</weight>
+  </para>
+  <para id="71">
+    <se lang="" variant_id="0">„ 5. О соках, выжатых из растений.</se>
+    <se lang="" variant_id="1">„ 5. De succis expressis ex vegetabilibus.</se>
+    <weight variant_id="1">0,97</weight>
+  </para>
+  <para id="72">
+    <se lang="russian" variant_id="0">Глава 6. О мёде.</se>
+    <se lang="latin" variant_id="1">Cap. ~~~ 6. De melle.</se>
+    <weight variant_id="1">0,3375</weight>
+  </para>
+  <para id="73">
+    <se lang="" variant_id="0">„ 7. О сахаре.</se>
+    <se lang="" variant_id="1">„ 7. De saccharo.</se>
+    <weight variant_id="1">1,43077</weight>
+  </para>
+  <para id="74">
+    <se lang="" variant_id="0">„ 8. О желатинах.</se>
+    <se lang="" variant_id="1">„ 8. De gelatinis.</se>
+    <weight variant_id="1">1,48125</weight>
+  </para>
+  <para id="75">
+    <se lang="russian" variant_id="0">III</se>
+    <se lang="latin" variant_id="1">III</se>
+    <weight variant_id="1">1,8</weight>
+  </para>
+  <para id="76">
+    <se lang="russian" variant_id="0">КОНСПЕЕКТ НЕБОЛЬШОЙ РАБОТЫ</se>
+    <se lang="latin" variant_id="1">CONSEPCTUS OPUSCULI</se>
+    <weight variant_id="1">0,205263</weight>
+  </para>
+  <para id="77">
+    <se lang="russian" variant_id="0">ВВЕДЕНИЕ</se>
+    <se lang="latin" variant_id="1">PROLEGOMENA</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="78">
+    <se lang="russian" variant_id="0">Глава 1. О химии и ее назначении.</se>
+    <se lang="latin" variant_id="1">Caput 1. De chymia, ejusque officio.</se>
+    <weight variant_id="1">0,687192</weight>
+  </para>
+  <para id="79">
+    <se lang="" variant_id="0">„ 2. О частных качествах.</se>
+    <se lang="" variant_id="1">„ 2. De qualitatibus partic[ularibus].</se>
+    <weight variant_id="1">1,13043</weight>
+  </para>
+  <para id="80">
+    <se lang="" variant_id="0">„ 3. О химических операциях.</se>
+    <se lang="" variant_id="1">„ 3. De operationibus Chymicis.</se>
+    <weight variant_id="1">1,26538</weight>
+  </para>
+  <para id="81">
+    <se lang="" variant_id="0">„ 4. О телах, подлежащих химической обработке; что такое однородные и т. д.</se>
+    <se lang="" variant_id="1">„ 4. De corporibus Chymico labori subjiciendis, quid homogenea etc.</se>
+    <weight variant_id="1">0,820455</weight>
+  </para>
+  <para id="82">
+    <se lang="" variant_id="0">„ 5. О лаборатории и химическом оборудовании.</se>
+    <se lang="" variant_id="1">„ 5. De laboratorio et supellectile chymica.</se>
+    <weight variant_id="1">1,0425</weight>
+  </para>
+  <para id="83">
+    <se lang="" variant_id="0">„ 6. О приложении физических опытов к химии.</se>
+    <se lang="" variant_id="1">„ 6. De applicatione experimentorum physicorum ad Chymiam.</se>
+    <weight variant_id="1">0,858974</weight>
+  </para>
+  <para id="84">
+    <se lang="" variant_id="0">„ 7. О средствах, необходимых для исследования смеси.</se>
+    <se lang="" variant_id="1">„ 7. De mediis ad mixtionem inquirendum necessariis.</se>
+    <weight variant_id="1">0,960284</weight>
+  </para>
+  <para id="85">
+    <se lang="" variant_id="0">„ 8. О применении чувств в химии.</se>
+    <se lang="" variant_id="1">„ 8. De usu sensuum in Chymia.</se>
+    <weight variant_id="1">1,01538</weight>
+  </para>
+  <para id="86">
+    <se lang="" variant_id="0">„ 9. О необходимости избегать двусмысленностей и неясностей и о методе изложения физической химии.</se>
+    <se lang="" variant_id="1">„ 9. De ambagibus et confusionibus fugiendis deque methodo chymia[m] physica[m] proponendi.</se>
+    <weight variant_id="1">0,743246</weight>
+  </para>
+  <para id="87">
+    <se lang="" variant_id="0">„ 10. О химических словах иа обозначениях.</se>
+    <se lang="" variant_id="1">„ 10. De verbis et characteribus chymicis.</se>
+    <weight variant_id="1">1,05</weight>
+  </para>
+  <para id="88">
+    <se lang="russian" variant_id="0">Том первый</se>
+    <se lang="latin" variant_id="1">Pars prima</se>
+    <weight variant_id="1">0,3</weight>
+  </para>
+  <para id="89">
+    <se lang="russian" variant_id="0">Часть первая ~~~ Содержит опыты, произведенные для уяснения смешанных растительных [веществ].</se>
+    <se lang="latin" variant_id="1">Experimenta continet ad mixtionem vegetabilium detegendam instituta.</se>
+    <weight variant_id="1">-0,0166667</weight>
+  </para>
+  <para id="90">
+    <se lang="russian" variant_id="0">Часть вторая</se>
+    <se lang="latin" variant_id="1">Pars secunda</se>
+    <weight variant_id="1">0,3</weight>
+  </para>
+  <para id="91">
+    <se lang="russian" variant_id="0">Излагает опыты, произведенные над смешением животных [веществ].</se>
+    <se lang="latin" variant_id="1">Experimenta circa mixtionem animalium instituta proponit.</se>
+    <weight variant_id="1">0,271698</weight>
+  </para>
+  <para id="92">
+    <se lang="russian" variant_id="0">Часть третья</se>
+    <se lang="latin" variant_id="1">Pars Tertia</se>
+    <weight variant_id="1">0,272727</weight>
+  </para>
+  <para id="93">
+    <se lang="russian" variant_id="0">Состоит в исследовании смешения растительных и животных [веществ].</se>
+    <se lang="latin" variant_id="1">In examine mixtionis vegetabilium cum animalibus consistit.</se>
+    <weight variant_id="1">0,266667</weight>
+  </para>
+  <para id="94">
+    <se lang="russian" variant_id="0">Часть 4</se>
+    <se lang="latin" variant_id="1">Pars 4</se>
+    <weight variant_id="1">11,25</weight>
+  </para>
+  <para id="95">
+    <se lang="russian" variant_id="0">Занимается исследованием смешения минералов.</se>
+    <se lang="latin" variant_id="1">Circa examen mixtionis mineralium versatur.</se>
+    <weight variant_id="1">0,285</weight>
+  </para>
+  <para id="96">
+    <se lang="russian" variant_id="0">Часть 5</se>
+    <se lang="latin" variant_id="1">Pars 5</se>
+    <weight variant_id="1">11,25</weight>
+  </para>
+  <para id="97">
+    <se lang="russian" variant_id="0">Выясняет опытами смешение минералов с растительными [веществами].</se>
+    <se lang="latin" variant_id="1">In mixtionem mineralium cum vegetabilibus experimentis inquirit.</se>
+    <weight variant_id="1">0,294915</weight>
+  </para>
+  <para id="98">
+    <se lang="russian" variant_id="0">Часть 6</se>
+    <se lang="latin" variant_id="1">Pars 6</se>
+    <weight variant_id="1">0,3</weight>
+  </para>
+  <para id="99">
+    <se lang="russian" variant_id="0">Смешение минералов с животными [веществами].</se>
+    <se lang="latin" variant_id="1">Mixtionis mineralium cum animalibus.</se>
+    <weight variant_id="1">0,238235</weight>
+  </para>
+  <para id="100">
+    <se lang="russian" variant_id="0">Часть 7</se>
+    <se lang="latin" variant_id="1">Pars 7</se>
+    <weight variant_id="1">11,25</weight>
+  </para>
+  <para id="101">
+    <se lang="russian" variant_id="0">Исследование смешения трех царств природы.</se>
+    <se lang="latin" variant_id="1">Examen mixtionis trium regnorum naturae.</se>
+    <weight variant_id="1">0,283784</weight>
+  </para>
+  <para id="102">
+    <se lang="russian" variant_id="0">ФИЗИЧЕСКОЙ ХИМИИ</se>
+    <se lang="latin" variant_id="1">CHYMIAE PHYSICAE</se>
+    <weight variant_id="1">0,3</weight>
+  </para>
+  <para id="103">
+    <se lang="russian" variant_id="0">Том второй</se>
+    <se lang="latin" variant_id="1">Tomus secundus</se>
+    <weight variant_id="1">0,18</weight>
+  </para>
+  <para id="104">
+    <se lang="russian" variant_id="0">СОДЕРЖАЩИЙ ТЕОРЕТИЧЕСКУЮ ХИМИЮ</se>
+    <se lang="latin" variant_id="1">CHYMIAM RATIONALEM CONTINENS</se>
+    <weight variant_id="1">0,277778</weight>
+  </para>
+  <para id="105">
+    <se lang="russian" variant_id="0">Часть 1</se>
+    <se lang="latin" variant_id="1">Pars 1</se>
+    <weight variant_id="1">11,25</weight>
+  </para>
+  <para id="106">
+    <se lang="russian" variant_id="0">Объясняет качества смешанных [тел] вообще.</se>
+    <se lang="latin" variant_id="1">Qualitates mixtorum in genere explicat.</se>
+    <weight variant_id="1">0,275</weight>
+  </para>
+  <para id="107">
+    <se lang="russian" variant_id="0">Часть 2</se>
+    <se lang="latin" variant_id="1">Pars 2</se>
+    <weight variant_id="1">11,25</weight>
+  </para>
+  <para id="108">
+    <se lang="russian" variant_id="0">Рассуждает об изменениях смешанных [тел].</se>
+    <se lang="latin" variant_id="1">De mutationibus mixti ratiocinatur.</se>
+    <weight variant_id="1">0,254545</weight>
+  </para>
+  <para id="109">
+    <se lang="russian" variant_id="0">Часть 3</se>
+    <se lang="latin" variant_id="1">Pars 3</se>
+    <weight variant_id="1">11,25</weight>
+  </para>
+  <para id="110">
+    <se lang="russian" variant_id="0">Передает учение о химических началах.</se>
+    <se lang="latin" variant_id="1">De principiis chymicis doctrinam tradit.</se>
+    <weight variant_id="1">0,273529</weight>
+  </para>
+  <para id="111">
+    <se lang="russian" variant_id="0">Часть 4</se>
+    <se lang="latin" variant_id="1">Pars 4</se>
+    <weight variant_id="1">11,25</weight>
+  </para>
+  <para id="112">
+    <se lang="russian" variant_id="0">Передает теорию смешанных соляных [тел].</se>
+    <se lang="latin" variant_id="1">Theoriam mixtorum salinorum tradit.</se>
+    <weight variant_id="1">0,263636</weight>
+  </para>
+  <para id="113">
+    <se lang="russian" variant_id="0">Часть 5</se>
+    <se lang="latin" variant_id="1">Pars 5</se>
+    <weight variant_id="1">11,25</weight>
+  </para>
+  <para id="114">
+    <se lang="russian" variant_id="0">Содержит рассуждения о смешанных воспламеняющихся [телах].</se>
+    <se lang="latin" variant_id="1">De mixtis inflammabilibus ratiocinia continet.</se>
+    <weight variant_id="1">0,223256</weight>
+  </para>
+  <para id="115">
+    <se lang="russian" variant_id="0">Часть 6</se>
+    <se lang="latin" variant_id="1">Pars 6</se>
+    <weight variant_id="1">11,25</weight>
+  </para>
+  <para id="116">
+    <se lang="russian" variant_id="0">Предлагает теорию смешения металлов.</se>
+    <se lang="latin" variant_id="1">Metallicae mixtionis theoriam proponit.</se>
+    <weight variant_id="1">0,273529</weight>
+  </para>
+  <para id="117">
+    <se lang="russian" variant_id="0">Часть 7</se>
+    <se lang="latin" variant_id="1">Pars 7</se>
+    <weight variant_id="1">11,25</weight>
+  </para>
+  <para id="118">
+    <se lang="russian" variant_id="0">Теоретически рассуждает о полуметаллах.</se>
+    <se lang="latin" variant_id="1">De semimetallis agit theoretice.</se>
+    <weight variant_id="1">0,23</weight>
+  </para>
+  <para id="119">
+    <se lang="russian" variant_id="0">Часть 8</se>
+    <se lang="latin" variant_id="1">Pars 8</se>
+    <weight variant_id="1">11,25</weight>
+  </para>
+  <para id="120">
+    <se lang="russian" variant_id="0">Излагает природу земель.</se>
+    <se lang="latin" variant_id="1">Terrarum indolem exponit.</se>
+    <weight variant_id="1">0,286957</weight>
+  </para>
+  <para id="121">
+    <se lang="russian" variant_id="0">Часть 9</se>
+    <se lang="latin" variant_id="1">Pars 9</se>
+    <weight variant_id="1">11,25</weight>
+  </para>
+  <para id="122">
+    <se lang="russian" variant_id="0">Рассуждением постигает природу камней.</se>
+    <se lang="latin" variant_id="1">Lapidum naturam ratiocinando penetrat.</se>
+    <weight variant_id="1">0,3</weight>
+  </para>
+  <para id="123">
+    <se lang="russian" variant_id="0">IV</se>
+    <se lang="latin" variant_id="1">IV</se>
+    <weight variant_id="1">1,8</weight>
+  </para>
+  <para id="124">
+    <se lang="russian" variant_id="0">КОНСПЕКТ РАБОТЫ</se>
+    <se lang="latin" variant_id="1">CONSPECTUS OPERIS</se>
+    <weight variant_id="1">0,26</weight>
+  </para>
+  <para id="125">
+    <se lang="russian" variant_id="0">ВВЕДЕНИЕ</se>
+    <se lang="latin" variant_id="1">PROLEGOMENA</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="126">
+    <se lang="russian" variant_id="0">Отдел 1. О химии и ее разделении.</se>
+    <se lang="latin" variant_id="1">Sectio 1. De chymia ejusque divisione</se>
+    <weight variant_id="1">0,676847</weight>
+  </para>
+  <para id="127">
+    <se lang="" variant_id="0">„ 2. О химических операциях.</se>
+    <se lang="" variant_id="1">„ 2. De operationibus chymicis.</se>
+    <weight variant_id="1">1,26538</weight>
+  </para>
+  <para id="128">
+    <se lang="" variant_id="0">„ 3. О химическом оборудовании.</se>
+    <se lang="" variant_id="1">„ 3. De supellectile chymica.</se>
+    <weight variant_id="1">1,27778</weight>
+  </para>
+  <para id="129">
+    <se lang="russian" variant_id="0">Отдел 4. О приложении физики к химии.</se>
+    <se lang="latin" variant_id="1">Sectio 4. De applicatione Physicae ad Chymiam.</se>
+    <weight variant_id="1">0,593182</weight>
+  </para>
+  <para id="130">
+    <se lang="russian" variant_id="0">С прибавлением.</se>
+    <se lang="latin" variant_id="1">Cum amuleto.</se>
+    <weight variant_id="1">0,225</weight>
+  </para>
+  <para id="131">
+    <se lang="russian" variant_id="0">О родах тел, подлежащих химическому исследованию.</se>
+    <se lang="latin" variant_id="1">De generibus corporum chymico examini subjiciendis.</se>
+    <weight variant_id="1">0,286667</weight>
+  </para>
+  <para id="132">
+    <se lang="" variant_id="0">„ 5. О применении чувств и о предосторожностях.</se>
+    <se lang="" variant_id="1">„ 5. De usu sensuum et de cautelis.</se>
+    <weight variant_id="1">0,846667</weight>
+  </para>
+  <para id="133">
+    <se lang="" variant_id="0">„ 10. О смешении.</se>
+    <se lang="" variant_id="1">„ 10. De mixtione.</se>
+    <weight variant_id="1">1,48125</weight>
+  </para>
+  <para id="134">
+    <se lang="russian" variant_id="0">Часть первая</se>
+    <se lang="latin" variant_id="1">Pars prima</se>
+    <weight variant_id="1">0,24</weight>
+  </para>
+  <para id="135">
+    <se lang="russian" variant_id="0">СОДЕРЖАЩАЯ ОПЫТЫ НАД РАСТИТЕЛЬНЫМИ [ВЕЩЕСТВАМИ]</se>
+    <se lang="latin" variant_id="1">CONTINENS EXPERIMENTA CIRCA VEGETABILIA</se>
+    <weight variant_id="1">0,243243</weight>
+  </para>
+  <para id="136">
+    <se lang="russian" variant_id="0">Глава I. растительных [веществ] сжиганием.</se>
+    <se lang="latin" variant_id="1">Caput 1. Examen vegetabilium per combustionem.</se>
+    <weight variant_id="1">0,2775</weight>
+  </para>
+  <para id="137">
+    <se lang="russian" variant_id="0">Статья 1. О явлениях, сопутствующих сжиганию, и что сжигается; о сжигании с добавлением.</se>
+    <se lang="latin" variant_id="1">artic. ~~~ 1. De phaenomenis combustionem comitantibus et quae comburuntur; de combustione cum addita[mento].</se>
+    <weight variant_id="1">0,0942308</weight>
+  </para>
+  <para id="138">
+    <se lang="" variant_id="0">„ 2. О пеплах.</se>
+    <se lang="" variant_id="1">„ 2. De cineribus.</se>
+    <weight variant_id="1">1,40769</weight>
+  </para>
+  <para id="139">
+    <se lang="" variant_id="0">„ 3. О сажах.</se>
+    <se lang="" variant_id="1">„ 3. De fuligine.</se>
+    <weight variant_id="1">1,4</weight>
+  </para>
+  <para id="140">
+    <se lang="" variant_id="0">„ 4. Об угле.</se>
+    <se lang="" variant_id="1">„ 4. De carbone.</se>
+    <weight variant_id="1">1,425</weight>
+  </para>
+  <para id="141">
+    <se lang="" variant_id="0">„ 5. О соединении того, что получено сжиганием.</se>
+    <se lang="" variant_id="1">„ 5. De combinatione eorum, quae per combustionem producta sunt.</se>
+    <weight variant_id="1">0,859524</weight>
+  </para>
+  <para id="142">
+    <se lang="russian" variant_id="0">Часть 2. Содержащая опыты над животными [веществами].</se>
+    <se lang="latin" variant_id="1">Pars 2. Continens experimenta circa animalia.</se>
+    <weight variant_id="1">0,678571</weight>
+  </para>
+  <para id="143">
+    <se lang="russian" variant_id="0">Часть 3. О соединении животных [веществ] с растительными.</se>
+    <se lang="latin" variant_id="1">Pars 3. De combinatione animalium cum vegetabilibus.</se>
+    <weight variant_id="1">0,65</weight>
+  </para>
+  <para id="144">
+    <se lang="russian" variant_id="0">Часть 4. О минеральных [веществах].</se>
+    <se lang="latin" variant_id="1">Pars 4. De mineralibus.</se>
+    <weight variant_id="1">0,75</weight>
+  </para>
+  <para id="145">
+    <se lang="russian" variant_id="0">Часть 5. О соединении минеральных [веществ] с растительными.</se>
+    <se lang="latin" variant_id="1">Pars 5. De combinatione mineralium cum vegetabilibus.</se>
+    <weight variant_id="1">0,638265</weight>
+  </para>
+  <para id="146">
+    <se lang="russian" variant_id="0">Часть 6. О соединении минеральных [веществ] с животными [веществами].</se>
+    <se lang="latin" variant_id="1">Pars 6. De combina[ti]one mineralium cum animalibus.</se>
+    <weight variant_id="1">0,58125</weight>
+  </para>
+  <para id="147">
+    <se lang="russian" variant_id="0">Часть 7. О соединении трех царств [природы].</se>
+    <se lang="latin" variant_id="1">Pars 7. De combinatione trium regnorum.</se>
+    <weight variant_id="1">0,695238</weight>
+  </para>
+  <para id="148">
+    <se lang="russian" variant_id="0">V</se>
+    <se lang="latin" variant_id="1">V</se>
+    <weight variant_id="1">1,8</weight>
+  </para>
+  <para id="149">
+    <se lang="russian" variant_id="0">1. О химии и ее разделении.</se>
+    <se lang="latin" variant_id="1">1. De chymia ejusque divisione.</se>
+    <weight variant_id="1">0,7375</weight>
+  </para>
+  <para id="150">
+    <se lang="russian" variant_id="0">2. Об операциях. ~~~ Геллерт.</se>
+    <se lang="latin" variant_id="1">2. De operationibus. gellert.</se>
+    <weight variant_id="1">0,2625</weight>
+  </para>
+  <para id="151">
+    <se lang="russian" variant_id="0">3. Об оборудовании.</se>
+    <se lang="latin" variant_id="1">3. De supellectile.</se>
+    <weight variant_id="1">1,05</weight>
+  </para>
+  <para id="152">
+    <se lang="russian" variant_id="0">4. О применении чувств.</se>
+    <se lang="latin" variant_id="1">4. De usu sensuum.</se>
+    <weight variant_id="1">0,811765</weight>
+  </para>
+  <para id="153">
+    <se lang="russian" variant_id="0">5. О приложении физических опытов к химическим.</se>
+    <se lang="latin" variant_id="1">5. De applicatione Physicorum experimentorum ad Chymica.</se>
+    <weight variant_id="1">0,612209</weight>
+  </para>
+  <para id="154">
+    <se lang="russian" variant_id="0">6. О родах тел, подлежащих химическому исследованию.</se>
+    <se lang="latin" variant_id="1">6. De generibus corporum chymico examini subjiciendorum.</se>
+    <weight variant_id="1">-0,0625</weight>
+  </para>
+  <para id="155">
+    <se lang="russian" variant_id="0">8. Об органических и неорганических и о трех царствах природы.</se>
+    <se lang="latin" variant_id="1">8. De organicis et inorganicis et de tribus regnis.</se>
+    <weight variant_id="1">0,533333</weight>
+  </para>
+  <para id="156">
+    <se lang="russian" variant_id="0">9. О необходимости избегать двусмысленностей и неясности (цинк растворяет висмут) и о методе.</se>
+    <se lang="latin" variant_id="1">9. De ambagibus et confusionibus fugiendis (Zink löset den Wismut) et de methodo.</se>
+    <weight variant_id="1">0,463581</weight>
+  </para>
+  <para id="157">
+    <se lang="russian" variant_id="0">10. О химических терминах и знаках.</se>
+    <se lang="latin" variant_id="1">10. De terminis et signis chymicis.</se>
+    <weight variant_id="1">0,728571</weight>
+  </para>
+  <para id="158">
+    <se lang="russian" variant_id="0">11. Польза теоретической химии в ремеслах.</se>
+    <se lang="latin" variant_id="1">11. Utilitas Chymiae rationalis in artibus.</se>
+    <weight variant_id="1">0,720879</weight>
+  </para>
+  <para id="159">
+    <se lang="" variant_id="0"></se>
+    <se lang="" variant_id="1"></se>
+    <weight variant_id="1">1,8</weight>
+  </para>
+  <para id="160">
+    <se lang="russian" variant_id="0">NB Я не буду здесь выдавать практику за теорию, не буду обременять неизвестными терминами, не буду затруднять неопределенными и бесплодными объяснениями.</se>
+    <se lang="latin" variant_id="1">NB. Non hic praxim pro theoria vendam, non terminis ignotis obtundam, nec vaga et sterili explicatione obruam.</se>
+    <weight variant_id="1">-0,0684783</weight>
+  </para>
+  <para id="161">
+    <se lang="russian" variant_id="0">Не буду докучать бранью и издевательствами по адресу других и излишним применением математики и не...</se>
+    <se lang="latin" variant_id="1">Nec jurgiis aliorum nec cachinnis. ~~~ Nec nimio Mathematum usu tri stis, nec...</se>
+    <weight variant_id="1">-0,0441176</weight>
+  </para>
+  <para id="162">
+    <se lang="russian" variant_id="0">VI</se>
+    <se lang="latin" variant_id="1">VI</se>
+    <weight variant_id="1">1,8</weight>
+  </para>
+  <para id="163">
+    <se lang="russian" variant_id="0">ОПЫТ ФИЗИЧЕСКОЙ ХИМИИ, СОСТАВЛЕННЫЙ ДЛЯУЧАЩЕЙСЯ МОЛОДЕЖИ 1752</se>
+    <se lang="latin" variant_id="1">TENTAMEN CHYMIAE PHYSICAE IN USUM STUDIOSAEJUVENTUTIS ADORNATUM 1752</se>
+    <weight variant_id="1">4,39286</weight>
+  </para>
+  <para id="164">
+    <se lang="russian" variant_id="0">1) Экспериментальная химия будет состоять в операциях с добавлением прямых и непосредственных из них выводов.</se>
+    <se lang="latin" variant_id="1">1. Experimentalis chymia consistit in operationibus cum adjunctis pronis et immediatis hinc inde sequelis.</se>
+    <weight variant_id="1">0,296842</weight>
+  </para>
+  <para id="165">
+    <se lang="russian" variant_id="0">2) Теоретическая будет целиком заключаться в выяснении качеств и явлений.</se>
+    <se lang="latin" variant_id="1">2. Rationalis in reddendis rationalibus qualitatum et phaenomenorum tota erit.</se>
+    <weight variant_id="1">0,272308</weight>
+  </para>
+  <para id="166">
+    <se lang="russian" variant_id="0">VII</se>
+    <se lang="latin" variant_id="1">VII</se>
+    <weight variant_id="1">1,8</weight>
+  </para>
+  <para id="167">
+    <se lang="russian" variant_id="0">ВВЕДЕНИЕ</se>
+    <se lang="latin" variant_id="1">PROLEGOMENA</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="168">
+    <se lang="russian" variant_id="0">Изучение химии имеет двоякую цель: одна — усовершенствование естественных наук, другая — умножение жизненных благ.</se>
+    <se lang="latin" variant_id="1">Chymiae studium duplex est; alterum ad excolendam scientiam naturalem, alterum ad vitae commoda augenda pertinet.</se>
+    <weight variant_id="1">-0,0015</weight>
+  </para>
+  <para id="169">
+    <se lang="russian" variant_id="0">Последняя цель, к которой с большими денежными затратами и с огромным трудом стремились во все времена, особенно же в настоящем и предыдущем веках, достигла хороших успехов; первая же, намеченная только несколькими любознательными людьми, почти что не обогатила философского познания природы.</se>
+    <se lang="latin" variant_id="1">Hoc ab omni aevo, potissimum vero praesenti et proxime elapso seculo magnis sumptibus et summa opera excultum, felices habet successus; illud autem vix a quibusdam curiosis susceptum, nullis fere fructibus philisophicum naturae penu locupletavit.</se>
+    <weight variant_id="1">0,243925</weight>
+  </para>
+  <para id="170">
+    <se lang="russian" variant_id="0">Почему все это так произошло, напомню здесь в немногих словах.</se>
+    <se lang="latin" variant_id="1">Unde hoc profectum sit, paucis hic monebo.</se>
+    <weight variant_id="1">0,162162</weight>
+  </para>
+  <para id="171">
+    <se lang="russian" variant_id="0">Уход за телом большинством слепых смертных ставится выше развития души: поэтому неудивительно, чтог безмерным трудом химиков открыто было почти бесчисленное количество того, что служит для сохранения здоровья, для возбуждения аппетита, для украшения тела, для всякого рода роскоши и тщеславия, наконец, к изощрению страстей и к причинению смерти противникам. ~~~ Ясное же познание всего этого — самый верный путь к дальнейшему развитию и усовершенствованию того самого, к чему они так энергично стремятся, — осталось в пренебрежении как менее плодотворное.</se>
+    <se lang="latin" variant_id="1">Cum corporis cultura pluris, quam ea animi, a caecis mortalibus aestimatur, mirum sane non est, infinita fere, quae ad tuendam valetudinem, ad gulam irritandam, ad corpus ornandum, ad omne splendoris et ostentationis genus, imo quae ad acuendas libidines et necem invisorum inserviant, improbo chymicorum labore erutai fuisse; horum autem claram cognitionem, certissimam nempe viam, ad ea ipsa, quae tam avide appetuntur, ultro prosequenda et perficienda, quasi minus fructuosam, neglectam mansisse.</se>
+    <weight variant_id="1">-0,0167053</weight>
+  </para>
+  <para id="172">
+    <se lang="russian" variant_id="0">Впрочем, были и в этом столетии ученые, приступившие к этому тяжкому делу и производившие похвальную попытку проложить дорогу во внутренние тайники тел и зажечь свет среди этой темной ночи; но, обманутые в своих ожиданиях, они и у других, казалось, отняли почти всякую надежду на успех. Но в великих делах даже попытка была для них не бесславной.</se>
+    <se lang="latin" variant_id="1">Quamvis autem non defuerunt hoc seculo viri, qui laudabili conatu, arduum hoc opus aggressi, viam in interiores corporum adytus aperire et in tanta nocte lucem accendere tentaverint; tamen voto frustrati, etiam aliis omnem fere spem felicioris successus praecidisse visi sunt. ~~~ Sed in magnis etiam tentasse non inglorium illis fuit.</se>
+    <weight variant_id="1">-0,00367133</weight>
+  </para>
+  <para id="173">
+    <se lang="russian" variant_id="0">И мы не осмелились бы приступить к этому, если бы сначала не считали возможным, размышлением преодолев все препятствия, руководствуясь строгим геометрическим методом и пользуясь указаниями бесчисленных явлений, миновать, наконец, все изгибы и проложить тропу к великому свету новой здравой философии.</se>
+    <se lang="latin" variant_id="1">Nos equidem id aggredi ausi non fuissemus, nisi prius, excussis pensitatius omnibus obstaculis, crederemus ad tantam exortae sanioris philosophiae claritatem, duce severiore Geometrarum methodo, indigitantibus innumeris phaenomenis, tandem anfractus superari et semitam quandam sterni posse.</se>
+    <weight variant_id="1">0,295349</weight>
+  </para>
+  <para id="174">
+    <se lang="russian" variant_id="0">VIII</se>
+    <se lang="latin" variant_id="1">VIII</se>
+    <weight variant_id="1">1,8</weight>
+  </para>
+  <para id="175">
+    <se lang="russian" variant_id="0">Физическая химия есть наука, дающая объяснение на основании физических начал и опытов тому, что происходит при смешении тел вследствие химических операций.</se>
+    <se lang="latin" variant_id="1">Chymia physica est scientia ex principiis et experimentis physicis reddendi rationes eorum, quae in mixtione corporum fiunt per operationes chymicas.</se>
+    <weight variant_id="1">0,28855</weight>
+  </para>
+  <para id="176">
+    <se lang="russian" variant_id="0">Она может быть названа также химической философией, но в совершенно другом смысле, чем та философия, где не только объяснения, но даже самые операции обычно производятся тайным образом.</se>
+    <se lang="latin" variant_id="1">Potest etiam Philosophia chymica appellari, in diversa tamen prorsus significatione ab illa philosophia, ubi non solum rationes, verum etiam operationes clanculum institui solent.</se>
+    <weight variant_id="1">0,296203</weight>
+  </para>
+  <para id="177">
+    <se lang="russian" variant_id="0">IX</se>
+    <se lang="latin" variant_id="1">IX</se>
+    <weight variant_id="1">1,8</weight>
+  </para>
+  <para id="178">
+    <se lang="russian" variant_id="0">Камеди.</se>
+    <se lang="latin" variant_id="1">Gummata.</se>
+    <weight variant_id="1">0,2625</weight>
+  </para>
+  <para id="179">
+    <se lang="russian" variant_id="0">Выварки и эссенции.</se>
+    <se lang="latin" variant_id="1">Decocta et essentiae.</se>
+    <weight variant_id="1">0,266667</weight>
+  </para>
+  <para id="180">
+    <se lang="russian" variant_id="0">Отвары и желатины.</se>
+    <se lang="latin" variant_id="1">Juscula et gelatinae.</se>
+    <weight variant_id="1">0,247059</weight>
+  </para>
+  <para id="181">
+    <se lang="russian" variant_id="0">Клеи.</se>
+    <se lang="latin" variant_id="1">Collae.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="182">
+    <se lang="russian" variant_id="0">Выжатые соки и сиропы.</se>
+    <se lang="latin" variant_id="1">Succi expressi et robi.</se>
+    <weight variant_id="1">0,285</weight>
+  </para>
+  <para id="183">
+    <se lang="russian" variant_id="0">Мед.</se>
+    <se lang="latin" variant_id="1">Mel.</se>
+    <weight variant_id="1">0,3</weight>
+  </para>
+  <para id="184">
+    <se lang="russian" variant_id="0">Мед очень известен и различается только по чистоте; виды камедей различны в зависимости от различия растений, из которых они текут, как аравийская камедь, сандарак.</se>
+    <se lang="latin" variant_id="1">Mel notissimum est, nec variat, nisii diversa puritate; gummatum species sunt diversae pro diversitate plantarum ex quibus manant, ut gummi arabicum, gummi sandaraca.</se>
+    <weight variant_id="1">0,293662</weight>
+  </para>
+  <para id="185">
+    <se lang="russian" variant_id="0">Выварки получаются из растений с помощью кипящей воды и выпариванием сгущаются в эссенции. ~~~ Отвары и желатины делаются тем же способом, но из животных [веществ]. ~~~ Выжатые соки суть соки ягод.</se>
+    <se lang="latin" variant_id="1">Decocta ex plantis aqua bulliente eliciuntur, et evaporatione in essentias inspissantur; juscula et gelatinae eodem fiunt modo sed ex animalibus; succi expressi sunt succi baccarum.</se>
+    <weight variant_id="1">-0,112857</weight>
+  </para>
+  <para id="186">
+    <se lang="russian" variant_id="0">Сиропы делаются при сгущении их на медленном огне в вязкую массу.</se>
+    <se lang="latin" variant_id="1">Robi fiunt si leni calore in mellagineam massam inspissantur.</se>
+    <weight variant_id="1">0,288889</weight>
+  </para>
+  <para id="187">
+    <se lang="russian" variant_id="0">X</se>
+    <se lang="latin" variant_id="1">X</se>
+    <weight variant_id="1">1,8</weight>
+  </para>
+  <para id="188">
+    <se lang="russian" variant_id="0">1. По порядку средств.</se>
+    <se lang="latin" variant_id="1">1. Per ordinem mediorum.</se>
+    <weight variant_id="1">0,871429</weight>
+  </para>
+  <para id="189">
+    <se lang="russian" variant_id="0">2. По порядку операций.</se>
+    <se lang="latin" variant_id="1">2. Per ordinem operationum.</se>
+    <weight variant_id="1">0,845455</weight>
+  </para>
+  <para id="190">
+    <se lang="russian" variant_id="0">3. По порядку качеств тел.</se>
+    <se lang="latin" variant_id="1">3. Per ordinem qualitatum corporum.</se>
+    <weight variant_id="1">0,6875</weight>
+  </para>
+  <para id="191">
+    <se lang="russian" variant_id="0">4. По порядку родов тел.</se>
+    <se lang="latin" variant_id="1">4. Per ordinem generum corporum.</se>
+    <weight variant_id="1">0,690909</weight>
+  </para>
+  <para id="192">
+    <se lang="russian" variant_id="0">XI</se>
+    <se lang="latin" variant_id="1">XI</se>
+    <weight variant_id="1">1,8</weight>
+  </para>
+  <para id="193">
+    <se lang="russian" variant_id="0">КАЧЕСТВА</se>
+    <se lang="latin" variant_id="1">QUALITATES</se>
+    <weight variant_id="1">0,233333</weight>
+  </para>
+  <para id="194">
+    <se lang="russian" variant_id="0">Сцепление.</se>
+    <se lang="latin" variant_id="1">Cohaesio.</se>
+    <weight variant_id="1">0,27</weight>
+  </para>
+  <para id="195">
+    <se lang="" variant_id="0">[Тела] твердые, жидкие, жесткие, мягкие, гибкие, ломкие.</se>
+    <se lang="latin" variant_id="1">Solida, fluida, dura, mollia, flexibilia, fragilia.</se>
+    <weight variant_id="1">0,274468</weight>
+  </para>
+  <para id="196">
+    <se lang="russian" variant_id="0">Упругость.</se>
+    <se lang="latin" variant_id="1">Vis elastica.</se>
+    <weight variant_id="1">0,245455</weight>
+  </para>
+  <para id="197">
+    <se lang="russian" variant_id="0">Цвет.</se>
+    <se lang="latin" variant_id="1">Color.</se>
+    <weight variant_id="1">0,25</weight>
+  </para>
+  <para id="198">
+    <se lang="" variant_id="0">[Тело] светящееся, освещенное, непрозрачное, прозрачное, блеск, сверкание.</se>
+    <se lang="latin" variant_id="1">Luminosum, illuminatum, opacum, transparens, splendor, fulgor.</se>
+    <weight variant_id="1">0,243103</weight>
+  </para>
+  <para id="199">
+    <se lang="russian" variant_id="0">Вкус.</se>
+    <se lang="latin" variant_id="1">Sapor.</se>
+    <weight variant_id="1">0,25</weight>
+  </para>
+  <para id="200">
+    <se lang="russian" variant_id="0">Запах.</se>
+    <se lang="latin" variant_id="1">Odor.</se>
+    <weight variant_id="1">1,8</weight>
+  </para>
+  <para id="201">
+    <se lang="russian" variant_id="0">Притяжения.</se>
+    <se lang="latin" variant_id="1">At[t]ractiones.</se>
+    <weight variant_id="1">-0,0375</weight>
+  </para>
+  <para id="202">
+    <se lang="russian" variant_id="0">Электрические, магнитные.</se>
+    <se lang="latin" variant_id="1">Electricae, magneticae.</se>
+    <weight variant_id="1">0,273913</weight>
+  </para>
+  <para id="203">
+    <se lang="russian" variant_id="0">Лечебные силы.</se>
+    <se lang="latin" variant_id="1">Vires medicatae.</se>
+    <weight variant_id="1">0,257143</weight>
+  </para>
+  <para id="204">
+    <se lang="russian" variant_id="0">СРЕДСТВА</se>
+    <se lang="latin" variant_id="1">MEDIA</se>
+    <weight variant_id="1">0,15</weight>
+  </para>
+  <para id="205">
+    <se lang="russian" variant_id="0">Огонь.</se>
+    <se lang="latin" variant_id="1">Ignis.</se>
+    <weight variant_id="1">0,3</weight>
+  </para>
+  <para id="206">
+    <se lang="russian" variant_id="0">Его степени.</se>
+    <se lang="latin" variant_id="1">Ejus gradus.</se>
+    <weight variant_id="1">0,3</weight>
+  </para>
+  <para id="207">
+    <se lang="russian" variant_id="0">Интенсивность, количество материи, времени.</se>
+    <se lang="latin" variant_id="1">Intensitas, quantitas materiae, temporis.</se>
+    <weight variant_id="1">0,284615</weight>
+  </para>
+  <para id="208">
+    <se lang="russian" variant_id="0">Самое пламя или жар, питание.</se>
+    <se lang="latin" variant_id="1">Flamma ipsa vel aestus, alimentum.</se>
+    <weight variant_id="1">0,242308</weight>
+  </para>
+  <para id="209">
+    <se lang="russian" variant_id="0">Скорость пламени.</se>
+    <se lang="latin" variant_id="1">Celeritas flammae.</se>
+    <weight variant_id="1">0,282353</weight>
+  </para>
+  <para id="210">
+    <se lang="russian" variant_id="0">Воздух.</se>
+    <se lang="latin" variant_id="1">Aër.</se>
+    <weight variant_id="1">-0,05</weight>
+  </para>
+  <para id="211">
+    <se lang="russian" variant_id="0">Вода.</se>
+    <se lang="latin" variant_id="1">Aqua.</se>
+    <weight variant_id="1">0,24</weight>
+  </para>
+  <para id="212">
+    <se lang="russian" variant_id="0">Разрыхление.</se>
+    <se lang="latin" variant_id="1">Relaxatio.</se>
+    <weight variant_id="1">0,245455</weight>
+  </para>
+  <para id="213">
+    <se lang="russian" variant_id="0">Ожижение, размягчение, разведение, обжигание, препарация, пульверизация.</se>
+    <se lang="latin" variant_id="1">Liquefactio, emollitio, dilutio, calcinatio, praeparatio, pulverizatio.</se>
+    <weight variant_id="1">0,295522</weight>
+  </para>
+  <para id="214">
+    <se lang="russian" variant_id="0">Уплотнение.</se>
+    <se lang="latin" variant_id="1">Concretio.</se>
+    <weight variant_id="1">0,272727</weight>
+  </para>
+  <para id="215">
+    <se lang="russian" variant_id="0">Замерзание, отвердение, сгущение, кристаллизация, свертывание, окоченение, окаменение, остекловывание, закаливание.</se>
+    <se lang="latin" variant_id="1">Congelatio, induratio, inspissatio, crystallizatio, coagulatio, inrigidatio, petrificatio, vitrificatio, recoctio.</se>
+    <weight variant_id="1">0,297196</weight>
+  </para>
+  <para id="216">
+    <se lang="russian" variant_id="0">Растворение.</se>
+    <se lang="latin" variant_id="1">Solutio.</se>
+    <weight variant_id="1">0,166667</weight>
+  </para>
+  <para id="217">
+    <se lang="russian" variant_id="0">Собственно растворение, извлечение, вываривание, выщелачивание, амальгамирование, цементация, разъедание, деликвация и растворение в парах.</se>
+    <se lang="latin" variant_id="1">Solutio κατ’εξοχην, extractio, decoctio, elutriatio, amalgamatio, cementatio, corrosio, deliquatio et solutio vaporosa.</se>
+    <weight variant_id="1">0,247706</weight>
+  </para>
+  <para id="218">
+    <se lang="russian" variant_id="0">Осаждение.</se>
+    <se lang="latin" variant_id="1">Praecipitatio.</se>
+    <weight variant_id="1">0,190909</weight>
+  </para>
+  <para id="219">
+    <se lang="russian" variant_id="0">Собственно осаждение, восстановление, детонация, купеллирование, химическое произрастание.</se>
+    <se lang="latin" variant_id="1">Praecipitatio in specie, reductio, detonatio, cupellatio, vegetatio chymica.</se>
+    <weight variant_id="1">0,235714</weight>
+  </para>
+  <para id="220">
+    <se lang="russian" variant_id="0">Дигерирование.</se>
+    <se lang="latin" variant_id="1">Digestio.</se>
+    <weight variant_id="1">0,15</weight>
+  </para>
+  <para id="221">
+    <se lang="russian" variant_id="0">Брожение, гниение, минеральное дигерирование, верберация.</se>
+    <se lang="latin" variant_id="1">Fermentatio, putrefactio, digestio mineralis, verberatio.</se>
+    <weight variant_id="1">0,3</weight>
+  </para>
+  <para id="222">
+    <se lang="russian" variant_id="0">Возгонка.</se>
+    <se lang="latin" variant_id="1">Sublimatio.</se>
+    <weight variant_id="1">0,24</weight>
+  </para>
+  <para id="223">
+    <se lang="russian" variant_id="0">Сухая возгонка, влажная возгонка или дестилляция, кремация, очищение.</se>
+    <se lang="latin" variant_id="1">Sublimatio sicca, sublimatio humida seu destillatio, crematio, rectificatio.</se>
+    <weight variant_id="1">0,266667</weight>
+  </para>
+  <para id="224">
+    <se lang="russian" variant_id="0">Кислое Красное Соленое Желтое Горькое Синее</se>
+    <se lang="latin" variant_id="1">Acidum Rubrum Salsum Flavum Amarum Caeruleum</se>
+    <weight variant_id="1">0,292308</weight>
+  </para>
+  <para id="225">
+    <se lang="russian" variant_id="0">ТЕЛА</se>
+    <se lang="latin" variant_id="1">CORPORA</se>
+    <weight variant_id="1">0,12</weight>
+  </para>
+  <para id="226">
+    <se lang="russian" variant_id="0">Солевые.</se>
+    <se lang="latin" variant_id="1">Salina.</se>
+    <weight variant_id="1">0,2625</weight>
+  </para>
+  <para id="227">
+    <se lang="russian" variant_id="0">Квасцы, морская соль.</se>
+    <se lang="latin" variant_id="1">Alumen, sal marinum.</se>
+    <weight variant_id="1">0,284211</weight>
+  </para>
+  <para id="228">
+    <se lang="russian" variant_id="0">Селитра, бура, нашатырь, соль винного камня, сахар (и другие существенные соли).</se>
+    <se lang="latin" variant_id="1">Nitrum, Borax, Saccharum (et alii sales essentiales).</se>
+    <weight variant_id="1">-0,3</weight>
+  </para>
+  <para id="229">
+    <se lang="russian" variant_id="0">Зола, соль оленьего рога, купоросы и другие металлические соли.</se>
+    <se lang="latin" variant_id="1">Cor. ~~~ Cervi, vitriola (et alii sales metallici).</se>
+    <weight variant_id="1">0,25</weight>
+  </para>
+  <para id="230">
+    <se lang="russian" variant_id="0">Соляные спирты.</se>
+    <se lang="latin" variant_id="1">Cineres clav.</se>
+    <weight variant_id="1">0,253846</weight>
+  </para>
+  <para id="231">
+    <se lang="russian" variant_id="0">Уксус, спирт винного камня (перегнанные соки ягод).</se>
+    <se lang="latin" variant_id="1">Acetum, spiritus tartari (succi baccarum destillati).</se>
+    <weight variant_id="1">-0,00681818</weight>
+  </para>
+  <para id="232">
+    <se lang="russian" variant_id="0">Серный спирт из камфоры.</se>
+    <se lang="latin" variant_id="1">Spiritus salini.</se>
+    <weight variant_id="1">0,1875</weight>
+  </para>
+  <para id="233">
+    <se lang="russian" variant_id="0">Спирт соляной, купоросный, масло железное купоросное, медное купоросное.</se>
+    <se lang="latin" variant_id="1">Spir. sulph. per camp. sp. is, li, oleum li le, li eum.</se>
+    <weight variant_id="1">0,195918</weight>
+  </para>
+  <para id="234">
+    <se lang="russian" variant_id="0">Из белого купороса.</se>
+    <se lang="latin" variant_id="1">Ex d albo. </se>
+    <weight variant_id="1">-0,15</weight>
+  </para>
+  <para id="235">
+    <se lang="russian" variant_id="0">Купоросные спирты, соляной спирт.</se>
+    <se lang="latin" variant_id="1">Spir. ri, Sp. is.</se>
+    <weight variant_id="1">-0,036</weight>
+  </para>
+  <para id="236">
+    <se lang="russian" variant_id="0">Серные.</se>
+    <se lang="latin" variant_id="1">Sulphurea.</se>
+    <weight variant_id="1">0,1875</weight>
+  </para>
+  <para id="237">
+    <se lang="russian" variant_id="0">Сера, янтарь, асфальт, каменный уголь, воск, камфара, сосновая смола и т. д.</se>
+    <se lang="latin" variant_id="1">Sulphur,a succinum, asphaltum, lythantrax,b cera, camphora, resina pini, etc.</se>
+    <weight variant_id="1">0,281818</weight>
+  </para>
+  <para id="238">
+    <se lang="russian" variant_id="0">Жир, амбра, фосфор.</se>
+    <se lang="latin" variant_id="1">Pinguedo, ambra, phosphorus.</se>
+    <weight variant_id="1">0,15</weight>
+  </para>
+  <para id="239">
+    <se lang="russian" variant_id="0">Масла.</se>
+    <se lang="latin" variant_id="1">Olea.</se>
+    <weight variant_id="1">0,25</weight>
+  </para>
+  <para id="240">
+    <se lang="russian" variant_id="0">Нефть, горное масло, животное масло, масло винного камня, деготь, льняное масло.</se>
+    <se lang="latin" variant_id="1">Naphta, petroleum, āāle, tart. ~~~ Emp. oleum expressum lini.</se>
+    <weight variant_id="1">-0,0509434</weight>
+  </para>
+  <para id="241">
+    <se lang="russian" variant_id="0">Спирт, водка.</se>
+    <se lang="latin" variant_id="1">Spiritus, aqua vitae.</se>
+    <weight variant_id="1">0,138462</weight>
+  </para>
+  <para id="242">
+    <se lang="russian" variant_id="0">Соки.</se>
+    <se lang="latin" variant_id="1">Succi.</se>
+    <weight variant_id="1">0,25</weight>
+  </para>
+  <para id="243">
+    <se lang="russian" variant_id="0">Камедь аравийская, рыбий клей, желе, мед</se>
+    <se lang="latin" variant_id="1">Gummi arabicum, colla piscium, gelée, mel.</se>
+    <weight variant_id="1">0,283333</weight>
+  </para>
+  <para id="244">
+    <se lang="russian" variant_id="0">Металлические.</se>
+    <se lang="latin" variant_id="1">Metallica.</se>
+    <weight variant_id="1">0,190909</weight>
+  </para>
+  <para id="245">
+    <se lang="russian" variant_id="0">Камни и земли.</se>
+    <se lang="latin" variant_id="1">Lapides et terrae.</se>
+    <weight variant_id="1">0,207692</weight>
+  </para>
+  <para id="246">
+    <se lang="russian" variant_id="0">Песок, глина, граниты [?], мрамор, мел, известь, кристалл, селенит, ил, пирит (кремень), шпат и т.д.</se>
+    <se lang="latin" variant_id="1">Arena, argilla, rupes, marmor, creta, calx, crystallus, selenites, limus, pyrites, (кремень) spatum etc.</se>
+    <weight variant_id="1">0,27931</weight>
+  </para>
+  <para id="247">
+    <se lang="russian" variant_id="0">Опыты и инструменты физические</se>
+    <se lang="latin" variant_id="1">Experimenta et instrumenta physica</se>
+    <weight variant_id="1">0,257143</weight>
+  </para>
+  <para id="248">
+    <se lang="russian" variant_id="0">XII</se>
+    <se lang="latin" variant_id="1">XII</se>
+    <weight variant_id="1">1,8</weight>
+  </para>
+  <para id="249">
+    <se lang="russian" variant_id="0">ХИМИЧЕСКИЕ ОПЕРАЦИИ</se>
+    <se lang="latin" variant_id="1">OPERATIONES CHYMICAE</se>
+    <weight variant_id="1">0,284211</weight>
+  </para>
+  <para id="250">
+    <se lang="russian" variant_id="0">I.</se>
+    <se lang="latin" variant_id="1">I.</se>
+    <weight variant_id="1">1,8</weight>
+  </para>
+  <para id="251">
+    <se lang="russian" variant_id="0">Разрыхление {Ожижение Размягчение Разведение Обжигание Препарация} {Замерзание Отвердение Сшущение Кристаллизация}</se>
+    <se lang="latin" variant_id="1">Relaxatio {Liquefactio Emollitio Dilutio Calcinatio Praeparatio} {Congelatio Induratio Inspissatio Crystallizatio}</se>
+    <weight variant_id="1">0,3</weight>
+  </para>
+  <para id="252">
+    <se lang="russian" variant_id="0">II.</se>
+    <se lang="latin" variant_id="1">II.</se>
+    <weight variant_id="1">1,8</weight>
+  </para>
+  <para id="253">
+    <se lang="russian" variant_id="0">Уплотнение {Свертывание Окоченение Окаменение Остекловывание Закаливание}</se>
+    <se lang="latin" variant_id="1">Concretio {Coagulatio Irrigidatio Petrificatio Vitrificatio Recoctio}</se>
+    <weight variant_id="1">0,286154</weight>
+  </para>
+  <para id="254">
+    <se lang="russian" variant_id="0">III.</se>
+    <se lang="latin" variant_id="1">III.</se>
+    <weight variant_id="1">1,8</weight>
+  </para>
+  <para id="255">
+    <se lang="russian" variant_id="0">Растворение {Собственно растворение Извлечение Отваривание Выщелачивание Амальгамирование Цементация Разъедание Растворение в парах}</se>
+    <se lang="latin" variant_id="1">Solutio {Solutio in spec. ~~~ Extractio Decoctio Elutriatio Amalgamatio Ceamentatio Corrosio Soultio vaporosa}</se>
+    <weight variant_id="1">-0,0367347</weight>
+  </para>
+  <para id="256">
+    <se lang="russian" variant_id="0">IV.</se>
+    <se lang="latin" variant_id="1">IV.</se>
+    <weight variant_id="1">1,8</weight>
+  </para>
+  <para id="257">
+    <se lang="russian" variant_id="0">Осаждение {Собственно осаждение Восстановление Детонация Купеллирование Химическое произрастание}</se>
+    <se lang="latin" variant_id="1">Praecipita[ti]o {Praecipitatio in spec. ~~~ Recutio Detonatio Cupellatio Vegetatio chymica}</se>
+    <weight variant_id="1">-0,0164634</weight>
+  </para>
+  <para id="258">
+    <se lang="russian" variant_id="0">V.</se>
+    <se lang="latin" variant_id="1">V.</se>
+    <weight variant_id="1">1,8</weight>
+  </para>
+  <para id="259">
+    <se lang="russian" variant_id="0">Дигерирование {Минеральное дигерирование Брожение Гниение Раверберация}</se>
+    <se lang="latin" variant_id="1">Digestio {Digestio mineralis Fermentatio Putrefactio Reverberatio}</se>
+    <weight variant_id="1">0,275806</weight>
+  </para>
+  <para id="260">
+    <se lang="russian" variant_id="0">VI.</se>
+    <se lang="latin" variant_id="1">VI.</se>
+    <weight variant_id="1">1,8</weight>
+  </para>
+  <para id="261">
+    <se lang="russian" variant_id="0">Возгонка {Сухая возгонка Влажная возгонка, или дестилляция Очищение Кремация}</se>
+    <se lang="latin" variant_id="1">Sublima[ti]o {Sublimatio sicca Sumlimatio humida, seu destillatio Rectificatio Crematio}</se>
+    <weight variant_id="1">0,252857</weight>
+  </para>
+  <para id="262">
+    <se lang="russian" variant_id="0">XII</se>
+    <se lang="latin" variant_id="1">XIII</se>
+    <weight variant_id="1">0,225</weight>
+  </para>
+  <para id="263">
+    <se lang="russian" variant_id="0">1. Обжигание и кремация.</se>
+    <se lang="latin" variant_id="1">1. Calcinatio et crematio.</se>
+    <weight variant_id="1">0,873913</weight>
+  </para>
+  <para id="264">
+    <se lang="russian" variant_id="0">2. Сгущение, с различными пигментами.</se>
+    <se lang="latin" variant_id="1">2. Inspissatio, cum variis pigmentis.</se>
+    <weight variant_id="1">0,8</weight>
+  </para>
+  <para id="265">
+    <se lang="russian" variant_id="0">3. Растворение в щелочах.</se>
+    <se lang="latin" variant_id="1">3. Solutio in alcalinis.</se>
+    <weight variant_id="1">0,886957</weight>
+  </para>
+  <para id="266">
+    <se lang="russian" variant_id="0">7. Извлечение.</se>
+    <se lang="latin" variant_id="1">7. Extractio.</se>
+    <weight variant_id="1">1,27857</weight>
+  </para>
+  <para id="267">
+    <se lang="russian" variant_id="0">8. Осаждение.</se>
+    <se lang="latin" variant_id="1">8. Praecipitatio.</se>
+    <weight variant_id="1">1,21429</weight>
+  </para>
+  <para id="268">
+    <se lang="russian" variant_id="0">9. Детонация.</se>
+    <se lang="latin" variant_id="1">9. Detonatlo.</se>
+    <weight variant_id="1">1,3</weight>
+  </para>
+  <para id="269">
+    <se lang="russian" variant_id="0">10. Брожение.</se>
+    <se lang="latin" variant_id="1">10. Fermentatio.</se>
+    <weight variant_id="1">1,23571</weight>
+  </para>
+  <para id="270">
+    <se lang="russian" variant_id="0">11. Гниение.</se>
+    <se lang="latin" variant_id="1">11. Putrefactio.</se>
+    <weight variant_id="1">1,20769</weight>
+  </para>
+  <para id="271">
+    <se lang="russian" variant_id="0">12. Дестилляция.</se>
+    <se lang="latin" variant_id="1">12. Destillatio.</se>
+    <weight variant_id="1">1,3</weight>
+  </para>
+  <para id="272">
+    <se lang="russian" variant_id="0">XIV</se>
+    <se lang="latin" variant_id="1">XIV</se>
+    <weight variant_id="1">1,8</weight>
+  </para>
+  <para id="273">
+    <se lang="russian" variant_id="0">1. Растворения.</se>
+    <se lang="latin" variant_id="1">1. Solutiones.</se>
+    <weight variant_id="1">1,28</weight>
+  </para>
+  <para id="274">
+    <se lang="russian" variant_id="0">2. Кристаллизации.</se>
+    <se lang="latin" variant_id="1">2. Crystallisationes.</se>
+    <weight variant_id="1">1,25263</weight>
+  </para>
+  <para id="275">
+    <se lang="russian" variant_id="0">3. Осаждения.</se>
+    <se lang="latin" variant_id="1">3. Praecipitationes.</se>
+    <weight variant_id="1">1,15</weight>
+  </para>
+  <para id="276">
+    <se lang="russian" variant_id="0">4. Обжигания.</se>
+    <se lang="latin" variant_id="1">4. Calcinationes.</se>
+    <weight variant_id="1">1,21429</weight>
+  </para>
+  <para id="277">
+    <se lang="russian" variant_id="0">5. Плавления.</se>
+    <se lang="latin" variant_id="1">5. Fusiones.</se>
+    <weight variant_id="1">1,27692</weight>
+  </para>
+  <para id="278">
+    <se lang="russian" variant_id="0">6. Возгонки.</se>
+    <se lang="latin" variant_id="1">6. Sublimationes.</se>
+    <weight variant_id="1">1,18462</weight>
+  </para>
+  <para id="279">
+    <se lang="russian" variant_id="0">7. Дигерирования.</se>
+    <se lang="latin" variant_id="1">7. Digestiones.</se>
+    <weight variant_id="1">1,2625</weight>
+  </para>
+  <para id="280">
+    <se lang="russian" variant_id="0">8. Расплывания.</se>
+    <se lang="latin" variant_id="1">8. Deliquationes.</se>
+    <weight variant_id="1">1,2625</weight>
+  </para>
+  <para id="281">
+    <se lang="russian" variant_id="0">XV</se>
+    <se lang="latin" variant_id="1">XV</se>
+    <weight variant_id="1">1,8</weight>
+  </para>
+  <para id="282">
+    <se lang="russian" variant_id="0">ФИЗИЧЕСКИЕ ОПЫТЫ</se>
+    <se lang="latin" variant_id="1">EXPERIMENTA PHYSICA</se>
+    <weight variant_id="1">0,24375</weight>
+  </para>
+  <para id="283">
+    <se lang="russian" variant_id="0">I.</se>
+    <se lang="latin" variant_id="1">I.</se>
+    <weight variant_id="1">1,8</weight>
+  </para>
+  <para id="284">
+    <se lang="russian" variant_id="0">Удельный вес {1. Твердых [тел] 2. Жидких [тел]}</se>
+    <se lang="latin" variant_id="1">Gravitas specifica {1. Solidorum 2. Fluidorum}</se>
+    <weight variant_id="1">1,15017</weight>
+  </para>
+  <para id="285">
+    <se lang="russian" variant_id="0">II.</se>
+    <se lang="latin" variant_id="1">II.</se>
+    <weight variant_id="1">1,8</weight>
+  </para>
+  <para id="286">
+    <se lang="russian" variant_id="0">Сцепление {1.Жидких [тел] по числу капель 2. Твердых [тел]}</se>
+    <se lang="latin" variant_id="1">Cohaesio {1. Fluidorum 2. Solidorum}</se>
+    <weight variant_id="1">0,645714</weight>
+  </para>
+  <para id="287">
+    <se lang="russian" variant_id="0">III.</se>
+    <se lang="latin" variant_id="1">III.</se>
+    <weight variant_id="1">1,8</weight>
+  </para>
+  <para id="288">
+    <se lang="russian" variant_id="0">Фигуры {1. Кристаллов солей. ~~~ 2. „ металлов 3. „ разных смешанных [тел]}</se>
+    <se lang="latin" variant_id="1">Figurae {1. crystallorum salinorum 2. „ metallicorum 3. „ et variorum mixtorum}</se>
+    <weight variant_id="1">0,532456</weight>
+  </para>
+  <para id="289">
+    <se lang="russian" variant_id="0">IV.</se>
+    <se lang="latin" variant_id="1">IV.</se>
+    <weight variant_id="1">1,8</weight>
+  </para>
+  <para id="290">
+    <se lang="russian" variant_id="0">Микроскопическое наблюдение {1) движений 2) частиц}</se>
+    <se lang="latin" variant_id="1">Observat[io] microscop[ica] {1) motuum 2) particularum}</se>
+    <weight variant_id="1">1,13161</weight>
+  </para>
+  <para id="291">
+    <se lang="russian" variant_id="0">V.</se>
+    <se lang="latin" variant_id="1">V.</se>
+    <weight variant_id="1">1,8</weight>
+  </para>
+  <para id="292">
+    <se lang="russian" variant_id="0">Дигерирование в папиновой машине {1) растворов 2) летучих [тел]}</se>
+    <se lang="latin" variant_id="1">Digestor papin. ~~~ {1) solutionum 2) volatilium}</se>
+    <weight variant_id="1">0,433333</weight>
+  </para>
+  <para id="293">
+    <se lang="russian" variant_id="0">VI.</se>
+    <se lang="latin" variant_id="1">VI.</se>
+    <weight variant_id="1">1,8</weight>
+  </para>
+  <para id="294">
+    <se lang="russian" variant_id="0">Градус теплоты {1) термометрами 2) пирометрами}</se>
+    <se lang="latin" variant_id="1">Gradus cal. ~~~ {1) thermometris 2) pyrometris}</se>
+    <weight variant_id="1">0,527586</weight>
+  </para>
+  <para id="295">
+    <se lang="russian" variant_id="0">VII.</se>
+    <se lang="latin" variant_id="1">VII.</se>
+    <weight variant_id="1">1,8</weight>
+  </para>
+  <para id="296">
+    <se lang="russian" variant_id="0">Растиранием {1) в воде 2) в спирте 3) в маслах}</se>
+    <se lang="latin" variant_id="1">Trituratione {1) in aqua 2) in spiritu 3) in oleis}</se>
+    <weight variant_id="1">1,08741</weight>
+  </para>
+  <para id="297">
+    <se lang="russian" variant_id="0">VIII.</se>
+    <se lang="latin" variant_id="1">VIII.</se>
+    <weight variant_id="1">1,8</weight>
+  </para>
+  <para id="298">
+    <se lang="russian" variant_id="0">Преломление при изменении теплоты</se>
+    <se lang="latin" variant_id="1">Refractio variato calore</se>
+    <weight variant_id="1">0,195652</weight>
+  </para>
+  <para id="299">
+    <se lang="russian" variant_id="0">IX.</se>
+    <se lang="latin" variant_id="1">IX.</se>
+    <weight variant_id="1">1,8</weight>
+  </para>
+  <para id="300">
+    <se lang="russian" variant_id="0">Скорости {1) ожижения 2) кипения 3) замерзания 4) кристаллизации 5) растворения 6) извлечения 7) амальгамирования 8) возгонки 9) дестилляции 10) горения}</se>
+    <se lang="latin" variant_id="1">Celeritates {1) liquefactionis 2) ebullitionis 3) congelationis 4) crystallizationis 5) solutionis 6) extractionum 7) amalgamationum 8) sublimationum 9) dest[illationis] 10) combustionis</se>
+    <weight variant_id="1">1,58976</weight>
+  </para>
+  <para id="301">
+    <se lang="russian" variant_id="0">X.</se>
+    <se lang="latin" variant_id="1">X.</se>
+    <weight variant_id="1">1,8</weight>
+  </para>
+  <para id="302">
+    <se lang="russian" variant_id="0">Передача теплоты {1) между однородными [телами] 2) между разнородными [телами]}</se>
+    <se lang="latin" variant_id="1">Communicationes calorum {1. inter homogenea 2. inter heterogenea}</se>
+    <weight variant_id="1">0,25082</weight>
+  </para>
+  <para id="303">
+    <se lang="russian" variant_id="0">XI.</se>
+    <se lang="latin" variant_id="1">XI.</se>
+    <weight variant_id="1">1,8</weight>
+  </para>
+  <para id="304">
+    <se lang="russian" variant_id="0">Опыты в пустоте</se>
+    <se lang="latin" variant_id="1">Experim[enta] in v[acuo].</se>
+    <weight variant_id="1">0,0857143</weight>
+  </para>
+  <para id="305">
+    <se lang="russian" variant_id="0">XII.</se>
+    <se lang="latin" variant_id="1">XII.</se>
+    <weight variant_id="1">1,8</weight>
+  </para>
+  <para id="306">
+    <se lang="russian" variant_id="0">Вес, отношение и изменение объема всех [тел] от смещения</se>
+    <se lang="latin" variant_id="1">Omnium pondus et proportio et mutatio voluminis ex mixt.</se>
+    <weight variant_id="1">0,3</weight>
+  </para>
+  <para id="307">
+    <se lang="russian" variant_id="0">XVI</se>
+    <se lang="latin" variant_id="1">XVI.</se>
+    <weight variant_id="1">0,225</weight>
+  </para>
+  <para id="308">
+    <se lang="russian" variant_id="0">1. Удельный вес.</se>
+    <se lang="latin" variant_id="1">1. Gravitas specifica.</se>
+    <weight variant_id="1">0,9375</weight>
+  </para>
+  <para id="309">
+    <se lang="russian" variant_id="0">2. Сцепление от сжимания грузами.</se>
+    <se lang="latin" variant_id="1">2. Cohaesio comprimendo ponderibus.</se>
+    <weight variant_id="1">0,870968</weight>
+  </para>
+  <para id="310">
+    <se lang="russian" variant_id="0">3. Фигуры и размер углов.</se>
+    <se lang="latin" variant_id="1">3. Figurae et angulorum dimensio.</se>
+    <weight variant_id="1">0,695652</weight>
+  </para>
+  <para id="311">
+    <se lang="russian" variant_id="0">4. Прозрачность и цвет.</se>
+    <se lang="latin" variant_id="1">4. Pelluciditas et color.</se>
+    <weight variant_id="1">0,872727</weight>
+  </para>
+  <para id="312">
+    <se lang="russian" variant_id="0">5. Количество воды или растворителя для растворения.</se>
+    <se lang="latin" variant_id="1">5. Quantitas aquae seu menstrui ad solvendum.</se>
+    <weight variant_id="1">0,62378</weight>
+  </para>
+  <para id="313">
+    <se lang="russian" variant_id="0">Градус теплоты, время, увеличение объема или веса.</se>
+    <se lang="latin" variant_id="1">Gradus cal[oris], tempus, augmentum voluminis vel ponderis.</se>
+    <weight variant_id="1">0,24</weight>
+  </para>
+  <para id="314">
+    <se lang="russian" variant_id="0">Увеличение теплоты или холода.</se>
+    <se lang="latin" variant_id="1">Incrementa caloris vel frigoris.</se>
+    <weight variant_id="1">0,278571</weight>
+  </para>
+  <para id="315">
+    <se lang="russian" variant_id="0">6. Сцепление капель.</se>
+    <se lang="latin" variant_id="1">6. Cohaesio guttarum.</se>
+    <weight variant_id="1">1,035</weight>
+  </para>
+  <para id="316">
+    <se lang="russian" variant_id="0">7. В потемках и в пустоте твердые тела ломать, тереть и т. д.</se>
+    <se lang="latin" variant_id="1">7. In tenebris et in vacuo corpora solida frangantur, fricentur etc.</se>
+    <weight variant_id="1">0,0985294</weight>
+  </para>
+  <para id="317">
+    <se lang="russian" variant_id="0">14. Поступательное движение жидкостей.</se>
+    <se lang="latin" variant_id="1">14. Motus progressivus fluidorum.</se>
+    <weight variant_id="1">0,853125</weight>
+  </para>
+  <para id="318">
+    <se lang="russian" variant_id="0">15. Термометры, помещенные между кирпичами печей, удаленные от огня.</se>
+    <se lang="latin" variant_id="1">15. Thermometra inter lateres furnorum posita ab igne remotiora.</se>
+    <weight variant_id="1">0,57931</weight>
+  </para>
+  <para id="319">
+    <se lang="russian" variant_id="0">16. Расширение в огне.</se>
+    <se lang="latin" variant_id="1">16. Dilatatio in igne.</se>
+    <weight variant_id="1">0,9</weight>
+  </para>
+  <para id="320">
+    <se lang="russian" variant_id="0">XVII</se>
+    <se lang="latin" variant_id="1">XVII</se>
+    <weight variant_id="1">1,8</weight>
+  </para>
+  <para id="321">
+    <se lang="russian" variant_id="0">1. Микроскопы.</se>
+    <se lang="latin" variant_id="1">1. Microscopia.</se>
+    <weight variant_id="1">1,28</weight>
+  </para>
+  <para id="322">
+    <se lang="russian" variant_id="0">2. Удельный вес.</se>
+    <se lang="latin" variant_id="1">2. Gravitas specif[ica].</se>
+    <weight variant_id="1">0,9</weight>
+  </para>
+  <para id="323">
+    <se lang="russian" variant_id="0">3. Сцепление</se>
+    <se lang="latin" variant_id="1">3. Cohaesio.</se>
+    <weight variant_id="1">1,3</weight>
+  </para>
+  <para id="324">
+    <se lang="russian" variant_id="0">4. Фигура.</se>
+    <se lang="latin" variant_id="1">4. Figura.</se>
+    <weight variant_id="1">1,3</weight>
+  </para>
+  <para id="325">
+    <se lang="russian" variant_id="0">5. Скорость операций.</se>
+    <se lang="latin" variant_id="1">5. Celeritas operationi[s].</se>
+    <weight variant_id="1">0,964286</weight>
+  </para>
+  <para id="326">
+    <se lang="russian" variant_id="0">6. Вес частей.</se>
+    <se lang="latin" variant_id="1">6. Pondus partium.</se>
+    <weight variant_id="1">0,964286</weight>
+  </para>
+  <para id="327">
+    <se lang="russian" variant_id="0">XVIII</se>
+    <se lang="latin" variant_id="1">XVIII</se>
+    <weight variant_id="1">1,8</weight>
+  </para>
+  <para id="328">
+    <se lang="russian" variant_id="0">1. Шталь.</se>
+    <se lang="latin" variant_id="1">1. Stahlius.</se>
+    <weight variant_id="1">1,21</weight>
+  </para>
+  <para id="329">
+    <se lang="russian" variant_id="0">Операции.</se>
+    <se lang="latin" variant_id="1">Operationes.</se>
+    <weight variant_id="1">0,21</weight>
+  </para>
+  <para id="330">
+    <se lang="russian" variant_id="0">2. Бургаве.</se>
+    <se lang="latin" variant_id="1">2. Boerhavius.</se>
+    <weight variant_id="1">1,225</weight>
+  </para>
+  <para id="331">
+    <se lang="russian" variant_id="0">Об оборудовании.</se>
+    <se lang="latin" variant_id="1">De supellectile.</se>
+    <weight variant_id="1">0,3</weight>
+  </para>
+  <para id="332">
+    <se lang="russian" variant_id="0">4. Гофман.</se>
+    <se lang="latin" variant_id="1">4. Hoffmannus.</se>
+    <weight variant_id="1">1,19091</weight>
+  </para>
+  <para id="333">
+    <se lang="russian" variant_id="0">5. Фрейнд</se>
+    <se lang="latin" variant_id="1">5. Freindius</se>
+    <weight variant_id="1">1,21</weight>
+  </para>
+  <para id="334">
+    <se lang="russian" variant_id="0">6. Юнкер</se>
+    <se lang="latin" variant_id="1">6. Junkerus</se>
+    <weight variant_id="1">1,2</weight>
+  </para>
+  <para id="335">
+    <se lang="russian" variant_id="0">7. Геллерт</se>
+    <se lang="latin" variant_id="1">7. Gellertus</se>
+    <weight variant_id="1">1,24545</weight>
+  </para>
+  <para id="336">
+    <se lang="russian" variant_id="0">8. Бехер</se>
+    <se lang="latin" variant_id="1">8. Becherus</se>
+    <weight variant_id="1">1,2</weight>
+  </para>
+  <para id="337">
+    <se lang="russian" variant_id="0">9. Геллерт</se>
+    <se lang="latin" variant_id="1">9. Gellert</se>
+    <weight variant_id="1">1,3</weight>
+  </para>
+  <para id="338">
+    <se lang="russian" variant_id="0">10. Крамер</se>
+    <se lang="latin" variant_id="1">10. Cramer</se>
+    <weight variant_id="1">1,3</weight>
+  </para>
+  <para id="339">
+    <se lang="russian" variant_id="0">11. Потт</se>
+    <se lang="latin" variant_id="1">11. Pott</se>
+    <weight variant_id="1">1,3</weight>
+  </para>
+  <para id="340">
+    <se lang="russian" variant_id="0">12. Генкель</se>
+    <se lang="latin" variant_id="1">12. Henckel</se>
+    <weight variant_id="1">1,3</weight>
+  </para>
+</body>
+</html>

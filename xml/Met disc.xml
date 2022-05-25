@@ -1,0 +1,712 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html>
+<head>
+</head>
+<body>
+  <para id="0">
+    <se lang="russian" variant_id="0">I</se>
+    <se lang="latin" variant_id="1">I</se>
+    <weight variant_id="1">1,8</weight>
+  </para>
+  <para id="1">
+    <se lang="russian" variant_id="0">ОТВЕТЫ НА СОМНЕНИЯ И ВОЗРАЖЕНИЯ</se>
+    <se lang="latin" variant_id="1">RESPONSIONES AD DUBIA ET OBJECTIONES</se>
+    <weight variant_id="1">0,246429</weight>
+  </para>
+  <para id="2">
+    <se lang="russian" variant_id="0">1</se>
+    <se lang="latin" variant_id="1">1</se>
+    <weight variant_id="1">16,8</weight>
+  </para>
+  <para id="3">
+    <se lang="russian" variant_id="0">ГОСПОДИНУ БРАУНУ</se>
+    <se lang="latin" variant_id="1">AD CLARISSIMUM BRAUN</se>
+    <weight variant_id="1">0,24375</weight>
+  </para>
+  <para id="4">
+    <se lang="russian" variant_id="0">Господин Браун полагает: 1) что всякий удар молнии зависит от положения туч; 2) что средство для рассеивания силы молнии я ищу в приведении воздуха в поступательное движение, подобное ветру.</se>
+    <se lang="latin" variant_id="1">Arbitratur clarissimus Braun: 1) fulminum jactus omnes ad situm nubium redire, 2) me discussionem vis fulmineae quaerere in movendo aere ad cursum progressivum, ventis similem.</se>
+    <weight variant_id="1">0,511161</weight>
+  </para>
+  <para id="5">
+    <se lang="russian" variant_id="0">3) Из опыта он выводит, что совет мой, может быть, опасен, так как известно, что некоторыха молния поразила в то время, как они звонили в колокола.</se>
+    <se lang="latin" variant_id="1">3) Ex experientia deducit consilium meum forte periculosum esse, quia quosdama campanas cientes fulmine tactos fuisse constat.</se>
+    <weight variant_id="1">0,434234</weight>
+  </para>
+  <para id="6">
+    <se lang="russian" variant_id="0">Отвечаю:</se>
+    <se lang="latin" variant_id="1">Respondeo:</se>
+    <weight variant_id="1">0,233333</weight>
+  </para>
+  <para id="7">
+    <se lang="russian" variant_id="0">1) Что сила молнии заключается не только в положении туч, но также, и по преимуществу, в движении электрической материи; 2) что поэтому электрическое движение эфира в туче может быть прервано не поступательным движением воздуха, а колебательным; 3) поражены были молнией люди, бывшие у колоколов, не потому, что электрические тучи, как пчелы, привлечены были звоном, а потому, что медь колоколов точно так же, как железный прут Рихмана, восприняла электрическую силу в высоте и умертвила близ стоявших людей.</se>
+    <se lang="latin" variant_id="1">1) Fulminum vim non solum in nubium situ, verum etiam potissimum in motu materiae electricae positam esse; 2) idcirco non progressivo motu aeris, sed tremulo electricum motum aetheris in nube suffocari posse existimo; 3) tactos fuisse fulmine homines, campanis adstantes, non propter electricas nubes, sonitu tanquam apes accitas, verum idcirco, quia aes campanarum non aliter ac virga ferrea Richmanni electricam vim in sublimi concepit et homines prope adstantes necavit.</se>
+    <weight variant_id="1">0,407882</weight>
+  </para>
+  <para id="8">
+    <se lang="russian" variant_id="0">Поэтому надо, чтобы те, кто в грозу с молниями звонят в колокола, употребляли длинные и лучше всего шелковые веревки.</se>
+    <se lang="latin" variant_id="1">Quamobrem ii, qui oborta fulminea tempestate campanas pulsant, longis et praesertim sericis funibus utantur necesse est.</se>
+    <weight variant_id="1">0,282</weight>
+  </para>
+  <para id="9">
+    <se lang="russian" variant_id="0">Впрочем, эти утверждения я предлагаю не с аподиктической уверенностью, а в виде предположения.</se>
+    <se lang="latin" variant_id="1">Ceterum non apodictica certitudine haec asserta, sed ut conjecturam propono.</se>
+    <weight variant_id="1">0,233824</weight>
+  </para>
+  <para id="10">
+    <se lang="russian" variant_id="0">Я, наконец, и не думаю, что сделал тут какое-то крупное открытие.</se>
+    <se lang="latin" variant_id="1">Denique nec mihi in his magnum quid invenisse persuadeo.</se>
+    <weight variant_id="1">0,257143</weight>
+  </para>
+  <para id="11">
+    <se lang="russian" variant_id="0">2</se>
+    <se lang="latin" variant_id="1">2</se>
+    <weight variant_id="1">16,8</weight>
+  </para>
+  <para id="12">
+    <se lang="russian" variant_id="0">ГОСПОДИНУ ГРИШОВУ</se>
+    <se lang="latin" variant_id="1">AD CLARISSIMUM GRISCHOW</se>
+    <weight variant_id="1">0,211765</weight>
+  </para>
+  <para id="13">
+    <se lang="russian" variant_id="0">1. Что касается мнения Франклина, отвечаю следующее: α) Хотя уже несколько лет тому назад Франклин сделал предположение относительно нисхождения верхнего воздуха, выразив его в нескольких словах, однако и я также уже в течение нескольких лет держусь этого мнения и многократно выражал его академикам и некоторым другим друзьям; о согласии же со мной Франклина я мог узнать не ранее, как к концу августа сего года, когда речь моя была уже написана.</se>
+    <se lang="latin" variant_id="1">1. Quantum ad Franclini sententiam spectat, sequentia respondeo. ~~~ α) Quamvis Franclinus jam aliquot ante annos conjectaverit et aliquot verbis declaraverit descensum aeris superioris, tamen ego quoque hanc opinionem jam aliquot annos fovi et academicis atque aliis quibusdam amicis multoties declaravi; nec prius de Franclini consensu mecum cognoscere potui, quam mensis augusti sub exitum hujus anni, quum oratio mea fuerit jam exarata.</se>
+    <weight variant_id="1">0,0277778</weight>
+  </para>
+  <para id="14">
+    <se lang="russian" variant_id="0">Винить меня не станет никто, так как произведения ученых столь поздно доходят до нас, особенно из Америки.</se>
+    <se lang="latin" variant_id="1">In causa autem me nemo esse contendet, quod res eruditorum gestae tam tarde ad nos perveniant, praesertim ex America.</se>
+    <weight variant_id="1">0,27033</weight>
+  </para>
+  <para id="15">
+    <se lang="russian" variant_id="0">Ведь разговоры о грозовом электричестве впервые возникли здесь только прошлым летом, хотя Франклин узнал о нем уже в 1747 г.</se>
+    <se lang="latin" variant_id="1">Quandoquidem de fulminea electricitate rumor praeterita aestate primo hic increbuit, quamvis jam anno 1747 a Franclino cognita fuerit.</se>
+    <weight variant_id="1">2,00288</weight>
+  </para>
+  <para id="16">
+    <se lang="russian" variant_id="0">Да и покойному Рихману, который всецело отдался изучению электричества, до самой смерти не удалось получить сочинений Франклина.</se>
+    <se lang="latin" variant_id="1">Nec defunctus Richmannus scripta Franclini usque ad obitum obtinuit, qui totus in re electrica excolenda fuit.</se>
+    <weight variant_id="1">0,246875</weight>
+  </para>
+  <para id="17">
+    <se lang="russian" variant_id="0">β) Нисхождение верхней атмосферы Франклин только предполагал по догадке; я же вывожу его из внезапного наступления холодной погоды, о чем у Франклина нет никакого упоминания, γ) Я также произвел расчет и доказал, что верхний воздух не только может, но и должен стекать вниз, чего у Франклина нет и следа.</se>
+    <se lang="latin" variant_id="1">β) Descensum atmosphaerae superioris Franclinus conjectura tantum supponebat; ego vero ex ingruentibus subito gelidis tempestatibus derivavi, qua de re apud Franclinum nulla est mentio. ~~~ γ) Ego etiam calculo supputavi atque demonstravi superiorem aerem descendere non solum posse, sed etiam debere, quorum apud Franclinum ne vestigium quidem.</se>
+    <weight variant_id="1">0,0354864</weight>
+  </para>
+  <para id="18">
+    <se lang="russian" variant_id="0">δ) Мнение Франклина о северном сиянии совершенно расходится с моим.</se>
+    <se lang="latin" variant_id="1">δ) Sententia Franclini de aurora boreali distat toto coelo a mea.</se>
+    <weight variant_id="1">0,556656</weight>
+  </para>
+  <para id="19">
+    <se lang="russian" variant_id="0">Ведь электрическую материю, необходимую для образования северного сияния, он старается привлечь с тропиков к полюсам; я же нахожу ее в изобилии на месте; он не излагает, каким образом это происходит, а мимоходом в нескольких словах намечает свою догадку, а я подробнейшим образом изъясняю свою теорию; он не обосновал никакими аргументами, а я подкрепляю не только аргументами, но и объяснением явлений.</se>
+    <se lang="latin" variant_id="1">Ille enim materiam electricam, producendo lumini boreali idoneam, a tropicis ad polos accersere satagit; ego in loco ipso amplam invenio; ille non declarat, quo haec fiant modo, sed praetereundo aliquot verbis suam conjecturam adumbrat, ego theoriam meam luculentissime explico; ille nullis argumentis stabilivit, ego non solum argumentis, verum etiam explicatis phaenomenis confirmo.</se>
+    <weight variant_id="1">0,29012</weight>
+  </para>
+  <para id="20">
+    <se lang="russian" variant_id="0">Поэтому меня не только нельзя упрекать в каком-либо заимствовании, а, наоборот, совершенно ясно, что я ни в отношении времени, ни в отношенииб нисхождения верхней атмосферы ничем не обязан Франклину: все у меня собственное и новое.</se>
+    <se lang="latin" variant_id="1">Hinc non solum mihi plagium nullum objici potest, verum etiam clarissime patet me nec ratione temporis, nec ratione descensus superioris atmosphaerae Franclino aliquid debere; et omnia mea propria esse atque nova.</se>
+    <weight variant_id="1">0,277174</weight>
+  </para>
+  <para id="21">
+    <se lang="russian" variant_id="0">Несмотря, однако, на это, несмотря на такое множество новых мыслей и догадок, такое множество новых опытов и наблюдений, наполняющих мою речь, я не столь тщеславен, чтобы хвастливо объявлять их совершенно неизвестными, а говорю только, что в познании их нехватало ясности и отчетливости, по крайней мере, насколько мне известно.</se>
+    <se lang="latin" variant_id="1">Hoc tamen non obstante, non obstantibus tot novis ideis et conjecturis, tot novis experimentis et observationibus, quarum plena est oratio mea, non tam vanus fui, ut ea jactarem fuisse prorsus ignota, sed clara et distincta cognitione caruisse, et quantum quidem mihi constat.</se>
+    <weight variant_id="1">0,241525</weight>
+  </para>
+  <para id="22">
+    <se lang="russian" variant_id="0">2. Господин Гришов говорит, что моя теория о хвостах комет не вполне нова, так как уже до меня некоторые предполагали, что тут возможно сближение с северным сиянием, а господин Эйлер считал даже, что свечение в хвосте отчасти (отчасти, но не полностью!) может возникать от трения частиц.</se>
+    <se lang="latin" variant_id="1">2. Theoriam meam de caudis cometarum dicit clarissimus Grischow non plane esse novam, quod qui[d]am jam ante me suspicati sunt eam cum aurora boreali convenire, et clariss. ~~~ Eulerus etiam ex attritu particularum partem (partem non totum), luminis in cauda excitari posse arbitratus est.</se>
+    <weight variant_id="1">-0,00184426</weight>
+  </para>
+  <para id="23">
+    <se lang="russian" variant_id="0">Все они уже завязывают бой, все они искали то, что я нашел.</se>
+    <se lang="latin" variant_id="1">Omnes autem hi jam propugnant; omnes id quaesiverunt, quod ego inveni.</se>
+    <weight variant_id="1">0,226531</weight>
+  </para>
+  <para id="24">
+    <se lang="russian" variant_id="0">Пусть славнейший коллега покажет мне, кто из ученых, когда-либо писавших о хвостах комет, догадался: 1) что хвосты образуются от нисхождения атмосферы кометы в ее тени; 2) что они целиком вызываются электрической силой, а лучам солнца не обязаны ничем; 3) что в месте, вовсе лишенном воздуха и паров, они порождаются единственно колебательной вибрацией эфира.</se>
+    <se lang="latin" variant_id="1">At ostendat mihi clarissimus collega, quis eorum virorum, qui de caudis cometarum unquam scripserunt, suspicatus est: 1) caudas ex descensu atmosphaerae cometae in umbra illius oriri, 2) integras electrica vi excitari et radiis solis nihil deberi 3) in loco, ab omni aere et vaporibus vacuo, sola tremula aetheris vibratione nasci.</se>
+    <weight variant_id="1">0,449969</weight>
+  </para>
+  <para id="25">
+    <se lang="russian" variant_id="0">Если он этого не покажет и не изложит, то никак уже не сможет сомневаться в том, что моя теория о хвостах комет вполне нова.</se>
+    <se lang="latin" variant_id="1">Haec si non ostendat, non i[n] medium proferat, dubitare omnino non poterit meam theoriam de caudis cometarum esse plane novam.</se>
+    <weight variant_id="1">0,279412</weight>
+  </para>
+  <para id="26">
+    <se lang="russian" variant_id="0">3. Из этого возражения явствует, что славнейший коллега делает различие между электрической материей и эфиром, тогда как я, вместе с большинством физиков, считаю их одним и тем же, как мог бы видеть славный коллега из моей речи, если бы внимательно прочел ее.</se>
+    <se lang="latin" variant_id="1">3. In hac objectione patet clarissimum collegam electricam materiam ab aethere distinguere, quod ego cum plerisque physicorum pro re eadem assumo, quod cl. collega in oratione mea videre possit, si attente legisset.</se>
+    <weight variant_id="1">0,33607</weight>
+  </para>
+  <para id="27">
+    <se lang="russian" variant_id="0">Поэтому, после устранения основания, все строение его аргументации рушится, и следует поскорее перейти к другим моим ответам.</se>
+    <se lang="latin" variant_id="1">Quamobrem sublato fundamento omne argumenti ejus aedificium subvertitur, atque ad alias responsiones meas properandum est.</se>
+    <weight variant_id="1">0,297248</weight>
+  </para>
+  <para id="28">
+    <se lang="russian" variant_id="0">Однако его вопрос относительно изгиба хвоста я считаю заслуживающим ответа на основании моей теории и потому изложу, как это происходит около перигелия кометы.</se>
+    <se lang="latin" variant_id="1">Tamen quaestionem illius de inflexione caudae responsione ex theoria mea dignam esse judico. ~~~ Ideoque modum propono, quo id circa perihelium cometae fiat.</se>
+    <weight variant_id="1">-0,00333333</weight>
+  </para>
+  <para id="29">
+    <se lang="russian" variant_id="0">Часто наблюдается, что столбы северного сияния движутся с востока на запад или в противоположном направлении.</se>
+    <se lang="latin" variant_id="1">Observantur saepe columnae luminis borealis moveri ab oriente versus occidentem vel directione contraria.</se>
+    <weight variant_id="1">0,293617</weight>
+  </para>
+  <para id="30">
+    <se lang="russian" variant_id="0">В этом случае бывает, что столб, который кажется движущимся к вершине, оставляет за собой обрывки как бы других столбов, примыкающих к нему, и таким образом представляется как бы искривившимся (смотри фиг. 1).</se>
+    <se lang="latin" variant_id="1">Hoc in casu fit, ut columna, quae moveri videtur ad summitatem, post se relinquit fragmenta quasi aliarum columnarum ipsi appositarum, ita ut quasi incurvata videatur (vide fig. 1).</se>
+    <weight variant_id="1">0,252632</weight>
+  </para>
+  <para id="31">
+    <se lang="russian" variant_id="0">Таким образом может происходить то, что хвост кометы, около перигелия принимающий боковое движение, являет у вершины уцелевшие пока части угасших хвостов.</se>
+    <se lang="latin" variant_id="1">Hac ratione fieri potest, ut cauda cometae circa perihelium motu laterali pergens extinctarum partes caudarum durantes adhuc ad verticem ostendit.</se>
+    <weight variant_id="1">0,283594</weight>
+  </para>
+  <para id="32">
+    <se lang="russian" variant_id="0">И как поступательное движение столбов северного сияния есть не что иное, как постоянное образование новых в других местах, когда электрическая сила меняет место от m к d, так и при направлении кометы от a к b [фиг. 2] электрическое движение, которое было ближе к телу кометы, раньше и гаснет, чем у верхушки, где позднее возникает и позднее исчезает.</se>
+    <se lang="latin" variant_id="1">Et ut progressus columnarum aurorae borealis nihil aliud est, quam continua generatio novarum in aliis locis electricitatis vi locummutante ex m versus d, ita quoque pergente cometa ex a versus b [fig. 2], electricus motus, qui ad corpus cometae propior fuit, et prius extinguitur, quam ad summitatem, in qua posterius nascitur, posterius perit.</se>
+    <weight variant_id="1">0,649601</weight>
+  </para>
+  <para id="33">
+    <se lang="russian" variant_id="0">Таким путем легко объяснить на основании моей теории искривление хвоста.</se>
+    <se lang="latin" variant_id="1">Hac ratione facile curvedo caudae explicari potest ex mea theoria.</se>
+    <weight variant_id="1">0,268966</weight>
+  </para>
+  <para id="34">
+    <se lang="russian" variant_id="0">Фиг. 1. АВ – светящаяся дуга. Столб, недавно возникший. ffff – обрывки погасших столбов.</se>
+    <se lang="latin" variant_id="1">Fig. 1. AB – arcus luminosus. Columna recens nata. ffff – fragmenta extinctarum columnarum.</se>
+    <weight variant_id="1">0,8875</weight>
+  </para>
+  <para id="35">
+    <se lang="russian" variant_id="0">4. Кто со столь дальнего расстояния смотрит на хвост кометы и отрицает наличие волнообразных движений и колебаний на малых протяжениях (как в столбах северного сияния), тот с таким же правом будет отрицать движение листьев и ветвей в лесу, когда дует бурный ветер, ибо издали движение не воспринимается зрением.</se>
+    <se lang="latin" variant_id="1">4. Qui ex tanta distantia caudam cometae spectat et undulationes atque vibrationes in exiguis tractibus, cujusmodi aurorae borealis columnae sunt, esse negat, is vento impetuoso sylvam perflante folia et ramos motari eodem jure negabit, quia e longinquo motum visu non assequitur.</se>
+    <weight variant_id="1">0,341677</weight>
+  </para>
+  <para id="36">
+    <se lang="russian" variant_id="0">5. Если наше северное сияние, происходящее, согласно нашей теории, от гораздо менее значительной причины, дает столь сильный свет, что люди, живущие у Северного моря за полярным кругом, имеют постоянный свет не меньше лунного, и даже в наших местах северное сияние часто обращает полночь почти в день, то в комете, где и атмосфера, и трение и электрическая сила больше сравнительно со слабым светом хвоста, через который просвечивают звезды даже третьей величины, легко может возникнуть свет такой силы.</se>
+    <se lang="latin" variant_id="1">5. Cum aurora nostra borealis, quae a multo minori causa secundum nostram theoriam proficiscitur, tantum producat lumen, ut septentrionalis maris accolae, ultra polares circulos siti, perpetuo lumine, non minori, quam lunari, fruantur, imo etiam hic loci lumen boreale saepe diem fere media nocte afferat, facile igitur in cometa, ubi major atmosphaera, major frictio, major vis electrica est, ad debilem caudae lucem, per quam stellae etiam tertii ordinis translucent, tanta lux excitari potest.</se>
+    <weight variant_id="1">0,338988</weight>
+  </para>
+  <para id="37">
+    <se lang="russian" variant_id="0">Что касается длины хвоста, отвечаю, что столбы северного сияния иногда растягиваются на расстояние, превышающее длину земного диаметра: не удивительно, конечно, будет, что более значительная причина производит и гораздо более длинный хвост.</se>
+    <se lang="latin" variant_id="1">Quoad longitudinem caudae, respondeo aurorae borealis columnas aliquando ultra diametri telluris longitudinem extendi; mirum certe non erit majore causa longiorem multo caudam produci.</se>
+    <weight variant_id="1">0,211656</weight>
+  </para>
+  <para id="38">
+    <se lang="russian" variant_id="0">6. Не знаю и не вижу, почему славнейший коллега утверждает, будто бы, согласно моей теории, диаметр гривы, т. е. сияния, должен расти около перигелия.</se>
+    <se lang="latin" variant_id="1">6. Nescio nec video, unde cl. collega infert ex theoria sequi diametrum comae sive jubaris crescere debere circa perihelium.</se>
+    <weight variant_id="1">0,391667</weight>
+  </para>
+  <para id="39">
+    <se lang="russian" variant_id="0">Я могу доказать, что грива должна уменьшаться вблизи от солнца.</se>
+    <se lang="latin" variant_id="1">Ego autem ostendere possum comam minui debere in solis vicinia.</se>
+    <weight variant_id="1">0,3</weight>
+  </para>
+  <para id="40">
+    <se lang="russian" variant_id="0">7. Почему славный коллега это изложил, я не понимаю, если только он не хотел повторить то самое, что говорил я.</se>
+    <se lang="latin" variant_id="1">7. Haec cur clar. collega in medium protulerit, non video, nisi forte, quod ea, quae dixia iterare voluit.</se>
+    <weight variant_id="1">0,448005</weight>
+  </para>
+  <para id="41">
+    <se lang="russian" variant_id="0">3</se>
+    <se lang="latin" variant_id="1">3</se>
+    <weight variant_id="1">16,8</weight>
+  </para>
+  <para id="42">
+    <se lang="russian" variant_id="0">ГОСПОДИНУ ПОПОВУ</se>
+    <se lang="latin" variant_id="1">AD CLARISSIMUM POPOW</se>
+    <weight variant_id="1">0,24375</weight>
+  </para>
+  <para id="43">
+    <se lang="russian" variant_id="0">Что более редкий воздух всегда в более густом поднимается, а более густой в более редком, наоборот, погружается, в этом не сомневается никто, хорошо знающий аэрометрические законы.</se>
+    <se lang="latin" variant_id="1">Aerem rariorem in densiore semper ascendere et contra densiorem in rariore mergi nemo, qui leges aerometricas probe novit, dubitat.</se>
+    <weight variant_id="1">0,189474</weight>
+  </para>
+  <para id="44">
+    <se lang="russian" variant_id="0">II</se>
+    <se lang="latin" variant_id="1">II</se>
+    <weight variant_id="1">1,8</weight>
+  </para>
+  <para id="45">
+    <se lang="russian" variant_id="0">ДАЛЬНЕЙШЕЕ ПОДТВЕРЖДЕНИЕ ТЕОРИИО ХВОСТАХ КОМЕТ</se>
+    <se lang="latin" variant_id="1">ULTERIOR CONFIRMATIO THEORIAEDE CAUDIS COMETARUM</se>
+    <weight variant_id="1">0,286047</weight>
+  </para>
+  <para id="46">
+    <se lang="russian" variant_id="0">Хотя у меня есть сильнейшие аргументы, которыми можно не только сломить, но и совершенно ниспровергнуть гипотезу о том, что хвост комет состоит из паров, я, однако, не пожелал воспользоваться ими в своей речи по двум причинам.</se>
+    <se lang="latin" variant_id="1">Quanquam fortissima argumenta habeam, quibus de vaporosa cometarum cauda hypothesis non solum infringi, verum etiam prorsus destrui possit, nolui tamen iis in oratione mea uti duplicem ob causam.</se>
+    <weight variant_id="1">0,259172</weight>
+  </para>
+  <para id="47">
+    <se lang="russian" variant_id="0">Во-первых, чтобы не казалось, что людей, держащихся этого мнения, и прежде всего гениального Ньютона, я хочу упрекать в сочинении вздора, хотя кое-что я отметил уже в то время, когда в 1744 г. переводил с немецкого на русский язык сочинение славнейшего Гейнзия о комете.3 Во-вторых, чтобы речь моя не превысила меры по объему.</se>
+    <se lang="latin" variant_id="1">Primo, ne viris, qui hanc sententiam fovent, et praesertim ipsi ingeniosissimo Newtono hallucinationes objicere velle viderer, quamvis quasdam jam eo temporis notaveram, cum cometam cl. ~~~ Heinsii anno 1744 e Germanico in Rossiacum sermonem verterem. ~~~ Secundo, ne oratio mea adeo amplitudinis modum excederet.</se>
+    <weight variant_id="1">0,588889</weight>
+  </para>
+  <para id="48">
+    <se lang="russian" variant_id="0">По этой последней причине я не упомянул многих объясняемых по моей теории явлений в связи с кометами и другими воздушными явлениями, а, пользуясь свободой философствования, изложил свое мнение просто, упомянув немногое, что в кометах сходится с северным сиянием.</se>
+    <se lang="latin" variant_id="1">Ob hanc posteriorem causam multa praetermisi explicanda ex mea theoria cometarum et aliorum meteororum phaenomena atque fretus libertate philosophandi sententiam meam simpliciter proposui, paucis, quae cum lumine boreali in cometis conveniunt, memoratis.</se>
+    <weight variant_id="1">0,297321</weight>
+  </para>
+  <para id="49">
+    <se lang="russian" variant_id="0">Так как, однако, господин Гришов высказал некоторые сомнения, я счел своей обязанностью указать трудности, которые могут подавить и даже раздавить основу теории, по которой хвост комет состоит из паров.</se>
+    <se lang="latin" variant_id="1">Verum tamen cum cl. ~~~ Grischovius dubia moverit, muneris jam mei esse judicavi difficultates indicare, quibus vaporosa cometarum cauda premitur, imo opprimitur.</se>
+    <weight variant_id="1">-0,0361702</weight>
+  </para>
+  <para id="50">
+    <se lang="russian" variant_id="0">1</se>
+    <se lang="latin" variant_id="1">1</se>
+    <weight variant_id="1">16,8</weight>
+  </para>
+  <para id="51">
+    <se lang="russian" variant_id="0">Гипотеза о том, что хвост комет состоит из паров, имеет свое начало и источник в другой Ньютоновой гипотезе, а именно о том, что свет солнца исходита из него как из источника с невероятной скоростью во все стороны и захватывает с собой пары комет.</se>
+    <se lang="latin" variant_id="1">Vaporosae cometarum caudae hypothesis originem et fontem habet ex alia hypothesi Newtoniana, nempe lumen solis ex eo tanquam fonte, incredibili celeritate manare quaquaversus et vapores cometarum secum corripere.</se>
+    <weight variant_id="1">0,267742</weight>
+  </para>
+  <para id="52">
+    <se lang="russian" variant_id="0">Но так как эта гипотеза не только лишена всякого основания, но уже большинством, почти всеми основательно мыслящими людьми, признана нелепой, то вместе со своим основанием ниспровергается и рушится и самое мнение Ньютона о хвостах.</se>
+    <se lang="latin" variant_id="1">Sed quoniam haec hypothesis non solum nullo fundamento innititur, verum jam a plerisque, fere omnibus solidi judicii viris, absurda judicata est, quamobrem subvertitur atque ruit ipsa opinio Newtoni de caudis cum suo fundamento;</se>
+    <weight variant_id="1">-0,0276053</weight>
+  </para>
+  <para id="53">
+    <se lang="russian" variant_id="0">А так как остроумнейший Эйлер непоколебимыми аргументами доказал, что свет распространяется таким же образом, как звук, а я располагаю новыми аргументами в пользу Эйлера, которыег храню, чтобы опубликовать в подходящем месте и в подходящее время, то нельзя привести решительно никакого объяснения, почему пары комет с такой скоростью могли бы нестись в противоположную от солнца сторону.</se>
+    <se lang="latin" variant_id="1">et cum acutissimus Eulerus inconcussis argumentis demonstraverit lucem eodem modo propagari, ut sonum, atque ego nova argumenta Eulero faventia habeam, quae loco ac tempore edenda servo, nulla omnino ratio reddi potest, cur vapores cometarom tanta celeritate in aversam a sole regionem ferantur.</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="54">
+    <se lang="russian" variant_id="0">Оставив, однако, это в стороне, допустим, что обе гипотезы Ньютона верны.</se>
+    <se lang="latin" variant_id="1">His tamen sepositis, concedamus utramque Newtoni hypothesim esse veram.</se>
+    <weight variant_id="1">0,3</weight>
+  </para>
+  <para id="55">
+    <se lang="russian" variant_id="0">Следствием будет, что хвост любой кометы должен представляться нашему взору бесконечным.</se>
+    <se lang="latin" variant_id="1">Sequetur caudam cometae cujuslibet esse debere infinitam, quoad nostrum conspectum.</se>
+    <weight variant_id="1">0,284</weight>
+  </para>
+  <para id="56">
+    <se lang="russian" variant_id="0">Ибо материя паров захватывается и несется расходящимися в пустоте лучами солнца от кометы через пространство abcd и дальше.</se>
+    <se lang="latin" variant_id="1">Rapitur enim vaporum materia et per inane dive[r]gentibus solis radiis fertur a cometa per spatium abcd et ulterius.</se>
+    <weight variant_id="1">0,436895</weight>
+  </para>
+  <para id="57">
+    <se lang="russian" variant_id="0">Я спрашиваю, почему же она исчезает на определенном пространстве.</se>
+    <se lang="latin" variant_id="1">Quaero autem, quamobrem dispareat in certo spatio?</se>
+    <weight variant_id="1">0,213333</weight>
+  </para>
+  <para id="58">
+    <se lang="russian" variant_id="0">Скажут, конечно, — вследствие расхождения лучей, несущих ее, и вследствие разреженности самих паров, но я прежде всего на опыте покажу, что этого быть не может, а затем подкреплю это и рассуждением.</se>
+    <se lang="latin" variant_id="1">Dices nempe propter divergentiam radiorum, quibus fertur, et propter raritatem ipsorum vaporum. ~~~ Id autem primo experimentis ostendam fieri non posse, et tandem ratiociniis confirmabo.</se>
+    <weight variant_id="1">-0,00552147</weight>
+  </para>
+  <para id="59">
+    <se lang="russian" variant_id="0">1) Если раствор золота в царской водке разбавить в десятикратном объеме воды, то он сохранит ту же интенсивность желтого цвета, как если бы и не разбавлялся, лишь бы количество золота и форма сосуда оставались прежними.</se>
+    <se lang="latin" variant_id="1">1) Solutio auri in aqua regis si decupla aqua diluitur, retinet eandem intensitatem flavi coloris, ac si non fuerit diluta, dum modo eadem quantitas auri et vasis figura maneat.</se>
+    <weight variant_id="1">0,328</weight>
+  </para>
+  <para id="60">
+    <se lang="russian" variant_id="0">Разбавь в тысячу раз и более, сохраняя количество растворенного золота и форму сосуда; интенсивность желтого цвета останется тою же, разбавляй хоть до бесконечности.</se>
+    <se lang="latin" variant_id="1">Dilue millies et ultra, quantitatem auri soluti et figuram vasis conserva: eadem intensitas manebit flavi coloris, etsi in infinitum dilueris.</se>
+    <weight variant_id="1">0,251613</weight>
+  </para>
+  <para id="61">
+    <se lang="russian" variant_id="0">Основание простое.</se>
+    <se lang="latin" variant_id="1">Ratio est impromptu.</se>
+    <weight variant_id="1">0,283333</weight>
+  </para>
+  <para id="62">
+    <se lang="russian" variant_id="0">Ведь когда в стеклянном шаре A [фиг. 3] содержится, например, всего одна драхма растворенного золота, то на глаз o оказывает действие некоторое определенное число частиц золота, находящихся между c и d; когда же, с прибавлением воды, раствор золота содержится в сосуде B, то же самое количество частиц золота будет содержаться между b и e.</se>
+    <se lang="latin" variant_id="1">Etenim cum auri soluti e. gr. drachma unica contineatur in globo vitreo A [fig. 3], afficit oculum o certus quidam numerus particularum auri, inter c et d positarum; cum vero per accessum aquae solutio auri continetur in vase B, eadem quantitas particularum auri continebitur inter b et e.</se>
+    <weight variant_id="1">0,326613</weight>
+  </para>
+  <para id="63">
+    <se lang="russian" variant_id="0">Такое рассуждение сохраняет силу и в том случае, если разбавлять золото до бесконечности.</se>
+    <se lang="latin" variant_id="1">Similis ratio obtinebit, si aurum diluas in infinitum.</se>
+    <weight variant_id="1">0,1125</weight>
+  </para>
+  <para id="64">
+    <se lang="russian" variant_id="0">То же самое будет и с хвостом кометы, ибо одно и то же количество паров будет содержаться между ef, gh, ik, ab [фиг. 4] и так далее до бесконечности и, направляя к глазу зрителя одно и то же количество лучей, будет вызывать в глазу одно и то же ощущение. ~~~ И потому хвост всякой кометы будет для нашего зрения бесконечен.</se>
+    <se lang="latin" variant_id="1">Hoc ipsum obtinebit in cauda cometae, quippe eadem quantitas vaporum continebitur inter ef, gh, ik, ab [fig. 4], et ulterius in infinitum, eandem quantitatem radiorum ad oculum spectatoris reflectet, eandem sensationem in oculo producet; atque adeo cujuslibet cometae cauda infinita quoad nostrum visum erit.</se>
+    <weight variant_id="1">0,960215</weight>
+  </para>
+  <para id="65">
+    <se lang="russian" variant_id="0">Я тут не доискиваюсь, куда дальше направляются эти пары, где скрываются и в какие пределы: может быть, кто-нибудь мысленно собирает их в гевелиевы оптические чечевицы для собирания в фокус солнечных лучей, так что из ньютоновых хвостов получатся гевелиевы.</se>
+    <se lang="latin" variant_id="1">Non hic inquiro, quorsum hi vapores ulterius tendant, ubi se condant, aut quem in finem: nam forte aliquis colligit illos mente in lentes Hevelii opticas ad radios solis in focum colligendos, ut ex caudis Newtonianis Hevelianae resultent.</se>
+    <weight variant_id="1">0,274877</weight>
+  </para>
+  <para id="66">
+    <se lang="russian" variant_id="0">4</se>
+    <se lang="latin" variant_id="1">4</se>
+    <weight variant_id="1">16,8</weight>
+  </para>
+  <para id="67">
+    <se lang="russian" variant_id="0">Итак, Ньютонова гипотеза стоит на скользком основании, да и на нем едва держится.</se>
+    <se lang="latin" variant_id="1">Itaque Newtoniana hypothesis lubricis fundamentis eisque vix tenetur.</se>
+    <weight variant_id="1">0,266667</weight>
+  </para>
+  <para id="68">
+    <se lang="russian" variant_id="0">Однако, помимо нее, могут быть придуманы какие-нибудь иные в пользу мнения о том, что хвост комет состоит из паров.</se>
+    <se lang="latin" variant_id="1">Tamen praeter eam quaedam aliae in favorem vaporosae caudae cometarum fingi possunt.</se>
+    <weight variant_id="1">0,202703</weight>
+  </para>
+  <para id="69">
+    <se lang="russian" variant_id="0">Мы и их устраним, чтобы они ничем не мешали нашей теории.</se>
+    <se lang="latin" variant_id="1">Ergo et has removebimus, ne nostrae quid officiant theoriae.</se>
+    <weight variant_id="1">0,26875</weight>
+  </para>
+  <para id="70">
+    <se lang="russian" variant_id="0">Излечив тяжелую рану, предотвратим будущие.</se>
+    <se lang="latin" variant_id="1">Sanato gravi vulnere praeveniamus futuris.</se>
+    <weight variant_id="1">0,292308</weight>
+  </para>
+  <para id="71">
+    <se lang="russian" variant_id="0">5</se>
+    <se lang="latin" variant_id="1">5</se>
+    <weight variant_id="1">16,8</weight>
+  </para>
+  <para id="72">
+    <se lang="russian" variant_id="0">Хвост кометы находится либо в ее атмосфере, либо вне ее.</se>
+    <se lang="latin" variant_id="1">Cauda cometae est vel in atmosphaera ejus, vel extra illam.</se>
+    <weight variant_id="1">0,28125</weight>
+  </para>
+  <para id="73">
+    <se lang="russian" variant_id="0">Положим, он находится вне атмосферы.</se>
+    <se lang="latin" variant_id="1">Ponamus eam esse extra atmosphaeram.</se>
+    <weight variant_id="1">0,3</weight>
+  </para>
+  <para id="74">
+    <se lang="russian" variant_id="0">Отсюда тотчас же следует, что части ее поступательным движением удаляются от тела (причина чего заключается не в солнечных лучах, а в какой-либо силе, находящейся при голове кометы) либо остаются в покое.</se>
+    <se lang="latin" variant_id="1">Statim autem sequitur partes illius motu progressivo a corpore recedere (cujus causa jam non in radiis solis, sed in vi aliqua, ad caput cometae sita, continetur), vel in quiete esse.</se>
+    <weight variant_id="1">0,26129</weight>
+  </para>
+  <para id="75">
+    <se lang="russian" variant_id="0">Допустим сначала поступательное движение паров в хвосте кометы: это движение, следовательно, должно итти таким образом, что будет тем медленнее, чем больше удаление от тела кометы, а в конце концов, на определенном расстоянии от кометы, вовсе прекратится, что в силу тяготения к комете и сопротивления материи эфира неизбежно должно последовать.</se>
+    <se lang="latin" variant_id="1">Sit primo motus progressivus vaporum in cauda cometae; ea ergo ratione motum illum comparatum esse oportebit, ut eo tardior sit, quo longius a corpore cometae receditur; et tandem in certa cometae distantia prorsus cesset; quod propter gravitationem versus cometam et resistentiam materiae aetheris necessario sequi debet.</se>
+    <weight variant_id="1">0,278417</weight>
+  </para>
+  <para id="76">
+    <se lang="russian" variant_id="0">Отсюда тотчас усматривается, что пары кометы должны быть тем гуще, чем дальше отдалены они от тела ее, а на конце должны быть гуще всего, сильнее всего светиться и даже, собравшись воедино, образовать светящееся облако.</se>
+    <se lang="latin" variant_id="1">Hinc autem statim perspicitur vapores caudae eo densiores esse oportere, quo longius a corpore fuerint remoti, et in fine esse densissimos atque omnium splendidissimos; imo in unum collectos splendidam nubem formare.</se>
+    <weight variant_id="1">0,3</weight>
+  </para>
+  <para id="77">
+    <se lang="russian" variant_id="0">Далее, хвост кометы 1744 года в 16 дней получил прирост в 3 400 000 немецких миль, а убыл в четыре дня на 2 000 000 миль.</se>
+    <se lang="latin" variant_id="1">Porro cauda cometae anni 1744 sedecim diebus cepit incrementum 3 400 000 milliarium Germanicorum, decrevit quatuor diebus 2 000 000 milliaria.</se>
+    <weight variant_id="1">2,53777</weight>
+  </para>
+  <para id="78">
+    <se lang="russian" variant_id="0">Куда же, спрашивается, девались эти внезапно появившиеся пары?</se>
+    <se lang="latin" variant_id="1">Quorsum, quaeso, sublati sunt repente nati illi vapores?</se>
+    <weight variant_id="1">0,264</weight>
+  </para>
+  <para id="79">
+    <se lang="russian" variant_id="0">Никакого другого места, кроме более удаленного от кометы, я не нахожу. ~~~ Ибо обратное движение или падение в сторону кометы, при таком расстоянии и с такой быстротой, по законам тяготения нельзя допустить. ~~~ А если допустить, то пары, сталкиваясь со встречными, должны были бы притти в смятение, а хвост — стать весьма бесформенным, что противоречит наблюдениям.</se>
+    <se lang="latin" variant_id="1">Nullum locum, nisi ulterius remotum a cometa invenio.a Nam recessio sive lapsus versus corpus cometae in tanta distantia tam pernix ex legibus gravitatis supponi non potest, et si supposueris, obvios sibi vapores collidi, turbari et caudam admodum deformem reddi oporteret, quod cum observationibus pugnat.</se>
+    <weight variant_id="1">-0,106452</weight>
+  </para>
+  <para id="80">
+    <se lang="russian" variant_id="0">Итак, когда пары, нарастая, двигались из B к E [фиг. 5], то делали всякий день по 200 000 немецких миль.</se>
+    <se lang="latin" variant_id="1">Igitur, ubi vapores crescendo movebantur ex B versus E [fig. 5], conficiebant quolibet die 200 000 mill. ~~~ Germ.</se>
+    <weight variant_id="1">0,790909</weight>
+  </para>
+  <para id="81">
+    <se lang="russian" variant_id="0">Когда же отрезок хвоста DE шел к F, он делал самое меньшее 500 000 немецких миль.</se>
+    <se lang="latin" variant_id="1">Ubi autem tractus caudae DE versus F pergebat, conficiebat ad minimum 500 000 m. G.</se>
+    <weight variant_id="1">2,89552</weight>
+  </para>
+  <para id="82">
+    <se lang="russian" variant_id="0">Отсюда ~~~ следует, что в более отдаленном от кометы месте пары двигались гораздо скорее, чем в более близком; если согласиться с этой гипотезой, то пришлось бы думать, вопреки общим законам, что сила, сообщенная парам вблизи тела кометы, не только не замедляется тяготением и сопротивлением эфира, а даже ускоряется.</se>
+    <se lang="latin" variant_id="1">Hinc autem sequitur vapores multo celerius motos fuisse in loco remotiore a cometa, quam in viciniore; atque adeo ex hac hypothesi sentiendum erit, contra leges generales, vim, vaporibus prope corpus cometae impressam, gravitatione et resistentia aetheris non solum non retardari, verum etiam accelerari.</se>
+    <weight variant_id="1">-0,00225564</weight>
+  </para>
+  <para id="83">
+    <se lang="russian" variant_id="0">Из этих противоречий явствует, что хвост кометы не может состоять из паров, поднимающихся из ее тела при поступательном движении.а</se>
+    <se lang="latin" variant_id="1">Ex his contradictionibus patet caudam cometae vaporibus, ex corpore ipso motu progressivo surgentibus, constare non posse.</se>
+    <weight variant_id="1">0,286111</weight>
+  </para>
+  <para id="84">
+    <se lang="russian" variant_id="0">Предположим, следовательно, что пары в хвосте кометы, находящемся вне ее атмосферы, пребывают в покое в силу удаления их от тела. ~~~ Таким образом, пары будут двигаться только по орбите кометы, сопутствуя ее бегу.</se>
+    <se lang="latin" variant_id="1">Ponamus ergo vapores in cauda cometae, extra ejus atmosphaeram posita, quiescere ratione recessionis a corpore vaporum: movebuntur itaque vapores solum secundum orbitam cometae, cursus illius socii.</se>
+    <weight variant_id="1">-0,00689655</weight>
+  </para>
+  <para id="85">
+    <se lang="russian" variant_id="0">А так как нет никакого сомнения, что пространство, через которое движется комета, не пусто, а заполнено эфиром или (что то же) материей света, ае более плотные тела испытывают меньшее сопротивление, чем менее плотные, то состоящий из паров хвост кометы, в смысле густоты и плотности поразительно более разреженный сравнительно с телом кометы, в силу разницы плотностей должен гораздо больше замедляться и едва может или даже почти не может следовать за кометой.</se>
+    <se lang="latin" variant_id="1">Cum vero dubium nullum est spatium, per quod cometa progreditur, vacuum non esse, sed aethere plenum, quod, idem est,e materia lucis, corpora vero solidiora minorem resistentiam patiuntur, quam rariora, hinc vaporosa cauda cometae cum sit denso et solido cometae corpore stupendum quantum rarior, idcirco pro ratione differentiae densitatum debet multo magis retardari atque vix aut ne vix quidem cometam sequi potest.</se>
+    <weight variant_id="1">0,271588</weight>
+  </para>
+  <para id="86">
+    <se lang="russian" variant_id="0">Однако хвост не только всегда следует за телом кометы, но большею частью опережает ее и движется быстрее, что достаточно ясно бывает при удалении ее от солнца. ~~~ Более ясно, однако, это видно, когда комета находится около перигелия.</se>
+    <se lang="latin" variant_id="1">Verum tamen non solum cauda corpus cometae semper comitatur, verum etiam plerumque antevertit et celerius movetur, quod quidem satis in recessu illius a sole patet, clarius tamen id conspicitur, quando cometa circa perihelium versatur.</se>
+    <weight variant_id="1">-0,00378788</weight>
+  </para>
+  <para id="87">
+    <se lang="russian" variant_id="0">Ибо часть орбиты abc [фиг. 8] представляет гораздо более короткую линию, чем та, что описывается в то же самое время любой частью хвоста, в особенности оконечностью его fgh.</se>
+    <se lang="latin" variant_id="1">Pars enim orbitae abc [fig. 8] multo brevior linea est, quam illa, quae a qualibet parte caudae, praesertim autem a summitate illius, describitur eodem ipso tempore fgh.</se>
+    <weight variant_id="1">0,786957</weight>
+  </para>
+  <para id="88">
+    <se lang="russian" variant_id="0">Так как, следовательно, состоящий из паров хвост кометы, лишенный поступательного медленного или всякого (то есть удаляющегося ота тела) движения, едва ли и почти вовсе не может по законам природы следовать за телом кометы, а наблюдениями устанавливается наличие у него гораздо более быстрого движения, чем у ее тела, то это противоречие лишает всякого вероятия существование состоящего из паров хвоста комет, если даже допустить, что пары могут пребывать в покое.</se>
+    <se lang="latin" variant_id="1">Cum igitur vaporosa cometae cauda, quae progressivo motu, tardo vel nullo (a corpore scilicet recedente) caret, secundum leges naturae vix aut ne vix quidem corpus cometae sequi posse debeat; ex observationibus autem multo celerior motus, quam corporis illius, deprehendatur, omnem profecto haec contradictio tollitc probabilitatem vaporosam caudam cometa rum, etiam si vapores quietos subponas, existere posse.</se>
+    <weight variant_id="1">0,265546</weight>
+  </para>
+  <para id="89">
+    <se lang="russian" variant_id="0">Хотя, таким образом, разными аргументами мы достаточно доказали, что по разному представляемые пары, образующие хвосты комет, не могут находиться вне ее атмосферы, однако надеемся еще только одним аргументом с корнем вырвать обе гипотезы о состоящем из паров хвосте вне атмосферы.</se>
+    <se lang="latin" variant_id="1">Diversis igitur argumentis diverso modo suppositos vapores, caudas cometarum constituentes, extra atmosphaeram esse non posse quamvis satis demonstravimus, verum tamen super haec unico argumento utramque vaporosae extra atmosphaeram caudae hypothesim prorsus evelli non dubitamus.</se>
+    <weight variant_id="1">0,292562</weight>
+  </para>
+  <para id="90">
+    <se lang="russian" variant_id="0">Что среди земных тел можно найти тоньше паров очищенного спирта, которые, поднявшись при слабом огне, едва удерживаются в сосуде, а если воспламенятся, то неудержимы вовсе?</se>
+    <se lang="latin" variant_id="1">Quid subtilius vaporibus spiritus vini rectificatissimi inter terrestria corpora reperiri possit, qui leni igne elevati vix vasis coercentur, incensi nullo prorsus modo?</se>
+    <weight variant_id="1">0,3</weight>
+  </para>
+  <para id="91">
+    <se lang="russian" variant_id="0">Однако и они под колоколом воздушного насоса, если воздух разредить едва до половины, опускаются вниз — наподобие облачка. ~~~ Можно ли, значит, утверждать, что пары в пустоте поднимаются? Никоим образом.</se>
+    <se lang="latin" variant_id="1">Hi tamen sub campana anthliae aere vix ad dimidium rarefacto nubulae instar fundum petunt: in vacuo ergo vapores ascendere confirmabitur? nullo modo.</se>
+    <weight variant_id="1">-0,0325472</weight>
+  </para>
+  <para id="92">
+    <se lang="russian" variant_id="0">Пусть, кто хочет, представляет себе безмерно более тонкие пары в комете, пусть действительно делит материю до бесконечности или на простые сущности, но я не нахожу никаких паров, которые могли бы подняться вне пределов нашей атмосферы. ~~~ Выдумывать более тонкие в комете предоставляю тем, кому нравится выдумывать совершенно иную природу, чем та, которая, как я узнал с помощью разума и опыта, повсюду себе подобна.</se>
+    <se lang="latin" variant_id="1">Statuat quicunque volet subtiliores, immensum quantum, in cometa vapores, dividat materiam actu in infinitum, sive in entia simplicia, sed ego nullos vapores invenio, qui extra atmosphaeram nostram surgant; in cometa vero subtiliores illis relinquo fingendos, quibus fingere volupe est vel alias prorsus rerum naturas, quam ego sibi ubique similem esse ratione et experientia didici.</se>
+    <weight variant_id="1">-0,107251</weight>
+  </para>
+  <para id="93">
+    <se lang="russian" variant_id="0">Предположим, наконец, что хвост кометы находится в ее атмосфере.</se>
+    <se lang="latin" variant_id="1">Supponatur denique caudam cometae esse in atmosphaera illius.</se>
+    <weight variant_id="1">0,289091</weight>
+  </para>
+  <para id="94">
+    <se lang="russian" variant_id="0">Полудиаметр атмосферы будет длиной хвоста.</se>
+    <se lang="latin" variant_id="1">Eritc semidiameter atmosphaerae longitudo caudae.</se>
+    <weight variant_id="1">0,246154</weight>
+  </para>
+  <para id="95">
+    <se lang="russian" variant_id="0">Что отсюда следует — отличнейшим образом явствует из наблюдения над кометой 1744 года. ~~~ Хвост кометы, или полудиаметр атмосферы, равен был 7 000 000 немецких миль.</se>
+    <se lang="latin" variant_id="1">Quid hinc sequatur, luculentissime patet ex contemplatione cometae anni 1744: etenim cauda cometae, seu semidiameter atmosphaerae, erat 7 000 000 milliaria Germanica.</se>
+    <weight variant_id="1">1,31308</weight>
+  </para>
+  <para id="96">
+    <se lang="russian" variant_id="0">Отсюда — толщина атмосферы — 14 миллионов их же.</se>
+    <se lang="latin" variant_id="1">Hinc crassities atmosphaerae 14 milliones eorundem.</se>
+    <weight variant_id="1">4,97038</weight>
+  </para>
+  <para id="97">
+    <se lang="russian" variant_id="0">Пусть, в угоду ньютоновцам, атмосфера кометы будет реже нашей в 1 400 000 раз; так как наша атмосфера составляет 10 немецких миль, то количество материи в атмосфере кометы между a а b [фиг. 9] или между c и d будет такое же, как наверху нашей атмосферы.</se>
+    <se lang="latin" variant_id="1">Sit in favorem Newtonianorum atmosphaera cometae rarior nostra 1 400 000-ies; quoniam atmosphaera nostra est 10 mill. ~~~ Germanicorum, erit quantitas materiae in atmosphaera cometae inter a et b [fig. 9], sive inter c et d eadem, quae est in altitudine nostrae atmosphaerae.</se>
+    <weight variant_id="1">0,217478</weight>
+  </para>
+  <para id="98">
+    <se lang="russian" variant_id="0">Между тем последняя, по заходе солнца или перед его восходом, светится с такой яркостью, что на значительное время сохраняет для нас светлый день и погашает все неподвижные звезды.</se>
+    <se lang="latin" variant_id="1">Haec vero post occasum solis vel ante ortum ejus ita splendet illuminata, ut clarissimum diem per notabile tempus nobis conservet et omnes stellas fixas extinguat.</se>
+    <weight variant_id="1">0,27</weight>
+  </para>
+  <para id="99">
+    <se lang="russian" variant_id="0">Отсюдад — светящееся сферическое тело поразительной величины должно было бы в 1744 году занимать громадную часть неба.</se>
+    <se lang="latin" variant_id="1">Hinc auteme lucidum corpus sphaericum stupendae magnitudinis ingentem partem coeli occupare anno 1744 oportuisse.</se>
+    <weight variant_id="1">2,49406</weight>
+  </para>
+  <para id="100">
+    <se lang="russian" variant_id="0">А что если я не пожелаю поддерживать Ньютона и его последователей, не соглашусь, что во всей атмосфере кометы воздух может быть столь редок;</se>
+    <se lang="latin" variant_id="1">Quid autem, si Newtoni et ejus asseclis non favere voluero,</se>
+    <weight variant_id="1">0,293909</weight>
+  </para>
+  <para id="101">
+    <se lang="russian" variant_id="0">если я буду следовать неизменным законам природы, которая везде себе подобна;</se>
+    <se lang="latin" variant_id="1">si non concessero tam rarum esse posse aerem in atmosphaera integra cometae?</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="102">
+    <se lang="russian" variant_id="0">если я с полным правом буду настаивать, что воздух на границе атмосферы кометы в названной гипотезе не может быть реже, чем на границе нашей атмосферы;</se>
+    <se lang="latin" variant_id="1">si immutabiles naturae leges sequutus fuero, quae ubique sibi similis, et jure contendero aerem in summitate atmosphaerae cometae in dicta hypothesi non posse esse rariorem, quam in summitate atmosphaerae nostrae?</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="103">
+    <se lang="russian" variant_id="0">если я приму, что, подчиняясь тем же законам тяжести, она в нижних частях сдавлена в таком же соотношении.</se>
+    <se lang="latin" variant_id="1">si postulavero eisdem legibus gravitatis obtemperantem in eadem ratione in inferioribus partibus comprimi?</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="104">
+    <se lang="russian" variant_id="0">Какова будет плотность атмосферы кометы при 7 000 000 или даже 7 000 миль, если при 10 приблизительно она должна быть такою же, как наша, которой мы дышим?</se>
+    <se lang="latin" variant_id="1">Quanta erit densitas atmosphaerae cometae ad 7 000 000 milliaria, vel etiam ad 7 000 milliaria, si ad 10 circiter cum nostra ejusdem densitatis esse debeat, quam hic respiramus?</se>
+    <weight variant_id="1">1,90634</weight>
+  </para>
+  <para id="105">
+    <se lang="russian" variant_id="0">Чудовищные вещи, оскорбляющие опыт и здравый смысл, неизбежно оказываются следствием гипотезы о такой атмосфере вокруг кометы.</se>
+    <se lang="latin" variant_id="1">Portenta sequantur, necesse est, experientiam et sanam rationem offensura, ex hypothesi tantae atmosphaerae circa cometam.</se>
+    <weight variant_id="1">0,291743</weight>
+  </para>
+  <para id="106">
+    <se lang="russian" variant_id="0">Наконец, если кто-нибудь все еще упорствует в споре против столь сильных аргументов, то я уступлю и призна̀ю, что та материя во сто и в тысячу раз легче всякого нашего воздуха, всяких паров и даже той тончайшей атмосферы, что выше допущена в угоду ньютоновцам.</se>
+    <se lang="latin" variant_id="1">Ultimo, si quis perstat adhuc certare contra tantam vim argumentorum, concedam materiam illam centies atque millies omni nostro aere, omnibus vaporibus, imo superius in favorem Newtonianorum data subtilissima atmosphaera levio[re]m.</se>
+    <weight variant_id="1">0,277941</weight>
+  </para>
+  <para id="107">
+    <se lang="russian" variant_id="0">Что отсюда следует?</se>
+    <se lang="latin" variant_id="1">Quid sequitur?</se>
+    <weight variant_id="1">0,214286</weight>
+  </para>
+  <para id="108">
+    <se lang="russian" variant_id="0">Разве не очевидно, что между нами нет разногласия?</se>
+    <se lang="latin" variant_id="1">Nonne satis apparet illum mecum sentire?</se>
+    <weight variant_id="1">0,233333</weight>
+  </para>
+  <para id="109">
+    <se lang="russian" variant_id="0">Тот говорит, что движется тончайшая материя. ~~~ И я также!</se>
+    <se lang="latin" variant_id="1">Dicit subtilissimam materiam moveri; ego quoque!</se>
+    <weight variant_id="1">-0,015</weight>
+  </para>
+  <para id="110">
+    <se lang="russian" variant_id="0">Но он называет ее парами, а я эфиром.</se>
+    <se lang="latin" variant_id="1">Sed ille vocat vapores, ego aetherem.</se>
+    <weight variant_id="1">0,280645</weight>
+  </para>
+  <para id="111">
+    <se lang="russian" variant_id="0">Мы, следовательно, расходимся в том, что ему нравится поступательное движение, а мне колебательное.</se>
+    <se lang="latin" variant_id="1">In hoc igitur differimus, quod illi progressivus, mihi tremulus placeat motus.</se>
+    <weight variant_id="1">0,217391</weight>
+  </para>
+  <para id="112">
+    <se lang="russian" variant_id="0">Я доказал, что колебательное не только может, но и должно возникнуть, между тем как относительно поступательного нет подтверждения аргументами у Ньютона, и я не нахожу подтверждения у кого-либо другого.</se>
+    <se lang="latin" variant_id="1">Tremulum excitari non solum posse, imo debere demonstravi; progressivum nec Newtonus argumentis asseruit, nec a quoquam alio assertumi invenio.</se>
+    <weight variant_id="1">0,183333</weight>
+  </para>
+  <para id="113">
+    <se lang="russian" variant_id="0">Колебательное имеет аналогию с распространением света и звука — сильнейший аргумент вероятности; поступательное, со столь поразительной скоростью и столь легкой и почти несуществующей материей, превосходит всякую веру и даже всякое легковерие.</se>
+    <se lang="latin" variant_id="1">Tremulus cum propagatione lucis et soni analogiam habet, fortissimum probabilium argumentum; progressivus, tam stupendae celeritatis et tam levis et fere nullius materiae, omnem fidem, imo credulitatem, superat.</se>
+    <weight variant_id="1">0,254839</weight>
+  </para>
+  <para id="114">
+    <se lang="russian" variant_id="0">Представляется бесконечное множество доводов, опровергающих мнение о том, что хвост комет состоит из паров.</se>
+    <se lang="latin" variant_id="1">Sed infinita occurrunt, quae vaporosam caudam cometarum destruunt.</se>
+    <weight variant_id="1">0,125</weight>
+  </para>
+  <para id="115">
+    <se lang="russian" variant_id="0">Излагать их, однако, не позволяет время.</se>
+    <se lang="latin" variant_id="1">Ea tamen proferre temporis ratio non concedit.</se>
+    <weight variant_id="1">0,258333</weight>
+  </para>
+  <para id="116">
+    <se lang="russian" variant_id="0">Поэтому перестанем гоняться за этими легкими и летучими парами, а лучше обратимся к усилению опор нашей теории.</se>
+    <se lang="latin" variant_id="1">Ergo leves illos et fugaces vapores persequi desinamus et potius ad augendum theoriae nostrae firmamenta animum advertamus.</se>
+    <weight variant_id="1">0,2625</weight>
+  </para>
+  <para id="117">
+    <se lang="russian" variant_id="0">За краткостью времени приведем небольшое число аналогичных явлений.</se>
+    <se lang="latin" variant_id="1">Pauca vero propter brevitatem temporis analoga phaenomena proponimus.</se>
+    <weight variant_id="1">0,290164</weight>
+  </para>
+  <para id="118">
+    <se lang="russian" variant_id="0">Во-первых, наблюдается, что хвосты комет иногда играют разными цветами ( ).</se>
+    <se lang="latin" variant_id="1">Primo, observantur cometarum caudae coloribus aliquando ludentes ( ).</se>
+    <weight variant_id="1">0,880645</weight>
+  </para>
+  <para id="119">
+    <se lang="russian" variant_id="0">То же нередко бывает и в северном сиянии;</se>
+    <se lang="latin" variant_id="1">In aurora borealic idem non raro contingit;</se>
+    <weight variant_id="1">0,274286</weight>
+  </para>
+  <para id="120">
+    <se lang="russian" variant_id="0">2) хвост кометы иногда отклоняется в сторону, отклоняется и северное сияние с севера к западу;</se>
+    <se lang="latin" variant_id="1">2) deflectit cauda cometae aliquando ad latus, deflectit et aurora borealis a septentrionibus versus occidentem;</se>
+    <weight variant_id="1">0,420833</weight>
+  </para>
+  <para id="121">
+    <se lang="russian" variant_id="0">3) хвост кометы прерывается и имеет вид отдельных кусков ( ); так же прерываются и столбы северного сияния, что наблюдалось мною и многими и давно уже отмечено господином Майером;</se>
+    <se lang="latin" variant_id="1">3) interrumpitur cauda cometae et frustatim appar[e]t ( ); interrumpuntur eadem ratione columnae luminis borealis, quod ego et multi observarunt et clarissimus Meierus jam olim notavit ( );</se>
+    <weight variant_id="1">0,588634</weight>
+  </para>
+  <para id="122">
+    <se lang="russian" variant_id="0">4) сияние, окружающее голову кометы, более ярко, чем хвост, точно так же и дуга северного сияния сверкает ярче, чем столбы;</se>
+    <se lang="latin" variant_id="1">4) jubar, ambiens caput cometae, splendidius est cauda, non secus atque arcus luminis borealis majore luce coruscat, quam columnae;</se>
+    <weight variant_id="1">0,424286</weight>
+  </para>
+  <para id="123">
+    <se lang="russian" variant_id="0">5) столбы северного сияния имеют протяжение иногда свыше половины длины земного диаметра и, наблюдаемые сразу в большом числе с луны, делают землю на вид хвостатой или, точнее, бородатой.</se>
+    <se lang="latin" variant_id="1">5) extenduntur luminis borealis columnae aliquando ultra semidiametri terrestris longitudinem, quae plurimae simul e luna spectatae caudatam aut certe barbatam terram conficiunt.</se>
+    <weight variant_id="1">0,424739</weight>
+  </para>
+  <para id="124">
+    <se lang="russian" variant_id="0">Это я вывожу из расчета измерений высоты северных сияний, который по теории Майера и моей выходит совершенно одинаковым.</se>
+    <se lang="latin" variant_id="1">Haec habeo ex mensurandi altitudines luminum borealium ratione, quae ex Meieri et mea theoria eadem prorsus prodit.</se>
+    <weight variant_id="1">0,288</weight>
+  </para>
+  <para id="125">
+    <se lang="russian" variant_id="0">Могут спросить, почему на какой-нибудь одной или на нескольких планетах никогда не бывает такого рода явлений.</se>
+    <se lang="latin" variant_id="1">Quaeret quis, cur non in singulis aut quibusdam planetis ejusmodi apparitiones aliquando contingant?</se>
+    <weight variant_id="1">0,276404</weight>
+  </para>
+  <para id="126">
+    <se lang="russian" variant_id="0">Отвечаю: если Сатурн единственный из планет имеет кольцо, то ничто, конечно, не мешает одной нашей земле обладать особенностью, свойственной кометам;</se>
+    <se lang="latin" variant_id="1">Respondeo: cum Saturnus solus planetarum annulo sit praeditus, nil sane obstat tellurem nostram hac proprietate cometarum solam gaudere;</se>
+    <weight variant_id="1">0,2725</weight>
+  </para>
+  <para id="127">
+    <se lang="russian" variant_id="0">6) дуги северного сияния нередко удваиваются; это сходно с разными слоями гривы, окружающей ядро кометы;</se>
+    <se lang="latin" variant_id="1">6) arcus aurorae borealis non raro duplicantur; hoc convenit cum variis stratis comae, caput cometae ambientis;</se>
+    <weight variant_id="1">0,46772</weight>
+  </para>
+  <para id="128">
+    <se lang="russian" variant_id="0">7) столбы северного сияния растут и понижаются в самый краткий и почти неощутимый промежуток времени, и хвосты комет с невероятной скоростью увеличиваются и уменьшаются.</se>
+    <se lang="latin" variant_id="1">7) columnae luminis borealis crescunt et decrescunt brevissimo et fere insensibili intervallo temporis, et caudae cometarum incredibili celeritate augentur et minuuntur.</se>
+    <weight variant_id="1">0,430241</weight>
+  </para>
+  <para id="129">
+    <se lang="russian" variant_id="0">III</se>
+    <se lang="latin" variant_id="1">III</se>
+    <weight variant_id="1">1,8</weight>
+  </para>
+  <para id="130">
+    <se lang="russian" variant_id="0">На вчерашней Конференции не только было упомянуто о разъяснениях и дополнениях к моей речи, но при этом большинство, почти все славнейшие мужи, пожелали присоединить к концу речи, кроме объяснения таблиц, еще и дальнейшее пояснение моего мнения и его доказательство в примечаниях.</se>
+    <se lang="latin" variant_id="1">In hesterno Conventu non solum mentio facta fuit dilucidationum et accessionum orationis meae, verum etiam plerique fere omnes viri clarissimi desideraverunt non solum explicationes tabularum, sed etiam ulteriores mentis meae explanationes et probationes in notis ad calcem orationis adjiciendas.</se>
+    <weight variant_id="1">0,277593</weight>
+  </para>
+  <para id="131">
+    <se lang="russian" variant_id="0">Мы, однако, позабыли поместить это в протокол; поэтому тем, кто признал это правильным и справедливым, с должным почтением напоминаю, чтобы они соблаговолили выразить свое желание, подписавшись под этим.</se>
+    <se lang="latin" variant_id="1">Verum tamen protocollo haec inserere obliti sumus: quamobrem eos, qui haec rata atque justa censuerunt, debita observantia commonefacio, ut voluntatem quisque suam subscripto hic nomine declarare velit.</se>
+    <weight variant_id="1">0,3</weight>
+  </para>
+  <para id="132">
+    <se lang="russian" variant_id="0">М. Ломоносов.</se>
+    <se lang="latin" variant_id="1">M. Lomonosow.</se>
+    <weight variant_id="1">0,3</weight>
+  </para>
+  <para id="133">
+    <se lang="russian" variant_id="0">IV</se>
+    <se lang="latin" variant_id="1">IV</se>
+    <weight variant_id="1">1,8</weight>
+  </para>
+  <para id="134">
+    <se lang="russian" variant_id="0">Я все прочел и удовлетворен этим, за исключением того, что начинается на стр. 3 словами: Так как в физике и кончается: очень одобряются.</se>
+    <se lang="latin" variant_id="1">Omnia perlegi, et contentus sum iis, praeter id, quod pag. 3 verbis: cum enim in Physicis incipit, desinit probantur quam maxime.</se>
+    <weight variant_id="1">0,204</weight>
+  </para>
+  <para id="135">
+    <se lang="russian" variant_id="0">Ибо, во-первых, здесь содержится нечто вроде учения о родах доказательств, которые хорошо известны ученым, а потому это излишне.</se>
+    <se lang="latin" variant_id="1">Nam primo continetur hic quasi doctrina de generibus demonstrandi, quae eruditis notissima sunt, ideoque supervacanea.</se>
+    <weight variant_id="1">0,28</weight>
+  </para>
+  <para id="136">
+    <se lang="russian" variant_id="0">2) Что другие подметили нечто схожее между северным сиянием и хвостами комет, — я не отрицаю, а скорее признаю; стало быть, это упоминание может отсутствовать.</se>
+    <se lang="latin" variant_id="1">2) Quod alii simile quid inter auroram borealem et cometarum caudas animadverterint, ego non inficior, sed potius fateor; idcirca monitum hoc abesse potest.</se>
+    <weight variant_id="1">0,422778</weight>
+  </para>
+  <para id="137">
+    <se lang="russian" variant_id="0">3) Никто на основании моих слов не подумает, что я желаю быть тираном в физике; поэтому полагаю, что о навязывании ничего не надо говорить.</se>
+    <se lang="latin" variant_id="1">3) Nec me quis ex mea oratione tyrannidem exercere velle in physicis putabit; ergo et de obtrusione nil monendum esse censeo.</se>
+    <weight variant_id="1">0,405232</weight>
+  </para>
+  <para id="138">
+    <se lang="russian" variant_id="0">4) Все, что публикуется, выносится на публичное обсуждение: это само по себе ясно и не нуждается в каком-либо напоминании.</se>
+    <se lang="latin" variant_id="1">4) Omnia, quae publici juris fiunt, publico judicio exponuntur, quod per se patet nec ulla mentione indiget.</se>
+    <weight variant_id="1">0,427957</weight>
+  </para>
+  <para id="139">
+    <se lang="russian" variant_id="0">5) Постановлено в общих выражениях объявить решение, что же говорить о частностях?</se>
+    <se lang="latin" variant_id="1">5) In terminis generalibus decretum est pronunciare sententiam, quid igitur de particularibus?</se>
+    <weight variant_id="1">0,480769</weight>
+  </para>
+  <para id="140">
+    <se lang="russian" variant_id="0">По этим соображениям я хотел бы, если угодно, исключить названные строки.</se>
+    <se lang="latin" variant_id="1">Ob has rationes dictas lineas, si placet, exclusas esse velim.</se>
+    <weight variant_id="1">0,244444</weight>
+  </para>
+</body>
+</html>

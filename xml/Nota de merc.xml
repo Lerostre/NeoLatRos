@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html>
+<head>
+</head>
+<body>
+  <para id="0">
+    <se lang="russian" variant_id="0">Когда 26 декабря около 9 часов утра ужасный мороз возобновился с еще большей силой, чем раньше, я счел удобным повторить эксперименты, к которым пришел досточтимый коллега Браун, награжденный за свое трудолюбие тем, что первый в наших странах привел ртуть в твердое состояние.</se>
+    <se lang="latin" variant_id="1">Cum die 26 Decembris circa horam matutinam nonam horridum gelu, majore quam ante vi rigorem suum redintegravit, non incongruum esse duxi, ut repeterem experimenta, in quae clarissimus collega Braun incidit, ac praemium tulit suae industriae, cum primus fuerit, qui ium nostris in regionibus ad solidam formam redegerit.</se>
+    <weight variant_id="1">0,321462</weight>
+  </para>
+  <para id="1">
+    <se lang="russian" variant_id="0">Итак, при 208 градусах холода я выставил в снег, заключенный в склянку, ртутный термометр, трубка которого вытянута от точки кипения до 1350 градусов по направлению к шарику.</se>
+    <se lang="latin" variant_id="1">Ergo gradu frigoris 208 nivi in vitro contentae inserui thermometrum mercuriale, cujus tubus a puncto ebullitionis ad gradus 1350 globum versus exporrigitur.</se>
+    <weight variant_id="1">1,83894</weight>
+  </para>
+  <para id="2">
+    <se lang="russian" variant_id="0">Я накапал крепкой водки в снег; тогда ртуть постепенно осела до градуса 330; затем, после прибавления той же жидкости, ртуть опустилась дальше до градуса 495; таким же образом после добавки соляной кислоты она снизилась до 534. Заподозрив, что стекло уже не цело, я вынул термометр.</se>
+    <se lang="latin" variant_id="1">Instillavi aquam fortem nivi; tum sensim mercurius subsedit ad gradum 330, porro addito eodem liquore, ulterius descendit ad gradum 495, item addito spiritu salis decrevit ad 534. Suspicatus vitrum jam integrum non esse, thermometrum sustuli.</se>
+    <weight variant_id="1">0,340476</weight>
+  </para>
+  <para id="3">
+    <se lang="russian" variant_id="0">В это самое время на открытом воздухе ртуть опустилась до 552 градусов и вновь остановилась (Здесь следует сравнить рихмановы эксперименты, при которых ртуть термометра, вынутого из холодной воды, спустилась в более теплом воздухе на несколько градусов).</se>
+    <se lang="latin" variant_id="1">Eo ipso tempore in aere libero descendit rius ad 552 gradus; atque iterum substitit. ~~~ (Hic conferantur experimenta Richmaniana; ubi thermometri ex aqua frigida exemti in aere calidiore descendit ad aliquot gradus).</se>
+    <weight variant_id="1">0,791667</weight>
+  </para>
+  <para id="4">
+    <se lang="russian" variant_id="0">Так как я увидел, что шарик цел, и был в сомнении, не совсем ли затвердела ртуть внутри его, то я, добавив новый снег в склянку и вставив в него термометр, накапал туда купоросного масла; после этого снег в большей части сразу сжался в сплошную массу с некоторым слабым шумом. ~~~ Ртуть тотчас осела до градуса 1260 и остановилась в трубке на ¾ дюйма над шариком.</se>
+    <se lang="latin" variant_id="1">Cum vero globum integrum esse viderem, et ium prorsus solidum in meditullio dubitarem, addita in vitrum nive recente et thermometro eidem inserto, instillavi oleum vitrioli; quo facto repentissime nix magna ex parte contraxit sese in mellaginem cum leni quodam strepitu. subito subsedit ad gradum 1260; et ¾ pollicis in tubulo supra globum stetit.</se>
+    <weight variant_id="1">-0,00152027</weight>
+  </para>
+  <para id="5">
+    <se lang="russian" variant_id="0">Будучи уверен, что ртуть уже замерзла, я извлек термометр и заметил, что ртуть в шарике стала слегка морщинистой.</se>
+    <se lang="latin" variant_id="1">Fretus jam ium congelatum esse, exeim thermometrum, ium in globo tantillum rugosum esse animadverti.</se>
+    <weight variant_id="1">0,269318</weight>
+  </para>
+  <para id="6">
+    <se lang="russian" variant_id="0">Я ударил шарик головкой циркуля, которым пользовался тогда для определения градусов; стекло разбилось, и взорам предстала ртуть, весьма похожая на твердое серебро с привешенной в виде хвоста той частью, которая замерзла в трубке; подобно нити совершенно очищенного серебра она позволяла сгибать себя в любую сторону.</se>
+    <se lang="latin" variant_id="1">Percussi globum capite circini, quo ad determinandos gradus tum utebar; vitrum dissiluit, rius argento solido simillimus oculis sese exposuit, cum illa portione adhaerente tanquam cauda, quae in tubulo erat congelata; et argenti defaecatissimi filum referens, quaquaversum sese incurvare sinebat.</se>
+    <weight variant_id="1">0,283784</weight>
+  </para>
+  <para id="7">
+    <se lang="russian" variant_id="0">Я снова ударял уже обнаженную ртуть той же головкой циркуля, но она совсем не поддавалась.</se>
+    <se lang="latin" variant_id="1">Feriebam iterum jam nudum ium eodem capite circini; sed nihil cedebat.</se>
+    <weight variant_id="1">0,221311</weight>
+  </para>
+  <para id="8">
+    <se lang="russian" variant_id="0">Я приказал принести топор и нанес сильный удар обухом; ртуть сдавливалась и принимала вид свинцовой ружейной пули, которая от удара молотком приобретает плоские бока, противолежащие друг другу; после этого более сильными ударами я придал ей форму полтинника;</se>
+    <se lang="latin" variant_id="1">Jussi adferre securim, atque aversa ejus parte ictum non levem impegi; comprimebatur ius et figuram referebat glandis sclopetariae plumbeae, quae malleo percussa latera plana acquirit sibi opposita; post haec fortioribus ictibus in formam dimidii rubli redegi;</se>
+    <weight variant_id="1">0,865768</weight>
+  </para>
+  <para id="9">
+    <se lang="russian" variant_id="0">тогда ртуть начала давать трещины и наконец постепенно уподобилась амальгаме, пока приблизительно через 20 минут не обрела вновь свою жидкую породу в таком же воздухе в 208 градусов.</se>
+    <se lang="latin" variant_id="1">ubi fissuras agere coepit ius et tandem amalgamati similis est sensim redditus, donec post minuta circiter 20 fluidam suam recuperavit naturam, eodem in aere 208 graduum.</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="10">
+    <se lang="russian" variant_id="0">Здесь следует отметить, что я сам сомневаюсь, не опустилась ли ртуть в трубке до 1260 градусов оттого, что она выскользнула через какую-нибудь щель в стеклянном шарике.</se>
+    <se lang="latin" variant_id="1">Hic notandum est me ipsum dubitare, nonne per rupturam aliquam vitrei elapso io ad 1260 gradus eum in tubo descendisse.</se>
+    <weight variant_id="1">1,74371</weight>
+  </para>
+  <para id="11">
+    <se lang="russian" variant_id="0">Торопясь исследовать твердость ртути, я не обратил достаточно внимания на это обстоятельство.</se>
+    <se lang="latin" variant_id="1">Nam soliditatem ii explorare festinans hanc ad rem non satis adverti animum.</se>
+    <weight variant_id="1">0,222727</weight>
+  </para>
+  <para id="12">
+    <se lang="russian" variant_id="0">Остальные градусы совершенно бесспорны.</se>
+    <se lang="latin" variant_id="1">Ceteri gradus sunt prorsus indubii.</se>
+    <weight variant_id="1">0,253125</weight>
+  </para>
+  <para id="13">
+    <se lang="russian" variant_id="0">Это я решил опубликовать для подтверждения браунова открытия.</se>
+    <se lang="latin" variant_id="1">Haec publici juris facere volui ad confirmandum Heurema Braunianum.</se>
+    <weight variant_id="1">0,272727</weight>
+  </para>
+  <para id="14">
+    <se lang="russian" variant_id="0">Звон твердой ртути, указанный Цейгером, кажется подозрительным.</se>
+    <se lang="latin" variant_id="1">Clangor ii solidi a Zeihero proditus suspectus esse videtur.</se>
+    <weight variant_id="1">0,271698</weight>
+  </para>
+  <para id="15">
+    <se lang="russian" variant_id="0">Думаю, что обязанность досточтимого секретаря Академии — составить краткое изложение для напечатания в журнале.</se>
+    <se lang="latin" variant_id="1">Clariss. ~~~ Academiae secretarii munus esse duco, ut breviarium condat novis publicis inserendum.</se>
+    <weight variant_id="1">-0,0226744</weight>
+  </para>
+  <para id="16">
+    <se lang="russian" variant_id="0">Полагаю, что следует опустить все рассуждения и издать одни только эксперименты.</se>
+    <se lang="latin" variant_id="1">Omnia ratiocinia esse omittenda et sola experimenta puto edenda.</se>
+    <weight variant_id="1">0,226316</weight>
+  </para>
+  <para id="17">
+    <se lang="russian" variant_id="0">Многими доводами я могу сделать почти бесспорным градус холода — 1260; из них первым считаю следующий, а именно — у досточтимых коллег ртуть скорее замерзла в трубке — около b — и поэтому возникло препятствие для опускания ниже приблизительно 500 градусов, хотя в то же время ртуть внутри шарика d была все еще жидкостью, и с устранением препятствия, опустилась бы дальше.</se>
+    <se lang="latin" variant_id="1">Nam ego multis argumentis possum gradum frigoris 1260 fere indubium reddere, quorum primum hoc esse statuo, nempe ium apud clarissimos collegas citius in tubulo circa b congelatum fuisse ideoque descensum infra gradus 500 circiter prohibitum fuisse, quamvis interea ius in meditullio globi d adhuc fluidum extitisset, et remoto obstaculo ulterius descendisset.</se>
+    <weight variant_id="1">0,471148</weight>
+  </para>
+</body>
+</html>

@@ -1,0 +1,482 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html>
+<head>
+</head>
+<body>
+  <para id="0">
+    <se lang="russian" variant_id="0">Знаменитейшему и ученейшему мужу Леонарду Эйлеру, заслуженнейшему королевскому профессору и члену славной берлинской Академии наук, а также почетному члену императорской Петербургской Академии наук и Лондонского королевского общества,</se>
+    <se lang="latin" variant_id="1">Viro celeberrimo atque doctissimo Leonhardo Eulero illustris Scientiarum Academiae Berolinensis Membro et Professori Regio meritissimo, nec non Caesareae Academiae Scientiarum Petropolitanae et Regiae Societatis Scientiarum Londinensis Membro honorario</se>
+    <weight variant_id="1">0,275598</weight>
+  </para>
+  <para id="1">
+    <se lang="russian" variant_id="0">нижайший привет шлет</se>
+    <se lang="latin" variant_id="1">S. P.. D.</se>
+    <weight variant_id="1">1,8</weight>
+  </para>
+  <para id="2">
+    <se lang="russian" variant_id="0">Михаил Ломоносов</se>
+    <se lang="latin" variant_id="1">Michael Lomonossoff.</se>
+    <weight variant_id="1">2,3</weight>
+  </para>
+  <para id="3">
+    <se lang="russian" variant_id="0">Каждый, кто занимается наукой и встречает одобрение трудам своим со стороны великих людей, легко поймет, как я обрадовался, получив Ваше любезное письмо.</se>
+    <se lang="latin" variant_id="1">Quanta laetitia sim affectus, acceptis humanissimis litteris Tuis, facile aestimare potest, quicunque in scientiarum studio versatur, et specimina lucubrationum suarum magnis Viris probari intelligit.</se>
+    <weight variant_id="1">-0,0268212</weight>
+  </para>
+  <para id="4">
+    <se lang="russian" variant_id="0">Не меньше удовольствия доставляет мне и мысль о том, накую поддержку окажет мне в будущем Ваша дружба, которою я обязан Вашей благосклонности.</se>
+    <se lang="latin" variant_id="1">Nec minor voluptas hinc quoque mihi accedit, cum sentiam, quanto emolumento meo futura sit Tua, qua per comitatem Tuam frui mihi licet, amicitia.</se>
+    <weight variant_id="1">0,295082</weight>
+  </para>
+  <para id="5">
+    <se lang="russian" variant_id="0">Очень Вам признателен, что Вы не только Вашим советом, для меня особенно почетным, побуждаете меня к объяснению рождения селитры, но и даете мне точку опоры для более ясного познания самого предмета, разработкой которого я занимаюсь со всей заботой и старанием.</se>
+    <se lang="latin" variant_id="1">Maximas ago habeoque Tibi gratias, quod non solum consilio Tuo, mihi perquam honorifico, me ad explicandam nitri genesim incitare, verum etiam ansam praebere volueris ad ipsam materiam clarius perspiciendam, in quam quidem elaborandam omnem curam atque operam confero.</se>
+    <weight variant_id="1">0,287892</weight>
+  </para>
+  <para id="6">
+    <se lang="russian" variant_id="0">Я читаю, с большой пользою для себя, „Артиллерию“ Робинса, снабженную Вами превосходнейшими замечаниями.</se>
+    <se lang="latin" variant_id="1">Robinsii Artilleriam praestantissimis commentariis a Te instructam magno cum fructu meo evolvo.</se>
+    <weight variant_id="1">0,271765</weight>
+  </para>
+  <para id="7">
+    <se lang="russian" variant_id="0">Но так как я полагаю, что, узнав настоящую причину упругости воздуха, легче можно раскрыть силу, которая сгущает воздух в селитре, то поэтому я счел целесообразным предпослать трактату о рождении селитры теорию упругости воздуха, которой начало я положил еще тогда, когда начал серьезно размышлять о мельчайших составных частях вещей; я вижу, что она и теперь совершенно согласуется с остальными моими представлениями, которые я себе составил о частных качествах тел и о химических операциях.</se>
+    <se lang="latin" variant_id="1">Caeterum quoniam cognita genuina elateris aëris causa, vim, qua aër in nitro condensatur, facilius detegi posse existimo; idcirco non abs re fore judicavi, tractationi de nitri genesi praemittere theoriam de vi aëris elastica, quam eo jam temporis condidi, ex quo de minimis rerum naturalium serio cogitare incepi, quamque reliquis, quae de qualitatibus corporum particularibus, deque operationibus chymicis concepi, ex asse congruere etiamnum deprehendo.</se>
+    <weight variant_id="1">0,27868</weight>
+  </para>
+  <para id="8">
+    <se lang="russian" variant_id="0">Хотя все это, и даже всю систему корпускулярной философии, мог бы я опубликовать, однако боюсь, как бы не показалось, что я даю ученому миру незрелый плод скороспелого ума, если я выскажу много нового, что по большей части противоположно взглядам, принятым великими мужами.</se>
+    <se lang="latin" variant_id="1">Quamvis autem ea omnia imo integrum corpuscularis Philosophiae Systema publici juris facere possem; vereor tamen, ne immaturum praecocis ingenii fructum erudito orbi obtrudere videar, si multa nova, pleraque etiam a magnorum virorum placitis passim jam receptis diversa, in diem proferam.</se>
+    <weight variant_id="1">0,278112</weight>
+  </para>
+  <para id="9">
+    <se lang="russian" variant_id="0">Поэтому считаю необходимым последовать совету тех, чье суждение изощрено постоянным занятием важными вопросами, авторитет же приобретен заслугами.</se>
+    <se lang="latin" variant_id="1">Quamobrem necessarium esse duco, primo eorum consilio uti, quorum judicium magnis rebus crebro exercitatum, et auctoritas meritis comparata est.</se>
+    <weight variant_id="1">0,290551</weight>
+  </para>
+  <para id="10">
+    <se lang="russian" variant_id="0">Так как, муж снисходительнейший, кроме обоих этих качеств Вы еще, знаю, и благосклонны ко мне, то я не сомневаюсь, что Вы выслушаете благожелательно то, что я предлагаю Вашему просвещеннейшему суду, и, заметив пункты, недостаточно у меня обоснованные, не поставите себе в труд откровенно, как всегда, указать мои ошибки.</se>
+    <se lang="latin" variant_id="1">Cum vero in Te, Vir humanissime, super haec omnia etiam propensam in me voluntatem Tuam sciam; nullus itaque dubito, quin ea, quae limatissimo judicio Tuo examinanda propono, aequo animo accipias, et ubi ea parum valido pede niti deprehenderis, hallucinationem candide, ut soles, indicare non graveris.</se>
+    <weight variant_id="1">0,282625</weight>
+  </para>
+  <para id="11">
+    <se lang="russian" variant_id="0">Прежде всего считаю необходимым изложить то, с чем мы встречаемся в самом начале естественных наук.</se>
+    <se lang="latin" variant_id="1">Ante omnia vero id in medium producere lubet, quod primo in limine scientiae naturalis sese offert.</se>
+    <weight variant_id="1">0,296471</weight>
+  </para>
+  <para id="12">
+    <se lang="russian" variant_id="0">При попытках привести к достоверности начала химии и все, что широко распространено в области углубленной физики, мне преграждает путь общепринятое мнение, считающееся у большинства аксиомой, что плотность связанной материи тел пропорциональна их весу.</se>
+    <se lang="latin" variant_id="1">Principia Chymica, atque adeo omnia, quae per interioris Physices campum late diffunduntur, ad certitudinem reducere conanti quasi murus quidam viam praecludit, illud in genere affirmatum, universim receptum et apud plerosque axiomatis nomen sortitum, scilicet, densitatem materiae corporum cohaerentis proportionalem esse eorundem gravitati.</se>
+    <weight variant_id="1">0,190045</weight>
+  </para>
+  <para id="13">
+    <se lang="russian" variant_id="0">Что это справедливо для тел однородных, я признаю без колебания; кто мог бы сомневаться, что в одном кубическом футе воды вмещается одна единица веса и вещества, а в двух — две, и что два кубических фута воздуха, сжатые до объема одного кубического фута, имеют двойной вес и двойную плотность вещества; ниоткуда не вижу, однако, чтобы это было достаточно доказано для тел разнородных, а приняв это на веру, усматриваю здесь несоответствие явлениям природы.</se>
+    <se lang="latin" variant_id="1">Quod equidem in corporibus homogeneis obtinere non habeo ambiguum: qui enim dubitare possit uni pedi cubico aquae simplum, duobus duplum et materiae et ponderis inesse, non secus ac duos pedes cubicos aëris communis in spacium unius pedis cubici compressos duplicato pondere et dupla materiae densitate gaudere. ~~~ Verum id in corporibus heterogeneis locum habere nuspiam satis evictum invenio, et, si pro vero assumo, phaenomenis rerum naturalium parum consonum esse deprehendo.</se>
+    <weight variant_id="1">-0,00971503</weight>
+  </para>
+  <para id="14">
+    <se lang="russian" variant_id="0">Я изъявляю полное согласие, когда читаю у выдающегося мужа Исаака Ньютона: воздух удвоенной плотности в удвоенном пространстве делается четверным, в утроенном — шестерным; то же самое предполагаю для снега или порошков, уплотненных сжатием или приведением в жидкое состояние</se>
+    <se lang="latin" variant_id="1">Omnem assensum praebeo, cum apud virum summum Isaacum Newtonum lego: Aër densitate duplicata in spacio etiam duplicato fit quadruplus, in triplicato sextuplus: idem intelligo de nive et pulveribus per compressionem vel liquefactionem condensatis</se>
+    <weight variant_id="1">-0,0280083</weight>
+  </para>
+  <para id="15">
+    <se lang="russian" variant_id="0">Но не могу согласиться с высказываемым в конце общим заключением, что масса познается по весу каждого тела.</se>
+    <se lang="latin" variant_id="1">At iis, quae ibidem sub finem in sensu generali leguntur: innotescit massa per corporis cujusque pondus; subscribere nondum possum.</se>
+    <weight variant_id="1">0,228261</weight>
+  </para>
+  <para id="16">
+    <se lang="russian" variant_id="0">Поскольку нельзя умозаключать от частного к общему, то и нет необходимости, чтобы то, что справедливо утверждается относительно однородных тел, имело силу и для разнородных.</se>
+    <se lang="latin" variant_id="1">Siquidem cum a particulari ad universale nil inferri possit: idcirco nec id, quod de homogeneis jure praedicatur, etiam heterogeneis convenire necessum est.</se>
+    <weight variant_id="1">0,266912</weight>
+  </para>
+  <para id="17">
+    <se lang="russian" variant_id="0">Хотя (там же, кн. II, разд. VI, предл. XXIV) дается доказательство теоремы, утверждающей, что количество материи следует определять по весу, я все-таки не вижу, чтобы положение это было верным вообще.</se>
+    <se lang="latin" variant_id="1">Quamvis autem (ibid., libr. II, Sect. VI, prop. XXIV) demonstratio theorematis exhibetur, quo quantitates materiae ex pondere aestimari debere affirmat; inde tamen in universum id verum esse non video.</se>
+    <weight variant_id="1">0,1</weight>
+  </para>
+  <para id="18">
+    <se lang="russian" variant_id="0">Вся сила этого доказательства зиждится на опытах со столкновением тел, образующих маятники.</se>
+    <se lang="latin" variant_id="1">Etenim omnis demonstrationis illius vis nititur experimentis circa collisionem corporum funependulorum institutis.</se>
+    <weight variant_id="1">0,214815</weight>
+  </para>
+  <para id="19">
+    <se lang="russian" variant_id="0">Я не сомневаюсь, что они проделаны им со всею тщательностью; очевидно, однако, что для них брались или однородные тела разной величины, или же тела разнородные.</se>
+    <se lang="latin" variant_id="1">Quae equidem omni cum cura ab eo facta esse non dubito; verum in hoc negotio vel corpora homogenea diversae magnitudinis, vel heterogenea adhibuisse eum, certissimum est.</se>
+    <weight variant_id="1">0,280292</weight>
+  </para>
+  <para id="20">
+    <se lang="russian" variant_id="0">В первом случае я согласился бы с полной истинностью теоремы и с убедительностью доказательства, если бы в них понятие тела определялось через понятие его однородности; во втором же окажется, что он определял количество вещества в разнородных телах, которые брались для опытов, по их весу и принимал за истину то, что следовало доказать.</se>
+    <se lang="latin" variant_id="1">Si prius; nil theoremate illo verius et demonstratione evidentius esse faterer, si in illis notio corporis, homogeneitatis notione esset determinata; sin vero posterius, tum equidem quantitatem materiae in corporibus heterogeneis, quae ad ea experimenta adhibuerunt, ex pondere illorum aestimavit, et id, quod demonstrandum erat, jam pro vero assumere sustinuit.</se>
+    <weight variant_id="1">0,270732</weight>
+  </para>
+  <para id="21">
+    <se lang="russian" variant_id="0">Я согласен, что это не наносит никакого ущерба законам, определяющим силы тела по их скорости совместно с их сопротивлением; под каким бы названием ни рассматривалось последнее, в механике всюду оно оценивается по весу тел, и нечего бояться ошибок в определении сил крупных тел, так как здесь применяется всюду одно и то же измерение; но я считаю невозможным приложить теорему о пропорциональности массы и веса к объяснению тех явлений, которые зависят от мельчайших частиц тел природы, если мы не хотим все время ошибаться.</se>
+    <se lang="latin" variant_id="1">Fateor id officere nihil legibus, quibus vires corporum determinantur ex eorum celeritate conspirante cum eorundem resistentia: quocunque enim nomine haec veniat, semper apud mechanicos pondere aestimari solet, qua communi mensura adhibita, nullum errandi periculum circa determinandas magnorum corporum vires timeri potest; verum tamen in explicandis phaenomenis, quae a minimis rerum naturalium dependent, id non temere admittendum esse censeo, si non in errore versari velimus.</se>
+    <weight variant_id="1">0,28134</weight>
+  </para>
+  <para id="22">
+    <se lang="russian" variant_id="0">Так как в физике положение это принято как общее для всех явлений, то чего только не приходится придумывать тем, кто берется объяснять частные качества тел, исходя из природы мельчайших корпускул.</se>
+    <se lang="latin" variant_id="1">Adoptata enim in Physicam hac thesi sensu generali intellecta, quid sibi non fingere coguntur ii, qui ex natura minimorum corpusculorum, qualitates corporum particulares explicare aggrediuntur.</se>
+    <weight variant_id="1">0,296429</weight>
+  </para>
+  <para id="23">
+    <se lang="russian" variant_id="0">Даже у людей большого ума случается встретить приписывание противоречивых свойств одному и тому же телу; очень много у них такого, что совершенно чуждо мудрейшей простоте природы.</se>
+    <se lang="latin" variant_id="1">Non pauca sane, quae inter se pugnant, in uno eodemque corpore posita, etiam apud cordatos viros legere contingit, at quae ab ingeniosissima naturae simlicitate abhorrent, plurima.</se>
+    <weight variant_id="1">0,298065</weight>
+  </para>
+  <para id="24">
+    <se lang="russian" variant_id="0">Да и сам я, потратив много труда на изыскание фигуры частиц, объясняющей частные свойства тела и не противоречащей приведенной физической теории, понял, что не получу никаких плодов от своей прилежной работы.</se>
+    <se lang="latin" variant_id="1">Mihi equidem in usu evenit, ut, post consumptam omnem curam in confingendis corpusculorum figuris, quae et explicandis qualitatibus corporum particularibus convenirent, et receptae illi in Physicam thesi non officerent, me omni laboris industriaeque fructu privari intellexerim.</se>
+    <weight variant_id="1">0,191061</weight>
+  </para>
+  <para id="25">
+    <se lang="russian" variant_id="0">Долго было бы перечислять по отдельности все, что не позволяет мне признать неизменную пропорциональность между массой тел и их весом; я приведу здесь то, что мне кажется наиболее важным. ~~~ Во-первых, имеются тела самого различного удельного веса, обладающие такими свойствами, из которых совершенно ясно, что плотность материи их почти одинакова.</se>
+    <se lang="latin" variant_id="1">Longum esset enumerare singula, quae obstant, quo minus materiam corporum ubique eorum ponderi proportionalem esse agnoscere possim; quamobrem nonnulla, quae majoris momenti mihi visa sunt, propono; et primo quidem dari corpora specifica gravitate maxime discrepantia, ejusmodi tamen qualitatibus praedita, ex quibus non obscure colligi potest, densitatem materiae prope eandem illis inesse.</se>
+    <weight variant_id="1">-0,021</weight>
+  </para>
+  <para id="26">
+    <se lang="russian" variant_id="0">Таковы, например, золото и вода, если их сравнивать друг с другом.</se>
+    <se lang="latin" variant_id="1">Ejusmodi sunt aurum et aqua inter se comparata.</se>
+    <weight variant_id="1">0,182927</weight>
+  </para>
+  <para id="27">
+    <se lang="russian" variant_id="0">Вода почти в двадцать раз легче золота, однако по признакам совершенно ясным имеет такую же плотность материи; и прежде всего ее, так же как и золото, нельзя сжать в меньший объем приложением какой бы то ни было внешней силы.</se>
+    <se lang="latin" variant_id="1">Quamvis enim haec vicesies fere specifice levior est illo; nihilominus tamen haud obscuris indiciis prodit se eadem, qua illud, densitate materiae gaudere: praesertim cum vi externa, quantacunque adhibeatur, nequaquam in minus volumen se cogi patiatur, non aliter quam ipsum aurum.</se>
+    <weight variant_id="1">0,212234</weight>
+  </para>
+  <para id="28">
+    <se lang="russian" variant_id="0">На этом основании представляется весьма вероятным и почти несомненным, что частицы связанной материи воды находятся в непосредственном соприкосновении (ибо протекающая материя, если бы таковая находилась в промежутке между связанными частицами, уступила бы малейшему давлению) и следовательно расположены, можно сказать, наиболее плотно.</se>
+    <se lang="latin" variant_id="1">Unde maxime probabile, ac paene extra omne dubium positum est, particulas aquae materiae cohaerentis immediate se mutuo contingere (interlabens enim materia, si qua inter cohaerentis particulas esset, vel levissimae pressioni cederet) adeoque in densissimo fere situ constitutas esse.</se>
+    <weight variant_id="1">0,239516</weight>
+  </para>
+  <para id="29">
+    <se lang="russian" variant_id="0">Затем, различная величина частиц и пор в разных телах нисколько не может содействовать приобретению различий в плотности материи, если допустить, что в каждом теле фигура и расположение частиц одинаковы. ~~~ Итак, приняв пропорциональность плотности тела весу его, остается прибегнуть к различию фигуры.</se>
+    <se lang="latin" variant_id="1">Porro diversa magnitudo particularum et pororum in diversis corporibus ad comparandam diversam densitatem materiae nihil conferre potest, si in singulis eadem figura particularum, idemque earum situs ponatur; restat igitur, ut ad solam figurae diversitatem refugiamus, si densitatem materiae corporum ponderi eorundem proportionalem esse asserere velimus.</se>
+    <weight variant_id="1">-0,028626</weight>
+  </para>
+  <para id="30">
+    <se lang="russian" variant_id="0">Для того чтобы плотность материи в телах была наибольшей, самой подходящей фигурой корпускул будет кубическая.</se>
+    <se lang="latin" variant_id="1">Ad fingendam materiam summe densam in corporibus nulla figura corpusculis aptior tribui potest cubica.</se>
+    <weight variant_id="1">0,276667</weight>
+  </para>
+  <para id="31">
+    <se lang="russian" variant_id="0">Итак, допустим, что частицы золота имеют подобную форму, хотя его поры, открытые для самой воды, даже загруженной соляными частицами, а также и вполне гибкая природа этого металла и препятствуют признать это.</se>
+    <se lang="latin" variant_id="1">Sint igitur particulae auri ejusmodi figura praeditae, quamvis ejus pori ipsi aquae, etiam salinis particulis oneratae, patentes, et flexilis adeo natura hujus metalli id concedere prohibeant.</se>
+    <weight variant_id="1">0,280357</weight>
+  </para>
+  <para id="32">
+    <se lang="russian" variant_id="0">Но какую форму припишем мы частицам воды?</se>
+    <se lang="latin" variant_id="1">Sed in quamnam figuram aquae particulas effingemus?</se>
+    <weight variant_id="1">0,216667</weight>
+  </para>
+  <para id="33">
+    <se lang="russian" variant_id="0">Если мы предположим, что она состоит из сплошных шариков (что я считаю наиболее подходящим не только для воды, но и для атомов всех природных тел), то плотность материи золота будет больше приблизительно в два раза, а не в двадцать раз.</se>
+    <se lang="latin" variant_id="1">Si ex solidis globulis eam constare ponemus (quod non solum aquae sed etiam omnium corporum naturalium atomis convenientissimum esse judico) erit densitas materiae in auro dupla circiter, non vigecupla.</se>
+    <weight variant_id="1">0,260571</weight>
+  </para>
+  <para id="34">
+    <se lang="russian" variant_id="0">Если же мы представим себе в каждом шарике полость, которая будет в десять раз больше его плотной оболочки, так что полые шарообразные частицы воды будут по плотности материи относиться к кубическим сплошным частицам золота приблизительно как 1 к 20, то толщина оболочки частиц воды будет относиться к диаметру их полости приблизительно как 1 к 60.. При этом условии вода будет состоять из тончайших пузырьков, которые едва окажут сопротивление даже самому слабому давлению, тогда как вода, нагнетаемая с весьма большой силой, скорее проникнет в самые узкие поры металлов, чем потерпит хотя бы ничтожный ущерб в своем объеме; и когда при замерзании воды воздух из ее пор силою холода собирается в пузырьки и давит с величайшей упругостью, то скорее разорвется прочнейшая бомба, чем вода уступит сколько-нибудь из своего пространства.</se>
+    <se lang="latin" variant_id="1">Sin vero in quolibet globulo cavitatem fingemus, quae solida ejus crusta decies sit major, ita ut cava et sphaerica corpuscula aquae ad cubica et solida auri sint ratione densitatis materiae illius fere ut 1 ad 20; erit crassicies crustae corpusculorum aquae ad diametrum cavitatis eorundem ut 1 ad 60 circiter. ~~~ Quo posito, aqua constabit ex bullulis gracillimis, quae vix vel levissimae pressioni resistant; cum tamen aqua ingenti vi adacta, strictissimos metallorum poros penetret potius, quam vel tantillum volumini suo detrahi patiatur; et aëre vi frigoris, cum aqua in glaciem abit, ex poris ejus in bullas congregato, stupendoque elatere urgente solidissima bombarda rumpatur potius, quam illa spacium de suo cedat.</se>
+    <weight variant_id="1">-0,0224026</weight>
+  </para>
+  <para id="35">
+    <se lang="russian" variant_id="0">Думаю, что природа лучше позаботилась о прочности тех [частиц], которые намеревалась противопоставить таким силам.</se>
+    <se lang="latin" variant_id="1">Melius equidem firmitati eorum naturam providisse reor, quae tantis viribus oppositura erat.</se>
+    <weight variant_id="1">0,226829</weight>
+  </para>
+  <para id="36">
+    <se lang="russian" variant_id="0">Но сделанное предположение противоречит лишь одному-двум качествам воды; остальные же виды фигур, которые можно было бы представить в поддержку подвергнутого здесь сомнению тезиса, вовсе непригодны как находящиеся в полном несоответствии также с прозрачностью, подвижностью и почти всеми другими качествами воды.</se>
+    <se lang="latin" variant_id="1">Sed ista uni et alteri qualitati aquae non conveniunt; at reliquae figurarum species, quaecunque in favorem theseos, in dubium hic vocatae, fingi possunt, ineptissimae sunt, cum etiam pelluciditati, volubilitati et omnibus fere aquae qualitatibus sunt maxime incongruae.</se>
+    <weight variant_id="1">0,250213</weight>
+  </para>
+  <para id="37">
+    <se lang="russian" variant_id="0">Итак, если мы на основании непреодолимой прочности частиц воды будем считать их сплошными и на основании их подвижности шарообразными и сделаем из сказанного выше тот вывод, что расположение частиц в воде, как и в золоте, наиболее плотное, то конечно нельзя будет отрицать, что плотность материи в золоте и в воде различается мало.</se>
+    <se lang="latin" variant_id="1">Si itaque aquae particulas ob invictam firmitatem solidas, ob volubilitatem sphaericas ponimus; in ipsa autem ut in auro situm illarum densissimum essem ex monitis superius concludimus; tum profecto densitatem materiae in auro et in aqua haud multum discrepare inficiandum non erit.</se>
+    <weight variant_id="1">0,253086</weight>
+  </para>
+  <para id="38">
+    <se lang="russian" variant_id="0">Подобным же образом я мог бы рассуждать и обо многих других телах, напр., об алмазе и ртути, сравнивая их твердость и удельный вес; но так как этим путем можно установить лишь вероятность, но не необходимость утверждения, обратного рассматриваемому тезису, то я перехожу к тому, что представляется более важным.</se>
+    <se lang="latin" variant_id="1">Simili ratione de multis aliis corporibus, ex. gr. de adamante et mercurio, disputare possem, firmitate et gravitate eorum specifica comparatis; sed cum his propositae thesi contrarium possibile potius quam necessarium evincitur; quamobrem ad ea, quae graviora videntur, propero.</se>
+    <weight variant_id="1">0,27284</weight>
+  </para>
+  <para id="39">
+    <se lang="russian" variant_id="0">Никто не сомневается в том, что явления, представляющие собой следствия, становятся яснее и понятнее, если познана их причина; поэтому нельзя сомневаться и в том, что, усмотрев причину тяготения, можно считать объясненными и различия в удельном весе.</se>
+    <se lang="latin" variant_id="1">Effectuum phaenomena magis dilucida perspicuaque reddi cognita illorum causa, nemo dubitat, unde et gravitatis causa perspecta etiam de varietate specificae gravitatis corporum exploratum haberi posse, dubitandum non est.</se>
+    <weight variant_id="1">0,267692</weight>
+  </para>
+  <para id="40">
+    <se lang="russian" variant_id="0">Поэтому я должен, как того требует поставленный вопрос, коротко высказаться о причине тяготения.</se>
+    <se lang="latin" variant_id="1">Quamobrem opus est, ut, quantum proposita quaestio expostulat, de causa gravitatis pauca disseram.</se>
+    <weight variant_id="1">0,292941</weight>
+  </para>
+  <para id="41">
+    <se lang="russian" variant_id="0">Я не буду вступать в спор с теми, кто считает тяготение тел одним из их существенных атрибутов и потому полагает, что и исследовать его причину нет надобности; но я без всякого колебания признаю, что как всякое вообще движение и стремление тел в каком бы то ни было направлении, так и тяготение, представляющее собой разновидность [такового], может у всякого тела без нарушения его сущности отсутствовать, точно так же как и то количество движения, которое порождается из приращения скорости падающих тел.</se>
+    <se lang="latin" variant_id="1">Non moror eos, qui gravitatem corporum inter essentialia eorum attributa numerant, ideoque nec in causam ejus inquirendum esse putant; sed absque omni dubio cum omnem motum atque tendentiam corporum secundum quamcumque directionem in genere, tum etiam gravitatem, quae species est, ab omni corpore abesse, salva ejus essentia, posse statuo, non secus ac illam quantitatem motus, quae ex incrementis celeritatis cadentium corporum enascitur.</se>
+    <weight variant_id="1">0,262105</weight>
+  </para>
+  <para id="42">
+    <se lang="russian" variant_id="0">Так как, следовательно, должно существовать достаточное основание, в силу которого ощутимым телам свойственно скорее устремляться к центру земли, чем не устремляться, то приходится исследовать причину тяготения.</se>
+    <se lang="latin" variant_id="1">Cum itaque ratio sufficiens adesse debeat, cur sensibilla corpora potius tendant versus centrum telluris, quam non tendant; idcirco oportet ut in gravitatis causam inquiramus.</se>
+    <weight variant_id="1">0,233333</weight>
+  </para>
+  <para id="43">
+    <se lang="russian" variant_id="0">Возникать оно должно либо от толчка, либо от чистого притяжения.</se>
+    <se lang="latin" variant_id="1">Eam vero vel ex impulsione vel ex mera attractione oriri necesse est.</se>
+    <weight variant_id="1">0,283929</weight>
+  </para>
+  <para id="44">
+    <se lang="russian" variant_id="0">Что тела могут двигаться от толчка, это вполне достоверно; чистое же притяжение остается под вопросом, и нет недостатка в достаточно веских доводах, устраняющих его из природы вещей.</se>
+    <se lang="latin" variant_id="1">Impulsione corpora moveri certissimum est; mera autem attractio in quaestione versatur, nec valida satis argumenta desunt, quae eam ex rerum natura removent.</se>
+    <weight variant_id="1">0,256204</weight>
+  </para>
+  <para id="45">
+    <se lang="russian" variant_id="0">Хотя я не сомневаюсь, что Вам, ученейший муж, они достаточно известны, однако считаю необходимым ради связности [изложения] привести здесь некоторые на них.</se>
+    <se lang="latin" variant_id="1">Quae quamvis Tibi, vir doctissime, nota satis esse non dubitem, nexus tamen gratia nonnulla hic inserere necessarium esse arbitror.</se>
+    <weight variant_id="1">0,242105</weight>
+  </para>
+  <para id="46">
+    <se lang="russian" variant_id="0">Прежде всего, если в телах существует чистая сила притяжения, то необходимо допустить, что она прирождена им для производства движения.</se>
+    <se lang="latin" variant_id="1">Et primo quidem, si mera vis attrahendi in corporibus datur, ad motum producendum illis ingenerata sit, necesse est.</se>
+    <weight variant_id="1">0,246</weight>
+  </para>
+  <para id="47">
+    <se lang="russian" variant_id="0">Но всем известно, что движение тел производится и толчком.</se>
+    <se lang="latin" variant_id="1">Verum et impulsione motum in corporibus produci omnibus manifestum est.</se>
+    <weight variant_id="1">0,229412</weight>
+  </para>
+  <para id="48">
+    <se lang="russian" variant_id="0">Окажется следовательно, что для вызывания одного и того же следствия в природе существуют две причины, и притом противоположные одна другой: ибо что может быть более противоположным чистому притяжению, чем простой толчок?</se>
+    <se lang="latin" variant_id="1">Erunt ergo ad eundem effectum producendum duae causae in rerum natura constitutae et quidem secum pugnantes: quid enim magis contrarium esse potest merae attractioni quam pura impulsio?</se>
+    <weight variant_id="1">0,24</weight>
+  </para>
+  <para id="49">
+    <se lang="russian" variant_id="0">Но никто не станет отрицать, что противоположные причины должны производить противоположные следствия.</se>
+    <se lang="latin" variant_id="1">Caeterum a contrariis causis contrarios effectus produci nemo ibit inficias.</se>
+    <weight variant_id="1">0,194118</weight>
+  </para>
+  <para id="50">
+    <se lang="" variant_id="0">(Пусть не приводят против этого примеров, кажущихся противоречащими, напр., что живые существа умерщвляются одинаково жаром и холодом.</se>
+    <se lang="" variant_id="1">(Ne quis tamen exempla apparenter urgentia contra haec ponat, ex. gr. animalia aestu pariter ac frigore necari.</se>
+    <weight variant_id="1">0,228125</weight>
+  </para>
+  <para id="51">
+    <se lang="russian" variant_id="0">Ибо я здесь подразумеваю не отдаленные причины, которых может быть множество, а ближайшую причину, которая для каждого следствия должна быть единственной, как, например, для смерти прекращение кровообращения).</se>
+    <se lang="latin" variant_id="1">Causas enim hic non intelligo remotas, quae dari possunt plurimae, sed proximam, quae cujusvis effectus debet esse unica, ut mortis cessatio motus sanguinis).</se>
+    <weight variant_id="1">0,19708</weight>
+  </para>
+  <para id="52">
+    <se lang="russian" variant_id="0">Поэтому если чистое притяжение производит в телах движение, то толчок окажется причиной покоя; но это ложно, так как в действительности толчок возбуждает в телах движение; значит притяжение не возбуждает движения, т. е. вовсе не существует.</se>
+    <se lang="latin" variant_id="1">Quamobrem si mera attractio motum in corporibus producit: quietis ergo causa erit impulsio; quod falsum est: quia impulsio motum in corporibus revera excitat; adeoque attractio nullum; hoc est nulla datur.</se>
+    <weight variant_id="1">0,249153</weight>
+  </para>
+  <para id="53">
+    <se lang="russian" variant_id="0">Наконец, предположим, что в телах существует сила чистого притяжения: тогда тело A притягивает тело B, т. е. движет его без какого-либо толчка.</se>
+    <se lang="latin" variant_id="1">Denique ponamus vim attractricem meram in corporibus dari; tum corpus A attrahit aliud corpus B, hoc est illud movet sine ulla impulsione.</se>
+    <weight variant_id="1">0,548158</weight>
+  </para>
+  <para id="54">
+    <se lang="russian" variant_id="0">Значит не нужно, чтобы тело A ударилось в тело B, а следовательно нет необходимости и в том, чтобы оно двигалось по направлению к нему; а так как остальные движения его в каком бы то ни было другом направлении не могут иметь никакого значения для приведения в движение тела B, то отсюда следует, что тело A, находясь в абсолютном покое, движет тело B.. Последнее же будет двигаться по направлению к телу A, то есть к нему прибавится нечто новое, а именно движение к телу A, которого в нем ранее не было.</se>
+    <se lang="latin" variant_id="1">Unde opus non est, ut corpus A impingat in corpus B, adeoque nec ut versus idem moveatur necesse est; et cum reliqui motus ejus secundum quamcunque directionem aliam ad movendum corpus B nil conferre possunt: sequitur ergo corpus A in absoluta quiete positum movere posse corpus B.. Ho[c] autem movebitur versus corpus A; accedet igitur illi novum aliquid, hoc est motus versus corpus A, qui ante in eo non fuit.</se>
+    <weight variant_id="1">0,407095</weight>
+  </para>
+  <para id="55">
+    <se lang="russian" variant_id="0">Но все встречающиеся в природе изменения происходят так, что если к чему-либо нечто прибавилось, то это отнимается у чего-то другого.</se>
+    <se lang="latin" variant_id="1">Omnes autem, quae in rerum natura contingunt, mutationes ita sunt comparatae, ut si quid alicui rei accedit, id alteri derogetur.</se>
+    <weight variant_id="1">0,289189</weight>
+  </para>
+  <para id="56">
+    <se lang="russian" variant_id="0">Так, сколько материи прибавляется какому-либо телу, столько же теряется у другого, сколько часов я затрачиваю на сон, столько же отнимаю от бодрствования, и т. д.</se>
+    <se lang="latin" variant_id="1">Sic quantum alicui corpori materiae additur, tantumdem decedit alteri, quot horas somno impendo, totidem vigiliae detraho etc.</se>
+    <weight variant_id="1">0,224324</weight>
+  </para>
+  <para id="57">
+    <se lang="russian" variant_id="0">Так как это всеобщий закон природы, то он распространяется и на правила движения: тело, которое своим толчком возбуждает другое к движению, столько же теряет от своего движения, сколько сообщает другому, им двинутому.</se>
+    <se lang="latin" variant_id="1">Quae naturae lex cum sit universalis, ideo etiam ad regulas motus extenditur: corpus enim, quod impulsione ad motum excitat aliud, tantum de suo amittit, quantum alteri a se moto impertit.</se>
+    <weight variant_id="1">0,249375</weight>
+  </para>
+  <para id="58">
+    <se lang="russian" variant_id="0">Итак, в силу этого закона прибавившееся к телу B движение по направлению к телу A отнимается оттуда, откуда тело B приобретает это движение, т. е. от тела A.. Но так как ни от какого тела нельзя отнять то, чего в нем нет, то необходимо, чтобы тело A двигалось, если оно притягивает тело B, и следовательно тело A, находясь в абсолютном покое, не может двигать другое тело B, а это противоречит доказанному выше.</se>
+    <se lang="latin" variant_id="1">Igitur vi hujus legis motus, qui versus corpus A corpori B accedit, detrahitur ei, a quo corpus B motum illum acquirit, hoc est corpori A.. Sed cum nulli corpori detrahi potest id, quod non habet, necesse igitur est, ut corpus A moveatur, si attrahit corpus B, adeoque corpus A in absoluta quiete positum non potest movere aliud corpus B, quod superius probatis contradicit.</se>
+    <weight variant_id="1">0,601288</weight>
+  </para>
+  <para id="59">
+    <se lang="russian" variant_id="0">Таким образом, или чистое притяжение не существует в природе, или не является нелепостью, что одно и то же одновременно и существует и не существует.</se>
+    <se lang="latin" variant_id="1">Idcirco aut attractio mera locum in rerum natura non habet, aut simul idem esse et non esse absurdum non est.</se>
+    <weight variant_id="1">0,181319</weight>
+  </para>
+  <para id="60">
+    <se lang="russian" variant_id="0">Я принимаю первое, а второе предоставляю тем, кто рад чуть ли не все явления объяснить одним единственным словом.</se>
+    <se lang="latin" variant_id="1">Ego prius amplector, posterius eis relinquo, qui omnia fere phaenomena unico vocabulo explicare gaudent.</se>
+    <weight variant_id="1">0,283696</weight>
+  </para>
+  <para id="61">
+    <se lang="russian" variant_id="0">Впрочем, если бы характер поставленной задачи позволил обратиться к самым источникам, откуда притяжение вносится в природу тел и наводняет естественные науки, то утверждаемая здесь истина могла бы стать яснее; но я оставляю это для специальной разработки.</se>
+    <se lang="latin" variant_id="1">Caeterum si instituti ratio permitteret ipsos adire fontes, unde attractio ad naturam corporum derivatur, et scientiam naturalem inundat; liquidior reddi posset, quae hic asseritur, veritas. ~~~ Verum id ad peculiarem tractationem reservo.</se>
+    <weight variant_id="1">-0,009375</weight>
+  </para>
+  <para id="62">
+    <se lang="russian" variant_id="0">Итак, поскольку никакое чистое притяжение не может существовать, то отсюда следует, что тяготение ощутимых тел проистекает от толчка, и следовательно существует материя, которая толкает их к центру земли.</se>
+    <se lang="latin" variant_id="1">Quoniam itaque attractio mera nulla esse potest; sequitur gravitatem corporum sensibilium ab impulsione proficisci, adeoque dari materiam, quae illa versus Centrum telluris urget.</se>
+    <weight variant_id="1">0,262025</weight>
+  </para>
+  <para id="63">
+    <se lang="russian" variant_id="0">Но тяжестью обладают и мельчайшие частицы тяжелых тел, откуда очевидно, что тяготительная материя воздействует даже на мельчайшие частицы, вполне свободно проникает в самые узкие поры и следовательно должна быть в величайшей степени текучей.</se>
+    <se lang="latin" variant_id="1">Gravium autem corporum etiam minimae particulae sunt graves, unde materiam gravificam agere etiam in minimas particulas, poros angustissimos penetrare liberrime, atque adeo fluidissimam esse debere, manifestum est.</se>
+    <weight variant_id="1">0,266667</weight>
+  </para>
+  <para id="64">
+    <se lang="russian" variant_id="0">Но воздействовать на частицы тел эта материя не может иначе, как ударяясь в них, ударяться же не может без того, чтобы они оказывали ей сопротивление, т. е. противопоставляли ей свои бока, для нее непроницаемые.</se>
+    <se lang="latin" variant_id="1">Haec autem materia in particulas corporum agere nequit, nisi in illas impingat, impingere autem non potest, quin illae resistant, hoc est opponant latera sua illi impervia.</se>
+    <weight variant_id="1">0,237162</weight>
+  </para>
+  <para id="65">
+    <se lang="russian" variant_id="0">Отсюда следует, что существуют составляющие тяжелые тела частицы, непроницаемые для тяготительной материи, которая действует на их поверхность.</se>
+    <se lang="latin" variant_id="1">Hinc ~~~ autem sequitur, dari particulas, gravia corpora constituentes, materiae gravificae impervias, quae in earum superficiem agit.</se>
+    <weight variant_id="1">-0,0127119</weight>
+  </para>
+  <para id="66">
+    <se lang="russian" variant_id="0">Пусть, при этих условиях, тело A равно телу B протяжением и плотностью материи, и частицы того и другого тела, на поверхность которых действует тяготительная материя, шарообразны и имеют одинаковое расположение.</se>
+    <se lang="latin" variant_id="1">Quibus ita se habentibus, sit corpus A aequale corpori B extensione et densitate materiae, et corpuscula utriusque, in quorum superficiem materia gravifica agit, sphaerica, simili situ disposita.</se>
+    <weight variant_id="1">0,491345</weight>
+  </para>
+  <para id="67">
+    <se lang="russian" variant_id="0">Пусть, наконец, диаметр каждой частицы тела A равен d, а окружность равна p; тогда ее поверхность будет равна dp.</se>
+    <se lang="latin" variant_id="1">Sit denique diameter unius corpusculi corporis A = d, peripheria ejus = p; erit superficies ejusdem = dp.</se>
+    <weight variant_id="1">0,907983</weight>
+  </para>
+  <para id="68">
+    <se lang="russian" variant_id="0">Пусть, далее, диаметр частицы тела B равен d — e; ее поверхность будет равна (d — e)2 p : d.</se>
+    <se lang="latin" variant_id="1">Porro, sit diameter corpusculi corporis B = d — e, erit ejus superficies = (d — e)2 p : d.</se>
+    <weight variant_id="1">1,57738</weight>
+  </para>
+  <para id="69">
+    <se lang="russian" variant_id="0">Затем, пусть число частиц тела A равно a; так так тело A равно телу B протяжением и плотностью материи, а частицы того и другого по условию имеют одинаковую форму и одинаковое расположение, то число частиц тела A будет относиться к числу частиц тела B, как куб диаметра частицы тела B к кубу диаметра частицы тела A, т. е. это отношение будет равно a : Формула, и следовательно сумма поверхностей частиц тела A будет относиться к сумме поверхностей частиц тела B, как adp : Формула × (d — e)2 p : d = a/d : a/(d — e).</se>
+    <se lang="latin" variant_id="1">Deinde sit numerus corpusculorum corporis A = a; quoniam corpus A aequale est corpori B extensione et densitate materiae, et corpuscula sunt in utroque ejusdem figurae et situs (per hypoth.), erit numerus corpusculorum corporis A, ad numerum corpusculorum corporis B, ut cubus diametri corpusculi corporis B ad cubum diametri corpusculi corporis A, hoc est = a : , adeoque summa superficierum corpusculorum corporis A erit ad summam superficierum corpusculorum corporis B = adp : × (d — e)2 p : d = a/d : a/(d — e).</se>
+    <weight variant_id="1">1,14659</weight>
+  </para>
+  <para id="70">
+    <se lang="russian" variant_id="0">А так как тяжелые тела, отовсюду окруженные толстыми стенами и заключенные в каменные погреба, ничего не теряют из своей тяжести, то отсюда ясно, что тяготительная материя, проходя через поры тел, не задерживается, а всегда движется с одной и той же скоростью и обрушивается на отдельные частицы с одинаковым натиском.</se>
+    <se lang="latin" variant_id="1">Quoniam autem corpora gravia validis muris undique circumsepta et lapideis caveis inclusa nil de gravitate sua amittunt; unde liquet materiam gravificam poros corporum pervadendo non retardari, adeoque semper eadem celeritate moveri, et in singula corpuscula eodem impetu ruere.</se>
+    <weight variant_id="1">0,26405</weight>
+  </para>
+  <para id="71">
+    <se lang="russian" variant_id="0">Но у тел A и B, по условию, одинаковое количество материи и следовательно одинаковая инерция.</se>
+    <se lang="latin" variant_id="1">In corporibus autem A et B eadem est quantitas materiae (per hypoth.), adeoque eadem inertia.</se>
+    <weight variant_id="1">0,4875</weight>
+  </para>
+  <para id="72">
+    <se lang="russian" variant_id="0">Итак, различие действия тяготительной жидкости будет определяться отношением поверхностей, с которыми она сталкивается.</se>
+    <se lang="latin" variant_id="1">Diversitas igitur actionis fluidi gravifici, erit in ratione superficierum, in quas incurrit.</se>
+    <weight variant_id="1">0,209639</weight>
+  </para>
+  <para id="73">
+    <se lang="russian" variant_id="0">А так как, по доказанному, сумма поверхностей частиц тела A меньше, чем сумма поверхностей частиц тела B, то тяготительная жидкость будет воздействовать на тело A с меньшей силой, чем на тело B, и следовательно тело B будет обладать большим удельным весом, чем тело A.. Но в обоих телах, по условию, плотность материи одна и та же, следовательно она не пропорциональна тяжести.</se>
+    <se lang="latin" variant_id="1">Cum vero summa superficierum corpusculorum corporis A minor est quam summa superficierum corpusculorum corporis B (per demonstrata), minorem igitur vim exercebit fluidum gravificum in corpus A, quam in corpus B, atque adeo corpus B erit specifice gravius corpore A.. In utroque autem corpore densitas materiae est eadem (per hypoth.), ea igitur gravitati proportionalis non est.</se>
+    <weight variant_id="1">0,507682</weight>
+  </para>
+  <para id="74">
+    <se lang="russian" variant_id="0">Это по необходимости должно быть при различной величине частиц; но то же самое выводится и в том случае, когда частицам различных тел приписывается различная фигура.</se>
+    <se lang="latin" variant_id="1">Haec a diversa corpusculorum mole necessario fieri debent; sed idem quoque deducitur, ubi corpusculis diversarum corporum diversa figura tribuitur.</se>
+    <weight variant_id="1">0,272308</weight>
+  </para>
+  <para id="75">
+    <se lang="russian" variant_id="0">Итак, если мы хотим признать, что тяжесть тел везде пропорциональна плотности их материи, то мы должны или положить, что непроницаемые для тяготительной жидкости частицы всех вообще тел обладают одной и той же величиной и фигурой, или отвергнуть тяготительную жидкость.</se>
+    <se lang="latin" variant_id="1">Si itaque gravitatem corporum proportionalem densitati ~~~ materiae eorum ubique volumus; tum aut omnium corporum particulas fluido gravifico impervias in universum ejusdem molis et figurae ponere, aut fluidum illud abrogare debemus.</se>
+    <weight variant_id="1">-0,0214286</weight>
+  </para>
+  <para id="76">
+    <se lang="russian" variant_id="0">Первому противоречит поразительное разнообразие тел природы, второе противно здравому смыслу и ведет к признанию таинственных качеств.</se>
+    <se lang="latin" variant_id="1">Priori stupenda rerum naturalium varietas obstat; posterius et sanam rationem offendit et qualitatibus occultis patrocinatur.</se>
+    <weight variant_id="1">0,278571</weight>
+  </para>
+  <para id="77">
+    <se lang="russian" variant_id="0">Кроме того, надо принять в соображение, что если мы признаем видимый мир полным материи, то должны допустить и невесомую материю, ибо иначе тела не могли бы ни подниматься, ни опускаться силою тяжести в эфирной жидкости.</se>
+    <se lang="latin" variant_id="1">Super haec id considerandum venit, quod, si mundum adspectabilem plenum materia statuimus; materiam gravitate carentem admittere debemus; alias enim omnia corpora in fluido aethereo nec ascendere nec descendere vi gravitatis possent.</se>
+    <weight variant_id="1">0,272727</weight>
+  </para>
+  <para id="78">
+    <se lang="russian" variant_id="0">Если же мы принимаем невесомую материю, то, переходя от большего к меньшему, придется заключить, что существуют различные материи, уступающие другим материям по удельному весу.</se>
+    <se lang="latin" variant_id="1">At si materiam gravitate carentem concedimus, necessario a majori concludendum erit, dari diversas materias gradu gravitatis specificae aliis materiis cedentes.</se>
+    <weight variant_id="1">0,274648</weight>
+  </para>
+  <para id="79">
+    <se lang="russian" variant_id="0">О том же говорит и аналогия прочих качеств, которыми обладают ощутимые тела; так, свет может быть отнят от тела, но может и меняться по степени интенсивности; то же общеизвестно и для звука, упругости, вкуса и прочих качеств.</se>
+    <se lang="latin" variant_id="1">Quod etiam loquitur analogia aliarum qualitatum, quibus corpora sensibilia gaudent: quippe lumen cum tolli de corpore possit, variat etiam gradu intensionis. ~~~ Sic de sono, elatere, sapore et reliquis notissimum est.</se>
+    <weight variant_id="1">-0,00159574</weight>
+  </para>
+  <para id="80">
+    <se lang="russian" variant_id="0">Если мы, таким образом, согласимся признать, что удельный вес тел изменяется пропорционально поверхностям, противопоставляемым тяготительной жидкости непроницаемыми для нее частицами, то не только будут устранены все упомянутые выше затруднения, но и откроется более широкий путь как для лучшего объяснения весьма многих явлений, так и для исследования природы мельчайших частиц.</se>
+    <se lang="latin" variant_id="1">Si itaque statuere velimus gravitatem corporum specificam differre pro ratione superficierum, quas corpuscula fluido gravifico impervia eidem opponunt; tum non solum memoratae superius difficultates sublatae erunt omnes, verum etiam amplior via aperietur cum ad pleraque phaenomena dilucidius explananda, tum etiam ad naturam minimorum corpusculorum examinandam.</se>
+    <weight variant_id="1">0,287774</weight>
+  </para>
+  <para id="81">
+    <se lang="russian" variant_id="0">Действительно, если положить, что сумма поверхностей частиц золота приблизительно в двадцать раз больше, чем сумма поверхностей частиц воды в равном объеме, то окажется, что золото почти в двадцать раз тяжелее воды при той же плотности материи.</se>
+    <se lang="latin" variant_id="1">Etenim posita summa superficierum corpusculorum auri fere vicesies majore, quam summa superficierum corpusculorum aquae in aequalibus voluminibus, erit aurum vicesies fere gravius, ~~~ quam aqua, manente eadem materiae densitate.</se>
+    <weight variant_id="1">-0,00671642</weight>
+  </para>
+  <para id="82">
+    <se lang="russian" variant_id="0">И чтобы мне здесь не возражали, что поры золота вследствие тонкости его частиц должны быть столь узкими, что в них не смогут проникнуть частицы воды, которые, вследствие ее меньшего веса, имеют большую величину, и даже частицы царской водки, я скажу, что царская водка проникает лишь в те поры золота, которые находятся между смешанными частицами этого металла, т. е. частицами, составленными из разнородных начал, между которыми царская водка не проникает, ибо иначе она разъединила бы составные части золота и, следовательно, совершенно разрушила бы его само.</se>
+    <se lang="latin" variant_id="1">Ne hic autem mihi objiciatur, poros auri a subtilitate corpusculorum ejus debere esse tam angustos, ut corpuscula aquae, quae ob minorem ejus gravitatem majora sunt, atque adeo etiam aquae regiae particulae, eos penetrare non possint; dico aquam regiam ingredi solum eos auri poros, qui sunt inter corpuscula hujus metalli mixta, hoc est concreta ex principiis heterogeneis, inter quae aqua regia non penetrat, alias enim miscibilia auri dissolveret, adeoque ipsum prorsus destrueret.</se>
+    <weight variant_id="1">0,253735</weight>
+  </para>
+  <para id="83">
+    <se lang="russian" variant_id="0">Далее, при помощи этой теории совершенно отвергается известное мнение об огне, остающемся в кальцинированных телах.</se>
+    <se lang="latin" variant_id="1">Porro hujus theoriae auxilio removetur prorsus illa de igne in corporibus calcinatis fixo opinio.</se>
+    <weight variant_id="1">0,24</weight>
+  </para>
+  <para id="84">
+    <se lang="russian" variant_id="0">Действительно, хотя нет никакого сомнения, что частицы из воздуха, непрерывно текущего на кальцинируемое тело, смешиваются с последним и увеличивают его вес, однако, если учесть опыты в замкнутом сосуде, при которых также увеличивается вес кальцинируемого тела, то можно будет ответить, что вследствие уничтожения сцепления частиц кальцинированием, их поверхности, ранее закрытые взаимным соприкосновением, оказываются уже свободно подверженными тяготительной жидкости и потому сильнее пригнетаются к центру земли.</se>
+    <se lang="latin" variant_id="1">Quamvis enim nullum sit dubium, particulas ex aëre, super corpus calcinandum continuo fluente, illi immisceri et pondus ipsius augere; verum si experimenta in occluso vase facta proferantur, cum aucto etiam calcinati corporis pondere; responderi poterit, cohaesione particularum per calcinationem sublata, latera illarum, quae antea contactu erant occupata, jam libere fluido gravifico exponi, ideoque fortius ad centrum telluris premi.</se>
+    <weight variant_id="1">0,243158</weight>
+  </para>
+  <para id="85">
+    <se lang="russian" variant_id="0">Наконец, небесполезной, думаю я, будет эта теория и для исследования отношения величин частиц, принадлежащих телам различного рода, если на основании других данных станут известны их состав, расположение и фигура.</se>
+    <se lang="latin" variant_id="1">Denique nec inutilem fore hanc theoriam puto ad magnitudinis rationem inter corpuscula corporum diversi generis inquirendam, si nempe mixtio, situs et figura illorum aliunde innotuerint.</se>
+    <weight variant_id="1">0,257669</weight>
+  </para>
+  <para id="86">
+    <se lang="russian" variant_id="0">Но я счел нужным привести это лишь в качестве примера.</se>
+    <se lang="latin" variant_id="1">Sed haec exempli gratia producere tantum lubuit.</se>
+    <weight variant_id="1">0,27907</weight>
+  </para>
+  <para id="87">
+    <se lang="russian" variant_id="0">Я предложил бы больше, если бы не видел, что уже распространился здесь более чем достаточно.</se>
+    <se lang="latin" variant_id="1">Plura offerrem, si me jam plus satis prolixum hic fuisse non viderem.</se>
+    <weight variant_id="1">0,198305</weight>
+  </para>
+  <para id="88">
+    <se lang="russian" variant_id="0">Добавлю, однако, что согласно показанному выше воздух должен быть гораздо тяжелее воды, если только частицы его окажутся в наиболее тесном расположении.</se>
+    <se lang="latin" variant_id="1">Addo tamen, juxta probata superius aërem multo graviorem aqua esse debere, si quando corpuscula ejus sunt in situ summe denso.</se>
+    <weight variant_id="1">0,230556</weight>
+  </para>
+  <para id="89">
+    <se lang="russian" variant_id="0">Действительно, его частицы меньше частиц воды, так как входят в ее поры.</se>
+    <se lang="latin" variant_id="1">Ea enim sunt minora aquae particulis, quia poros ejus ingrediuntur.</se>
+    <weight variant_id="1">0,284746</weight>
+  </para>
+  <para id="90">
+    <se lang="russian" variant_id="0">Вот, знаменитейший муж, что я обдумываю уже несколько лет и что не позволяет мне привести в единую систему и опубликовать результаты моих исследований, относящихся к причинам частных качеств.</se>
+    <se lang="latin" variant_id="1">Haec sunt, vir Celeberrime, quae jam per aliquot annos volvo, quaeque mihi obstant, quo minus ea, quae, investigando causas qualitatum particularium profeci, in unum systema redigere atque publici juris facere possim.</se>
+    <weight variant_id="1">0,258182</weight>
+  </para>
+  <para id="91">
+    <se lang="russian" variant_id="0">Но не сомневаюсь, что Ваше острое суждение освободит меня из этого лабиринта.</se>
+    <se lang="latin" variant_id="1">Tuo autem acutissimo judicio ex hoc labyrintho me extricatum iri non dubito.</se>
+    <weight variant_id="1">0,295455</weight>
+  </para>
+  <para id="92">
+    <se lang="russian" variant_id="0">Примите, несравненный муж, эти мои размышления со свойственной Вам непредубежденностью и не оставляйте меня Вашим благосклонным расположением.</se>
+    <se lang="latin" variant_id="1">Accipe, Vir incomparabilis, ea, qua praeditus es, animi aequitate hasce meditationes meas, mihique favere perge.</se>
+    <weight variant_id="1">0,215152</weight>
+  </para>
+  <para id="93">
+    <se lang="russian" variant_id="0">Будьте здоровы.</se>
+    <se lang="latin" variant_id="1">Vale.</se>
+    <weight variant_id="1">-0,15</weight>
+  </para>
+  <para id="94">
+    <se lang="russian" variant_id="0">Петербург, 5 июля, ст. ст. 1748 г.</se>
+    <se lang="latin" variant_id="1">Dabam Petropoli die 5 Julii stili vet. ~~~ A.. S. 1748.</se>
+    <weight variant_id="1">2,68478</weight>
+  </para>
+</body>
+</html>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+<head>
+</head>
+<body>
+  <para id="0">
+    <se lang="russian" variant_id="0">Ученейшему и знаменитейшему мужу Леонарду Эйлеру, члену славной Берлинской королевской академии наук и выдающемуся королевскому профессору</se>
+    <se lang="latin" variant_id="1">Viro doctissimo ac celeberrimo Leonhardo Eulero illustris Regiae Scientiarum Academiae Berolinensis Membro et Professori Regio spectatissimo</se>
+    <weight variant_id="1">0,295161</weight>
+  </para>
+  <para id="1">
+    <se lang="russian" variant_id="0">Михайло Ломоносов</se>
+    <se lang="latin" variant_id="1">Michaël Lomonosoff</se>
+    <weight variant_id="1">0,282353</weight>
+  </para>
+  <para id="2">
+    <se lang="russian" variant_id="0">желает много здравствовать.</se>
+    <se lang="latin" variant_id="1">S. ~~~ P.. D.</se>
+    <weight variant_id="1">-0,24</weight>
+  </para>
+  <para id="3">
+    <se lang="russian" variant_id="0">Письмо ваше, знаменитейший муж, на имя его сиятельства нашего президента, где вы соблаговолили отозваться наилучшим образом о моих работах, доставило мне величайшую радость.</se>
+    <se lang="latin" variant_id="1">Litterae Tuae, vir celeberrime, quibus lucubrationes meas illustrissimo Praesidi nostro de meliore nota commendare voluisti, magnam mihi laetitiam attulerunt.</se>
+    <weight variant_id="1">0,276596</weight>
+  </para>
+  <para id="4">
+    <se lang="russian" variant_id="0">Считаю, что на мою долю не могло выпасть ничего более почетного и более благоприятного, чем то, что мои научные занятия в такой степени одобряет тот, чье достоинство я должен уважать, а оказанную мне благосклонность ценить превыше всего, тот, у кого велики в ученом мире и заслуги и влияние.</se>
+    <se lang="latin" variant_id="1">Nihil enim magis honorificum magisque opportunum mihi contingere posse existimo, quam studia mea illi tantopere probari, cujus dignitatem venerari, propensamque in me voluntatem maximi facere debeo, et ab eo quidem, cujus magna sunt orbe litterario et merita et auctoritas.</se>
+    <weight variant_id="1">0,288559</weight>
+  </para>
+  <para id="5">
+    <se lang="russian" variant_id="0">Поэтому, прочитав переданное нашим почтеннейшим коллегой Тепловым свидетельство ваше обо мне, я решил, что нельзя было бы не осудить меня, если бы я обошел молчанием столь великое ваше одолжение.</se>
+    <se lang="latin" variant_id="1">Quum primum igitur ab honoratissimo collega nostro Teplovio Tuum de me testimonium communicatum perlegerim, tantum in me officium Tuum sine maxima culpa praeteriri non posse judicavi.</se>
+    <weight variant_id="1">0,283019</weight>
+  </para>
+  <para id="6">
+    <se lang="russian" variant_id="0">Отплатить за ваше благодеяние не могу ничем иным, как только тем, что, храня благодарную память, буду продолжать дело, которое вы по вашей исключительной доброте одобряете, и непрестанно прославлять во всяком месте и во всякое время вашу справедливость в оценке чужих трудов.</se>
+    <se lang="latin" variant_id="1">Ut autem huic Tuo beneficio respondeam, non aliud quid inveni, quam ut id, quod singulari humanitati Tuae acceptum fero, grata memoria persequar, et quovis loco ac tempore Tuam in aliorum laboribus judicandis aequitatem celebrare non desistam.</se>
+    <weight variant_id="1">0,261244</weight>
+  </para>
+  <para id="7">
+    <se lang="russian" variant_id="0">Как ни приятно ваше теперешнее благоволение, однако будет еще гораздо более радостно, если по доброте вашей можно будет пользоваться им и впредь.</se>
+    <se lang="latin" variant_id="1">Quamvis autem gratissima sit mihi haec Tua voluntas, multo tamen erit jucundior, si per humanitatem Tuam eadem ultro frui licebit.</se>
+    <weight variant_id="1">0,265179</weight>
+  </para>
+  <para id="8">
+    <se lang="russian" variant_id="0">Не сомневаюсь в том, сколь великим будет для меня благом, если вы не сочтете меня недостойным беседовать с вами письменно.</se>
+    <se lang="latin" variant_id="1">Magnae equidem utilitati futurum mihi non dubito, si me, quocum per litteras colloquaris, non indignum esse judicaveris.</se>
+    <weight variant_id="1">0,297115</weight>
+  </para>
+  <para id="9">
+    <se lang="russian" variant_id="0">Ваш чрезвычайно лестный для меня совет, переданный мне через почтеннейшего Шумахера, внушил мне сильное желание написать рассуждение о рождении селитры, которое я решил, посильно его разработав, послать к назначенному сроку в славную Берлинскую академию на соискание премии.</se>
+    <se lang="latin" variant_id="1">Consilium Tuum mihi perquam honorificum per amplissimum Schumacherum mihi indicatum magnopere me impulit ad concinnandam de Nitri genesi commentationem, quam pro virili elaboratam ad illustrem Academiam Berolinensem pro praemio obtinendo significato tempore mittere apud me statui.</se>
+    <weight variant_id="1">0,289958</weight>
+  </para>
+  <para id="10">
+    <se lang="russian" variant_id="0">Будьте здоровы, знаменитейший муж, и продлите благосклонность, оказанную моим занятиям.</se>
+    <se lang="latin" variant_id="1">Vale, vir celeberrime, et studiis meis, ut incepisti, fave.</se>
+    <weight variant_id="1">0,144231</weight>
+  </para>
+  <para id="11">
+    <se lang="russian" variant_id="0">Петербург, 16 февраля юлианского стиля, 1748 г.</se>
+    <se lang="latin" variant_id="1">Dabam Petropoli, Die 16 Febr. ~~~ St. ~~~ Jul. ~~~ A.. S. ~~~ 1748</se>
+    <weight variant_id="1">-0,116923</weight>
+  </para>
+</body>
+</html>

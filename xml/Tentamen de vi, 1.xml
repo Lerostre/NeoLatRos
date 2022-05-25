@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html>
+<head>
+</head>
+<body>
+  <para id="0">
+    <se lang="russian" variant_id="0">В § 1 объявлено, что по изобретении воздушного насоса, хотя многие свойства воздуха известны учинились, однако причина его упругости еще недовольно истолкована.</se>
+    <se lang="latin" variant_id="1">Post inventam antliam pneumaticam multa quidem in natura aëris detecta, verumtamen causa elateris nondum satis explicata esse censetur, § 1. </se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="1">
+    <se lang="russian" variant_id="0">В § 2 мнение, которое утверждается на теории о силе, отбивающей
+от центра, правдивее всех почитается</se>
+    <se lang="latin" variant_id="1">Hypotheses viribus centralibus innixae prae reliquis placent, § 2. </se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="2">
+    <se lang="russian" variant_id="0">В § 3 недостаток или, справедливее сказать, излишек в оном мнении показан</se>
+    <se lang="latin" variant_id="1">Quid in illis desideretur, aut potius superfluum sit, ostenditur, § 3. </se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="3">
+    <se lang="russian" variant_id="0">В § 4 теорию начинает автор ясным понятием о самой упругости</se>
+    <se lang="latin" variant_id="1">A clara notione elateris aëris explicandi initium capitur, § 4. </se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="4">
+    <se lang="russian" variant_id="0"> В § 5-7 показано, что упругость воздуха зависит не от органических или сложенных каких частей воздуха, но от самых простых, твердых и неразделимых частиц или атомов.</se>
+    <se lang="latin" variant_id="1">Elaterem aëris non ab organicis et compositis quibusdam moleculis, sed a simplicissimis et solidissimis atomis illius proficisci ostenditur, § 5—7. </se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="5">
+    <se lang="russian" variant_id="0">В § 8 и 9 рассуждает автор, что воздушным неразделимым атомам никакая фигура не может быть толь пристойна, как сферическая шероховатая, то есть что воздух состоит из неразделимых твердых шероховатых шаричков,</se>
+    <se lang="latin" variant_id="1">Figura atomis elaterem producentibus sphaerica et superficies asperula convenientissima esse judicantur, § 8 et 9. </se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="6">
+    <se lang="russian" variant_id="0">В § 10—12 показано, что составляющие воздух частицы в упругое расширение расскакиваются не вступлением другой какой материи, которая бы самого воздуха была мельче, но взаимным самих на себя действием. </se>
+    <se lang="latin" variant_id="1">Particulas aëris elaterem producentes non interfuso aliquo fluido, aëre ipso subtiliore, sed mutua ipsarum actione a se invicem pelli docetur, § 10—12.</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="7">
+    <se lang="russian" variant_id="0">В § 13—17 доказывает автор, что неразделимые воздушные частицы, вертясь для теплоты около своей оси и шероховатою поверхностию одна о другую ударяясь, расскакиваются и таким расширением упругость воздуха производят.  </se>
+    <se lang="latin" variant_id="1"> Particulas aëris calore in gyrum actas et asperis superficiebus collisas a se invicem resilire, indeque elaterem illius pendere probatur, § 12—17. </se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="8">
+    <se lang="russian" variant_id="0">В § 18 теория сия примером изъясняется.</se>
+    <se lang="latin" variant_id="1">Exemplo explicatur theoria, § 18. </se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="9">
+    <se lang="russian" variant_id="0">В § 19—28 свойства воздуха изъясняются, и теми вяще утверждается предложенная теория.</se>
+    <se lang="latin" variant_id="1">Praecipua phaenomena,i quae aër exserit, explicantur, eoque theoria proposita magis adstruitur 19 et seqq.</se>
+    <weight variant_id="1">-0,238329</weight>
+  </para>
+</body>
+</html>

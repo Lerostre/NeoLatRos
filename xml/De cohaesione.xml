@@ -1,0 +1,302 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html>
+<head>
+</head>
+<body>
+  <para id="0">
+    <se lang="russian" variant_id="0">О СЦЕПЛЕНИИ И РАСПОЛОЖЕНИИ ФИЗИЧЕСКИХ МОНАД</se>
+    <se lang="latin" variant_id="1">DE COHAESIONE ET SITU MONADUM PHYSICARUM</se>
+    <weight variant_id="1">0,275</weight>
+  </para>
+  <para id="1">
+    <se lang="russian" variant_id="0">Частицы мела, возогнанной ртути, рогового серебра и т. д. хотя и лежат, соприкасаясь одна с другой, однако, взаимно не притягиваются до сцепления, если не сжать их очень плотно.</se>
+    <se lang="latin" variant_id="1">Cretae, ii sublim. lunae corn. etc. particulae licet in contactu jacent tamen se mutuo non attrahunt ut cohaereant, nisi artissime comprimantur:</se>
+    <weight variant_id="1">0,2376</weight>
+  </para>
+  <para id="2">
+    <se lang="russian" variant_id="0">доказать алгебраически.</se>
+    <se lang="latin" variant_id="1">demonstretur algebraice.</se>
+    <weight variant_id="1">0,286957</weight>
+  </para>
+  <para id="3">
+    <se lang="russian" variant_id="0">Частица e притягивает частицы d и f; частицы d и f с равной силой притягиваются частицами c и g; следовательно частица e вместе с частицами d и f притягиваются с равной силой, т. е. не стремятся ни в ту, ни в другую сторону и т. д. ~~~ Нелепо, противоречит опыту.</se>
+    <se lang="latin" variant_id="1">Particula e attrahit particulam d et f, particulae d et f attrahuntur pari vi a particulis c et g, ergo particula e cum particulis d et f pari vi attrahuntur, ergo in neutram partem nituntur etc. absurdum contra experientiam.</se>
+    <weight variant_id="1">0,299198</weight>
+  </para>
+  <para id="4">
+    <se lang="russian" variant_id="0">Определение ~~~ </se>
+    <se lang="latin" variant_id="1">Def.</se>
+    <weight variant_id="1">1,8</weight>
+  </para>
+  <para id="5">
+    <se lang="russian" variant_id="0">Сцепление есть стремление нечувствительных физических частиц двигаться по направлению одна к другой; таким образом оно оказывает сопротивление силе, разрывающей их связь.</se>
+    <se lang="latin" variant_id="1">Cohaesio est nisus particularum insensibilium physicarum quo una versus alteram moveri conatur, et sic vi nexum earum divellenti resistit.</se>
+    <weight variant_id="1">-0,0371901</weight>
+  </para>
+  <para id="6">
+    <se lang="russian" variant_id="0">Присовокупление</se>
+    <se lang="latin" variant_id="1">Coroll.</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="7">
+    <se lang="russian" variant_id="0">Итак, причина сцепления состоит в мертвом движении, в силу которого любая частица пытается получить живое движение по направлению к другой.</se>
+    <se lang="latin" variant_id="1">Cohaesionis igitur ratio consistit in motu mortuo, quo quaelibet particula versus alteram in motum vivum conatur.</se>
+    <weight variant_id="1">0,233333</weight>
+  </para>
+  <para id="8">
+    <se lang="russian" variant_id="0">Если обратить любым способом какое-нибудь тело в порошок, то пылинки не сцеплены между собой и не противятся разделяющей их движущей силе.</se>
+    <se lang="latin" variant_id="1">Corpore quocunque in pulverem quavis ratione redacto pulvisculi non cohaerent neque vi motrici separanti resistunt.</se>
+    <weight variant_id="1">0,25</weight>
+  </para>
+  <para id="9">
+    <se lang="russian" variant_id="0">Постоянно встречаются примеры, когда пылинки рассыпаются от собственной незначительной тяжести.</se>
+    <se lang="latin" variant_id="1">Exempla sunt ubique obvia, ubi pulvisculi exigua sua gravitate dilabuntur.</se>
+    <weight variant_id="1">0,204545</weight>
+  </para>
+  <para id="10">
+    <se lang="russian" variant_id="0">Нужно привести особые случаи: возогнанная ртуть, обожженные и вновь восстановленные металлы, тела растертые и опять приведенные в твердое состояние, напр. стекла и т. д.</se>
+    <se lang="latin" variant_id="1">Inducendi sunt casus speciales, mercurius praecipitatus et metalla calcinate atque iterum redacta, corpora trita et rursus in solidum redacta ut vitra etc. ~~~</se>
+    <weight variant_id="1">-0,0041958</weight>
+  </para>
+  <para id="11">
+    <se lang="russian" variant_id="0">Опыт</se>
+    <se lang="latin" variant_id="1">Exper.</se>
+    <weight variant_id="1">1,8</weight>
+  </para>
+  <para id="12">
+    <se lang="russian" variant_id="0">Медь, железо, свинец, олово и сурьма распадаются на легком огне в порошки или окалины, которые на более сильном огне сплавляются в твердые и прочные стекловидные тела.</se>
+    <se lang="latin" variant_id="1">Cuprum, ferrum, plumbum, stannum et antimonium leni igne in pulveres vel calces collabuntur, qui fortiore in solida et dura corpora vitrea coalescunt.</se>
+    <weight variant_id="1">0,27</weight>
+  </para>
+  <para id="13">
+    <se lang="russian" variant_id="0">Ртуть при длительном кругообороте рассыпается в красный порошок; от сильного, быстрого огня восстанавливается в прежний вид.</se>
+    <se lang="latin" variant_id="1">Mercurius longa circulatione in rubrum pulverem fatiscit, forti et repenti igne rursus in pristinam formam reducitur.</se>
+    <weight variant_id="1">0,279612</weight>
+  </para>
+  <para id="14">
+    <se lang="russian" variant_id="0">Стекла и многие из камней, растертые в порошок, на огне опять сливаются в стекло.</se>
+    <se lang="latin" variant_id="1">Vitra et lapides plerique in pulverem contriti igne rursum in vitrum confluunt.</se>
+    <weight variant_id="1">0,3</weight>
+  </para>
+  <para id="15">
+    <se lang="russian" variant_id="0">Дерево, рассыпавшись в золу, стеклянеет от очень жаркого огня.</se>
+    <se lang="latin" variant_id="1">Ligna in cineres dispersa, violentia ignis vitrescunt.</se>
+    <weight variant_id="1">0,263265</weight>
+  </para>
+  <para id="16">
+    <se lang="russian" variant_id="0">В порошках не замечается никакого взаимного сцепления, и как бы они ни были легки, однако, они рассыпаются от собственной тяжести.</se>
+    <se lang="latin" variant_id="1">In pulveribus nulla cohaesio mutua depraehenditur, quippe licet maxime sint leves, propria tamen gravitate dilabuntur.</se>
+    <weight variant_id="1">0,28</weight>
+  </para>
+  <para id="17">
+    <se lang="russian" variant_id="0">Вода и остальные летучие жидкости разрежаются в пары, которые, рассеявшись, не имеют никакого сцепления, но потом, будучи собраны, снова сцепляются.</se>
+    <se lang="latin" variant_id="1">Aqua et reliqui liquores volatiles in vapores resolvuntur, in quibus dispersis nulla est cohaesio, tandem vero collecti rursus cohaerent.</se>
+    <weight variant_id="1">0,275</weight>
+  </para>
+  <para id="18">
+    <se lang="russian" variant_id="0">Присовокупление 1</se>
+    <se lang="latin" variant_id="1">Corollarium 1</se>
+    <weight variant_id="1">11,2077</weight>
+  </para>
+  <para id="19">
+    <se lang="russian" variant_id="0">Сцепление нечувствительных физических частиц может быть устранено и опять восстановлено.</se>
+    <se lang="latin" variant_id="1">Particularum physicarum insensibilium cohaesio tolli et rursus restitui potest. ~~~</se>
+    <weight variant_id="1">-0,001875</weight>
+  </para>
+  <para id="20">
+    <se lang="russian" variant_id="0">Присовокупление 2</se>
+    <se lang="latin" variant_id="1">Coroll.</se>
+    <weight variant_id="1">14,55</weight>
+  </para>
+  <para id="21">
+    <se lang="russian" variant_id="0">Так как никакого изменения не может произойти в теле без движения, то сцепление устраняется и восстановляется посредством движения.</se>
+    <se lang="latin" variant_id="1">Quoniam nulla mutatio in corpore sine motu contingere potest, cohaesio igitur tollitur et restituitur per motum.</se>
+    <weight variant_id="1">0,783636</weight>
+  </para>
+  <para id="22">
+    <se lang="russian" variant_id="0">Так как сцепление устраняется и восстановляется, то движение сцепленных частиц не является первичным.</se>
+    <se lang="latin" variant_id="1">Cohaesio quoniam tollitur et restituitur, motus igitur particularum cohaerentium non est primitivus.</se>
+    <weight variant_id="1">0,7</weight>
+  </para>
+  <para id="23">
+    <se lang="russian" variant_id="0">Положение</se>
+    <se lang="latin" variant_id="1">Theorema</se>
+    <weight variant_id="1">0,266667</weight>
+  </para>
+  <para id="24">
+    <se lang="russian" variant_id="0">Нечувствительные физические частицы сцепляются силой давления некоего жидкого тела, которое окружает тела и наполняет их поры.</se>
+    <se lang="latin" variant_id="1">Particulae insensibiles physicae cohaerent a vi premente alicujus corporis fluidi, quod corpora ambit et poros eorum replet.</se>
+    <weight variant_id="1">0,291743</weight>
+  </para>
+  <para id="25">
+    <se lang="russian" variant_id="0">Доказательство</se>
+    <se lang="latin" variant_id="1">Demonst.</se>
+    <weight variant_id="1">0,1</weight>
+  </para>
+  <para id="26">
+    <se lang="russian" variant_id="0">Движение, которым нечувствительные физические частицы взаимно стремятся одна к другой, не является первичным и, следовательно, происходит от другого движущегося тела, которое прижимает любую частицу к другой мертвой силой.</se>
+    <se lang="latin" variant_id="1">Motus quo particulae physicae insensibiles versus se invicem nituntur, non est primitivus, consequenter proficiscitur ab alio corpore movente qui quamlibet particulam versus aliam premit vi mortua.</se>
+    <weight variant_id="1">0,633333</weight>
+  </para>
+  <para id="27">
+    <se lang="russian" variant_id="0">Так как это возможно только в том случае, если это тело окружает любую частицу так же, как окружает и все тело целиком и проникает в его поры, то, следовательно, оно должно быть жидким.</se>
+    <se lang="latin" variant_id="1">Cum vero hoc fieri nequit, nisi corpus illud quamlibet particulam non secus ac integrum corpus ambiat et poros ejus penetret, adeoque sit fluidum.</se>
+    <weight variant_id="1">0,461722</weight>
+  </para>
+  <para id="28">
+    <se lang="russian" variant_id="0">Поэтому ясно, что нечувствительные физические частицы тел сцепляются под давлением некоего жидкого тела, окружающего тела и наполняющего их поры.</se>
+    <se lang="latin" variant_id="1">quamobrem evidens est particulas corporum insensibiles physicas cohaerere a vi premente alicujus corporis fluidi, quod corpora ambit et poros eorum replet.</se>
+    <weight variant_id="1">-0,00568182</weight>
+  </para>
+  <para id="29">
+    <se lang="russian" variant_id="0">Пояснения о мраморе и т. д.</se>
+    <se lang="latin" variant_id="1">Schol. de marmoribus etc.</se>
+    <weight variant_id="1">0,3</weight>
+  </para>
+  <para id="30">
+    <se lang="russian" variant_id="0">Так как эта жидкость сжимает частицы, то, следовательно, она сама обладает тяжестью.</se>
+    <se lang="latin" variant_id="1">Quoniam hoc fluidum particulas premit, ergo ipsum est grave.</se>
+    <weight variant_id="1">0,181132</weight>
+  </para>
+  <para id="31">
+    <se lang="russian" variant_id="0">Так как тела повсюду на земле находятся в сцепленном состоянии и сцепление их может быть устранено и восстановлено, то, следовательно, жидкость, оказывающая давление, имеется на земле повсюду.</se>
+    <se lang="latin" variant_id="1">Quoniam corpora ubique terrarum cohaerent et cohaesio eorum tolli et restitui potest, ergo fluidum, quod premit, ubique est terrarum.</se>
+    <weight variant_id="1">0,168103</weight>
+  </para>
+  <para id="32">
+    <se lang="russian" variant_id="0">И т. д. и т. д.</se>
+    <se lang="latin" variant_id="1">Etc. etc.</se>
+    <weight variant_id="1">2,3</weight>
+  </para>
+  <para id="33">
+    <se lang="russian" variant_id="0">Об уничтожении сцепления центробежной силой.</se>
+    <se lang="latin" variant_id="1">De cohaesione sublata a vi centrifuga.</se>
+    <weight variant_id="1">0,238235</weight>
+  </para>
+  <para id="34">
+    <se lang="russian" variant_id="0">О РАСПОЛОЖЕНИИ И СЦЕПЛЕНИИ ФИЗИЧЕСКИХ МОНАД</se>
+    <se lang="latin" variant_id="1">DE SITU COHAESIONE MONADUM PHYSICARUM</se>
+    <weight variant_id="1">0,255882</weight>
+  </para>
+  <para id="35">
+    <se lang="russian" variant_id="0">Расположение физических монад есть место, в котором любая монада пребывает по отношению к другой.</se>
+    <se lang="latin" variant_id="1">Situs monadum physicarum est locus in quo quaelibet monas respectu alterius haeret.</se>
+    <weight variant_id="1">-0,00178571</weight>
+  </para>
+  <para id="36">
+    <se lang="russian" variant_id="0">Расположение монад наиболее тесным бывает тогда, когда тело никоим образом не может быть приведено к меньшему объему; более свободным я называю такое, при котором частицы расположены так, что тело может быть сжато до меньшего объема.</se>
+    <se lang="latin" variant_id="1">Situs monadum strictissimus est, quando corpus nulla ratione in minus spacium redigi potest, laxiorem apello, quo particulae ita sunt dispositae ut corpus in minus spatium cogi possit.</se>
+    <weight variant_id="1">0,222642</weight>
+  </para>
+  <para id="37">
+    <se lang="russian" variant_id="0">Пояснение</se>
+    <se lang="latin" variant_id="1">Scholium</se>
+    <weight variant_id="1">0,266667</weight>
+  </para>
+  <para id="38">
+    <se lang="russian" variant_id="0">Напр., пример первого дают металлы и камни, особенно охваченные сильнейшим морозом, примеры второго — губка и воздух.</se>
+    <se lang="latin" variant_id="1">E. g. ~~~ Prioris exemplum praebent metalla et lapides praecipue acutissimo gelu constricta, posterioris spongia et aër exempla sunt.</se>
+    <weight variant_id="1">-0,0102941</weight>
+  </para>
+  <para id="39">
+    <se lang="russian" variant_id="0">При более свободном расположении монад существуют разные степени густоты.</se>
+    <se lang="latin" variant_id="1">In situ monadum laxiori dantur gradus densitatis. ~~~ </se>
+    <weight variant_id="1">-0,0206897</weight>
+  </para>
+  <para id="40">
+    <se lang="russian" variant_id="0">Присовокупление 2</se>
+    <se lang="latin" variant_id="1">Corollarium 2</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="41">
+    <se lang="russian" variant_id="0">Так как посторонняя материя содержится в порах тел пропорционально их вместимости, то, следовательно, в теле, монады которого находятся в более свободном расположении, содержится большее количество посторонней материи, чем в теле, монады которого находятся в более тесном или в наиболее тесном расположении.</se>
+    <se lang="latin" variant_id="1">Quoniam materia peregrina continetur in poris corporum pro ratione capacitatis eorum, igitur in corpore, cujus monades sunt in situ laxiore, major quantitas materiae peregrinae continetur, quam in corpore cujus monades sunt in situ strictiore vel strictissimo.</se>
+    <weight variant_id="1">0,716409</weight>
+  </para>
+  <para id="42">
+    <se lang="russian" variant_id="0">Когда монады находятся в наиболее тесном расположении, то взаимно соприкасается большее их число, чем при более свободном расположении, и при более свободном расположении монад соприкосновение может совершенно исчезнуть.</se>
+    <se lang="latin" variant_id="1">Quando monades sunt in situ strictissimo, tunc major earum numerus se mutuo contingit, quam in situ laxiore, et in situ laxiore monadum contactus tolli prorsus potest.</se>
+    <weight variant_id="1">0,193007</weight>
+  </para>
+  <para id="43">
+    <se lang="russian" variant_id="0">Напр., губка, пары.</se>
+    <se lang="latin" variant_id="1">E. g. spongia, vapores.</se>
+    <weight variant_id="1">0,25</weight>
+  </para>
+  <para id="44">
+    <se lang="russian" variant_id="0">Твердое тело — это такое, любые части которого взаимно связаны так, что тело в любом положении сохраняет фигуру, которую придает ему связь частей.</se>
+    <se lang="latin" variant_id="1">Corpus solidum est, cujus particulae quaelibet sibi mutuo cohaerent ita ut corpus in quolibet situ eam figuram conservet, quam nexus partium illi conciliat.</se>
+    <weight variant_id="1">0,276</weight>
+  </para>
+  <para id="45">
+    <se lang="russian" variant_id="0">Расположение физических частиц есть место, в котором любая частица пребывает по отношению к другой.</se>
+    <se lang="latin" variant_id="1">Situs particularum physicarum est locus, in quo quaelibet respectu alterius haeret.</se>
+    <weight variant_id="1">0,247297</weight>
+  </para>
+  <para id="46">
+    <se lang="russian" variant_id="0">Определение</se>
+    <se lang="latin" variant_id="1">Defi.</se>
+    <weight variant_id="1">1,8</weight>
+  </para>
+  <para id="47">
+    <se lang="russian" variant_id="0">Расположение наиболее тесное — это такое, при котором любая частица прилегает к другой так, что тело не может быть доведено до меньшего объема.</se>
+    <se lang="latin" variant_id="1">Situs strictissimus est, quo quaelibet particula juxta aliam ita est posita, ut corpus in minus spatium redigi non possit.</se>
+    <weight variant_id="1">0,251429</weight>
+  </para>
+  <para id="48">
+    <se lang="russian" variant_id="0">Расположение более свободное — это такое, при котором частицы расположены так, что тело может быть доведено до меньшего объема.</se>
+    <se lang="latin" variant_id="1">Situs laxior est, quo particulae ita sunt dispositae ut in minus spacium corpus redigi possit.</se>
+    <weight variant_id="1">0,192593</weight>
+  </para>
+  <para id="49">
+    <se lang="russian" variant_id="0">Отсюда следует, что существуют степени более свободного расположения.</se>
+    <se lang="latin" variant_id="1">Hinc sequitur situs laxioris dari gradus.</se>
+    <weight variant_id="1">0,0891892</weight>
+  </para>
+  <para id="50">
+    <se lang="russian" variant_id="0">Так как посторонняя материя содержится в порах тел пропорционально их вместимости, то, следовательно, в теле, частицы которого находятся в более свободном расположении, отношение количества посторонней материи к собственной больше, чем в том, частицы которого находятся в расположении менее свободном.</se>
+    <se lang="latin" variant_id="1">Quoniam materia peregrina in poris corporum continetur pro ratione capacitatis eorum, igitur in corpore, cujus particulae sunt in situ laxiore major est ratio quantitatis materiae peregrinae, ad propriam, quam in eo cujus particulae sunt in situ minus laxo.</se>
+    <weight variant_id="1">0,716409</weight>
+  </para>
+  <para id="51">
+    <se lang="russian" variant_id="0">Присовокупление 3</se>
+    <se lang="latin" variant_id="1">Coroll. ~~~ 3</se>
+    <weight variant_id="1">7,125</weight>
+  </para>
+  <para id="52">
+    <se lang="russian" variant_id="0">Если связанная посторонняя материя содержится в теле в большем количестве, чем могут вместить его поры при наиболее тесном расположении, то тело может быть приведено к наиболее тесному расположению только при условии изгнания посторонней материи силой.</se>
+    <se lang="latin" variant_id="1">Si materia peregrina cohaerens in corpore continetur in majore quantitate, quam pori ejus capere possint in situ stricrissimo, igitur corpus in situm strictissimum redigi non potest nisi materia peregrina cohaerens vi expellatur. ~~~ Coroll.</se>
+    <weight variant_id="1">-0,00793269</weight>
+  </para>
+  <para id="53">
+    <se lang="russian" variant_id="0">Присовокупление 4</se>
+    <se lang="latin" variant_id="1">Coroll. 4</se>
+    <weight variant_id="1">14,55</weight>
+  </para>
+  <para id="54">
+    <se lang="russian" variant_id="0">Так как и связанная посторонняя материя входит и выходит, то она может быть выжата до наиболее тесного расположения.</se>
+    <se lang="latin" variant_id="1">Quoniam materia peregrina etiam cohaerens ingreditur et egreditur, igitur exprimi potest usque ad situm strictissim[um].</se>
+    <weight variant_id="1">0,279</weight>
+  </para>
+  <para id="55">
+    <se lang="russian" variant_id="0">Теорема</se>
+    <se lang="latin" variant_id="1">Theor. ~~~</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="56">
+    <se lang="russian" variant_id="0">Тела, подвергнутые высшей силе огня и, наконец, охлажденные, приходят к возможно теснейшему расположению корпускул.</se>
+    <se lang="latin" variant_id="1">Corpora summa vi ignis exagitata et tandem refrigerata redeunt in situm corpusculorum quam proxime strictissimum. ~~~</se>
+    <weight variant_id="1">-0,103</weight>
+  </para>
+  <para id="57">
+    <se lang="russian" variant_id="0">Доказательство</se>
+    <se lang="latin" variant_id="1">Demonst.</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="58">
+    <se lang="russian" variant_id="0">Тела силою огня разрежаются сообразно центробежной силе, абсолютному весу и сцеплению частиц, а так как корпускулы посторонней материи весьма тонки и имеют весьма малое или никакого сцепления и весьма малый вес, то, следовательно, они больше разрежаются, чем корпускулы собственной материи, следовательно, выталкиваются из пор, и т. д.</se>
+    <se lang="latin" variant_id="1">Corpora vi ignis rarefiunt pro ratione vis centrifugae, gravitatis absolutae et cohaesionis corpusculorum quoniam autem materiae peregrinae corpuscula sunt subtilissima, cohaesione exigua vel nulla praedita et gravitate exigua, igitur magis rarefiunt, quam corpuscula materiae propriae, consequenter ex poris expellunt[ur] etc.</se>
+    <weight variant_id="1">0,657143</weight>
+  </para>
+</body>
+</html>

@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html>
+<head>
+</head>
+<body>
+  <para id="0">
+    <se lang="russian" variant_id="0">Ваши лета, ваше имя и заслуги побуждают меня изъяснить, что произнесенное мною в огорчении, возбужденном бранью и угрозою отдать меня в солдаты, было свидетельством не злобного умысла, а уязвленной невинности.</se>
+    <se lang="latin" variant_id="1">Aetas, Nomen atque merita Tua persuadent, ut ea, quae objurgantibus verbis, ac me militum ordini annumeratum iri minantibus, exspressus dolor protulerit, non malitiosae mentis, sed laesae innocentiae argumentum fuisse indicem.</se>
+    <weight variant_id="1">-0,0140884</weight>
+  </para>
+  <para id="1">
+    <se lang="russian" variant_id="0">Ведь даже знаменитый Вольф, выше простых смертных поставленный, не почитал меня столь бесполезным человеком, который только на растирание ядов был бы пригоден.</se>
+    <se lang="latin" variant_id="1">Non enim tam inutilem, ut praeter terenda venena nil praestare possem, Vir supra mortalium sortem positus, illustris Wolfius me judicavit.</se>
+    <weight variant_id="1">0,2525</weight>
+  </para>
+  <para id="2">
+    <se lang="russian" variant_id="0">Да и те, чрез предстательство коих я покровительство всемилостивейшей государыни императрицы нашей имею, не суть люди нерассудительные и неразумные.</se>
+    <se lang="latin" variant_id="1">Neque ii, quorum patrocinio serenissimae Nostrae Dominae imperatrici commendatus sum, improvidi atque imprudentes sunt.</se>
+    <weight variant_id="1">0,23271</weight>
+  </para>
+  <para id="3">
+    <se lang="russian" variant_id="0">Мне совершенно известна воля е. в., и я, в чем на вас самого ссылаюсь, мне предписанное соблюдаю строжайше.</se>
+    <se lang="latin" variant_id="1">Novi profecto, quid Augustissimae Authocrat[o]ris nomine mandatum est. Mihi praescripta, quam severissime, Te ipso teste, observo.</se>
+    <weight variant_id="1">0,173437</weight>
+  </para>
+  <para id="4">
+    <se lang="russian" variant_id="0">То же, что вами сказано, было сказано в присутствии сиятельнейшего графа и прочих моих товарищей; терпеливо сносить никто мне не приказал.</se>
+    <se lang="latin" variant_id="1">At illa, quae praesente excellentissimo Comite caeterisque commilitonibus pronunciasti, patienter ferre jussus non sum.</se>
+    <weight variant_id="1">0,279</weight>
+  </para>
+  <para id="5">
+    <se lang="russian" variant_id="0">Так как вы мне косвенными словами намекнули, чтобы я вашу химическую лабораторию оставил, то я два дня и не ходил к вам.</se>
+    <se lang="latin" variant_id="1">Caeterum, quoniam me ex officina Tua chymica exire debere obliquis verbis significasti; diebus duobus abfui.</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="6">
+    <se lang="russian" variant_id="0">Повинуясь, однако, воле всемилостивейшей монархини, я должен при занятиях присутствовать;</se>
+    <se lang="latin" variant_id="1">Verum mandato Monarchae Clementissimae obtemperans laboribus adesse teneor.</se>
+    <weight variant_id="1">-0,05</weight>
+  </para>
+  <para id="7">
+    <se lang="russian" variant_id="0">поэтому я желал бы знать, навсегда ли вы мне отказываете в обществе своем и любви и пребывает ли все еще глубоко в вашем сердце гнев, возбужденный ничтожной причиной.</se>
+    <se lang="latin" variant_id="1">Quam ob rem cognitum habere vellem, an in aeternum societatem et amorem abnuisti, atque alta mente reposta sedet levi de causa exorta ira.</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="8">
+    <se lang="russian" variant_id="0">Что касается меня, то я готов предать все забвению, повинуясь естественной моей склонности.</se>
+    <se lang="latin" variant_id="1">Quod me attinet, omnia oblivioni tradere non recuso, atque naturali meo genio obtempero.</se>
+    <weight variant_id="1">0,16125</weight>
+  </para>
+  <para id="9">
+    <se lang="russian" variant_id="0">Вот чувства мои, которые чистосердечно обнажаю перед вами.</se>
+    <se lang="latin" variant_id="1">Haec sunt, quae sentio, Tibique animi mei sensa aperio; </se>
+    <weight variant_id="1">0,155769</weight>
+  </para>
+  <para id="10">
+    <se lang="russian" variant_id="0">Помня вашу прежнюю ко мне благосклонность, желаю, чтобы случившееся как бы никогда не было или вовсе не вспоминалось, ибо я уверен, что вы видеть желаете в учениках своих скорее друзей, нежели врагов.</se>
+    <se lang="latin" variant_id="1">atque benevolentiae pristinae memor, haec aut infecta aut nunquam memoranda esse cupio. ~~~ Confido enim, quod discipulos Tuos amicos potius quam inimicos futuros esse velis.</se>
+    <weight variant_id="1">-0,0238235</weight>
+  </para>
+  <para id="11">
+    <se lang="russian" variant_id="0">Итак, если ваше желание таково, то прошу вас меня о том известить.</se>
+    <se lang="latin" variant_id="1">Quod si igitur haec Tibi in votis sunt, peto, ut me certiorem facias.</se>
+    <weight variant_id="1">0,289286</weight>
+  </para>
+  <para id="12">
+    <se lang="russian" variant_id="0">Писал сегодня.</se>
+    <se lang="latin" variant_id="1">Dabam hodie.</se>
+    <weight variant_id="1">0,25</weight>
+  </para>
+</body>
+</html>

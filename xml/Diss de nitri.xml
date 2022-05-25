@@ -1,0 +1,2037 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html>
+<head>
+</head>
+<body>
+  <para id="0">
+    <se lang="russian" variant_id="0">ПРЕДИСЛОВИЕ</se>
+    <se lang="latin" variant_id="1">PROLEGOMENON</se>
+    <weight variant_id="1">0,275</weight>
+  </para>
+  <para id="1">
+    <se lang="russian" variant_id="0">Среди тел, которые химики называют солями, особенно выдается селитра многообразным применением, а особенно изумительным, подражающим молнии, действием, которое она производит в огнестрельном порохе.</se>
+    <se lang="latin" variant_id="1">Inter corpora, quae apud Chymicos salium nomine celebrantur, Nitrum est, quod multiplici usu, praesertim vero in pulvere pyrio stupendo et fulmen imitante effectu eminet.</se>
+    <weight variant_id="1">0,241216</weight>
+  </para>
+  <para id="2">
+    <se lang="russian" variant_id="0">Поэтому неудивительно, что спагирики, исследовавшие природу, положили огромный труд на изучение начал селитры.</se>
+    <se lang="latin" variant_id="1">Unde Spagiricos naturae scrutatores maximam operam in ejus principiis explorandis collocasse mirum non est.</se>
+    <weight variant_id="1">0,287368</weight>
+  </para>
+  <para id="3">
+    <se lang="russian" variant_id="0">Их побуждало к этому стремление познать такое чудо; а сопутствовавшие их трудам прекраснейшие явления и полезные продукты толкали их к дальнейшим работам.</se>
+    <se lang="latin" variant_id="1">Incitabat enim tanti miraculi cognitio; pulcherrima vero phaenomena operibus socia et producta salutaria ultro ad labores provocabant.</se>
+    <weight variant_id="1">0,262185</weight>
+  </para>
+  <para id="4">
+    <se lang="russian" variant_id="0">И попытки их не остались безуспешными: в настоящее время состав и способ рождения этого тела раскрыты и освещены многими весьма точными опытами и наблюдениями героев химии, прославившихся в этом и прошедших веках. ~~~ И казалось бы, что нечего больше желать, — разве, чтобы результаты их великих трудов, выяснивших это, были систематически разработаны более стройным, приближающимся к геометрическому, методом; особенно же, чтобы упругость селитры, сгорающей в смеси с углем, которой химические писатели-эмпирики обыкновенно и не затрагивают, была объяснена исходя из природы самой селитры и из физических опытов.</se>
+    <se lang="latin" variant_id="1">Nec felici successu conatus caruere: siquidem mixtionem hujus corporis et generationis modum multis iisque certissimis experimentis et observationibus a Chymicis, qui hoc et proximo saeculo claruerunt, heroibus, erutum et in aprico positum habemus, nec quid amplius desiderari videtur, nisi ut ea, quae improbo labore in lucem et diem produxerunt, concinniore et ad Geometricam accedente methodo digerantur; praesertim vero elastica vis nitri, cum carbonibus accensi, quam empirici Chymiae scriptores intactam praeterire solent, ex ipsius natura et Physicis experimentis explicetur.</se>
+    <weight variant_id="1">-0,00652174</weight>
+  </para>
+  <para id="5">
+    <se lang="russian" variant_id="0">Хотя и то и другое кажется трудным, так как до сих пор не заложено никаких оснований в общей физике для объяснения рождения и состава такого рода тел, и мало можно найти удачных приложений физических опытов к химии, мы тем не менее считаем возможным в научной связи изложить наибольшую часть химии, обосновав ее на собственных ее положениях, принятых недавно в физике; мы не сомневаемся, что можно легче распознать скрытую природу тел, если мы соединим физические истины с химическими.</se>
+    <se lang="latin" variant_id="1">Quamvis autem utrumque arduum esse videatur, cum nec ad mixtionem et generationem ejusmodi corporum explicandam ulla principia in generali Physica hactenus constituta sint, nec multa Physicorum experimenta cum desiderato successu in Chymicis adhibita reperiantur; nos tamen maximam partem Chymiae, propriis ejusdem fundamentis, in Physicam vixdum receptis, innixam, scientifico rerum contextu exponi posse existimamus et Physicas veritates cum Chymicis conjungi, eoque abditam corporum naturam felicius aperiri posse non dubitamus.</se>
+    <weight variant_id="1">0,259756</weight>
+  </para>
+  <para id="6">
+    <se lang="russian" variant_id="0">А когда все химические истины будут объединены более строгим методом и будет ясно, насколько одна истина может быть объяснена или выведена из другой, то химия сама по себе будет наукой; и можно будет наконец более ясно видеть, что дают разные отделы других естественных наук для ее выяснения и насколько она сама оказывает ту же услугу им.</se>
+    <se lang="latin" variant_id="1">Connexis severiore inter se methodo Chymicis veritatibus, ita ut pateat, quantum una per alteram explicari aut demonstrari possit, ipsa per se scientia erit Chymia; tandem vero clarius perspici poterit, quid reliquae naturalis scientiae partes ad illam illustrandam conferant, quantumque ipsa mutuum illis officium praestet.</se>
+    <weight variant_id="1">0,296809</weight>
+  </para>
+  <para id="7">
+    <se lang="russian" variant_id="0">После этого такое хорошо разработанное учение сделается почетным членом сообщества физических наук.</se>
+    <se lang="latin" variant_id="1">Quo facto praestantissima haec doctrina nobile membrum in corpore Physico tandem constituet.</se>
+    <weight variant_id="1">0,27439</weight>
+  </para>
+  <para id="8">
+    <se lang="russian" variant_id="0">Мы хотим дать образчик всего этого в предлагаемом произведении и для того, во-первых, выводим из химических положений состав и рождение селитры, а затем применяем физические явления, связанные с ее природою, для объяснения ее упругости.</se>
+    <se lang="latin" variant_id="1">Horum specimen dare in concinnando isto opusculo constituimus, idque circo primum mixtionem et genesim nitri ex chymicis fundamentisf deducimuis, ac tandem cum illius natura Physica phaenomena conjuncta ad elasticam ejusdem vim explicandam adhibemus.</se>
+    <weight variant_id="1">0,277941</weight>
+  </para>
+  <para id="9">
+    <se lang="russian" variant_id="0">Отсюда проистекают три главы: в первой мы изучаем состав селитры; выяснив его, мы считаем уже нетрудным объяснить рождение ее, что составляет предмет второй главы; в третьей говорится о взрывной силе селитры.</se>
+    <se lang="latin" variant_id="1">Hinc tria resultant capita: primum, quo in mixtionem nitri inquiritur: ea enim cognita, generationem ipsius non ita arduam explicatu fore censemus, quam ideo in altero capite enodamus. ~~~ Tertium caput expansivam nitri virtutem exponit.</se>
+    <weight variant_id="1">-0,0188679</weight>
+  </para>
+  <para id="10">
+    <se lang="russian" variant_id="0">Химические положения, на которых мы строим развитие указанной темы, таковы:</se>
+    <se lang="latin" variant_id="1">Fundamenta vero Chymica, quibus explicationem hujus thematis superstruimus, sequentia sunt.</se>
+    <weight variant_id="1">0,228358</weight>
+  </para>
+  <para id="11">
+    <se lang="russian" variant_id="0">Положение I</se>
+    <se lang="latin" variant_id="1">Fundamentum I</se>
+    <weight variant_id="1">1,24545</weight>
+  </para>
+  <para id="12">
+    <se lang="russian" variant_id="0">Смешанное тело сложено из тех составляющих, на которые оно разлагается анализом и из которых образуется синтезом.</se>
+    <se lang="latin" variant_id="1">Corpus mixtum ex illis miscibilibus constat, in quae resolvitur per Analysim et ex quibus per Synthesim componitur.</se>
+    <weight variant_id="1">0,29697</weight>
+  </para>
+  <para id="13">
+    <se lang="russian" variant_id="0">Справедливость этого вполне очевидна из представления о целом и его частях и не требует какого-либо доказательства.</se>
+    <se lang="latin" variant_id="1">Asserti veritas ex idea totius et partium clarissime percipitur, nec demonstratione ulla indiget.</se>
+    <weight variant_id="1">0,247674</weight>
+  </para>
+  <para id="14">
+    <se lang="russian" variant_id="0">Напомним лишь, что в химии синтез нередко более достоверен, чем анализ, и даже только он один достаточен для показания составляющих; анализ же не столь надежен по отношению к смешанным телам, составляющие которых сами представляют собою смешанные тела: сообразно с различием средств, применяемых для разделения составляющих, могут быть обнаружены различные составляющие.</se>
+    <se lang="latin" variant_id="1">Monemus tamen in Chymicis Synthesim nonnunquamc certiorem esse Analysi, imo solam ad demonstranda miscibilia sufficere. ~~~ Illam vero in mixtis, quorum miscibilia ipsa sunt corpora mixta, nonnunquam pro ratione mediorum, quae ad miscibilia secernenda adhibentur, non ita esse tutam, cum pro eorum diversitate diversa miscibilia exhibeat.</se>
+    <weight variant_id="1">-0,0148464</weight>
+  </para>
+  <para id="15">
+    <se lang="russian" variant_id="0">Так, при сухой перегонке растений извлекаются далеко не те составляющие, которые обнаруживает их сбраживание.</se>
+    <se lang="latin" variant_id="1">Ita destillatione vegetabilium longe alia miscibilia eliciuntur, quam quae eorundem fermentatio sistit.</se>
+    <weight variant_id="1">0,287097</weight>
+  </para>
+  <para id="16">
+    <se lang="russian" variant_id="0">Но в сочетании с синтезом анализ придает ему немало веса и много приобретает сам.</se>
+    <se lang="latin" variant_id="1">Verumtamen cum synthesi concurrens non parum auctoritatis illi adfert, magnam acquirit sibi.</se>
+    <weight variant_id="1">0,243478</weight>
+  </para>
+  <para id="17">
+    <se lang="russian" variant_id="0">Положение II</se>
+    <se lang="latin" variant_id="1">Fundamentum II</se>
+    <weight variant_id="1">1,25</weight>
+  </para>
+  <para id="18">
+    <se lang="russian" variant_id="0">Между однородными началами и смешанными телами, содержащими в большом количестве одно и то же начало, имеется некое взаимное соответствие, в силу которого они охотнее соединяются между собою, чем с инородными телами, и, проникая одно в другое, взаимно соединяются.</se>
+    <se lang="latin" variant_id="1">Inter principia homogenea et corpora mixta, eodem principio magis abundantia, datur mutuus quidam consensus, quo lubentius inter se, quam cum heterogeneis, combinantur et juxta se invicem serpendo permiscentur;</se>
+    <weight variant_id="1">-0,3</weight>
+  </para>
+  <para id="19">
+    <se lang="russian" variant_id="0">Это соединение отличается от простого сцепления, так как при помощи последнего связываются только частицы, приведенные в соприкосновение.</se>
+    <se lang="latin" variant_id="1">qui tamen a mera cohaesione differt, cum per eam particulae in contactu positae solum constringantur.</se>
+    <weight variant_id="1">-0,00634615</weight>
+  </para>
+  <para id="20">
+    <se lang="russian" variant_id="0">Таким образом, водянистые тела более жадно соединяются с водянистыми, маслянистые — с маслами, стеклующиеся — со стеклующимися, металлические — с металлами.</se>
+    <se lang="latin" variant_id="1">Hac ratione aquosa cum aquosis, oleosa cum oleis, vitrescibilia cum vitrescentibus, metallica cum metallis avidius combinantur.</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="21">
+    <se lang="russian" variant_id="0">Наоборот, неоднородные тела, хотя бы они достаточно сильно приставали друг к другу (как можно видеть на довольно крупных капельках воды, пристающих к поставленной наклонно доске, натертой маслом), все же частицы их не склонны ко взаимному проникновению и едва могут соединяться.</se>
+    <se lang="latin" variant_id="1">vero heterogenea quamvis inter se satis cohaereant (ut in aquae guttis, oleo delibutae tabulae et ad terram pronae adhaerentibus, satis magnis, videri potest), tamen particulae eorum aegre se mutuo penetrant et vix com binari possunt.</se>
+    <weight variant_id="1">0,20875</weight>
+  </para>
+  <para id="22">
+    <se lang="russian" variant_id="0">Считаем уместным описать здесь вкратце, как мы это себе представляем, так как прилагаем этот принцип гипотетически для более глубокого объяснения некоторых вопросов.</se>
+    <se lang="latin" variant_id="1">Hoc autem quo modo concipiamus, paucis hic depingere alienum esse non judicamus, praesertim cum in quibusdam hypothetice interius explicandis id adhibeamus.</se>
+    <weight variant_id="1">0,282482</weight>
+  </para>
+  <para id="23">
+    <se lang="russian" variant_id="0">Все признают, что частицы тел сцепляются друг с другом при взаимном прикосновении.</se>
+    <se lang="latin" variant_id="1">Particulas corporum per contactum cohaerere, in confesso est apud omnes.</se>
+    <weight variant_id="1">0,2625</weight>
+  </para>
+  <para id="24">
+    <se lang="russian" variant_id="0">Из наблюдений Бойля видно, что все частицы обладают внутренним движением; мы доказываем в отдельной диссертации, одобренной великими мужами и в скором времени имеющей быть опубликованной, что некоторые из частиц имеют поступательное движение, все — вращательное.</se>
+    <se lang="latin" variant_id="1">Ex Boyleanis vero animadversionibus easdem intestino motu gaudere omnes constat, quem motum in quibusdam progressivum, in omnibus autem gyratorium existere, peculiari tractatione, magnis viris probata et mox publici juris facienda, demonstramus.</se>
+    <weight variant_id="1">0,281944</weight>
+  </para>
+  <para id="25">
+    <se lang="russian" variant_id="0">Теперь пусть [фиг. 1] частица C будет приставать путем соприкосновения к поверхности AB какого-либо тела.</se>
+    <se lang="latin" variant_id="1">His ita comparatis, sit particula C [fig. 1] per contactum adhaerens superficiei AB corporis alicujus.</se>
+    <weight variant_id="1">-0,0352941</weight>
+  </para>
+  <para id="26">
+    <se lang="russian" variant_id="0">Пусть она движется около своей оси вращательным движением от a к b; тогда, если между поверхностями в точке соприкосновения E не возникает никакого трения, частица C будет вращаться у точки соприкосновения E поверхности AB и не продвинется к B. Наоборот, если в точке соприкосновения плоскостей возникает трение, тогда под влиянием внутренней силы движения, побуждающей частицы к вращению, и сцепления, постоянно удерживающего ее, частица C будет двигаться по поверхности AB по направлению к B и войдет в первую, для нее достаточно большую по́ру.</se>
+    <se lang="latin" variant_id="1">Moveatur circa axem suum motu gyratorio ex a versus b; tum si inter superficies in contactu E nulla exoritur frictio, corpusculum C movebitur in gyrum ad contactus punctum ~~~ E superficiei AB, nec progredietur versus B. Contra vero si in contactu superficierum exoritur frictio, tum, vi motus intestini urgente particulam in gyrum et cohaesione continuo constringente, particula C superficiem AB versus B movebitur et porum, quem primum satis patentem inveniet, ingredietur.</se>
+    <weight variant_id="1">0,151882</weight>
+  </para>
+  <para id="27">
+    <se lang="russian" variant_id="0">По этой причине и частицы тел, взаимно трущиеся, передвигаются относительно друг друга и переменяют свое положение, пока более значительная сила сцепления не сделает невозможным внутреннее движение.</se>
+    <se lang="latin" variant_id="1">Hac ratione et particulae corporum, quae se mutuo fricant, juxta se invicem serpent et situm mutabunt, quam diu violentior vis cohaesionis intestinum motum non adeo infringet.</se>
+    <weight variant_id="1">0,252318</weight>
+  </para>
+  <para id="28">
+    <se lang="russian" variant_id="0">Наоборот, если между частицами нет трения или имеется лишь крайне незначительное, то такого рода явление почти совсем или совсем не воспоследует.</se>
+    <se lang="latin" variant_id="1">Contra vero, nulla frictione vel admodum exigua inter particulas existente, ejusmodi mutatio vix aut ne vix quidem subsequitur.</se>
+    <weight variant_id="1">0,259459</weight>
+  </para>
+  <para id="29">
+    <se lang="russian" variant_id="0">Представляется вероятным, что поверхности однородных частиц более подходят друг к другу, чем разнородных, и поэтому шероховатости их, от которых, как мы полагаем, происходит трение, лучше совмещаются друг с другом.</se>
+    <se lang="latin" variant_id="1">Homogenearum particularum superficies magis inter se convenire, quam heterogenearum, adeoque asperitates earum, a quibus frictionem proficisci ponimus, magis inter se congruere, verosimile est.</se>
+    <weight variant_id="1">0,273837</weight>
+  </para>
+  <para id="30">
+    <se lang="russian" variant_id="0">Итак, допустим, что однородные частицы совмещаются шероховатостями наподобие зубчатых колес, а в разнородных частицах, вследствие различной величины выступов, это не имеет места (поверхности однородных частиц в соприкосновении изображает фиг. 2, а разнородных — фиг. 3).</se>
+    <se lang="latin" variant_id="1">Ponamus itaque, homogeneas particulas asperitatibus in modum rotarum dentatarum congruere; in heterogeneis vero ob diversam prominentiarum magnitudinem id haud obtinere. ~~~ (Homogenearum particularum superficies in contactu repraesentat fig. 2, heterogenearum vero fig. 3).</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="31">
+    <se lang="russian" variant_id="0">Тогда нетрудно представить себе, по какой причине однородные частицы, связанные сцеплением и обладающие внутренним вращательным движением, продвигаются друг около друга, а разнородные — нет.</se>
+    <se lang="latin" variant_id="1">Tum non arduum erit concipere, qua ratione particulae homogeneae, cohaesione constrictae et motu intestino gyratorio agitatae, juxta se invicem serpant, heterogeneae non item.</se>
+    <weight variant_id="1">0,272727</weight>
+  </para>
+  <para id="32">
+    <se lang="russian" variant_id="0">Согласно этой гипотезе, мы называем взаимное соответствие однородных частичек совмещением и убедились на опыте, что его можно с успехом использовать для объяснения химических и других явлений природы.</se>
+    <se lang="latin" variant_id="1">Ex hac hypothesi mutuum illum homogeneorum consensum congruentiam appellamus, eaque in explicandis chymicis et aliis naturae phaenomenis feliciter uti posse experti sumus.</se>
+    <weight variant_id="1">0,252318</weight>
+  </para>
+  <para id="33">
+    <se lang="russian" variant_id="0">Ведь именно такого рода действия частиц могут быть причинами стремительного вхождения жидкостей в поры, поднятия тел по бокам других тел, — каково, например, восхождение ртути выше своей поверхности по боковой стенке серебряного цилиндра или самопроизвольное распространение сухой виннокаменной соли по стенкам стеклянного сосуда до его крышки, — и множество других подобных явлений могут быть приписаны причине этого рода.</se>
+    <se lang="latin" variant_id="1">Siquidem ejusmodi particularum actioni irruptiones fluidorum in poros, elevationes corporum juxta atera aliorum corporum, qualis est Mercurii ad argentei cylindri latera ultra suam superficiem ascensio et salis tartari sicci per parietes vitri usque ad operculum spontanea scansio, et pleraque alia ejusdem generis commode tribui ejusmodi causae possunt.</se>
+    <weight variant_id="1">0,243689</weight>
+  </para>
+  <para id="34">
+    <se lang="russian" variant_id="0">Чтобы все это глубже изучить и нагляднее показать, требуется полный трактат о химических началах, дабы в результате более тесного взаимного сопоставления фактов явилось более полное освещение их. ~~~ Так как, однако, предложенная тема этого не требует, — и не допускает, — то мы оставляем выставленную нами гипотезу гипотезою, довольствуясь простотой и правдоподобием этого положения.</se>
+    <se lang="latin" variant_id="1">Ad haec autem profundius penetranda et demonstranda evidentius integra de principiis Chymicis requiritur tractatio, unde per strictiorem rerum nexum major lux exoriri posset; sed cum propositi ratio id nec exigat nec patiatur, idcirco allatam hypothesim ut hypothesim relinquimus, simplici veritate ipsius hujus principii contenti.</se>
+    <weight variant_id="1">-0,0217993</weight>
+  </para>
+  <para id="35">
+    <se lang="russian" variant_id="0">Положение III</se>
+    <se lang="latin" variant_id="1">Fundamentum III</se>
+    <weight variant_id="1">1,25385</weight>
+  </para>
+  <para id="36">
+    <se lang="russian" variant_id="0">Если какое-либо тело A, первоначально соединенное с телом B, будучи от него отделено, оказывается обладающим видом и всеми теми свойствами, которые имеет оно же, будучи смешанным с телом D, то тело D действительно смешано с A и воспринято из тела B; например, когда вода, в которой был размочен и разведен огнестрельный порох, пропускается через фильтр, то получается жидкость, являющаяся не чем иным как раствором селитры; и отсюда без колебания делаем вывод: раз селитра находится в воде, она же была перед этим в смешении пороха.</se>
+    <se lang="latin" variant_id="1">Si corpus aliquod A, prius alteri B unitum, ab eo separatur proditque alia sub specie omnibusque eis dotibus praeditum, nempe quas habet mixtum cum corpore D, tum corpus D erit cum corpore A revera mixtum receptumque ex corpore B; e. g. quando aqua, qua pulvis pyrius maceratus et dilutus fuit, per chartam emporeticam transcolatur, obtinetur liquor, qui idem est ac solutio nitri; atque inde sine haesitatione concluditur, nitrum in aqua praesto adesse, idque prius cum pulvere pyrio mixtum fuisse.</se>
+    <weight variant_id="1">0,467595</weight>
+  </para>
+  <para id="37">
+    <se lang="russian" variant_id="0">Это положение можно обозначить довольно целесообразно названием перемещения.</se>
+    <se lang="latin" variant_id="1">Hoc fundamentum transsumptionis nomine non incongrue insigniri potest.</se>
+    <weight variant_id="1">0,271875</weight>
+  </para>
+  <para id="38">
+    <se lang="russian" variant_id="0">Все эти три положения не только достаточны для нашей цели, но и могут быть легко применены для доказательства химических истин, что ниже подтверждается примерами.</se>
+    <se lang="latin" variant_id="1">Haec tria fundamenta non solum pro scopo nostro sufficiunt, verum etiam passim in chymicis veritatibus demonstrandis feliciter adhiberi possunt, quod exemplis inferius probatur.</se>
+    <weight variant_id="1">0,265714</weight>
+  </para>
+  <para id="39">
+    <se lang="russian" variant_id="0">Добавим, что мы намеренно не даем определений вещей и операций, так как не хотим докучать изложением того, что всем хорошо известно.</se>
+    <se lang="latin" variant_id="1">Caeterum definitiones rerum et operationum jure omittimus, cum notissima obtrudendo molesti esse nolimus.</se>
+    <weight variant_id="1">0,239362</weight>
+  </para>
+  <para id="40">
+    <se lang="russian" variant_id="0">Глава 1</se>
+    <se lang="latin" variant_id="1">Caput 1</se>
+    <weight variant_id="1">11,3</weight>
+  </para>
+  <para id="41">
+    <se lang="russian" variant_id="0">О СОСТАВНЫХ ЧАСТЯХ И НАЧАЛАХ, ОБРАЗУЮЩИХ СЕЛИТРУ</se>
+    <se lang="latin" variant_id="1">DE MISCIBILIBUS ET PRINCIPIIS, EX QUIBUS NITRUM ~~~ CONSTAT</se>
+    <weight variant_id="1">-0,00357143</weight>
+  </para>
+  <para id="42">
+    <se lang="" variant_id="0">§ 1</se>
+    <se lang="" variant_id="1">§ 1</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="43">
+    <se lang="russian" variant_id="0">Нет никакого сомнения, что селитра состоит из постоянной щелочной соли и кислотного спирта.</se>
+    <se lang="latin" variant_id="1">Nitrum ex sale alcalino fixo et acido spiritu constare, est.</se>
+    <weight variant_id="1">0,138462</weight>
+  </para>
+  <para id="44">
+    <se lang="russian" variant_id="0">Действительно, химический анализ производит из нее и то и другое и показывает их в отдельности.</se>
+    <se lang="latin" variant_id="1">Analysis enim Chymica utrumque ex eo producit et separatim ostendit.</se>
+    <weight variant_id="1">0,19</weight>
+  </para>
+  <para id="45">
+    <se lang="russian" variant_id="0">При перегонке селитра дает обильный и весьма кислый спирт, а если перегонка была проведена с купоросным маслом, то остаток есть не что иное как купоросный винный камень, изготовляемый из постоянной щелочи и купоросного масла: ясное указание на то, что постоянная щелочь, образующая вместе с купоросной кислотою эту среднюю соль, уже существовала в самой селитре, поскольку ее наличия никоим образом нельзя предположить в купоросном масле (по положению III).</se>
+    <se lang="latin" variant_id="1">Sic per destillationem largitur nitrum copiosum et acidissimum spiritum et, si destillatio cum oleo vitrioli peracta fuerit, caput mortuum nil aliud esse solet, quam tartarus vitriolatus, qui ex alcali fixo et oleo vitrioli paratur, manifesto indicio, fixum alcali, quod medium hunc salem cum acido vitriolico componit, in nitro ipso extitisse; cum in li nullo modo id suspicari possit (per fund. ~~~ 3).</se>
+    <weight variant_id="1">-0,0214286</weight>
+  </para>
+  <para id="46">
+    <se lang="russian" variant_id="0">Затем селитра, взорванная с углем, по отходе кислоты дает чистую постоянную щелочь.</se>
+    <se lang="latin" variant_id="1">Porro nitrum, cum carbonibus detonatum, consumpto acido, purum alcali fixum sistit.</se>
+    <weight variant_id="1">0,29589</weight>
+  </para>
+  <para id="47">
+    <se lang="russian" variant_id="0">Последняя не может образоваться из примененного для этого угля, так как количество угля, взятое для фиксирования селитры, превращенное в пепел, после промывки последнего водою дает лишь несколько гранов щелочной соли.</se>
+    <se lang="latin" variant_id="1">Id autem ex carbonibus, ad hanc operationem adhiberi solitis, nasci prorsus nequit, cum ea carbonum quantitas, quae ad nitrum fixandum assumitur, in cineres reducta et elutriata, pauca grana alcalini salis exhibeat.</se>
+    <weight variant_id="1">0,295161</weight>
+  </para>
+  <para id="48">
+    <se lang="" variant_id="0">§ 2</se>
+    <se lang="" variant_id="1">§ 2</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="49">
+    <se lang="russian" variant_id="0">Химический синтез самым надежным образом подкрепляет справедливость сказанного.</se>
+    <se lang="latin" variant_id="1">Asserti veritatem synthesis Chymica firmissime adstruit.</se>
+    <weight variant_id="1">0,178846</weight>
+  </para>
+  <para id="50">
+    <se lang="russian" variant_id="0">А именно, щелочная часть селитры, отделенная вспышкою с углем от кислоты, по прилитии к ней спирта селитры снова соединяется с ним и при кристаллизации дает чистейшую селитру, со всеми ее свойствами. ~~~ Если вместо щелочи селитры взять щелочную соль, приготовленную из золы деревьев, особенно более твердых, и соединить ее с селитряным спиртом, то также образуется истинная селитра.</se>
+    <se lang="latin" variant_id="1">Pars enim alcalina nitri, per detonationem ab acido ante separata, cum affuso ejusdem spiritu conjungitur et per crystallizationem abit in purissimum nitrum, omni dote genuinum, et loco nitri fixi sal alcalinum, ex cineribus lignorum, praesertim duriorum paratum, cum spiritu nitri conjunctum, verum nitrum sistit.</se>
+    <weight variant_id="1">-0,0303309</weight>
+  </para>
+  <para id="51">
+    <se lang="russian" variant_id="0">Наконец, присутствие щелочной соли настолько необходимо для образования селитры, что, при отсутствии собственной щелочи, ее кислотный спирт берет себе посторонние соли в спутники и, соединенный с щелочью морской соли, даже с мочевой щелочью, образует роды селитры, хотя отличные по фигуре кристаллов и по виду, но не очень отличающиеся по силе взрыва и по другим свойствам от истинной селитры.</se>
+    <se lang="latin" variant_id="1">Denique alcalini salis praesentia tam necessaria est ad nitrum constituendum, ut, si proprium deficit, acidus ejus spiritus aliena in consortium recipiat et, cum alcali salis marini, imo etiam urinoso, unitus, nitri genera constituat, figura quidem crystallorum et consistentia a vero diversa, vi tamen fulminante et aliis dotibus parum dissimilia.</se>
+    <weight variant_id="1">0,26412</weight>
+  </para>
+  <para id="52">
+    <se lang="" variant_id="0">§ 3</se>
+    <se lang="" variant_id="1">§ 3</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="53">
+    <se lang="russian" variant_id="0">Таким образом, в силу положения I, сделанный в § 1 вывод является вполне правильным; поэтому представляется очень странным, что даже выдающиеся люди* считали это предположение сомнительным и принимали, что щелочь при перегонке селитры скорее рождается от огня.</se>
+    <se lang="latin" variant_id="1">Cum itaque vi fundamenti primi allata § 1 thesis verissima sit, mirum sane videtur, magnos etiam viros* id ambiguum habuisse credidisseque potius, alcali destillationis actu per ignem generari.</se>
+    <weight variant_id="1">1,43719</weight>
+  </para>
+  <para id="54">
+    <se lang="russian" variant_id="0">Хотя они, после изгнания спирта огнем из селитры, смешанной с болусом, и не смогли найти истинной щелочи в остатке от перегонки, но не должны были бы на этом основании предполагать, что в составе селитры не было щелочи; ведь нельзя же отрицать все то, чего мы не видим.</se>
+    <se lang="latin" variant_id="1">Quamvis enim ex nitro, cum bolo permixto, post expulsum igne spiritum nullum verum alcali in capite mortuo invenire potuerint, hinc tamen non deberent suspicari, nullum in mixtione nitri fuisse. ~~~ Non enim omne id negare possumus, quod non percipimus.</se>
+    <weight variant_id="1">-0,00627907</weight>
+  </para>
+  <para id="55">
+    <se lang="russian" variant_id="0">Эти сомнения очевидно возникли потому, что не был известен истинный ход взаимодействия между болусом и селитрою на огне.</se>
+    <se lang="latin" variant_id="1">Sed hoc dubii inde forte traxit originem, quod verus effectus, quem bolus in nitrum per ignem exercet, ignoraretur.</se>
+    <weight variant_id="1">0,284848</weight>
+  </para>
+  <para id="56">
+    <se lang="russian" variant_id="0">По распространенному тогда представлению химиков, болус примешивался к селитре, чтобы предупредить ее ожижение, препятствующее, как полагали, выделению спирта.</se>
+    <se lang="latin" variant_id="1">Communis enim Chymicorum opinio fuit, bolum nitro admisceri ad impediendam ejus liquefactionem, qua elevatio spiritus impediri credebatur.</se>
+    <weight variant_id="1">0,25122</weight>
+  </para>
+  <para id="57">
+    <se lang="russian" variant_id="0">Но из стекольного дела достаточно известно, что постоянные щелочные соли с примешанными землистыми телами дают стекло по удалении летучих составных частей; поэтому очевидно можно заключить, что при том очень сильном огне, который применяется для отгонки селитряного спирта с болусом, щелочь селитры действует на землистую материю болуса и, потеряв летучий спирт, тем прочнее связывается с нею: таким образом и спирт отделяется от щелочи, и поэтому сама щелочь почти не может или и вовсе не может быть отмыта водою от болуса.</se>
+    <se lang="latin" variant_id="1">Verum, cum ex arte vitraria satis constet, fixos alcalinos sales cum admixtis corporibus terreis vitrescere, volatilibus, quibuscum ante mixta fuerunt, expulsis; idcirco non obscure hinc colligi potest, validissimo illo igne, qui ad spiritum nitri cum bolo destillandum adhibetur, alcali nitri terream boli materiam aggredi et, deserto volatili spiritu, arctius cum ea constringi, quo fieri, ut et spiritus ab alcali separetur et alcali ipsum vix aut ne vix quidem a bolo aqua elutriari possit.</se>
+    <weight variant_id="1">0,282979</weight>
+  </para>
+  <para id="58">
+    <se lang="russian" variant_id="0">Подтверждается все это различной легкостью отгонки селитряного спирта: из смеси селитры и купоросного масла он выгоняется легким огнем, а из смеси селитры и болуса — самым сильным огнем: то есть щелочь селитры более жадно соединяется с купоросным маслом, чем с болусной землей.</se>
+    <se lang="latin" variant_id="1">Confirmatur id facilitate varia destillandi spiritum nitri; levi enim igne hic ex li propellitur, validissimo ex bolo, scilicet alcali nitri jungitur cum vitrioli, quam cum terra bolari.</se>
+    <weight variant_id="1">0,279503</weight>
+  </para>
+  <para id="59">
+    <se lang="" variant_id="0">§ 4</se>
+    <se lang="" variant_id="1">§ 4</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="60">
+    <se lang="russian" variant_id="0">Чтобы в свою очередь познать природу составных частей селитры, надо исследовать вообще свойства и кислотного спирта и постоянной щелочной соли.</se>
+    <se lang="latin" variant_id="1">Ut vero horum miscibilium nitri natura innotescat, primo spiritus acidi, ut et salis alcalini fixi, indoles in genere examinanda est.</se>
+    <weight variant_id="1">0,273913</weight>
+  </para>
+  <para id="61">
+    <se lang="russian" variant_id="0">Затем надо найти, отличается ли и чем именно щелочь селитры от других видов постоянных щелочных солей, а кислота ее — от других спиртов того же рода.</se>
+    <se lang="latin" variant_id="1">Denique investigandum erit, an et quanam re alcali nitri a reliquorum alcalinorum fixorum salium speciebus, acidum autem ejus a reliquis ejusdem generis spiritibus differat.</se>
+    <weight variant_id="1">0,2376</weight>
+  </para>
+  <para id="62">
+    <se lang="russian" variant_id="0">Начнем с кислотного спирта, который представляется более простым и более общим, чем постоянные щелочи.</se>
+    <se lang="latin" variant_id="1">Initium sumitur ab acido spiritu, qui ut alcalinis fixis simplicior, ita quoque universalior esse videtur.</se>
+    <weight variant_id="1">0,29</weight>
+  </para>
+  <para id="63">
+    <se lang="" variant_id="0">§ 5</se>
+    <se lang="" variant_id="1">§ 5</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="64">
+    <se lang="russian" variant_id="0">Главные кислотные спирты, которые производятся особенно минеральными и растительными телами, такие: серный спирт, купоросные спирт и масло, спирты квасцов, селитры, поваренной соли, уксус.</se>
+    <se lang="latin" variant_id="1">Acidi spiritus, quos corpora praesertim mineralia et vegetabilia fundunt, potiores sunt: spiritus sulphuris, spiritus et oleum vitrioli, spiritus aluminis, nitri, salis, acetum.</se>
+    <weight variant_id="1">0,280892</weight>
+  </para>
+  <para id="65">
+    <se lang="russian" variant_id="0">Каждый из них содержит в себе воду, даже если рассматривать самые ректификованные спирты: все они, соединяясь с самыми сухими щелочными солями, выделяют при перегонке безвкусную влагу.</se>
+    <se lang="latin" variant_id="1">Qui singuli, si vel rectificatissimos consideres, aqua diluti sunt; uniti enim cum alcalinis siccissimis salibus post destillationem phlegma largiuntur insipidum.</se>
+    <weight variant_id="1">0,266667</weight>
+  </para>
+  <para id="66">
+    <se lang="russian" variant_id="0">Затем все вообще сходны по разъедающей способности и кислому вкусу, но различаются их силою и другими свойствами.</se>
+    <se lang="latin" variant_id="1">Porro omnes corrosiva virtute et acido sapore in genere conveniunt; vario autem eorum vigore et aliis dotibus discrepant.</se>
+    <weight variant_id="1">0,278571</weight>
+  </para>
+  <para id="67">
+    <se lang="russian" variant_id="0">Несомненно, что разъедающая способность и кислотность происходят в отдельных видах спиртов от одного и того же начала.</se>
+    <se lang="latin" variant_id="1">Corrosivitas et acor ab eodem principio in singulis spirituum speciebus proficiscatur necese est.</se>
+    <weight variant_id="1">0,240698</weight>
+  </para>
+  <para id="68">
+    <se lang="russian" variant_id="0">Следовательно, при прочих равных условиях, каждый в отдельности должен был бы обладать одинаковой силою.</se>
+    <se lang="latin" variant_id="1">Caeteris ergo paribus, in singulis idem deberet esse eorum vigor.</se>
+    <weight variant_id="1">0,115789</weight>
+  </para>
+  <para id="69">
+    <se lang="russian" variant_id="0">Так как, однако, этого на деле нет, то достаточная причина заключена вне этого начала в инородных началах; последние притупляют силу кислоты, будучи примешаны в разных количествах к кислотному началу.</se>
+    <se lang="latin" variant_id="1">Sed quoniam id non obtinet, datur ergo ratio sufficiens extra illud principium in principiis heterogeneis posita; quae varia quantitate acido principio admixta ipsum obtundunt.</se>
+    <weight variant_id="1">0,262987</weight>
+  </para>
+  <para id="70">
+    <se lang="russian" variant_id="0">Отсюда вытекает следствие: чем более притуплены разъедающая сила и кислотность, тем большее количество инородного начала находится в кислотном спирте; и наоборот, чем более резки разъедающая сила и кислотность, тем больше кислотный спирт содержит своего собственного начала.</se>
+    <se lang="latin" variant_id="1">Hinc autem sequitur: ~~~ Quo vis corrodens et acor obtusiora sunt, eo majorem portionem heterogenei principii in spiritu acido contineri, et contra, quo vis corrodens et acor potentiora sunt, acidum spiritum eo esse proprio suo principio ditiorem.</se>
+    <weight variant_id="1">-0,0206161</weight>
+  </para>
+  <para id="71">
+    <se lang="russian" variant_id="0">Эта истина широко подтверждается и опытом.</se>
+    <se lang="latin" variant_id="1">Haec veritas etiam frequentissima experientia confirmatur.</se>
+    <weight variant_id="1">0,173684</weight>
+  </para>
+  <para id="72">
+    <se lang="russian" variant_id="0">Так, даже самые сильные кислоты, опресненные винным спиртом, обычно очень ослабляются.</se>
+    <se lang="latin" variant_id="1">Potentissima enim acida spiritu vini dulcificata maxime debilitari solent.</se>
+    <weight variant_id="1">0,255224</weight>
+  </para>
+  <para id="73">
+    <se lang="russian" variant_id="0">Хотя вода также ослабляет кислоту, однако, что различие между ними не может происходить от различного количества воды, это совершенно очевидно из того, что кислоты, и разведенные водою, сохраняют присущие каждой качества.</se>
+    <se lang="latin" variant_id="1">Quamvis autem aqua etiam debilitari solent, specificam tamen illorum differentiam ex varia ejus copia proficisci non posse, inde clarissime patet, quod ipsa diluti peculiares suas dotes retineant.</se>
+    <weight variant_id="1">0,263158</weight>
+  </para>
+  <para id="74">
+    <se lang="" variant_id="0">§ 6</se>
+    <se lang="" variant_id="1">§ 6</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="75">
+    <se lang="russian" variant_id="0">Хотя различная сила кислотных спиртов ясно видна и при растворении металлов, но так как нет ни одного кислотного спирта, который мог бы растворять любой металл, по причине различного совмещения (по положению II) металлов с инородными составными частями спиртов, то нельзя делать на этом основании надежные выводы о степенях их кислотности и разъедающей силы.</se>
+    <se lang="latin" variant_id="1">Diversus spirituum acidorum vigor quamvis etiam in solvendis metallis non obscure perspicitur, sed quoniam nullus acidus spiritus est, qui singula metalla solvere possit, ob eorum diversam cum heterogeneis spirituum miscibilibus congruentiam (per fund. ~~~ 2), idcirco nec de gradibus eorum acoris et corrosivitatis inde tuto inferri potest.</se>
+    <weight variant_id="1">-0,00610169</weight>
+  </para>
+  <para id="76">
+    <se lang="russian" variant_id="0">Нужно применить здесь поэтому более общий критерий.</se>
+    <se lang="latin" variant_id="1">Magis itaque universale medium adhibendum est.</se>
+    <weight variant_id="1">0,271429</weight>
+  </para>
+  <para id="77">
+    <se lang="russian" variant_id="0">Ни с каким другим телом кислотные спирты не соединяются сильнее и жаднее, чем с постоянной щелочной солью: они устремляются обнять ее, выталкивая прочие металлы и минералы, которые они раньше растворили и держали в своих сетях.</se>
+    <se lang="latin" variant_id="1">Nullum autem corpus acidi spiritus amplectuntur arctius et avidius, quam salem alcalinum fixum. ~~~ Metallis enim et mineralibus aliis, quae antea dissolverant et irretita tenebant, exturbatis in illius amplexum ruunt.</se>
+    <weight variant_id="1">-0,00396825</weight>
+  </para>
+  <para id="78">
+    <se lang="russian" variant_id="0">Это делается с различным напором и стремительностью, вследствие различной силы спиртов, которая в них бывает весьма различна, так что более мощный спирт, воздействуя на щелочную соль, выгоняет из нее другой, более слабый спирт.</se>
+    <se lang="latin" variant_id="1">Hoc autem fit vi et impetu diverso, pro diverso spirituum vigore, qui tantum in illis variat, ut potentior aggrediens salem alcalinum expellat ex illo alterum debiliorem.</se>
+    <weight variant_id="1">0,19726</weight>
+  </para>
+  <para id="79">
+    <se lang="russian" variant_id="0">Так, уксус уступает место спирту морской соли; последний же изгоняется селитряным спиртом, выталкиваемым в свою очередь купоросным или, что то же, серным, или квасцовым (которые взаимно не вытесняют друг друга).</se>
+    <se lang="latin" variant_id="1">Ita acetum spiritui salis marini locum cedit: hunc vero nitrosus spiritus extrudit, ipse vitriolico, vel, quod idem est, sulphureo, aut aluminoso (qui se mutuo non movent) propellendus.</se>
+    <weight variant_id="1">0,256875</weight>
+  </para>
+  <para id="80">
+    <se lang="russian" variant_id="0">Отсюда очевидно, что купоросный спирт и родственные ему серный и квасцовый — самые сильные из всех; остальные же — селитряный, соляной и уксусный — слабее, и следовательно последние соединены с инородными началами; первые же состоят из чистого кислотного начала, когда оказываются в наиболее чистом состоянии, или, во всяком случае, содержат меньшее количество примешанного постороннего начала.</se>
+    <se lang="latin" variant_id="1">Ex hoc autem perspicitur, spiritum vitrioli (et ejus cognatos, sulphuris et aluminis spiritus) esse potentissimam omnium; reliquos vero, nitrosum, salinum et acetum, esse obtusiores; atque adeo hos principiis heterogeneis esse junctos, illos vero ex mero acido principio constare, quum defaecatissima habentur, vel certe minorem portionem peregrini principii admixtam possidere.</se>
+    <weight variant_id="1">0,290937</weight>
+  </para>
+  <para id="81">
+    <se lang="" variant_id="0">§ 7</se>
+    <se lang="" variant_id="1">§ 7</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="82">
+    <se lang="russian" variant_id="0">Хорошее подтверждение этого мы находим и в различном удельном весе спиртов.</se>
+    <se lang="latin" variant_id="1">Ad hoc confirmandum etiam diversa spirituum gravitas specifica non leve adfert argumentum.</se>
+    <weight variant_id="1">0,236364</weight>
+  </para>
+  <para id="83">
+    <se lang="russian" variant_id="0">Что чистая кислотная материя, являющаяся главной составной частью кислотных спиртов, имеет значительную плотность, очевидно из следующих соображений.</se>
+    <se lang="latin" variant_id="1">Etenim meram acidam materiam, quae spirituum acidorum praecipuum miscibile est, insigni gravitate praeditam esse, ex sequentibus patet.</se>
+    <weight variant_id="1">0,265</weight>
+  </para>
+  <para id="84">
+    <se lang="russian" variant_id="0">Сера, несомненно, состоит из купоросной кислоты и небольшого количества флогистона, соединенных с водою.</se>
+    <se lang="latin" variant_id="1">Sulphur ex acido vitrioli et exigua portione phlogisti, cum aqua unitis, constare certum est.</se>
+    <weight variant_id="1">0,255556</weight>
+  </para>
+  <para id="85">
+    <se lang="russian" variant_id="0">Что флогистон удельно легче воды, об этом свидетельствуют плавающие на ней эфирные масла и ректификованный винный спирт.</se>
+    <se lang="latin" variant_id="1">Phlogiston specifice levius esse aqua, olea stillatitia et spiritus vini rectificatissimus illi supernatantia loquuntur.</se>
+    <weight variant_id="1">0,291429</weight>
+  </para>
+  <para id="86">
+    <se lang="russian" variant_id="0">Так как сера сама в два раза тяжелее воды, то из законов гидростатики непосредственно вытекает, что удельный вес купоросной или серной кислоты должен значительно превосходить удельный вес воды и что, следовательно, кислотные спирты тем удельно тяжелее, чем больше содержат кислотного начала.</se>
+    <se lang="latin" variant_id="1">Cum vero sulphur ipsum duplo ponderosius sit aqua, manifesto ex legibus hydrostaticis patet, acidum vitriolicum seu sulphureum specifica gravitate aquam longe superare, adeoque spiritus acidos eo graviores esse specifice, quo majore copia acidi principii abundant.</se>
+    <weight variant_id="1">0,272727</weight>
+  </para>
+  <para id="87">
+    <se lang="russian" variant_id="0">А так как купоросная кислота и ее сородичи, после самой тщательной очистки и ректификации, превосходят остальные кислоты своим удельным весом, как показывают ареометры и более трудное превращение ее в пар при перегонке, то поэтому не остается никакого сомнения в том, что утверждаемое в § 6 совершенно правильно.</se>
+    <se lang="latin" variant_id="1">Cum vero vitrioli acidum et ejus cognata, si rectificatissima et defaecatissima sunt, reliqua acida specifico pondere superent, quod areometra et difficilior illius in destillatione elevatio palam faciunt. ~~~ Nullum equidem dubium superest, quin [quae] superius § 6 asserimus, verissima sint.</se>
+    <weight variant_id="1">0,985985</weight>
+  </para>
+  <para id="88">
+    <se lang="russian" variant_id="0">На этом основании самые известные из химиков называют купоросную кислоту всеобщей кислотою и считают самой простой из всех.</se>
+    <se lang="latin" variant_id="1">Hinc Chymicorum celeberrimi vitrioli acidum universalis nomine salutant habentque pro omnium simplicissimo.</se>
+    <weight variant_id="1">0,269072</weight>
+  </para>
+  <para id="89">
+    <se lang="russian" variant_id="0">Сравнивая с ней селитряный спирт, мы постараемся определить его специфическое отличие.</se>
+    <se lang="latin" variant_id="1">Quocum nitri spiritum comparando specificam ejus differentiam expiscari allaborabimus.</se>
+    <weight variant_id="1">0,292208</weight>
+  </para>
+  <para id="90">
+    <se lang="russian" variant_id="0">Здесь не место производить исследование других видов кислот, так как речь идет только о селитре.</se>
+    <se lang="latin" variant_id="1">Reliquas acidorum spirituum species ad examen hic vocare opus non est, cum quaestio sit de nitro.</se>
+    <weight variant_id="1">0,3</weight>
+  </para>
+  <para id="91">
+    <se lang="" variant_id="0">§ 8</se>
+    <se lang="" variant_id="1">§ 8</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="92">
+    <se lang="russian" variant_id="0">Сверх того, что мы предложили в § 6 и 7, большая сила купоросной кислоты, по сравнению с селитряной, проявляется в осаждении металлов и в действии на ртуть: вполне очевидно, что селитряный спирт имеет в своем составе какую-то более легкую материю или более летучее начало.</se>
+    <se lang="latin" variant_id="1">Praeter ea, quae § 6 et 7 proposuimus, vitrioli acidum majorem vigorem, quam quem nitri spiritus habet, exerit in metallis ex eo praecipitandis et in Mercurio figendo, ita ut evidentissime pateat, nitri spiritum leviorem aliquam materiam, seu volatilius principium in mixtione sua possidere.</se>
+    <weight variant_id="1">0,410277</weight>
+  </para>
+  <para id="93">
+    <se lang="russian" variant_id="0">Какого рода оно — надо установить по свойствам этой кислоты.</se>
+    <se lang="latin" variant_id="1">Id vero cujusmodi sit, in proprietatibus ejusdem acidi quaerendum est.</se>
+    <weight variant_id="1">0,242308</weight>
+  </para>
+  <para id="94">
+    <se lang="russian" variant_id="0">Главное отличительное ее свойство то, что средние соли, образованные селитряной кислотою и какой-либо щелочной солью, растертые с углем, в одно мгновение вспыхивают громадным пламенем и сгорают.</se>
+    <se lang="latin" variant_id="1">Palmaria earum et ipsi peculiaris est illa, quod medii sales, ex hoc acido, ut et alcalino sale quocunque, concreti et cum carbonibus contriti, in flammam pernicissimam prorumpant et momento temporis deflagrent.</se>
+    <weight variant_id="1">0,278824</weight>
+  </para>
+  <para id="95">
+    <se lang="russian" variant_id="0">Так как этого не бывает ни с какой другой кислотою, соединенной со щелочными солями и углем, то, очевидно, селитряный спирт, кроме всеобщей кислоты и воды, должен еще иметь то начало, которое наиболее склонно к образованию пламени, которое соединено с кислотою и с водою, сопротивляющимися пламени, и которое, преодолев их и унося с собою, вспыхивает пламенем. ~~~ Не приходится сомневаться, что это — чистейшее горючее начало, многими называемое флогистоном.</se>
+    <se lang="latin" variant_id="1">Quod quoniam cum nullo acido alio unitis alcalinis salibus et carbonibus accidit, manifestum est, spiritum nitri, praeter universale acidum et aquam, praeditum esse ejusmodi principio, quod ad flammamd generandam maxime sit idoneum; quod cum acido et aqua, quibuscum unitum est quaeque flammae resistunt, superatis et secum raptis exardescere soleat; quin purissimum inflammabile principium sit, phlogiston plerisque dictum, dubitari nequit.</se>
+    <weight variant_id="1">-0,003125</weight>
+  </para>
+  <para id="96">
+    <se lang="russian" variant_id="0">Мы уже выше отметили, что флогистон начало более легкое не только чем кислота, но даже чем вода (§ 7).</se>
+    <se lang="latin" variant_id="1">Porro phlogiston principium non solum acido, verum etiam aqua ipsa levius esse, superius (§ 7) monuimus.</se>
+    <weight variant_id="1">0,458824</weight>
+  </para>
+  <para id="97">
+    <se lang="russian" variant_id="0">Поэтому представляется естественным, что оно само сообщает тяжелой всеобщей кислоте бо́льшую летучесть и вместе с тем уменьшает ее силу: следовательно, селитряная кислота состоит из всеобщей кислоты (§ 5) и флогистонного начала, соединенных вместе и плавающих в водной жидкости.</se>
+    <se lang="latin" variant_id="1">Apparet igitur, hoc ipsum ponderoso acidi universali volatilitatem majorem conciliare et simul vigorem ejus minuere; adeoque acidum nitri constare ex acido universali (§ 5) et principio phlogisto, unitis et aqueo humori innatantibus.</se>
+    <weight variant_id="1">0,424183</weight>
+  </para>
+  <para id="98">
+    <se lang="" variant_id="0">§ 9</se>
+    <se lang="" variant_id="1">§ 9</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="99">
+    <se lang="russian" variant_id="0">Немалое значение для подтверждения этой истины имеет совмещение селитряного спирта с теми телами, которые со всей очевидностью имеют в своем составе флогистон.</se>
+    <se lang="latin" variant_id="1">Non leve adfert momentum huic veritati congruentia spiritus nitri cum iis corporibus, quae in mixtione sua phlogiston manifestum habent.</se>
+    <weight variant_id="1">0,24958</weight>
+  </para>
+  <para id="100">
+    <se lang="russian" variant_id="0">Так, камфора отвергает все остальные кислые спирты, но соединяется с селитряной кислотою и переходит в смолообразное вещество.</se>
+    <se lang="latin" variant_id="1">Etenim cum reliquos acidos spiritus camphora respuat, nitroso tamen acido jungitur et abit in resinosam substantiam.</se>
+    <weight variant_id="1">0,273529</weight>
+  </para>
+  <para id="101">
+    <se lang="russian" variant_id="0">Эфирные масла очень жадно соединяются с этим спиртом и выделяют очень большую теплоту и даже пламя; хотя такое же действие наблюдается и для некоторых других кислот, но гораздо меньшее.</se>
+    <se lang="latin" variant_id="1">Olea stillaticia cum eodem spiritu avidissime uniuntur et calorem insignem, imo flammam producunt, qui effectus cum aliis quibusdam acidis observatur quidem, sed longe minor.</se>
+    <weight variant_id="1">0,288158</weight>
+  </para>
+  <para id="102">
+    <se lang="russian" variant_id="0">Ибо они воздействуют на эти масла лишь в силу заключенного в последних кислотного начала, а селитряный спирт, устремляясь своим флогистоном на их флогистон, как и своей кислотою на их кислоты, естественно, должен вызывать более сильное движение и более значительную теплоту.</se>
+    <se lang="latin" variant_id="1">Hi enim, ob solum acidum principium oleis illis involutum, ipsa appetunt; ille vero cum etiam phlogisto suo eorum phlogiston, ut et acido suo eorum acidum invadat, majorem motum validioremque calorem producat opus est.</se>
+    <weight variant_id="1">-0,0393048</weight>
+  </para>
+  <para id="103">
+    <se lang="russian" variant_id="0">Селитряный спирт растворяет все металлы и полуметаллы, кроме золота, тем энергичнее и сильнее, чем больше в них находится флогистона и чем ярче проявляет себя последний.</se>
+    <se lang="latin" variant_id="1">Metalla et semimetalla omnia praeter aurum solvit eoque avidius et fortius, quo copiosius et manifestius phlogiston illis inest.</se>
+    <weight variant_id="1">0,260959</weight>
+  </para>
+  <para id="104">
+    <se lang="russian" variant_id="0">После изгнания его прокаливанием металлические окалины мало подвергаются действию селитряного спирта, тогда как купоросная кислота, наоборот, гораздо охотнее действует на окалины, чем на цельные металлы, блещущие своим флогистоном.</se>
+    <se lang="latin" variant_id="1">Eo autem ustulatione expulso, calces metallorum pigre aggreditur, contra ac vitrioli acidum facere solet, quod calces multo lubentius appetit, quam metalla integra phlogisto suo fulgentia.</se>
+    <weight variant_id="1">-0,171094</weight>
+  </para>
+  <para id="105">
+    <se lang="russian" variant_id="0">Наконец, купоросное масло, слитое с ректификованным винным спиртом, соединяется без шипения и хотя выделяет теплоту, но в меньшем количестве, чем при смешивании с водою.* Наоборот, дымящийся селитряный спирт с водою производит меньше теплоты, чем купоросное масло, но с ректификованным винным спиртом — огромное, устрашающее вскипание, с разогреванием до 180° и даже бо́льшим.** Если к одной драхме селитряного спирта прилить одну драхму алкоголя, то происходит горячее вскипание, после которого ничего не остается, но все испарится в воздух.***</se>
+    <se lang="latin" variant_id="1">Denique li cum spiritu vini rectificatissimo confusum sine strepitu jungitur et calorem producit quidem, sed minorem, quam si cum aqua permiscetur.* Contra vero nitri spiritus fumans cum aqua minus incalescit, quam oleum vitrioli, cum spiritu autem validissimo enormem et metuendam effervescentiam ad gradum 180, imo majorem, dedit,* et, si drachmae uni spiritus nitri affundas drachmam unam alcoholis, sub calidissima effervescentia nihil remanebit, sed omne in auras evaporabit.**</se>
+    <weight variant_id="1">-0,172527</weight>
+  </para>
+  <para id="106">
+    <se lang="" variant_id="0">§ 10</se>
+    <se lang="" variant_id="1">§ 10</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="107">
+    <se lang="russian" variant_id="0">Кроме кислотного начала, флогистона и водной жидкости, в которой плавают два первых, мы не можем допустить в селитряном спирте присутствие еще какого-нибудь другого начала и потому ограничиваемся установлением этих трех составных частей.</se>
+    <se lang="latin" variant_id="1">Praeter acidum principium et phlogistonc et aqueum humorem, cui sociata innatant, nullum aliud principium in purissimo nitri spiritu suspicari possumus: idcirco in iis, quae proposita sunt, acquiescimus.</se>
+    <weight variant_id="1">0,251124</weight>
+  </para>
+  <para id="108">
+    <se lang="russian" variant_id="0">Нет также надобности распространяться о специфических свойствах этой жидкости, так как предложенная тема требует рассмотрения только тех свойств, которыми может быть объяснено рождение селитры.</se>
+    <se lang="latin" variant_id="1">Nec de specificis hujus liquoris virtutibus prolixe disputare opus habemus, cum propositi ratio ea solum postulet, ex quibus nitri genesis potest explicari.</se>
+    <weight variant_id="1">0,222794</weight>
+  </para>
+  <para id="109">
+    <se lang="russian" variant_id="0">Конечно, было бы весьма интересно и полезно знать, в каких отношениях по весу или по объему находятся составные части этого спирта, совершенно чистого.</se>
+    <se lang="latin" variant_id="1">Caeterum pulcherrimum utilissimumque foret cognoscere, quantum ponderis aut voluminis ratione singula rectificatissimi hujus spiritus miscibilia differant.</se>
+    <weight variant_id="1">0,274615</weight>
+  </para>
+  <para id="110">
+    <se lang="russian" variant_id="0">Но из сделанных до сих пор опытов это невозможно точно определить.</se>
+    <se lang="latin" variant_id="1">Sed ex institutis hactenus experimentis non id praecise licet determinare.</se>
+    <weight variant_id="1">0,252632</weight>
+  </para>
+  <para id="111">
+    <se lang="russian" variant_id="0">Очевидно лишь, что кислотное начало находится в гораздо бо́льшем количестве, чем флогистон, так как: 1) вкус жидкости чрезвычайно кислый, 2) сама по себе она не воспринимает пламени, 3) она тяжелее воды по удельному весу, а последний понизился бы от более обильного флогистона; но даже приблизительно отношение их не может быть указано.</se>
+    <se lang="latin" variant_id="1">Patet quidem acidum principium multo copiosius esse phlogisto, quia 1) sapor liquoris est acidissimus, 2) quod flammam solus non concipit, 3) quod aquam superat specifica gravitate, cui copiosius phlogiston derogaret; verum tamen proportio eorum proxime vera assignari non potest.</se>
+    <weight variant_id="1">0,470679</weight>
+  </para>
+  <para id="112">
+    <se lang="russian" variant_id="0">Относительно количества воды сделал остроумное исследование Гомберг:* он прилил одну унцию селитряного спирта к самой сухой щелочи и из этой смеси выгнал на воздух силою огня воду, утратившую кислоту; он нашел уменьшение веса на 5 драхм и 49 гран. ~~~ Поэтому вода по весу относится к другим составным частям спирта приблизительно как 8 к 3.</se>
+    <se lang="latin" variant_id="1">In aquae copiam prudenter quidem inquisivit Hombergius:*, nempe spiritus nitri instillavit alcali siccissimo et ex hac miscela aquam, ab acido principio desertam, vi ignis in auras expulit invenitque decrementum drachmarum quinque et granorum 49. Hinc aquam ad reliqua spiritus miscibilia ratione ponderis esse, ut 8 ad 3 circiter.</se>
+    <weight variant_id="1">-0,006</weight>
+  </para>
+  <para id="113">
+    <se lang="" variant_id="0">§ 11</se>
+    <se lang="" variant_id="1">§ 11</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="114">
+    <se lang="russian" variant_id="0">Постоянная щелочная соль имеет в своем составе землю.</se>
+    <se lang="latin" variant_id="1">Sal alcalinus fixus in mixtione sua possidet terram.</se>
+    <weight variant_id="1">0,293478</weight>
+  </para>
+  <para id="115">
+    <se lang="russian" variant_id="0">Ибо она: 1) после долгого дигерирования выделяет землю, безвкусную, в воде нерастворимую; 2) образуется при сжигании из тел, богатых землистым веществом, так что чем тверже и крепче части растений, тем более грубая зола остается после горения и получается более крепкая и более постоянная щелочная соль.</se>
+    <se lang="latin" variant_id="1">1) per longam digestionem terram demittit insipidam, in aqua insolubilem, 2) generatur per combustionem ex corporibus terrea substantia praeditis, ita ut vegetabilium partes, quo solidiores et robustiores sunt, eo grossiores praebeant post deflagrationem cineres et salem alcalinum fortiorem et fixiorem.</se>
+    <weight variant_id="1">0,439418</weight>
+  </para>
+  <para id="116">
+    <se lang="russian" variant_id="0">Наоборот, летучие и лишенные землистого начала смешанные вещества совсем не дают золы и щелочи.</se>
+    <se lang="latin" variant_id="1">Contra vero volatilia et terreo principio destituta mixta nullos cineres nullumque alcali largiuntur.</se>
+    <weight variant_id="1">0,274699</weight>
+  </para>
+  <para id="117">
+    <se lang="russian" variant_id="0">И то и другое, в силу положения I, доказывает наше утверждение.</se>
+    <se lang="latin" variant_id="1">Utrumque vi fundamenti primi assertum demonstrat.</se>
+    <weight variant_id="1">0,24</weight>
+  </para>
+  <para id="118">
+    <se lang="russian" variant_id="0">Правда, самые плотные кости и другие животные части, так же как сгнившие растения, не образуют такого рода щелочных солей, однако это нисколько не в ущерб высказанной выше истине, так как для составления этих тел, кроме землистого, требуется еще другое начало (см. ниже § 13), которое — если оно либо отсутствует в сожигаемом смешанном теле, либо встречает препятствия к сочетанию с землею при сжигании — не может с землею образовать щелочь и оставляет голую землю, каковой является зола костей.</se>
+    <se lang="latin" variant_id="1">Quamvis autem solidissima ossa et reliquae animalium partes, ut et vegetabilia putrefacta, ejusmodi alcalinos sales haud exhibeant, id tamen propositae veritati nil derogat, cum ad eos constituendos praeter terram aliud principium requiratur (infra § 13), quod ubi vel ex mixto comburendo abest, vel a terrae consortio inter deflagrandum arcetur, alcali cum terra constituere nequit adeoque nudam relinquit, cujusmodi sunt cineres ossium.</se>
+    <weight variant_id="1">0,365112</weight>
+  </para>
+  <para id="119">
+    <se lang="" variant_id="0">§ 12</se>
+    <se lang="" variant_id="1">§ 12</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="120">
+    <se lang="russian" variant_id="0">Чтобы подтвердить это соответствием явлений, следует упомянуть прежде всего совмещение постоянных щелочных солей с землистыми телами.</se>
+    <se lang="latin" variant_id="1">Ut vero phaenomenorum consensu id confirmetur, non aliam rem magis, quam congruentiam alcalinorum fixorum salium cum terreis corporibus, commemorare par est.</se>
+    <weight variant_id="1">-0,3</weight>
+  </para>
+  <para id="121">
+    <se lang="russian" variant_id="0">Ибо постоянная щелочная соль вступает в столь тесную связь с ними, что образует прозрачное и очень прочное тело, не разрушимое никакой известной силою огня, как это ежедневно наблюдают стеклоделы.</se>
+    <se lang="latin" variant_id="1">Quandoquidem tam arcto cum illis nexu alcalinusa sal fixus constringitur, ut in pellucidum solidissimumque corpus cum iis abeat, nulla vi ignis cognita destruendum. ~~~ Quod vitrorum confectores quotidie experiuntur.</se>
+    <weight variant_id="1">0,297902</weight>
+  </para>
+  <para id="122">
+    <se lang="russian" variant_id="0">Это соединение упомянутого вещества с песком ознаменовывается редкостным явлением.</se>
+    <se lang="latin" variant_id="1">Haec memoratae substantiae cum arena conjunctio singulari phaenomeno sese manifestat.</se>
+    <weight variant_id="1">0,292</weight>
+  </para>
+  <para id="123">
+    <se lang="russian" variant_id="0">А именно, если такую смесь песка с постоянной щелочной солью в горшке нагреть на большом огне до расплавления, то жидкость вдруг закипает, дает пену и приходит в движение, какое бывает при соединении кислоты со щелочью; из нее выходит густой дым с тяжелым запахом кислоты.*</se>
+    <se lang="latin" variant_id="1">Etenim quando arena cum fixo alcalino sale contrita in catino magno igne usque ad fusionem urgetur, extemplo substantia ebullit, spumam agit, et non aliter commovetur, quam cum acidum cum alcali conjungitur; fumus interea exsurgit densus acido odore gravis.*</se>
+    <weight variant_id="1">0,292838</weight>
+  </para>
+  <para id="124">
+    <se lang="russian" variant_id="0">Мы считаем весьма вероятным, что этот кислый дым есть часть летучего начала, входящего в состав щелочной соли, которая утратила землю, теснее соединившуюся с песком (ср. § 3), и отсюда приходим к выводу, что в постоянной щелочной соли имеется кислотное начало, соединенное с землею; но так как можно предположить, что кислое испарение происходит не из щелочи, но из песка, то нужны более достоверные данные и согласованное с явлениями рассуждение, которые устранят всякое сомнение.</se>
+    <se lang="latin" variant_id="1">Isto autem quamvis probabili conjectamus argumento: acidum illum fumum esse volatilis principii, alcalinum salem constituentis, partem, quam terra cum arena arctius unita deseruit (conf. § 3), indeque colligimus, in sale alcalino fixo esse cum terra conjunctum acidum principium; verumtamen quoniam acidum halitum ex arena, non ex alcali, egredi supponi potest, tutiora documenta et congruens phaenomenis ratio omne dubium removebunt.</se>
+    <weight variant_id="1">0,393769</weight>
+  </para>
+  <para id="125">
+    <se lang="" variant_id="0">§ 13</se>
+    <se lang="" variant_id="1">§ 13</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="126">
+    <se lang="russian" variant_id="0">Для получения щелочной соли посредством озольнения выбирают растения, изобилующие кислой материей, так называемой существенной солью; чем ее больше, тем больше вымывается щелочи из золы.</se>
+    <se lang="latin" variant_id="1">Ad producendum alcalinum salem per incinerationem eliguntur plantae acida materia, sale essentiali dicto, succulentae, quae quo copiosior est, eo copiosius alcali ex cineribus eluitur.</se>
+    <weight variant_id="1">0,296296</weight>
+  </para>
+  <para id="127">
+    <se lang="russian" variant_id="0">Поэтому растения, из которых выжата существенная соль, дают меньше щелочи, чем если она не выжата.**</se>
+    <se lang="latin" variant_id="1">Hinc plantae, ex quibus sal essentialis expressus est, minus alcali exhibent, quam si expressus non fuisset.** </se>
+    <weight variant_id="1">0,28125</weight>
+  </para>
+  <para id="128">
+    <se lang="russian" variant_id="0">Далее, если растения горят не ярко, но дымят и медленно сжигаются тлеющим огнем, тогда из растений улетучивается много кислоты, и зола лишается значительного количества щелочной соли.* </se>
+    <se lang="latin" variant_id="1">Item, si plantae non luculenter ardent, sed fumant et igne fere consumuntur gliscente, tunc multum acidi ex planta avolat, et cineribus insignis copia alcalini salis derogatur.*</se>
+    <weight variant_id="1">0,0751678</weight>
+  </para>
+  <para id="129">
+    <se lang="russian" variant_id="0">Затем, если растение, содержащее летучую кислоту, высушить до сжигания, то оно дает меньше щелочной соли, чем невысушенное.** </se>
+    <se lang="latin" variant_id="1">Porro, si planta, quae praedita est acido nimirum volatili, ante incinerationem fuerit exsiccata, minorem quantitatem salis lixiviosi suppeditat, quam si exsiccata non fuisset.**</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="130">
+    <se lang="russian" variant_id="0">Наконец, винный камень, самая кислая из всех существенных солей, после перегонки оставляет очень черный остаток; полученная при обжигании этого остатка на открытом огне зола дает большое количество особенно едкой постоянной щелочной соли, так что очень значительная часть винного камня переходит в нее.</se>
+    <se lang="latin" variant_id="1">Denique tartarus vini, omnium essentialium salium acidissimus, post destillationem ex nigerrimo capite mortuo, aperto igne in cineres redacto, acerrimum copiosissimumque alcalinum salem fixum largitur, ita ut potissima ejus pars in illum convertatur;</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="131">
+    <se lang="russian" variant_id="0">Если к оставшейся щелочной массе прилить подкисленной воды, спирта и масла, которые ранее были извлечены перегонкою, и затем снова, как раньше, перегонять, то почти вовсе не выгоняется кислоты, мало масла и почти вся масса винного камня превращается в щелочь.***</se>
+    <se lang="latin" variant_id="1">imo si aqua acida, spiritus et oleum refunditur in massam alcalinam superstitem, unde destillatione prius erant expressa, atque postea denuo, ut prius, destillant; tum nil fere acidi extillat, parum olei, totaque fere massa tartari vertitur in alcali.***</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="132">
+    <se lang="russian" variant_id="0">Из всего этого совершенно очевидно, 1) что для образования постоянных щелочных солей обязательно требуется кислота (по положению I); 2) что существенные соли растений силою огня крепче связываются с землею (§ 11) и переходят в состав щелочей.</se>
+    <se lang="latin" variant_id="1">Ex his omnibus evidentissime patet, 1) ad constituendos sales alcalinos fixos requiri necessario acidum (per fund. 1), 2) sales essentiales plantarum cum terra (§ 11) vi ignis arctius constringi et in mixtionem alcalium abire.</se>
+    <weight variant_id="1">-0,290526</weight>
+  </para>
+  <para id="133">
+    <se lang="" variant_id="0">§ 14</se>
+    <se lang="" variant_id="1">§ 14</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="134">
+    <se lang="russian" variant_id="0">Что кислое начало имеется в составе животной материи, вытекает из окисления молока и из рассуждения знаменитого Лемери;**** однако это начало едва поддается выделению, и его нельзя сгустить в форму существенной соли — или потому, что оно находится в незначительном количестве, или (что вероятнее) потому, что оно скрыто в соединении с другими началами и, таким образом, не может войти в соприкосновение с землею и прочно соединиться с нею во время сжигания.</se>
+    <se lang="latin" variant_id="1">Acidum principium in mixtione materiae animalis adesse, ex acescentia lactis et ex celeberrimi Lemmerii commentario**** quidem constat; vix tamen separandum est, nec in essentialis salis formam coagulari potest; seu quod exigua quantitate reperiatur, sive (ut magis probabile est) quod aliis principiis involutum lateat, adeoque terram non contingere, nec illi ustionis tempore arcte associari possit.</se>
+    <weight variant_id="1">0,249533</weight>
+  </para>
+  <para id="135">
+    <se lang="russian" variant_id="0">Гниению растений всегда предшествует брожение, рассеивающее бо́льшую часть кислоты.</se>
+    <se lang="latin" variant_id="1">Putrefactionem vegetabilium praecedit semper fermentatio, qua maxima pars acidi dissipatur.</se>
+    <weight variant_id="1">-0,0138158</weight>
+  </para>
+  <para id="136">
+    <se lang="russian" variant_id="0">Поэтому части животных и сгнившие растения, после сжигания и вымывания золы, не дают постоянной щелочи; а это для нас самый существенный довод от противного.</se>
+    <se lang="latin" variant_id="1">Hinc fit, ut animalium partes et putrefacta vegetabilia nullum fixum alcalinum salem dant post incinerationem elutriandum; quod fortissimum est pro nobis a contrario argumentum.</se>
+    <weight variant_id="1">0,255556</weight>
+  </para>
+  <para id="137">
+    <se lang="russian" variant_id="0">Немало веса придает высказанному положению бурное вскипание и разогревание кислотных спиртов с щелочными солями; ранее это рассматривалось как их ненависть и борьба, а ныне — более справедливо — как любовь и жадное стремление к взаимному объятию, что находит себе вне сомнения объяснение в совместимости составных частей (положение II).</se>
+    <se lang="latin" variant_id="1">Nec parum ponderis propositae thesi addit acidorum spirituum cum lixiviosis salibus vehemens ebullitio et incalescentia, quae olim eorum odium et pugna, nunc autem verius amor et avidissimus in mutuum amplexum impetus vocatur, quem ex miscibilium congruentia proficisci procul dubio est (fund. ~~~ 2).</se>
+    <weight variant_id="1">-0,0179537</weight>
+  </para>
+  <para id="138">
+    <se lang="" variant_id="0">§ 15</se>
+    <se lang="" variant_id="1">§ 15</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="139">
+    <se lang="russian" variant_id="0">Относительно объединения этих составных частей в теле постоянных щелочных солей, полагаем мы, никто не усумнится.</se>
+    <se lang="latin" variant_id="1">De horum miscibilium in corpore lixiviosorum salium unione neminem equidem dubitaturum putamus.</se>
+    <weight variant_id="1">0,247059</weight>
+  </para>
+  <para id="140">
+    <se lang="russian" variant_id="0">Но среди наиболее видных ученых возникает еще вопрос о присутствии третьей составной части — начала флогистона.</se>
+    <se lang="latin" variant_id="1">Verum tamen tertium miscibile phlogiston principium inter principes doctrinae viros in quaestione versatur.</se>
+    <weight variant_id="1">0,296875</weight>
+  </para>
+  <para id="141">
+    <se lang="russian" variant_id="0">А именно, известнейшие авторы Шталь и Нейман утверждают, что он содержится в постоянных щелочных солях; наоборот, другие отрицают это, особенно знаменитый Бурделин* в особом исследовании.</se>
+    <se lang="latin" variant_id="1">Clarissimi enim auctores Stahlius et Neumannus id in fixis alcalinis salibus contineri asseverant; contra alii, praesertim clar. ~~~ Bourdelinus* singulari commentario id ipsum negat.</se>
+    <weight variant_id="1">-0,00375</weight>
+  </para>
+  <para id="142">
+    <se lang="russian" variant_id="0">Первое мнение опирается на опыты и непосредственные из них выводы; второе — на более глубокие рассуждения, подкрепленные опытами.</se>
+    <se lang="latin" variant_id="1">Priorem sententiam experimenta et immediata ex iisdem judicia, posteriorem subtiliora ratiocinia experimentis munita tuentur.</se>
+    <weight variant_id="1">0,3</weight>
+  </para>
+  <para id="143">
+    <se lang="russian" variant_id="0">Утвердительное мнение обосновывается тем, что для получения щелочей необходимо маслянистое вещество, и их образование не происходит без какой-либо жирной материи.**</se>
+    <se lang="latin" variant_id="1">Equidem affirmativae veritas ex eo colligitur, quod ad productionem alcaliumc oleosa materia necessario requiratur, neque eorum genesis sine pinguedine unquam contingat.**</se>
+    <weight variant_id="1">0,238776</weight>
+  </para>
+  <para id="144">
+    <se lang="russian" variant_id="0">Поэтому, удалив горючие вещества из растений винным спиртом, из золы их получают меньшее количество поташа, чем без предварительного извлечения.*</se>
+    <se lang="latin" variant_id="1">Unde inflammabili substantia per spiritum vini ex vegetabili corpore extracta, minor clavellatorum cinerum copia ex illius cineribus elicitur, quam si extractio non praecessisset,*</se>
+    <weight variant_id="1">0,290202</weight>
+  </para>
+  <para id="145">
+    <se lang="russian" variant_id="0">К этому присоединяется не менее веский довод, по положению II, а именно, что самая чистая и сухая щелочь притягивает ректификованный винный спирт; если же оба эти вещества или какое-либо из них содержат сколько-нибудь воды, то смешение их затрудняется.**</se>
+    <se lang="latin" variant_id="1">quibus accedit ex secundo fundamento non levis auctoritas; scilicet, alcali purissimum sincerrimumque attrahit spiritum vini rectificatissimum; sin autem utrumque vel alterutrum fuerit utcunque aqua inquinatum, commixtio impeditur.**</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="146">
+    <se lang="russian" variant_id="0">Поэтому при их смешивании температура поднимается с 49 до 54° (термометр Фаренгейта); но теплота едва ощущается, если вместо весьма сухой щелочи взять виннокаменного расплывшегося спирта.*** Напротив того, Бурделин из тех же самых фактов, которыми вышеназванные авторы подтверждают свое положение, делает противоположный вывод, на основании таких соображений.</se>
+    <se lang="" variant_id="1"></se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="147">
+    <se lang="" variant_id="0">§ 16</se>
+    <se lang="" variant_id="1">§ 16</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="148">
+    <se lang="russian" variant_id="0">Он утверждает, что постоянная щелочь растений происходит от обжигания их существенной или природной соли, причем более постоянная часть этой кислой соли в соединении с землею образует щелочь; остальная, более летучая часть или выгоняется огнем, так что остается чистая щелочная соль, или остается не тронутой пламенем, и тогда из золы вымывается средняя соль — селитряная, по свидетельству самого Шталя.</se>
+    <se lang="latin" variant_id="1">Affirmat enim, alcali fixum plantarum ex earundem sale essentiali seu nativo per incinerationem generari; quo fieri, ut pars illius salis acidi fixior terrae associata producat alcali; reliqua volatilior vel cum flamma dissipetur, et sal alcalinus purus relinquatur, aut restet a flamma incolumis, et sal ex cineribus eluatur medius, et quidem nitrosus, Stahlio ipso teste.</se>
+    <weight variant_id="1">0,275701</weight>
+  </para>
+  <para id="149">
+    <se lang="russian" variant_id="0">В первом случае, говорит он, более тонкая кислота уходит с более обильным маслом, производящим бо́льшее пламя; во втором — за недостатком жирного начала, происходящим или потому, что берется более сухое растение, например тамариск, или оттого, что жирное начало извлекается винным спиртом, — кислота соединяется со щелочью, образовавшейся при сожжении, и дает среднюю соль.</se>
+    <se lang="latin" variant_id="1">In casu priore subtilius acidum copiosiore oleo, validiorem flammam producente, rapi, in posteriore autem, deficiente pingui substantia, seu quod planta sit ipsa macrior, ut Tamariscus, seu quod pingue spiritu vini extrahatur, acidum cum alcali per ustionem nato combinari, indeque salem medium generari asserit.</se>
+    <weight variant_id="1">0,243542</weight>
+  </para>
+  <para id="150">
+    <se lang="russian" variant_id="0">Так как все же при отсутствии или после извлечения жирной материи из растения образуется щелочная соль и только скрывается в виде средней соли вследствие соединения с кислотою, то он заключает, что присутствие горючего начала не есть необходимое условие образования щелочи, и поэтому считает, что сами по себе опыты Шталя и Неймана не могут подтвердить их гипотезу.</se>
+    <se lang="latin" variant_id="1">Quoniam itaque per defectum seu abstractionem oleosi ex planta sal alcalinus etiam generatur, et tantum propter mixtionem cum acido in neutrum salem mutatus delitescit; idcirco praesentiam inflammabilis principii ad constituendum alcali necessariam non esse concludit et ipsis experimentis Stahlii et Neumanni eorum hypothesim demonstrari posse negat.</se>
+    <weight variant_id="1">0,238636</weight>
+  </para>
+  <para id="151">
+    <se lang="russian" variant_id="0">Опираясь на опыт Лемери, который, прибавив масла, выделил купоросную кислоту, оставшуюся в колкотаре после перегонки, он показывает, что кислота, связанная жирным началом, выгоняется огнем и рассеивается по воздуху.</se>
+    <se lang="latin" variant_id="1">Acidum pingui substantia involutum rapi et per ignem in auras dissipari ostendit ex Lemmerii experimento, quo acidum vitrioli in colcothare post destillationem residuum affuso oleo separavit.</se>
+    <weight variant_id="1">0,260479</weight>
+  </para>
+  <para id="152">
+    <se lang="" variant_id="0">§ 17</se>
+    <se lang="" variant_id="1">§ 17</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="153">
+    <se lang="russian" variant_id="0">При внимательном рассмотрении этих противоположных мнений, основанных с обеих сторон на довольно веских доказательствах, мы находим, что оба они частью справедливы, частью не соответствуют действительности.</se>
+    <se lang="latin" variant_id="1">Oppositas has et utraque ex parte non invalidis argutnentis munitas opiniones ubi attentius consideramus, utramque partim veram, partim non ita veritati consonam esse deprehendimus.</se>
+    <weight variant_id="1">0,254717</weight>
+  </para>
+  <para id="154">
+    <se lang="russian" variant_id="0">Поэтому мы, стремясь к истине, согласуем оба их, и прежде всего признаем, вместе с Шталем и Нейманом, что щелочные соли имеют в своем составе начало флогистон, однако в различных отношениях к другим составным частям.</se>
+    <se lang="latin" variant_id="1">Idcirco veritatem amplexi utramque hic conciliamus, et primo cum Stahlio et Neumanno agnoscimus: alcalinos sales habere in mixtione sua phlogiston principium; diversa tamen proportione ad reliqua miscibilia.</se>
+    <weight variant_id="1">0,296703</weight>
+  </para>
+  <para id="155">
+    <se lang="russian" variant_id="0">Во-вторых, мы утверждаем с Бурделином, что постоянная щелочная соль образуется из сожженных растений не пропорционально их жировой материи, входящей в ее состав, но что при посредстве ее щелочь освобождается от более летучей кислоты растения и остается сама по себе.</se>
+    <se lang="latin" variant_id="1">Secundo cum Bourdelino asseveramus, alcalinum salem fixum ex plantis incineratis generari non pro ratione pinguis earum materiae, quae mixtionem illius ingreditur, sed ipsa mediante illum ab acido plantae volatiliore liberari et nudum sisti.</se>
+    <weight variant_id="1">0,272857</weight>
+  </para>
+  <para id="156">
+    <se lang="russian" variant_id="0">Чтобы это как следует доказать, необходимо описать разнообразную природу щелочных солей, из коих главные — соль винного камня и соль, вымытая из золы растений.</se>
+    <se lang="latin" variant_id="1">Haec autem ut ritea demonstremus,b alcalinorum salium diversa natura expendenda est, quorum praecipui sunt sal tartari et sal lixiviosus plantarum.</se>
+    <weight variant_id="1">0,281395</weight>
+  </para>
+  <para id="157">
+    <se lang="" variant_id="0">§ 18</se>
+    <se lang="" variant_id="1">§ 18</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="158">
+    <se lang="russian" variant_id="0">Винный камень образуется из богатого спиртом сока винограда по завершении брожения его.</se>
+    <se lang="latin" variant_id="1">Tartarus generatur ex spirituosissimo uvarum succo post ejus perfectam fermentationem.</se>
+    <weight variant_id="1">0,296104</weight>
+  </para>
+  <para id="159">
+    <se lang="russian" variant_id="0">В камне находится флогистон, оставшийся после очень сильного брожения; и так как он крайне летуч по своей природе, то несомненно, что он избежал силы столь большого движения, будучи прочно связан с винной кислотою или с землистым веществом винного камня.</se>
+    <se lang="latin" variant_id="1">Habet autem phlogiston validissimae fermentationi superstes, quod tamen, cum natura sua sit maxime volatile, dubio equidem caret, id acido tartari vel etiam terrestri ejus substantiae strictius annexum vim tanti motus elusisse.</se>
+    <weight variant_id="1">0,271212</weight>
+  </para>
+  <para id="160">
+    <se lang="russian" variant_id="0">Отсюда следует, что тот же флогистон может лучше противиться действию огня и легче соединяться с кислотным началом в постоянную щелочную соль, чем без предварительного брожения.</se>
+    <se lang="latin" variant_id="1">Hinc autem sequitur, idem phlogiston actioni ignis fortiter resistere et cum terreo atque acido principio in alcalinum salem fixum coalescere facilius posse, quam si nulla fermentatio praecessisset.</se>
+    <weight variant_id="1">0,262987</weight>
+  </para>
+  <para id="161">
+    <se lang="russian" variant_id="0">Иначе обстоит дело с растениями просто обожженными.</se>
+    <se lang="latin" variant_id="1">Aliter autem cum plantis simpliciter incineratis fieri.</se>
+    <weight variant_id="1">0,273913</weight>
+  </para>
+  <para id="162">
+    <se lang="russian" variant_id="0">Сок их по количеству спиртов гораздо беднее, чем виноградный; под влиянием пламени он рассеивается, приводит в движение более летучий флогистон (так называемый лесной) и уносит с собою даже то, что могло бы противиться предварительному брожению и пламени.</se>
+    <se lang="latin" variant_id="1">Succus enim illarum copia spirituum multo inferior est uvis: flamma vero exagitatus dissipatur et phlogiston volatilius (sylvestre dictum) concitat et rapit secum etiam illud, quod praeviae fermentationi et tandem flammae resistere posset.</se>
+    <weight variant_id="1">0,284211</weight>
+  </para>
+  <para id="163">
+    <se lang="russian" variant_id="0">Поэтому ясно, что в золе растений может остаться гораздо меньше флогистона, чем в [сухом остатке] винного камня.</se>
+    <se lang="latin" variant_id="1">Hinc minorem copiam phlogisti in cineribus plantarum quamg tartari posse relinqui patet.</se>
+    <weight variant_id="1">0,226923</weight>
+  </para>
+  <para id="164">
+    <se lang="russian" variant_id="0">А так как соль винного камня с жирами сгущается в мыла́, и с этой солью, если она совершенно суха, легко соединяется ректификованный винный спирт, и даже извлекает из нее жирную золотистую вытяжку — такую, какую он обычно в большом количестве извлекает из жиров, но совсем не извлекает ни из солей, ни из тел, лишенных флогистона, то поэтому на основании положений 2 и 3 следует, что соль винного камня заключает в своем составе начало флогистон.</se>
+    <se lang="latin" variant_id="1">Quoniam autem sal tartari cum pinguibus conspissatur in sapones, et spiritus vini rectificatissimus cum eodem siccissimo facile jungitur, imo tincturam auream pinguem ex eo extrahit, quam ex pinguibus copiosam, ex salibus vero et corporibus phlogisto destitutis nullam elicere solet; vi igitur fundamenti 2 et 3-ii sequitur, salem tartari phlogiston principium in mixtione sua possidere.</se>
+    <weight variant_id="1">0,31962</weight>
+  </para>
+  <para id="165">
+    <se lang="russian" variant_id="0">С другой стороны, хотя выщелачиваемые соли растений с жирами также дают мыло и тем обнаруживают присутствие флогистона, они едва, а то и вовсе не соединяются с ректификованным винным спиртом и не дают какой-либо окрашенной жирной вытяжки.</se>
+    <se lang="latin" variant_id="1">Caeterum sales plantarum lixiviosi quamvis etiam cum pinguedine in sapones abeant, eoque phlogiston sibi inesse ostendant; cum spiritu tamen vini rectificatissimo vix aut ne vix quidem junguntur, nec ullam coloratam pinguem tincturam cum eo exhibent.</se>
+    <weight variant_id="1">0,280882</weight>
+  </para>
+  <para id="166">
+    <se lang="russian" variant_id="0">Все это, в связи со сказанным в начале этого параграфа, явственно доказывает, что начало флогистон находится в соли винного камня и в щелоке растений, и в первой его больше, чем во втором.</se>
+    <se lang="latin" variant_id="1">Quae omnia ut et initio hujus paragraphi proposita aperte loquuntur: sali, tartari et lixivioso plantarum phlogiston principium inesse, et quidem priori copiosius, quam posteriori.</se>
+    <weight variant_id="1">0,3</weight>
+  </para>
+  <para id="167">
+    <se lang="" variant_id="0">§ 19</se>
+    <se lang="" variant_id="1">§ 19</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="168">
+    <se lang="russian" variant_id="0">Растение, перед сжиганием высушенное в измельченном виде и обработанное винным спиртом до тех пор, пока перестанет его окрашивать, затем сожженное в золу, при выщелачивании мало или вовсе не дает чистой постоянной щелочной соли, но дает соль среднюю.</se>
+    <se lang="latin" variant_id="1">Planta, ante combustionem exsiccata, concisa in frusta et spiritu vini eousque macerata, donec eum tingere desinat, tandem in cineres combusta, per elutriationem dat parum aut nullum salem alcalinum fixum purum, sed medium.</se>
+    <weight variant_id="1">0,265803</weight>
+  </para>
+  <para id="169">
+    <se lang="russian" variant_id="0">Так как эта средняя соль состоит из кислоты и щелочи, то мы заключаем, что 1) извлечение смолистого вещества не препятствует образованию постоянной щелочи, так что названный жир ничего не дает для образования щелочи; 2) так как в том случае, если смола, существующая в растении, не извлечена из него какой-либо вытяжкой, после обжигания остается чистая щелочная соль без кислоты, то очевидно, что эта кислота, приставшая к смолообразному веществу, рассеялась от теплоты.</se>
+    <se lang="latin" variant_id="1">Quoniam autem sal ille medius ex acido et alcali constat, sequitur, 1) genesim salis alcalini fixi extracta resinosa substantia non impediri, adeoque dictam pinguedinem ad constituendum alcali nil contribuere, 2) quoniam resina, in planta existente, per nullam extractionem elicita, post incinerationem sal alcalinus, acido amisso, relinquitur purus, acidum hoc, resinosa substantia irretitum, calore dissipari patet.</se>
+    <weight variant_id="1">0,375824</weight>
+  </para>
+  <para id="170">
+    <se lang="russian" variant_id="0">Постольку вывод Бурделина правилен.</se>
+    <se lang="latin" variant_id="1">Et hactenus Bourdelini sententia vera est.</se>
+    <weight variant_id="1">0,254545</weight>
+  </para>
+  <para id="171">
+    <se lang="russian" variant_id="0">Но из этого не следует, что совершенно нет флогистона в составе щелочных солей, тем более, что он извлекается винным спиртом — но только более летучий флогистон, оставив более постоянный, который и после извлечения возбуждает в растении пламя и может также войти в состав оставшейся щелочи золы.</se>
+    <se lang="latin" variant_id="1">Caeterum ex iisdem non sequitur in mixtione alcalinorum salium phlogiston existere nullum, praesertim cum vini spiritu extrahatur, modo phlogiston volatilius, fixiore, quod post extractionem in planta adhuc flammam excitat, relicto quod[cum]que alcali cinerum ingredi possit.</se>
+    <weight variant_id="1">0,288843</weight>
+  </para>
+  <para id="172">
+    <se lang="" variant_id="0">§ 20</se>
+    <se lang="" variant_id="1">§ 20</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="173">
+    <se lang="russian" variant_id="0">Кроме того, щелочные соли, особенно растений, различаются количеством и качеством землистого вещества: те, которые выщелачиваются из более нежных частей растений, более мягки и нежны; наоборот, выделенные из более толстых стеблей — крепче и грубее.</se>
+    <se lang="latin" variant_id="1">Praeterea differunt sales alcalini, praesertim plantarum, quantitate vel qualitate materiae terrestris: qui enim ex tenerioribus vegetabilium partibus eliciuntur, subtiliores sunt et teneriores; contra ex solidioribus truncis eliciti sunt robustiores et grossiores.</se>
+    <weight variant_id="1">0,272222</weight>
+  </para>
+  <para id="174">
+    <se lang="russian" variant_id="0">Количественное взаимоотношение этих составляющих щелочных солей (больше трех их не обнаружено) пока еще не может быть определено: нет опытов, из которых об этом можно было бы что-либо заключить, — разве что флогистона, как весьма тонкого, меньше всего, кислоты же весьма много — как можно судить по приготовлению соли винного камня из чистой кислоты.</se>
+    <se lang="latin" variant_id="1">Inter haec autem alcalinorum salium miscibilia (quae plura tribus non innotuerunt) quantitatis ratio nondum determinari potest; non enim suppetunt experimenta, ex quibus vel utcunque id conjectare possemus; nisi quod phlogiston parcissime omnium ex ejus subtilitate, acidum vero copiosissime alcalinis inesse, ex confectione salis tartari ex mero acido colligere licet.</se>
+    <weight variant_id="1">0,276923</weight>
+  </para>
+  <para id="175">
+    <se lang="russian" variant_id="0">Все эти начала смягчаются водяной влагою, в зависимости от ее количества, что достаточно известно.</se>
+    <se lang="latin" variant_id="1">Omnia vero haec principia aqueo humore temperantur, pro varia quantitatis suae ratione; quod notissimum est.</se>
+    <weight variant_id="1">0,268605</weight>
+  </para>
+  <para id="176">
+    <se lang="" variant_id="0">§ 21</se>
+    <se lang="" variant_id="1">§ 21</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="177">
+    <se lang="russian" variant_id="0">Все это мы считали нужным сказать вообще о щелочах, но бо́льшая часть сказанного, почти все, должно быть отнесено к щелочи селитры.</se>
+    <se lang="latin" variant_id="1">Et haec de alcali in genere dicta sunto, quorum pleraque, fere omnia, ad alcali nitri referenda sunt.</se>
+    <weight variant_id="1">0,209302</weight>
+  </para>
+  <para id="178">
+    <se lang="russian" variant_id="0">Об остальном, что характерно для селитры, укажем в немногих словах. ~~~ А именно: 1) так как для приготовления селитры применяется, как ниже показано, зола растений, то несомненно, что поташ золы составляет в большей части щелочную соль селитры; 2) так как к щелоку, из которого вываривается селитра, прибавляется, кроме золы, негашеная известь, то весьма вероятно, что в состав ее входит некоторая земля щелочной природы.</se>
+    <se lang="latin" variant_id="1">Reliqua quae ejusdem specifica sunt, paucis hic indicamus; et quidem 1) quoniam ad nitrum conficiendum adhibentur cineres plantarum, ut inferius patebit, dubium sane non est, quin alcalinum salem nitri clavellati cineres plerumque constituant; 2) cum ad lixivium, ex quo nitrum excoquitur, etiam calx viva cineribus jungatur, maxime probabile est terram quandam alcalinae naturae accedere illius mixtioni;</se>
+    <weight variant_id="1">-0,0824682</weight>
+  </para>
+  <para id="179">
+    <se lang="russian" variant_id="0">Это подтверждается следующим: 1) селитра, растворенная в воде и долго дигерируемая, выделяет землю,*</se>
+    <se lang="latin" variant_id="1">idque sequentibus probatur: 1) quod nitrum in aqua solutum diutiusque digestum terram deponat;*</se>
+    <weight variant_id="1">0,295588</weight>
+  </para>
+  <para id="180">
+    <se lang="russian" variant_id="0">2) селитра, возрожденная из своего спирта и постоянной щелочи растений, мягче и более едка, — так как щелок ее при кипячении в оловянных сосудах действует на них; но если пропустить щелок через негашеную известь, то он делается инертнее и теряет разъедающую свою способность.*</se>
+    <se lang="latin" variant_id="1">2) quod nitrum ex spiritu suo et alcali fixo plantarum regeneratum sit tenerius et corrosivius, quippe in stanneis vasis coctum ejus lixivium ipsa aggreditur, at, si per calcem vivam transcolatur, fit rudius et corrosivam illam vim amittit.*</se>
+    <weight variant_id="1">0,3</weight>
+  </para>
+  <para id="181">
+    <se lang="russian" variant_id="0">Но об этом речь будет ниже (§ ).</se>
+    <se lang="latin" variant_id="1">Sed de his infra (§ ) uberius.</se>
+    <weight variant_id="1">1,02273</weight>
+  </para>
+  <para id="182">
+    <se lang="russian" variant_id="0">Здесь, однако, напомним, что неправильно выводить свойства селитряной щелочи из свойств постоянной селитры, так как щелочь в ней загрязнена оставшимся в ней кислотным спиртом, который явственно уходит по прилитии купоросного масла.</se>
+    <se lang="latin" variant_id="1">Hic tamen monemus, ex qualitatibus nitri fixi naturam nitrosi alcali explicare tutum non esse, cum residuo suo spiritu acido sit inquinatum, qui affuso li manifestus egreditur.</se>
+    <weight variant_id="1">0,201316</weight>
+  </para>
+  <para id="183">
+    <se lang="russian" variant_id="0">Имеется различие и в отношении воспламеняемости, в соответствии с тем, что воздействует на селитру при сгорании: с горючими жидкостями она становится менее едкой, чем при детонации с твердыми телами, и особенно едкой становится с металлами.**</se>
+    <se lang="latin" variant_id="1">Item pro ratione inflammabilitatis, quo per deflagrationem figitur, differt; cum inflammabilibus aquosis redditur minus causticum, quam cum siccis detonatum; cum metallis maxime omnium causticum.** </se>
+    <weight variant_id="1">0,30746</weight>
+  </para>
+  <para id="184">
+    <se lang="russian" variant_id="0">Это не противоречит сказанному выше (§ 1), так как и помимо этого достаточно известна щелочная природа постоянной селитры.</se>
+    <se lang="latin" variant_id="1">Id tamen contra dicta superius (§ 1) non urget, cum alcalina nitri fixi natura aliunde satis nota sit.</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="185">
+    <se lang="" variant_id="0">§ 22</se>
+    <se lang="" variant_id="1">§ 22</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="186">
+    <se lang="russian" variant_id="0">Считаем сказанное о составе селитры достаточным, чтобы рассматривать рождение ее.</se>
+    <se lang="latin" variant_id="1">Et haec de nitri mixtione sufficere videntur, quantum nempe ad exponendam ejus genesim requiritur.</se>
+    <weight variant_id="1">0,246575</weight>
+  </para>
+  <para id="187">
+    <se lang="russian" variant_id="0">Из предшествующего явствует, что селитра есть тело двойного смешения, т. е. она прежде всего состоит из кислотного спирта и постоянной щелочной соли; последняя же слагается из кислотного начала, более прочно связанного с землею, и из небольшого количества флогистона и известно́й земли, причем все это более или менее разбавлено водою. ~~~ А кислый спирт сложен из того же кислотного начала и флогистона, находящихся в воде.</se>
+    <se lang="latin" variant_id="1">Ex quibus patet, nitrum esse corpus duplicatae mixtionis: scilicet imprimis constare ex acido spiritu et sale alcalino fixo; hunc vero componi ex acido principio terrae arctius sociato, accedente pauco phlogisto, et terra calcarea, omnibus aqua plus minusve temperatis: illum autem combinatum esse ex eodem acido principio et phlogisto aquae insidentibus.</se>
+    <weight variant_id="1">-0,00989583</weight>
+  </para>
+  <para id="188">
+    <se lang="russian" variant_id="0">Известный Нейман дал такое отношение селитряного вполне ректификованного спирта в селитре к щелочи и обоих к воде: кислоты ¼, щелочи ¼, воды ½.*** О кислоте то же подтверждает Кункель.****</se>
+    <se lang="latin" variant_id="1">Rationem spiritus rectificatissimi in nitro ad alcali et utriusque ad aquam clarissimus Neumannus assignavit sequentem: acidi ¼; alcali ¼; aquae ½.*** De acido idem affirmat Kunkelius.****</se>
+    <weight variant_id="1">0,405521</weight>
+  </para>
+  <para id="189">
+    <se lang="" variant_id="0">§ 23</se>
+    <se lang="" variant_id="1">§ 23</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="190">
+    <se lang="russian" variant_id="0">Такова внутренняя природа селитры — для чувств в целом отнюдь не явственная и подлежащая раскрытию химическим анализом.</se>
+    <se lang="latin" variant_id="1">Haec interior nitri natura est, sensibus in toto minime obvia et chymica modo analysi aperienda.</se>
+    <weight variant_id="1">0,224096</weight>
+  </para>
+  <para id="191">
+    <se lang="russian" variant_id="0">Таковой дает число составляющих, отношение их качественное и часто даже количественное; но при помощи его невозможно разгадать порядок и места, по которым располагаются как корпускулы составляющих, так и частицы смешанного тела.</se>
+    <se lang="latin" variant_id="1">Quae quidem miscibilium numerum, qualitatis, imo et quantitatis rationem saepe ostendit; situm tamen et ordinem, quo miscibilium corpuscula, ut et mixti particulae, disponuntur, expiscari per eam non datur.</se>
+    <weight variant_id="1">0,268333</weight>
+  </para>
+  <para id="192">
+    <se lang="russian" variant_id="0">А познание этого было бы весьма ценным и полезным для подробного изучения смешанного тела, если бы только могло быть полным и достоверным.</se>
+    <se lang="latin" variant_id="1">Hujus autem notitia ut jucunda, ita quoque utilis esset ad distinctam perceptionem mixti, si completa et certa haberi posset.</se>
+    <weight variant_id="1">0,272222</weight>
+  </para>
+  <para id="193">
+    <se lang="russian" variant_id="0">Но так как рассмотреть это не может даже и вооруженный глаз, то мы попытаемся догадаться об этом, насколько возможно, на основании качеств самих составляющих и на основании внешнего вида селитры.</se>
+    <se lang="latin" variant_id="1">Sed quoniam ad haec dispicienda nec armatus oculus pertingere potest, idcirco, ex qualitatibus ipsorum miscibilium et ex forma externa nitri quantum fieri potest, id conjectare tentabimus.</se>
+    <weight variant_id="1">0,294512</weight>
+  </para>
+  <para id="194">
+    <se lang="russian" variant_id="0">И так как здесь рассуждение не может опираться на достаточно прочное основание, мы больше будем руководствоваться воображением.</se>
+    <se lang="latin" variant_id="1">Qua in re cum ratio nullo fundamento satis firmo inniti possit, imaginationem potius sequemur.</se>
+    <weight variant_id="1">0,190244</weight>
+  </para>
+  <para id="195">
+    <se lang="" variant_id="0">§ 24</se>
+    <se lang="" variant_id="1">§ 24</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="196">
+    <se lang="russian" variant_id="0">Соответственно весьма постоянным и малодеятельным свойствам земли и быстрой, проникающей природе кислотного начала, последнее должно состоять из гораздо более мелких частиц, чем первая.</se>
+    <se lang="latin" variant_id="1">Principium acidum ex minutioribus multo particulis, quam terram constare, fixissimum pigerrimumque hujus ingenium et agilis penetransque illius natura prodit.</se>
+    <weight variant_id="1">0,251064</weight>
+  </para>
+  <para id="197">
+    <se lang="russian" variant_id="0">А так как кислота составляет наибольшую часть щелочной соли (§ 20), то весьма вероятно, что одна частица земли окружена несколькими частицами кислотного начала, плотно приставшими к ней, причем немногие корпускулы флогистона рассеяны между ними, а вода окружает со всех сторон, как показывает фиг. ~~~ 4. Когда кислый спирт сливается со щелочной солью, то частица его C [фиг.</se>
+    <se lang="latin" variant_id="1">Cum autem acidum maximam partem alcalini salis constituat (§ 20), probabile sane est, unam terrae particulam pluribus acidi principii moleculis, firmiter eidem adhaerentibus, obsideri, phlogisti corpusculis paucis hinc inde interspersis et aqua undique ambiente, ut repraesentat figura 4. Cum vero acidus spiritus cum alcalino sale confunditur, tum particula illius C [fig.</se>
+    <weight variant_id="1">0,0658381</weight>
+  </para>
+  <para id="198">
+    <se lang="russian" variant_id="0">5] касается прежде всего частицы B, приставшей к земляной молекуле A щелочи, вращается по направлению к ней около B (по гипотезе предисловия, положение 2), входит в малое пространство D, между B и E, и вытесняет скрытый там воздух.</se>
+    <se lang="latin" variant_id="1">5.] contingit quamprimum particulam B, terreae moleculae A in alcali adhaerentem, versus hanc juxta B (per hypothesim in prolegom. fund. ~~~ 2) volvitur, in spatiolum D inter B et E irruit, aërem in hoc delitescentem elidit.</se>
+    <weight variant_id="1">0,116404</weight>
+  </para>
+  <para id="199">
+    <se lang="russian" variant_id="0">Этот воздух, выгнанный из нескольких пор, собирается в пузырьки и распространяется в пену, и частицы от таких столкновений и трения нагреваются.</se>
+    <se lang="latin" variant_id="1">Hic vero ex pluribus poris expulsus in bullulas coit, in spumam expanditur, et particulae per ejusmodi conflictum et frictionem calorem concipiunt.</se>
+    <weight variant_id="1">0,2928</weight>
+  </para>
+  <para id="200">
+    <se lang="russian" variant_id="0">Частица кислоты C, если она чиста и не содержит других начал, более совмещается с кислой частицей B и тем сильнее и глубже проникает в пространство D.</se>
+    <se lang="latin" variant_id="1">Acidi particula C, si pura est et ab aliis principiis libera, magis cum acida particula B congruit, adeoque violentius in spatiolum D penetrat profundiusque.</se>
+    <weight variant_id="1">0,00222222</weight>
+  </para>
+  <para id="201">
+    <se lang="russian" variant_id="0">Наоборот, если она соединена с флогистоном или другим связанным с ней началом, то не может так легко туда войти и так прочно там засесть.</se>
+    <se lang="latin" variant_id="1">Contra, si phlogisto vel alio principio connexo sociata, tam alte inde ingredi tamque firmiter inibi haerere nequit.</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="202">
+    <se lang="russian" variant_id="0">Поэтому селитряный спирт, вследствие оказываемой флогистоном помехи, с меньшей силою пристает к своей щелочи и, таким образом, неизбежно выгоняется более чистой общей кислотою.</se>
+    <se lang="latin" variant_id="1">Quo fit, ut nitrosum acidum, impediente phlogisto, minore vi alcali suo inhaeret, atque adeo puriore acido universali excutiatur necesse est.</se>
+    <weight variant_id="1">0,221951</weight>
+  </para>
+  <para id="203">
+    <se lang="russian" variant_id="0">Далее, так как частицы кислотного спирта, между собою однородные, находятся среди частиц щелочной соли, образуя вместе с последними корпускулу средней соли [фиг. 6], то у спирта уменьшается активность и смягчается кислотность; а у щелочной соли грубость сглаживается, едкость понижается и образуется средняя соль более нежной природы, так что всепроникающий спирт селитры и едкая щелочь соединяются в тело не столь резкого вкуса.</se>
+    <se lang="latin" variant_id="1">Porro particulis acidi spiritus hac ratione, inter se homogeneis, alcalino sali insidentibus, ut fiat corpusculum salis medii [fig. 6], prioris activitas coërcetur et acor obtunditur; posterioris asperitas exaequatur, minuitur corrosivitas, proditque sal medius naturae mitioris, ita ut penetrantissimus nitri spiritus et acre alcali in corpus non ita sapidum concrescant.</se>
+    <weight variant_id="1">0,232174</weight>
+  </para>
+  <para id="204">
+    <se lang="" variant_id="0">§ 25</se>
+    <se lang="" variant_id="1">§ 25</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="205">
+    <se lang="russian" variant_id="0">Если мы предположим, что так составленные частицы селитры имеют сферическую форму, к каковой по большей части стремятся мельчайшие природные тела, собирающиеся в кучу, то будет очень легко объяснить, почему селитра вырастает в шестигранные кристаллы.</se>
+    <se lang="latin" variant_id="1">Corpuscula nitri ita comparata si sphaericam figuram, quam plerumque minima naturae in cumulum congesta affectant, habere supponimus, facillimum erit exponere, qui fit, ut nitrum in hexaëdros crystallos concrescat.</se>
+    <weight variant_id="1">0,252128</weight>
+  </para>
+  <para id="206">
+    <se lang="russian" variant_id="0">Хотя все это основано почти на одном воображении, однако превосходно отвечает природе составных частей селитры и потому приобретает некоторый вес.</se>
+    <se lang="latin" variant_id="1">Haec quamvis imaginatione fere sola fulciuntur, optime tamen cum natura miscibilium nitri conveniunt, atque adeo aliquam sibi auctoritatem conciliant.</se>
+    <weight variant_id="1">0,288281</weight>
+  </para>
+  <para id="207">
+    <se lang="russian" variant_id="0">Действительно, пусть шесть корпускул расположены друг около друга так, что прямые линии, соединяющие их центры, образуют равносторонние треугольники [фиг. 7]: в результате получится фигура, ограниченная шестью линиями, подобная разрезу призм, образуемых селитрою.</se>
+    <se lang="latin" variant_id="1">Sint enim ejusmodi corpuscula sex ita juxta se posita, ut lineae rectae, centra eorum connectentes, forment triangula aequilatera [fig. 7]: resultabit inde figura sex lineis terminata, qualia fieri solent segmenta prismatum nitri.</se>
+    <weight variant_id="1">0,251695</weight>
+  </para>
+  <para id="208">
+    <se lang="russian" variant_id="0">Частицы селитры, размещенные таким образом почти в бесконечном числе, образуют кристаллические призмы селитры, правда, часто с неравными сторонами, которые однако всегда параллельны и отвечают предположенному размещению, как показывают фигуры 8, 9 и 10. Впрочем, предложенная догадка подтверждается трояким образом: 1) при этом способе объяснения форма частиц не предполагается такою же, какую имеют сами кристаллы селитры, и вопрос не остается поэтому без ответа — как это нередко бывает; 2) углы кристаллов селитры соответствуют предполагаемому расположению частиц, так как обычно каждый из них составляет 120°; 3) на основании нашей гипотезы можно легко объяснить другие роды кристаллов, например кубические кристаллы поваренной соли, предположением такого расположения частиц соли, что линии, проходящие через их центры, составляют квадраты.</se>
+    <se lang="latin" variant_id="1">Hunc in modum situ eodem particulae nitri, numero fere infinitae, dispositae constituent prismata nitri crystallina laterum licet plerumque inaequalium, quae tamen semper sunt parallela et supposito situi haud repugnantia, ut apparet ex figuris 8, 9 et 10. Caeterum proposita conjectura triplici ratione confirmatur: 1) quod in hac explicandi methodo non supponuntur particulae ejusdem figurae, quam ipsae crystalli ri habent, adeoque nec quaestio manet ultro solvenda, ut plerumque fieri solet; 2) quod anguli crystallorum nitri respondeant supposito situi particularum, cum plerumque singuli 120° efficiant; 3) quod reliquae crystallorum species ex hac hypothesi feliciter explicari possint; e. g. salis cubicos crystallos explicaturus supponere potest particulas salis in eo situ, ut lineae, centra eorum conjungentes, includant quadratum.</se>
+    <weight variant_id="1">0,722727</weight>
+  </para>
+  <para id="209">
+    <se lang="russian" variant_id="0">Глава 2</se>
+    <se lang="latin" variant_id="1">Caput 2</se>
+    <weight variant_id="1">11,3</weight>
+  </para>
+  <para id="210">
+    <se lang="russian" variant_id="0">О РОЖДЕНИИ СЕЛИТРЫ И ЕЕ ПРОИЗВОДСТВЕ</se>
+    <se lang="latin" variant_id="1">DE GENERATIONE NITRI, EJUS CONFECTIONE</se>
+    <weight variant_id="1">0,271875</weight>
+  </para>
+  <para id="211">
+    <se lang="" variant_id="0">§ 26</se>
+    <se lang="" variant_id="1">§ 26</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="212">
+    <se lang="russian" variant_id="0">При описании производства селитры мы расположим по возможности весь материал так, чтобы сперва подробно рассказать о способах добычи селитры в Европе; затем объяснить из состава самой селитры и характера веществ, служащих для ее получения, что́ и как способствует образованию составных частей ее.</se>
+    <se lang="latin" variant_id="1">In explicanda productione nitri omnem, quam possumus, operam collocabimus, ut primo modum, quo in Europa potissimum produci solet, accurate describamus, porro ex nitri ipsius mixtione et ingenio eorum, quae ad ipsum procreandum concurrunt, explicabimus, quid et quomodo haec ad miscibilia illius contribuant.</se>
+    <weight variant_id="1">0,285937</weight>
+  </para>
+  <para id="213">
+    <se lang="russian" variant_id="0">Наконец, подкрепим объяснение, предложив способы быстрого изготовления селитры.</se>
+    <se lang="latin" variant_id="1">Denique propositis extemporaneis nitri compositionibusc explicationem confirmabimus.</se>
+    <weight variant_id="1">0,275342</weight>
+  </para>
+  <para id="214">
+    <se lang="" variant_id="0">§ 27</se>
+    <se lang="" variant_id="1">§ 27</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="215">
+    <se lang="russian" variant_id="0">Как научил опыт, помет животных, особенно конский навоз, который, пролежав долго в тенистом месте, белеет, как бы покрываясь инеем, а равно и стены, сделанные из глины и соломы и покрытые известкою, которые также белеют, как бы от седого инея (что быстрее делается при обливании их мочою животных), в результате известных процедур показывают наличие селитры.</se>
+    <se lang="latin" variant_id="1">Quoniam experientia docuit, excrementa animalium, potissimum vero fimum equinum, qui in loco umbroso consenuit et, quasi pruina obductus, albicat, ut et muros, ex terra limosa cum stramine extructos et calce incrustatos ac similiter interdum quasi canitie pruinosa albicantes (quod accedente animalium urina citius efficitur) adhibitis certis Encheiresibus nitrum exhibere; </se>
+    <weight variant_id="1">-0,00584016</weight>
+  </para>
+  <para id="216">
+    <se lang="russian" variant_id="0">Поэтому производители селитры тщательно собирают эти материалы для своих надобностей, а когда они заметили, что свежие тела такого рода не производят селитры,* то стали применять то, что способствует гниению.</se>
+    <se lang="latin" variant_id="1">idcirco nitri confectores has materias sollicite in usum suum colligunt, et cum animadverterint, recentia ejusmodi corpora nihil nitri producere,*, propterea, quidquid ad putrefactionem confert, congerunt.</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="217">
+    <se lang="russian" variant_id="0">Они собирают не только легко гниющие части животных и кухонные отбросы, но и растения, подверженные гниению.</se>
+    <se lang="latin" variant_id="1">Itaque non solum animalium partes facile putrescentes et eluacra coquinarum, sed et vegetabilia putredine infecta accumulantur.</se>
+    <weight variant_id="1">0,239362</weight>
+  </para>
+  <para id="218">
+    <se lang="russian" variant_id="0">Со стен деревенских хижин, построенных из глины и соломы, снимают слой в палец толщиною, что некоторым предоставляется в виде государственной привилегии.*</se>
+    <se lang="latin" variant_id="1">Roduntur parietes casarum rusticarum, ex argilla et stramine exstructi, ad digiti crassitiem, quod privilegio principum quibusdam conceditur.*</se>
+    <weight variant_id="1">0,155422</weight>
+  </para>
+  <para id="219">
+    <se lang="russian" variant_id="0">Затем собирают выкинутую мыловарами золу, землю с кладбищ.</se>
+    <se lang="latin" variant_id="1">Porro colliguntur saponariorum abjecti cineres et terra coemeteriorum congeritur.</se>
+    <weight variant_id="1">-0,166197</weight>
+  </para>
+  <para id="220">
+    <se lang="russian" variant_id="0">При этом избегают тех веществ, которые долго лежали на открытом солнце.</se>
+    <se lang="latin" variant_id="1">Interim non assumuntur lubenter ejusmodi materiae, quae soli aprico diutius expositae fuerunt.</se>
+    <weight variant_id="1">0,193548</weight>
+  </para>
+  <para id="221">
+    <se lang="russian" variant_id="0">Кроме того, из растительных материалов примешивают свежие и опавшие листья ив; свежие и нежные ростки елей и листья других пахучих деревьев; листья тыкв; травы, содержащие едкий, кислый сок; солому бобов и гороха; наконец, всякие растения, удаляемые из огородов и из полей как ненужные. ~~~ Из всего этого, как весьма полезного [материала], сооружают селитряные кучи.</se>
+    <se lang="latin" variant_id="1">Admiscentur praeterea ex vegetabilibus folia recentia et decidua salicum, recentes et teneriores surculi abietum et aliarum arborum sapidiorum frondes, folia cucurbitarum, herba quaelibet acri et acido sapore praedita, stramen fabarum et pisorum, omne denique vegetabile, quod ex hortis et arvis, ut inutile, eradicatur, ad congerendos cumulos nitriferos ut utilissimum consarcinatur.</se>
+    <weight variant_id="1">-0,0105096</weight>
+  </para>
+  <para id="222">
+    <se lang="russian" variant_id="0">Иногда прибавляют еще отстой и отбросы пивного производства, а также полученные при выкуривании винного спирта из хлеба.</se>
+    <se lang="latin" variant_id="1">Nonnunquam adjiciuntur faeces et recrementa cerevisiae, ut et spiritus vini ex frumento parati.</se>
+    <weight variant_id="1">0,225</weight>
+  </para>
+  <para id="223">
+    <se lang="" variant_id="0">§ 28</se>
+    <se lang="" variant_id="1">§ 28</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="224">
+    <se lang="russian" variant_id="0">Названные части животных и растений смешивают с илистой землей и выставляют на открытый воздух в длинных кучах, наподобие валов, параллельных между собою, так чтобы один вал защищал другой от лучей жгучего летнего солнца; поэтому обыкновенно их вытягивают в длину с востока на запад.</se>
+    <se lang="latin" variant_id="1">Congestae hujusmodi animalium et vegetabilium partes, cum terrestri limosa substantia permixtae, libero aëri exponuntur vallorum instar in oblongos cumulos formatae inter se parallelos, ita ut unus ab ardentissimi aestivi solisd radiis alterum defendat: idcirco plerumque ab oriente versus occidentem, quoad longitudinem suam, extenduntur.</se>
+    <weight variant_id="1">0,230579</weight>
+  </para>
+  <para id="225">
+    <se lang="russian" variant_id="0">Кроме того, они обносятся стенкою, выведенной на высоту двух сажен и сделанной из того же селитроносного материала; этим доставляется тень кучам, а чтобы она была еще больше, по южному краю, а также между валами сажают тенистые деревья, которые к тому же опавшими своими листьями дают новый материал для куч.</se>
+    <se lang="latin" variant_id="1">Insuper clauduntur septo, ex eadem nitrifera materia ad duas orgyias in altum educto, quo umbra cumulis inducatur, quae ut tanto major sit, plantantur versus meridiem imo in cumulorum intervallis arbores frondosae, quae praeter id deciduis foliis novam cumulis materiam suggerunt.</se>
+    <weight variant_id="1">0,276446</weight>
+  </para>
+  <para id="226">
+    <se lang="russian" variant_id="0">Далее, так как слишком обильная дождевая вода вредит нежной рождающейся селитре, то вокруг куч вырывают канавы, иногда даже закрывают кучи соломенной крышей, оставив по сторонам свободный доступ воздуху.</se>
+    <se lang="latin" variant_id="1">Porro quoniam aqua pluviae copiosior damnum nascenti tenero nitro adfert; ideo colliquiae circa cumulos effodiuntur, imo nonnulli tecto stramineo eos operiunt, omni e regione libero aëris accessu relicto.</se>
+    <weight variant_id="1">-0,3</weight>
+  </para>
+  <para id="227">
+    <se lang="russian" variant_id="0">Снаряженные таким образом кучи, предохраненные от воздействия непогоды, многократно поливаются разлагающейся мочою или загнившими кухонными помоями.</se>
+    <se lang="latin" variant_id="1">Parati hunc in modum et muniti ab injuria coeli cumuli adsperguntur subinde urina putrida vel etiam eluacris coquinarum rancidis.</se>
+    <weight variant_id="1">0,297297</weight>
+  </para>
+  <para id="228">
+    <se lang="" variant_id="0">§ 29</se>
+    <se lang="" variant_id="1">§ 29</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="229">
+    <se lang="russian" variant_id="0">Когда кучи обогатились селитрою, признаками чего является белесоватая материя, появляющаяся на боках их, похожая на шерсть или на иней, то взятая из них селитроносная земля медленно высушивается в тенистом месте, если в ней заметна влажность; затем она подготовляется для выварки таким образом.</se>
+    <se lang="latin" variant_id="1">Postquam cumuli nitro impraegnati sunt, cujus indicium est similis lanae seu pruinae albicans materia, lateribus eorum adhaerens, tum sumitur nitrifera eorum terra et in loco umbroso leniter exsiccatur, si humoris indicia prodit: tandem vero ad incoctionem sequenti modo praeparatur.</se>
+    <weight variant_id="1">0,290244</weight>
+  </para>
+  <para id="230">
+    <se lang="russian" variant_id="0">В сосуд с двойным дном, в котором верхнее подвижное дно, снабженное частыми отверстиями, отстоит от нижнего на два-три пальца и покрыто соломою на четыре дюйма, помещается слой селитроносной земли толщиною в четыре пальца и сверх него такой же толщины слой золы, полученной сжиганием более твердых древесных пород и смешанной с негашеной известью.</se>
+    <se lang="latin" variant_id="1">In cupam, duobus fundis instructam, quorum superius mobile frequentibus foraminibus pertusum, ab inferiore duobus vel tribus digitis distat et stramine ad quattuor pollices tectum est; ingeritur stratum terrae nitrosae quattuor digitos altum, cui superimponitur aequale stratum cum calce viva mixtorum cinerum, qui post deflagrationem robustiorum lignorum colliguntur.</se>
+    <weight variant_id="1">0,273737</weight>
+  </para>
+  <para id="231">
+    <se lang="russian" variant_id="0">Затем кладут опять слой селитроносной земли, такой же толщины, над ним слой такой же золы с негашеной известью, и так далее, слой за слоем, пока сосуд не будет почти весь заполнен.</se>
+    <se lang="latin" variant_id="1">Sequitur stratum terrae nitrosae pari quantitate eorundem cinerum cum calce viva mixtorum supertegendum.</se>
+    <weight variant_id="1">0,112903</weight>
+  </para>
+  <para id="232">
+    <se lang="russian" variant_id="0">Число таких сосудов соответствует количеству селитроносной земли.</se>
+    <se lang="latin" variant_id="1">Et sic stratum super stratum continuatur, donec cupa fere integra repletur.</se>
+    <weight variant_id="1">0,27</weight>
+  </para>
+  <para id="233">
+    <se lang="russian" variant_id="0">Сверх всего этого наливают теплую воду так, чтобы она покрывала весь материал на два-три пальца.</se>
+    <se lang="latin" variant_id="1">Ejusmodi cuparum numerus respondere solet quantitati terrae nitrosae.</se>
+    <weight variant_id="1">0,204762</weight>
+  </para>
+  <para id="234">
+    <se lang="russian" variant_id="0">На ночь оставляют все спокойно стоять, а на следующее утро, открыв отверстие, находящееся в нижнем дне, спускают щелок в подставленный другой сосуд.</se>
+    <se lang="latin" variant_id="1">Superinfunditur tandem materiae aqua tepida, ut eam duos vel tres digitos excedat.</se>
+    <weight variant_id="1">0,0666667</weight>
+  </para>
+  <para id="235">
+    <se lang="russian" variant_id="0">Жидкость сперва течет мутная; ее снова наливают сверх селитроносной материи, пока она не станет вытекать более прозрачной.</se>
+    <se lang="latin" variant_id="1">Omni hoc apparatu per noctem in quiete reposito, mane sequenti epistomium cupae ad fundum inferius aptatum aperitur, lixivium in suppositam alteram cupam excipitur, primo turbidum et super nitriferam materiam refundendum, donec limpidius profluat.</se>
+    <weight variant_id="1">-0,00560748</weight>
+  </para>
+  <para id="236">
+    <se lang="russian" variant_id="0">Когда верхний сосуд освободится от воды, в него снова наливают чистой воды и получают через выпускное отверстие щелок гораздо слабее предыдущего.</se>
+    <se lang="latin" variant_id="1">Evacuata cupa superiore rursum pura aqua infunditur, et per epistomium elicitur lixivium priore multum tenuius.</se>
+    <weight variant_id="1">0,214286</weight>
+  </para>
+  <para id="237">
+    <se lang="russian" variant_id="0">Оба щелочных раствора наливают затем в другие сосуды с селитряной материей и выпускают из отверстий сосудов до тех пор, пока раствор не насытится достаточно селитрою.</se>
+    <se lang="latin" variant_id="1">Utrumque cupis aliis materia nitrosa nondum elutriata refertis infunditur et per epistomia educitur, donec nitro satis fuerit impraegnatum.</se>
+    <weight variant_id="1">0,25122</weight>
+  </para>
+  <para id="238">
+    <se lang="" variant_id="0">§ 30</se>
+    <se lang="" variant_id="1">§ 30</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="239">
+    <se lang="russian" variant_id="0">Золу и негашеную известь прибавляют к селитроносной материи, потому что последняя одна при вымывании не обнаруживает истинной постоянной селитры; насыщенный ею щелок едва может настолько сгуститься, чтобы дать кристаллы, притом очень нежные и хрупкие; при выварке бо́льшая часть их улетучивается и рассеивается по воздуху.</se>
+    <se lang="latin" variant_id="1">Cineres et calx viva ideo nitrosae materiae adjici solent, quia haec sola eluta nitrum fixum verum non exhibet, sed lixivium vix ita inspissari potest, ut tandem in crystallinam formam eamque nimium teneram et fragilem coalescat: inter decoctionem maxima pars avolat et per auras dissipatur.</se>
+    <weight variant_id="1">0,262651</weight>
+  </para>
+  <para id="240">
+    <se lang="russian" variant_id="0">Эти тонкие, образовавшиеся так кристаллы по взрывчатой силе гораздо слабее истинной постоянной селитры; они во многом сходны с той аммониевой солью, которая готовится из летучей мочевой соли и селитряного спирта.</se>
+    <se lang="latin" variant_id="1">Gracillimae crystalli inde collectae vi fulminea multum sunt inferiores vero et fixo nitro; quare multum convenit cum illo sale ammoniaco, quod ex sale volatili urinoso et ex spiritu nitri paratur.</se>
+    <weight variant_id="1">0,273373</weight>
+  </para>
+  <para id="241">
+    <se lang="russian" variant_id="0">Наоборот, щелок, пропущенный через золу и известь, обогащается самой постоянной селитрою, весьма сильной и обладающей очень большой упругостью.*</se>
+    <se lang="latin" variant_id="1">Contra vero per cineres et calcem transcolatum lixivium largitur nitrum fixissimum, robustissimum et vi elastica pernicissimum.*</se>
+    <weight variant_id="1">0,263158</weight>
+  </para>
+  <para id="242">
+    <se lang="" variant_id="0">§ 31</se>
+    <se lang="" variant_id="1">§ 31</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="243">
+    <se lang="russian" variant_id="0">Когда селитряный щелок по исследовании будет признан готовым для выварки, то его наливают в медный котел, более высокий, чем широкий, и сходящийся ко дну в усеченный конус.</se>
+    <se lang="latin" variant_id="1">Lixivium nitrosum, quamprimum incoctione dignum per examen judicatur, infunditur in ahenum cupreum, altum magis, quam amplum, fundum versus in conum truncatum desinens.</se>
+    <weight variant_id="1">0,297959</weight>
+  </para>
+  <para id="244">
+    <se lang="russian" variant_id="0">В него помещают деревянный черпак, нагруженный камнями, приблизительно той же формы, как котел, но много меньших размеров, чтобы между стенками его и котла было достаточное расстояние; дно его отстоит от дна котла на два-три пальца, а края его должны находиться на значительной глубине под поверхностью щелока.</se>
+    <se lang="latin" variant_id="1">Immergitur lapidibus oneratum ligneum haustrum, ejusdem prope figurae, quam habet ahenum, magnitudine multum cedens, ita ut inter parietes ejus et aheni sufficiens sit spatium; fundum ejusdem a fundo aheni distet tres vel duos digitos, et labra ad insignem profunditatem intra superficiem lixivii lateant.</se>
+    <weight variant_id="1">0,297727</weight>
+  </para>
+  <para id="245">
+    <se lang="russian" variant_id="0">У края котла, над стенкою дна, помещается наполненная щелоком чашка с отверстием, направленным в котел и открытым, так чтобы в котел втекало столько же щелока, сколько при варке уходит в виде пара.</se>
+    <se lang="latin" variant_id="1">Ad unam extremitatem aheni super murum fundi collocatur cupa lixivio plena, epistomio in ahenum directo et aperto, ita ut lixivii tantum aheno instillet, quantum coctione in vapores resolvitur.</se>
+    <weight variant_id="1">0,3</weight>
+  </para>
+  <para id="246">
+    <se lang="russian" variant_id="0">Во время выварки землистая материя выделяется из щелока и собирается в черпаке; без него она осаждалась бы на дне и стенках котла и разъедала бы их, что вызывает трату денег и работы, как это видно из сочинения Эркера* о приготовлении селитры, когда еще не умели пользоваться черпаком.</se>
+    <se lang="latin" variant_id="1">Durante coctione materia terrestris a lixivio secernitur et in haustro colligitur, quae alias remoto haustro ad fundum et latera aheni accrescit, eaque corrodit non sine pecuniae et laboris damno, ut apparet ex Erkeri doctrina de nitri confectione,* quando usus haustri ignorabatur.</se>
+    <weight variant_id="1">0,103636</weight>
+  </para>
+  <para id="247">
+    <se lang="russian" variant_id="0">Описанное явление происходит от различного нагревания щелока, находящегося на разном расстоянии от огня.</se>
+    <se lang="latin" variant_id="1">Phaenomenon hoc proficiscituria varia calefactione lixivii, a diversa ab igne distantia profecta.</se>
+    <weight variant_id="1">0,27931</weight>
+  </para>
+  <para id="248">
+    <se lang="russian" variant_id="0">А именно, в пространстве AAA [фиг. 11] между стенками котла и черпаком щелок нагревается больше, чем в самом черпаке, и поэтому приходит в более сильное движение.</se>
+    <se lang="latin" variant_id="1">Etenim in spatio AAA [fig. 11] inter aheni atera et haustrumc magis incalescit lixivium, quam in haustro ipso, adeoque magis exagitatur.</se>
+    <weight variant_id="1">0,708696</weight>
+  </para>
+  <para id="249">
+    <se lang="russian" variant_id="0">Оттого упомянутое землистое вещество, выделяющееся из щелока и делающее его мало-помалу мутным, поднимается в черпак к EE, идет к D и немедленно, вследствие бо́льшего спокойствия жидкости, осаждается в C; остальное, плавающее в части щелока A, находясь в сильном движении, не может осесть, прежде чем соберется в более значительном количестве.</se>
+    <se lang="latin" variant_id="1">Hinc terrea illa substantia, a lixivio semet secernens et ipsum sensim turbidum reddens, quae in haustrum ascendit ad EE et versus D profecta, sine mora ob majorem quietem liquidi praecipitatur in C, reliqua in parte lixivii A natans, fortius concussa, prius subsidere nequit, quam ut ad notabilem densitatem augeatur.</se>
+    <weight variant_id="1">0,332325</weight>
+  </para>
+  <para id="250">
+    <se lang="russian" variant_id="0">А за это время щелок,г возбуждаемый большей теплотою, входит в черпак, смешивается со светлым щелоком, успокаивается и выделяет осадок; таким образом, при непрерывном движении, землистое вещество почти все выпадает в черпаке.</se>
+    <se lang="latin" variant_id="1">Interim autem majore calore agitatum lixivium in haustrum ingreditur, cum limpido permiscetur, quiescit, faeces deponit; et sic continuato motu terrestris substantia omnis fere in haustrum secedit.</se>
+    <weight variant_id="1">-0,113295</weight>
+  </para>
+  <para id="251">
+    <se lang="" variant_id="0">§ 32</se>
+    <se lang="" variant_id="1">§ 32</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="252">
+    <se lang="russian" variant_id="0">Щелок, выпаренный до достаточной степени насыщенности, выливается из котла в сосуды и ставится в холодном месте для кристаллизации.</se>
+    <se lang="latin" variant_id="1">Lixivium, ad sufficientem saturitatem inspissatum, educitur ex aheno in cupas et in loca frigida ad crystallisandum exponitur.</se>
+    <weight variant_id="1">0,289189</weight>
+  </para>
+  <para id="253">
+    <se lang="russian" variant_id="0">При охлаждении жидкости вырастают твердые прозрачные шестигранные кристаллы.</se>
+    <se lang="latin" variant_id="1">Refrigerato liquore, crystalli concrescunt solidae, pellucidae, hexaëdrae.</se>
+    <weight variant_id="1">0,295652</weight>
+  </para>
+  <para id="254">
+    <se lang="russian" variant_id="0">Остаток щелока, при дальнейшем выпаривании, дает по большей части кристаллы более тонкие, более хрупкие, обладающие меньшей взрывчатой силою и нередко загрязненные обыкновенной солью.</se>
+    <se lang="latin" variant_id="1">Lixivium residuum ulterius evaporatum dat crystallos plerumque prioribus graciliores fragilioresque et minoris elateris capaces, non raro sale communi inquinatos.</se>
+    <weight variant_id="1">0,264828</weight>
+  </para>
+  <para id="255">
+    <se lang="russian" variant_id="0">После окончательной выварки и кристаллизации остается желтоватая жидкость, не приводимая в кристаллическую форму; ее немцы называют Mutterlauge, маточным рассолом, и последний при осаждении щелочью или расплывшимся маслом винного камня, или также купоросной кислотою, выделяет белую землю, называемую у медиков магнезией.*</se>
+    <se lang="latin" variant_id="1">Post ultimam incoctionem et crystallisationem restat liquor flavescens, in crystallinam formam haud reducendus, quem Germani Mutterlauge, lixivium maternum appellant, quae lixivio alcalino vel oleo tartari per deliquium, aut etiam acido vitrioli praecipitata demittit terram albam, magnesiam medicis dictam.*</se>
+    <weight variant_id="1">0,315773</weight>
+  </para>
+  <para id="256">
+    <se lang="russian" variant_id="0">Тот же щелок, переводимый в твердое тело путем перегонки, выделяет бурые, удушливые пары; после прокаливания на более сильном огне в реторте получается в качестве осадка названная магнезия.**</se>
+    <se lang="latin" variant_id="1">Idem lixivium coagulatum destillatione emittit fumos rubros, foetidos; post majorem ignem remanet in vase retorto dicta magnesia, ut caput mortuum.**</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="257">
+    <se lang="" variant_id="0">§ 33</se>
+    <se lang="" variant_id="1">§ 33</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="258">
+    <se lang="russian" variant_id="0">По окончании добычи земля, лишенная селитры, смешивается со свежей, с добавлением подходящих растительных материалов, а также навоза, гниющих частей животных, которые поливаются оставшимся маточным рассолом, все раскладывают в кучи и подвергают, как описано выше, действию воздуха, чтобы образовалась новая селитра.</se>
+    <se lang="latin" variant_id="1">Finito opere, terra nitro suo orbata cum recenti permiscetur, adhibitis convenientibus vegetabilibus, item fimo et animalium partibus putrefactis, quibus residuum lixivium maternum inspergitur, digeritur in cumulos, et eadem ratione, ut supra dictum est, instructa aëri exponitur, ut novo nitro ditescat.</se>
+    <weight variant_id="1">0,287594</weight>
+  </para>
+  <para id="259">
+    <se lang="russian" variant_id="0">В Парижском арсенале селитряные кучи делают из смеси земли, уже промытой, со свежей селитряной землею, слой над слоем, причем каждый слой смачивается пеной щелока первой выварки.</se>
+    <se lang="latin" variant_id="1">Ad armamentarium Parisinum conficiuntur cumuli ex terra, jam eluta et recenti nitrosa, stratum super stratum, quorum quodlibet maceratur spuma lixivii ex prima coctione,</se>
+    <weight variant_id="1">-0,0108939</weight>
+  </para>
+  <para id="260">
+    <se lang="russian" variant_id="0">А чтобы земля сразу восстановила селитру, ее смешивают с голубиным и лошадиным пометом и наконец смачивают мочою.* </se>
+    <se lang="latin" variant_id="1">et ut terra statim nitrum recuperet, permiscetur cum fimo columbarum et equorum et urina tandem humectatur.* </se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="261">
+    <se lang="russian" variant_id="0">Сказанного о приготовлении селитры достаточно для нашей цели, и мы теперь приступим к объяснению самого ее рождения.</se>
+    <se lang="latin" variant_id="1">Et haec de confectione nitri pro scopo nostro sufficiunt, ideoque ad explicandam ipsam genesim ejus accedimus.</se>
+    <weight variant_id="1">0,290506</weight>
+  </para>
+  <para id="262">
+    <se lang="" variant_id="0">§ 34</se>
+    <se lang="" variant_id="1">§ 34</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="263">
+    <se lang="russian" variant_id="0">Селитроносная земля, готовая для добычи селитры, содержит в себе летучую селитру, иначе называемую селитряной аммониевой солью, состоящую из настоящей селитряной кислоты и летучей животной щелочи.</se>
+    <se lang="latin" variant_id="1">Terra nitrifera, ad confectionem nitri parata, continet in se nitrum volatile, alias salem ammoniacum nitrosum dictum, ex vero acido nitri et alcali volatili animalium constans.</se>
+    <weight variant_id="1">0,262987</weight>
+  </para>
+  <para id="264">
+    <se lang="russian" variant_id="0">Справедливость этого совершенно очевидна из § 30, так как такая летучая селитра с большим трудом дает кристаллы, притом очень нежные и пушистые, при выпаривании теряется в большей своей части, при нагревании рассеивается по воздуху; с углем дает менее сильную вспышку, чем постоянная селитра.</se>
+    <se lang="latin" variant_id="1">Asserti veritas ex § 30 evidentissime elucet; cum ejusmodi nitrum volatile difficillime in crystallos eosque tenerrimos et lanuginosos coeat, inter inspissandum magnam sui partem amittat, calore in auras dissipatur, cum carbonibus multo mitius fulminet, quam nitrum fixum.</se>
+    <weight variant_id="1">0,361226</weight>
+  </para>
+  <para id="265">
+    <se lang="russian" variant_id="0">К этому прибавим, что, перегоняя чистый щелок селитряной земли, можно приготовить царскую водку,** которая обыкновенно получается из кислотного селитряного спирта и щелочной соли мочи.</se>
+    <se lang="latin" variant_id="1">Accedit, quod ex puro lixivio terrae nitrosae per destillationem parari possit aqua regia,** quae ex acido spiritu nitri et alcalino sale urinoso confici solet.</se>
+    <weight variant_id="1">0,247826</weight>
+  </para>
+  <para id="266">
+    <se lang="" variant_id="0">§ 35</se>
+    <se lang="" variant_id="1">§ 35</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="267">
+    <se lang="russian" variant_id="0">Необходимая для образования летучей селитры в селитроносной земле летучая щелочь происходит из гниющих животных частей или испражнений; в этом никто не может усумниться:</se>
+    <se lang="latin" variant_id="1">Ad constituendum nitrum volatile in terra nitrifera, alcali volatile proficiscitur ex partibus vel excrementis animalium putrefactis; id quod nemo in dubium vocare potest.</se>
+    <weight variant_id="1">0,21</weight>
+  </para>
+  <para id="268">
+    <se lang="russian" variant_id="0">ибо кто будет искать в отдалении то, что дает ближайшее?</se>
+    <se lang="latin" variant_id="1">Quis enim in remotis quaeret id quod suggerere possunt proxima? </se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="269">
+    <se lang="russian" variant_id="0">И будет выдумывать приход отсутствующего, отбросив существующее?</se>
+    <se lang="latin" variant_id="1">et absentium accessum fingere praesentibus rejectis? </se>
+    <weight variant_id="1">-0,3</weight>
+  </para>
+  <para id="270">
+    <se lang="russian" variant_id="0">Тем более, что без гниющих животных испражнений или частей никакого зарождения селитры не происходит в кучах, сложенных для этой цели, и для вызывания и ускорения их гниения и для выделения летучей соли нарочно примешивается зола, постоянная щелочь которой делает это и быстрее освобождает летучую соль.</se>
+    <se lang="latin" variant_id="1">praesertim cum sine putrefactis animalium excrementis vel partibus nulla genesis nitri in cumulis, ad illud producendum congestis, contingat, ad quorum putredinem procreandam et accelerandam et ad salem volatilem secernendum consulto admiscentur cineres, quorum alcali fixum id efficere et salem volatilem citius liberare solet.</se>
+    <weight variant_id="1">0,292241</weight>
+  </para>
+  <para id="271">
+    <se lang="" variant_id="0">§ 36</se>
+    <se lang="" variant_id="1">§ 36</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="272">
+    <se lang="russian" variant_id="0">Растения содержат в своем составе селитряную кислоту.</se>
+    <se lang="latin" variant_id="1">Vegetabilia continent in mixtione sua acidum nitri.</se>
+    <weight variant_id="1">0,286957</weight>
+  </para>
+  <para id="273">
+    <se lang="russian" variant_id="0">Всякое растение, особенно беккабунга, стенница, мыльнянка, чернобыльник, полынь, травы очистительные и мягчительные, по предварительном извлечении при помощи спирта смолы их, при выварке или медленном обугливании обнаруживают настоящую селитру* и, следовательно, образуют, кислотный спирт, из которого со щелочью составляется селитра. ~~~ Спирт этот часто проявляет себя и другими ясными признаками.</se>
+    <se lang="latin" variant_id="1">Etenim omne vegetabile, praesertim vero herbae Baccabunga, parietinaria, saponaria, artemisia, absinthium et herbae abstergentes et emollientes, educta prius ope spiritus vini eorum resina per incoctionem vel lenem incinerationem, nitrum exhibent verum,* adeoque producunt etiam acidum spiritum, ex quo cum alcali nitrum componitur; qui etiam alias saepe non obscuris indiciis sese manifestat.</se>
+    <weight variant_id="1">-0,00305233</weight>
+  </para>
+  <para id="274">
+    <se lang="russian" variant_id="0">В самом деле, что другое тот смертельный чад углей, очень похожий по отвратительному запаху на крепкую водку, как не кислота, весьма сродная с селитряной, выгоняемая силою огня?</se>
+    <se lang="latin" variant_id="1">Quid enim, quaeso, aliud est letalis ille carbonum vapor, tetro odore aquae forti simillimus, quam acidum, nitroso maxime homogeneum ignis vigore excussum?</se>
+    <weight variant_id="1">0,262222</weight>
+  </para>
+  <para id="275">
+    <se lang="" variant_id="0">§ 37</se>
+    <se lang="" variant_id="1">§ 37</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="276">
+    <se lang="russian" variant_id="0">Селитряный спирт выделяется из растений брожением и улетучивается в воздух, если его не уловить.</se>
+    <se lang="latin" variant_id="1">Spiritus nitri a vegetabilibus per fermentationem separatur et in auras avolat, nisi capiatur.</se>
+    <weight variant_id="1">0,296386</weight>
+  </para>
+  <para id="277">
+    <se lang="russian" variant_id="0">Всем прекрасно известно, что растения от брожения изменяются и даже разрушаются. ~~~ При этом изменении наблюдается, что 1) выделяются кислота и горючее спиртовое вещество;</se>
+    <se lang="latin" variant_id="1">Etenim vegetabilia fermentatione immutari imo destrui, notissimum est; circa quam alterationem observatur, 1) separari acidum et spirituosam ardentem substantiam;</se>
+    <weight variant_id="1">0,0718045</weight>
+  </para>
+  <para id="278">
+    <se lang="russian" variant_id="0">2) получаются осадки, состоящие из более грубой землистой материи, и оставшегося небольшого количества кислоты и горючего спирта;</se>
+    <se lang="latin" variant_id="1">2) faeces demitti crassiore terrea materia graves, pauco acido et ardente spiritu residuo; </se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="279">
+    <se lang="russian" variant_id="0">3) получается кислота двух родов: одна, которая при брожении по большей части улетает в воздух, и другая, которая по окончании брожения остается и при последующем дигерировании переходит в уксус.</se>
+    <se lang="latin" variant_id="1">3) acidum duplicis generis prodire: alterum, quod durante fermentatione plerumque avolat in auras; alterum, quod eadem absoluta restat et ulteriore digestione in acetum abit.</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="280">
+    <se lang="russian" variant_id="0">Первая, гораздо более сильная, при вдыхании через нос сильно поражает нервы и растворяет некоторые металлы, выделяясь на воздух и разрежаясь им; а вторая не действует даже на погруженные в нее металлы.</se>
+    <se lang="latin" variant_id="1">Prius multo est validius, cum naribus haustum strenue nervos afficiat et metalla quaedam in auras abiens et rarefactus solvat, quae posterius nec immersa sibi attingit.</se>
+    <weight variant_id="1">0,244138</weight>
+  </para>
+  <para id="281">
+    <se lang="russian" variant_id="0">Наличия селитряной кислоты, которая была в перебродившем растении, нельзя предположить в отбросах, а потому ее надо искать в одной из названных кислот.</se>
+    <se lang="latin" variant_id="1">Acidum nitrosum, quod fuit in planta fermentata, cum in faecibus nec suspicari possit, ergo in alterutro acidorum quaerendum est.</se>
+    <weight variant_id="1">0,249107</weight>
+  </para>
+  <para id="282">
+    <se lang="russian" variant_id="0">Та кислота, которая рассеивается при движении, сообщенном веществу брожением, на основании предыдущего ближе подходит к природе селитряного спирта, чем уксус.</se>
+    <se lang="latin" variant_id="1">Id quod materiam fermento exagitante dissipatur, ex monitis superius, ad nitrosi spiritus naturam propius accedit, quam acetum;</se>
+    <weight variant_id="1">-0,0283019</weight>
+  </para>
+  <para id="283">
+    <se lang="russian" variant_id="0">К тому же она действует на чувство обоняния так же, как селитряный спирт, опресненный винным спиртом; это не наблюдается в уксусе.</se>
+    <se lang="latin" variant_id="1">adde quod olfactus sensum non aliter ac nitri spiritus alcohole dulcificatus afficiat, quod in aceto non observatur.</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="284">
+    <se lang="russian" variant_id="0">Так как однако с этим кислым спиртом выделяется и винный спирт, то, очевидно, селитряный кислотный спирт, образовавшийся в растениях, уходит из них при брожении, соединяется с винным спиртом и, если нет налицо среды, способной его связывать, вместе с винным спиртом улетает в воздух.</se>
+    <se lang="latin" variant_id="1">Quoniam autem cum acido illo spiritu etiam vinosus spiritus separatur; apparet igitur acidum nitri spiritum, in plantis natum, per fermentationem ab illis separari, cum vinoso spiritu uniri, et si nullum aptum medium ad ipsum capiendum praesto est, cum eodem in auras abire.</se>
+    <weight variant_id="1">0,289744</weight>
+  </para>
+  <para id="285">
+    <se lang="" variant_id="0">§ 38</se>
+    <se lang="" variant_id="1">§ 38</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="286">
+    <se lang="russian" variant_id="0">Растения, применяемые для образования селитроносных куч (§ 27) и смешанные с животным веществом, разрушаются.</se>
+    <se lang="latin" variant_id="1">Vegetabilia, quae ad componendos cumulos nitriferos concurrunt (§ 27) cum animali materia mixta, destruuntur.</se>
+    <weight variant_id="1">0,7</weight>
+  </para>
+  <para id="287">
+    <se lang="russian" variant_id="0">А это может произойти не иначе, как если предварительно наступает брожение, которое, будучи медленным и часто незаметным, не может, однако, закончиться до тех пор, пока не последует все, упомянутое в предыдущем параграфе.</se>
+    <se lang="latin" variant_id="1">Id autem haud unquam effici potest, nisi fermentatio praecedat, quae, quamvis lenis plerumque sit atque insensibilis, absolvi tamen prorsus nequit, nisi omnia, quae paragrapho superiore monuimus, subsequantur.</se>
+    <weight variant_id="1">0,288587</weight>
+  </para>
+  <para id="288">
+    <se lang="russian" variant_id="0">Когда брожением разрыхлена растительная материя, селитряный спирт в сочетании с винным стремится улететь на воздух.</se>
+    <se lang="latin" variant_id="1">Fatiscente igitur per fermentationem materia vegetabili, spiritus nitri, vinoso sociatus, in auras aufugere tentat.</se>
+    <weight variant_id="1">0,297059</weight>
+  </para>
+  <para id="289">
+    <se lang="russian" variant_id="0">Но так как почти всюду он встречает рядом с собою летучую щелочную соль, образовавшуюся из гниющего животного вещества (§ 35), то остается, уловленный ею.</se>
+    <se lang="latin" variant_id="1">Sed, cum ubique fere in alcalinum salem volatilem, ex animali substantia (§ 35) putrefacta natum, sibique ob vicinitatem obvium incurrat, fit, ut eo irretitus haereat.</se>
+    <weight variant_id="1">0,392727</weight>
+  </para>
+  <para id="290">
+    <se lang="russian" variant_id="0">В то же время ранее бывший в соединении с ним винный флогистон жадно соединяется (по положению II) с животным жиром, еще не подвергавшимся действию щелочи, и так чистая селитряная кислота, оставленная им, более тесно сочетается с чистою же щелочью, освободившейся от жира.</se>
+    <se lang="latin" variant_id="1">Interim vinosum phlogiston, antea illi sociatum, cum pinguedine animali, ab alcali nondum excussa, avide conjungitur (per fund. ~~~ 2), et sic acidum nitri, ab ea relictum, purum cum puro alcali simul a pinguedine liberato, arctius copulatur.</se>
+    <weight variant_id="1">-0,0181159</weight>
+  </para>
+  <para id="291">
+    <se lang="russian" variant_id="0">А раз все это так происходит, то необходимо — полагаем, что это достаточно очевидно, — чтобы селитряная кислота, родившаяся в растениях, добавленных к селитроносной массе, и выделенная из них гниением, соединялась в селитроносных кучах с мочевой щелочью в летучую селитру.</se>
+    <se lang="latin" variant_id="1">Quae omnia cum ita fiant, necesse est,d satis profecto elucere censemus, acidum nitri, in plantis massae nitriferae additis natum et putrefactione ab illis separatum, cum urinoso alcali in nitrum volatile in cumulis nitriferis concrescere.</se>
+    <weight variant_id="1">0,26087</weight>
+  </para>
+  <para id="292">
+    <se lang="" variant_id="0">§ 39</se>
+    <se lang="" variant_id="1">§ 39</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="293">
+    <se lang="russian" variant_id="0">Против этого, как я слышу, возражают ученые, пользующиеся авторитетом и имеющие большие заслуги,* и утверждают, что селитряный спирт образуется из воздуха.</se>
+    <se lang="latin" variant_id="1">His tamen reclamare audio viros auctoritate graves, meritis magnos,* potiusque asseverare, nitri spiritum ex aëre esse derivandum.</se>
+    <weight variant_id="1">0,245217</weight>
+  </para>
+  <para id="294">
+    <se lang="russian" variant_id="0">Мы знаем, что их мнение известно всем, изучающим химию, и даже принято многими; поэтому мы считаем, что было бы непозволительно пройти мимо него, тем более, что оно представляется не совсем ложным.</se>
+    <se lang="latin" variant_id="1">Quorum sententiam cum omnibus Chymiae cultoribus notam, imo a plerisque receptam esse sciamus; idcirco sine culpa eam hic praeteriri non posse judicamus, praesertim cum ea prorsus falsa esse non videatur.</se>
+    <weight variant_id="1">0,285714</weight>
+  </para>
+  <para id="295">
+    <se lang="russian" variant_id="0">Что воздушный элемент может быть носителем кислотного спирта, и притом именно селитряного, видно из того, что 1) огнедышащие горы, поглотив сернистую материю, извергают большое количество кислотного спирта, как выделяют его и подземные пещеры;</se>
+    <se lang="latin" variant_id="1">Siquidem acidum spiritum, imo vero nitrosum aëreo elemento vehi inde satis constat, 1) quod ignivomi montes, sulphurea materia consumpta, copiosum eructent, ut et cryptae subterraneae emittant;</se>
+    <weight variant_id="1">0,400491</weight>
+  </para>
+  <para id="296">
+    <se lang="russian" variant_id="0">2) что немало его выдыхают пахучие растения, изобилующие кислым соком, при произрастании и брожении.</se>
+    <se lang="latin" variant_id="1">2) quod plantae odoriferae et acido succo turgidae vegetatione et fermentatione haud parce eundem exhalent.</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="297">
+    <se lang="russian" variant_id="0">Очевидно что из первого источника происходит купоросная кислота, из второго — селитряная.</se>
+    <se lang="latin" variant_id="1">Vitriolicum ex priore, ex posteriore fonte nitrosum acidum emanare, non obscure colligitur.</se>
+    <weight variant_id="1">0,292405</weight>
+  </para>
+  <para id="298">
+    <se lang="russian" variant_id="0">Поэтому неудивительно, что нередко щелочные и землистые поглощающие вещества, долго находящиеся на воздухе, особенно если он насыщен испарениями соседних растений, впитывают селитряный спирт, вследствие чего зола, выставленная на воздух весенней порою в тенистом месте на несколько недель, обнаруживает присутствие некоторого количества селитры,** и соляной спирт, отогнанный из старых черепиц, растворяет золото.***</se>
+    <se lang="latin" variant_id="1">Mirum igitur non est nonnunquam contingere, ut alcalina et terrea absorbentia corpora, diutius exposita aëri, praesertim qui vicinorum vegetabilium halitu impraegnatus est, spiritum nitri imbibant, eoque fieri possit, ut cineres, verno tempore in loco umbroso aëri per septimanas expositi, nitri aliquid exhibeant,** et spiritus salis ex veteribus tegulis destillatus aurum solvat.***</se>
+    <weight variant_id="1">0,271343</weight>
+  </para>
+  <para id="299">
+    <se lang="" variant_id="0">§ 40</se>
+    <se lang="" variant_id="1">§ 40</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="300">
+    <se lang="russian" variant_id="0">Но насколько отсюда далеко до того, чтобы одна воздушная кислота насыщала кучи, сложенные для выделки селитры, — это очевидно хотя бы из того, что</se>
+    <se lang="latin" variant_id="1">Quantum vero abest, ut aëreum acidum solum cumulos, ad nitrum procreandum congestos, impraegnet, vel exinde concluditur,</se>
+    <weight variant_id="1">0,418151</weight>
+  </para>
+  <para id="301">
+    <se lang="russian" variant_id="0">1) для их сооружения не применяется одна щелочь;</se>
+    <se lang="latin" variant_id="1">1) quod alcalia sola ad illos construendos non adhibeantur;</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="302">
+    <se lang="russian" variant_id="0">2) все чисто щелочное легче захватило бы селитряный спирт из воздуха, чем щелочное в смеси с инородными телами, тогда как ежедневно наблюдается противоположное этому; </se>
+    <se lang="latin" variant_id="1">2) quod omne alcalinum purum facilius caperet nitrosum spiritum ex aëre, quam heterogeneis permixtum, cujus tamen contrarium quotidie observatur; </se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="303">
+    <se lang="russian" variant_id="0">3) Лемери, выставив на открытый воздух в защищенном от солнца месте негашеную известь, соль винного камня и тщательно вымытую селитроносную землю, в течение двух лет и более не получил и следов селитры.*</se>
+    <se lang="latin" variant_id="1">3) quod Lemmerius calce viva, sale tartari et terra nitrifera, sollicite eluta, aëri libero expositis et a sole munitis, per duos annos et amplius ne vestigia quidem nitri produxerit.*</se>
+    <weight variant_id="1">0,0201606</weight>
+  </para>
+  <para id="304">
+    <se lang="russian" variant_id="0">Далее, селитряная кислота из перебродивших в селитроносной массе растений находится в соседстве с летучей щелочью, родившейся в той же массе при гниении животного вещества.</se>
+    <se lang="latin" variant_id="1">Porro, quoniam acidum nitri ex fermentatis in massa nitrifera vegetabilibus natum in vicinia volatilis alcali ex putredine animalis materiae in eadem massa natum praesto esse solet.</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="305">
+    <se lang="russian" variant_id="0">Почему же она будет браться из кислоты, рассеянной в атмосфере, — для этого нельзя дать какого-либо основания.</se>
+    <se lang="latin" variant_id="1">Cur igitur per atmosphaeram dissipatum derivetur, ratio nulla reddi potest.</se>
+    <weight variant_id="1">0,174627</weight>
+  </para>
+  <para id="306">
+    <se lang="russian" variant_id="0">Но могут спросить: зачем же выставляется селитроносная материя на открытый воздух?</se>
+    <se lang="latin" variant_id="1">Sed cur aëri libero materia exponatur, forte quaeris?</se>
+    <weight variant_id="1">0,134043</weight>
+  </para>
+  <para id="307">
+    <se lang="russian" variant_id="0">Отвечаю: для того, чтобы легче происходило гниение животного вещества и брожение растений.</se>
+    <se lang="latin" variant_id="1">Ut animalis materiae putrefactio, vegetabilis fermentatio facilius succedat, respondeo.</se>
+    <weight variant_id="1">0,3</weight>
+  </para>
+  <para id="308">
+    <se lang="russian" variant_id="0">Ведь без свободного доступа воздуха затрудняется и то и другое.</se>
+    <se lang="latin" variant_id="1">Aëre enim libero excluso utraque impeditur.</se>
+    <weight variant_id="1">0,176923</weight>
+  </para>
+  <para id="309">
+    <se lang="" variant_id="0">§ 41</se>
+    <se lang="" variant_id="1">§ 41</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="310">
+    <se lang="russian" variant_id="0">Когда к аммониевой соли прибавляют постоянную щелочь, то кислый спирт, покинув летучую соль, соединяется с постоянной щелочью, что очевидно из перегонки нашатырного спирта.</se>
+    <se lang="latin" variant_id="1">Quando sali ammoniaco admiscetur alcali fixum, acidus spiritus, sale volatili deserto, cum fixo alcali conjungitur, ut patet ex destillatione spiritus salis ammoniaci.</se>
+    <weight variant_id="1">0,291837</weight>
+  </para>
+  <para id="311">
+    <se lang="russian" variant_id="0">Никто из химиков не усумнится, что то же самое происходит со всеми средними летучими солями, в том числе и с летучей селитрою. ~~~ Отсюда ясно, что щелок, вымытый из селитроносной земли, для того именно пропускается через золу, чтобы щелочь последней по изгнании летучей щелочи приняла в себя селитряный спирт и превратилась с ним при выварке и кристаллизации в постоянную, истинную селитру.</se>
+    <se lang="latin" variant_id="1">Id autem cum omnibus mediis salibus volatilibus, atque adeo cum nitro volatili fieri, nemo Chymicorum dubitabit; hinc elucet, lixivium, ex terra nitrosa elutriatum, non aliam ob causam per cineres transcolari, quam ut illorum alcali nitrosum spiritum in se recipiat, volatili alcali excusso, et cum illo in fixum et verum nitrum per incoctionem et crystallisationem convertatur.</se>
+    <weight variant_id="1">-0,00276923</weight>
+  </para>
+  <para id="312">
+    <se lang="russian" variant_id="0">Этим синтезом снова подтверждается, что для образования селитры обязательно требуется постоянная щелочная соль (§ 3).</se>
+    <se lang="latin" variant_id="1">Hac autem synthesi rursus confirmatur ad nitrum constituendum alcalinum salem fixum necessario requiri (§ 3).</se>
+    <weight variant_id="1">0,65</weight>
+  </para>
+  <para id="313">
+    <se lang="russian" variant_id="0">Правда, количество золы, взятой для пропускания щелока, может показаться совершенно несоответствующим количеству полученной селитры: должно было бы потребоваться гораздо больше щелочной соли для образования селитры, чем сколько может дать воде взятая зола;</se>
+    <se lang="latin" variant_id="1">Quamvis autem quantitatem cinerum, ad transcolandum lixivium adhibitam, et nitri inde producti copiam consideranti paradoxum videri possit, quod major copia alcalini salis ad eam quantitatem nitri constituendam requiratur, quam adhibiti cineres aquae reddere solent;</se>
+    <weight variant_id="1">0,284783</weight>
+  </para>
+  <para id="314">
+    <se lang="russian" variant_id="0">но мы перестанем удивляться, если вспомним, что щелоком селитроносной массы можно из золы извлечь больше щелочи, чем водою.</se>
+    <se lang="latin" variant_id="1">mirari tamen desinet, quamprimum perpenderit,a massae nitriferae lixivio copiosius alcali ex cineribus extrahi posse, quam aqua.</se>
+    <weight variant_id="1">0,264894</weight>
+  </para>
+  <para id="315">
+    <se lang="" variant_id="0">§ 42</se>
+    <se lang="" variant_id="1">§ 42</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="316">
+    <se lang="russian" variant_id="0">Из селитроносного щелока при повторной выварке выделяется обыкновенная соль (§ 32), которую однако, как известно, не извлекают из чистой селитроносной массы.</se>
+    <se lang="latin" variant_id="1">Ex nitroso lixivio repetita incoctione separatur sal communis (§ 32), quem tamen ex pura massa nitrifera extrahi non memorant.</se>
+    <weight variant_id="1">0,520183</weight>
+  </para>
+  <para id="317">
+    <se lang="russian" variant_id="0">Следовательно, она образуется вместе с постоянной селитрою, а именно соляная кислота, родившаяся в селитряной массе в кучах (это особенно происходит при прибавлении свежего навоза), соединяется с постоянной щелочной материей в том же месте и в то же время, как и селитряный спирт.</se>
+    <se lang="latin" variant_id="1">Generatur igitur simul cum nitro fixo, adeoque acidum salis, in nitrosa massa in cumulis natum (quod praesertim contingit, cum fimus recentior accedit), cum fixa alcalina materia eodem loco ac tempore, ac spiritus nitri, conjungitur.</se>
+    <weight variant_id="1">0,241791</weight>
+  </para>
+  <para id="318">
+    <se lang="russian" variant_id="0">Так как соляная кислота, действуя на щелочную соль золы одновременно с селитряной, может нарушить образование постоянной селитры, то требуется другая подходящая щелочь, чтобы связанная ею соляная кислота не была препятствием рождению селитры.</se>
+    <se lang="latin" variant_id="1">Cum verum salis acidum alcalinum salem cinerum simul appetens generationem nitri fixi turbare possit, aliud alcali conveniens requiritur, quo irretitum adolescenti nitro impedimento non sit.</se>
+    <weight variant_id="1">0,219162</weight>
+  </para>
+  <para id="319">
+    <se lang="russian" variant_id="0">Наиболее совмещающимся с ее природою является известно́е щелочное вещество, с которым преимущественно она образует обыкновенную соль.*</se>
+    <se lang="latin" variant_id="1">Nullum autem cum ejus natura magis congruit, quam alcalina calcarea substantia, quacum potissimum salem communem constituit.*</se>
+    <weight variant_id="1">0,397984</weight>
+  </para>
+  <para id="320">
+    <se lang="russian" variant_id="0">Поэтому и берут для приготовления селитряного щелока негашеную известь (§ ), которая принимает в себя соляной спирт, отделившийся от селитряного, срастается в обыкновенную соль и сверх того более мягкой частью своего вещества способствует притуплению едкости селитры.</se>
+    <se lang="latin" variant_id="1">Hinc fit, ut calx viva ad parandum lixivium nitrosum adhibeatur (§ ), quae salinum spiritum, a nitroso dissociatum, in se recipiat, et in communem salem concrescat, et insuper partem substantiae suae teneriorem ad nitri corrosivitatem obtundendam tribuat (§ 29).</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="321">
+    <se lang="" variant_id="0">§ 43</se>
+    <se lang="" variant_id="1">§ 43</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="322">
+    <se lang="russian" variant_id="0">Установив все это, нетрудно объяснить то, что наблюдается в маточном рассоле.</se>
+    <se lang="latin" variant_id="1">His ita comparatis, haud arduum erit explicare ea, quae in lixivio materno observantur.</se>
+    <weight variant_id="1">0,264706</weight>
+  </para>
+  <para id="323">
+    <se lang="russian" variant_id="0">Так как магнезия одинаково осаждается как кислотою, так и щелочью, то очевидно, что она — вещество средней природы и состоит из кислоты и щелочи.</se>
+    <se lang="latin" variant_id="1">Quippe quod magnesia acido pariter ac alcali praecipitetur, mediae naturae illud existere et acido atque alcali constare patet.</se>
+    <weight variant_id="1">0,2625</weight>
+  </para>
+  <para id="324">
+    <se lang="russian" variant_id="0">Щелочь ее слабее постоянной щелочи, так как осаждается ею.</se>
+    <se lang="latin" variant_id="1">Alcali esse fixo lixivioso debilius, quia eo praecipitatur, apparet.</se>
+    <weight variant_id="1">0,241176</weight>
+  </para>
+  <para id="325">
+    <se lang="russian" variant_id="0">В то же время и кислота ее представляется более слабой, чем серная кислота, на том же основании.</se>
+    <se lang="latin" variant_id="1">Similiter et acidum vitriolico minus robustum esse, ex eadem ratione sequitur.</se>
+    <weight variant_id="1">0,247826</weight>
+  </para>
+  <para id="326">
+    <se lang="russian" variant_id="0">Несомненно, что летучая щелочь, которую изгоняет из соединения с селитряной кислотою щелочная соль золы, огнем при выварке рассеивается.</se>
+    <se lang="latin" variant_id="1">Alcali volatile, quod ab acido nitri sal alcalinus cinerum excussit, incoctionis igne dissipatum esse procul dubio est.</se>
+    <weight variant_id="1">0,253846</weight>
+  </para>
+  <para id="327">
+    <se lang="russian" variant_id="0">А отсюда следует, что щелочное известно́е вещество, растворенное в кислоте, образует упомянутый щелок, и после приливания более сильной щелочной соли осаждается белый порошок извести.</se>
+    <se lang="latin" variant_id="1">Hinc autem sequitur alcalinam calcaream substantiam, acido solutam, laudatum lixivium constituere, adeoque affuso alcalino potentiore sale pulverem album calcis praecipitari.</se>
+    <weight variant_id="1">0,290385</weight>
+  </para>
+  <para id="328">
+    <se lang="russian" variant_id="0">Но кислота в этом щелоке слабее купоросной и потому должна быть селитряной или соляной.</se>
+    <se lang="latin" variant_id="1">Acidum vero in hoc lixivio, cum sit debilius vitriolico, nitrosum ergo vel salinum est.</se>
+    <weight variant_id="1">0,3</weight>
+  </para>
+  <para id="329">
+    <se lang="russian" variant_id="0">А так как последней содержится меньше во всей селитроносной массе, и маточный рассол выделяет бурые удушливые пары (§ 32), несомненно селитряные, при выпаривании и прокаливании, то вполне очевидно, что этот щелок состоит из более нежного щелочного вещества негашеной извести, растворенного в более разведенной селитряной кислоте. ~~~ Селитровары, таким образом, поступают вполне разумно, когда щелок пропускают через свежую золу, чтобы он дал селитру, соединившись с постоянной щелочной солью.</se>
+    <se lang="latin" variant_id="1">Verum quoniam hoc parcius in tota massa nitrifera continetur, et lixivium maternum fumos rubros foetidos (§ 32), nitrosos certe, inspissatum et ustum emittit, idcirco lixivium illud ex calcis vivae substantia teneriore alcalina in acido nitric dilutiore soluta constare patet, consultoque nitri confectores agere, quod per recentes cineres illud transcolent, ut cum alcalino sale fixo unitum in nitrum abeat.</se>
+    <weight variant_id="1">0,030602</weight>
+  </para>
+  <para id="330">
+    <se lang="" variant_id="0">§ 44</se>
+    <se lang="" variant_id="1">§ 44</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="331">
+    <se lang="russian" variant_id="0">Мы считаем, что это наше объяснение лучше всего может быть подкреплено теми способами изготовления селитры, которые на основании его ведутся с наибольшей выгодой в отношении работы и времени и которыми опровергается то, что иногда получает признание, но может быть отброшено согласно нашей теории, по которой требуется лишь одновременное брожение растений и гниение животных частей, чтобы дать летучую селитру.</se>
+    <se lang="latin" variant_id="1">Nulla autem re magis confirmari explicationem hanc nostram posse censemus, quam ejusmodi nitri confectionibus, quae juxta illius ductum instituantur cum emolumento laboris et temporis et a quibus removeantur ea, quae alias passim in usu sunt et secundum nostram theoriam excludi possunt, in quae nil nisi simultanea vegetabilium fermentatio et putrefactio animalium requiritur ad producendum nitrum volatile.</se>
+    <weight variant_id="1">0,3</weight>
+  </para>
+  <para id="332">
+    <se lang="russian" variant_id="0">Если это можно сделать способом, требующим меньше времени, то выварка и кристаллизация составят тот минимум, которым исчерпывается производство постоянной селитры.</se>
+    <se lang="latin" variant_id="1">Quod si minoris temporis indiga methodo confici possit, incoctio et crystallisatio minimum erit, quo nitri fixi confectio absolvatur.</se>
+    <weight variant_id="1">0,228205</weight>
+  </para>
+  <para id="333">
+    <se lang="russian" variant_id="0">Это давно еще отметил Эркер, который для скорейшего получения летучей селитры предлагал рассолы, тела склонные к гниению и весьма пригодные для получения мочевой соли.*</se>
+    <se lang="latin" variant_id="1">Hoc olim jam Erkerus notavit, idque circo ad ocyorem parationem nitri volatilis murias vel salsugines, corpora ad putrescendum prona et ad salem urinosum aptissima, commendavit.*</se>
+    <weight variant_id="1">0,298684</weight>
+  </para>
+  <para id="334">
+    <se lang="russian" variant_id="0">Мы придумали несколько способов, но, обремененные многими делами, могли испробовать лишь один.</se>
+    <se lang="latin" variant_id="1">Nos plurima animo volvimus, sed unicum multis negotiis praepediti tentare potuimus.</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="335">
+    <se lang="russian" variant_id="0">А именно: различные травы, выкинутые из огорода, и ивовые листья в глиняном сосуде подвергались мацерации в течение нескольких дней при температуре здорового человека; для ускорения брожения прибавлялся хлеб, закисший от брожения.</se>
+    <se lang="latin" variant_id="1">Nempe herbae variae, ex horto ejectae, et folia salicis in vase terreo macerabantur per aliquot dies calore hominis sani, et ad promovendam fermentationem adhibebatur panis fermento acidus.</se>
+    <weight variant_id="1">0,232317</weight>
+  </para>
+  <para id="336">
+    <se lang="russian" variant_id="0">В то же время в другом сосуде производилось гниение кухонных отбросов, гнилой рыбы и прибавлялось некоторое количество загнившей мочи. ~~~ Как только в обоих сосудах обнаруживались признаки начавшегося брожения и гниения, то часть бродящей материи извлекалась и помещалась во второй сосуд с гниющими веществами; через час, в свою очередь, переносилось вещество из этого сосуда в первый.</se>
+    <se lang="latin" variant_id="1">In altero vase eodem tempore ad putrefactionem exponebantur eluacra coquinae, pisces putridi, addebatur aliquid urinae putrefactae; quamprimum utrumque vas fermentationis et putrefactionis incipientis signa prodidit, recipiebatur fermentescentis materiae portio et alteri vasi infundebatur, ubi putrescentia inerant, et post horam reciproce ex hoc vase in illud portio materiae transferebatur.</se>
+    <weight variant_id="1">-0,00725076</weight>
+  </para>
+  <para id="337">
+    <se lang="russian" variant_id="0">От повторения таких переносов в обоих сосудах возникало движение; взаимные перемещения вещества увеличивались в отношении количества и ускорялись по времени, и движение возрастало.</se>
+    <se lang="latin" variant_id="1">Ita repetitis his reciprocationibus exoriebatur motus in utroque vase, reciprocae transpositiones materiae quantitatis et temporis ratione intendebantur, et motus crescebat.</se>
+    <weight variant_id="1">0,292258</weight>
+  </para>
+  <para id="338">
+    <se lang="russian" variant_id="0">Наконец, когда все было помещено в один сосуд, тщательно закрытый, на день и на ночь, движение прекратилось и над осадком находилась вполне прозрачная жидкость.</se>
+    <se lang="latin" variant_id="1">Ultimo confusa in unum vas materia et tecta sollicite per diem noctemque moveri desiit, sedimento liquor utcunque pellucidus supernatabat.</se>
+    <weight variant_id="1">0,257851</weight>
+  </para>
+  <para id="339">
+    <se lang="russian" variant_id="0">Она, пропущенная обычным образом через золу, дала довольно значительное количество самой настоящей селитры.</se>
+    <se lang="latin" variant_id="1">Hic per cineres more solito transcolatus verissimi nitri non contemnendam quantitatem exhibuit.</se>
+    <weight variant_id="1">0,261176</weight>
+  </para>
+  <para id="340">
+    <se lang="" variant_id="0">§ 45</se>
+    <se lang="" variant_id="1">§ 45</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="341">
+    <se lang="russian" variant_id="0">Мы думаем, что достойно было бы любознательного исследования, чтобы тот, кому позволяет время, применил подобающим образом летучую щелочь для улавливания спиртов брожения.</se>
+    <se lang="latin" variant_id="1">Non indignum curiosa indagatione putamus, ut, cui tempus suppetit, adhibeat volatile alcalie conveniente modo ad capiendos fermentescentium spiritus.</se>
+    <weight variant_id="1">0,259398</weight>
+  </para>
+  <para id="342">
+    <se lang="russian" variant_id="0">Мы бы считали не бесплодным приложить труд также к собиранию постоянной щелочью чада углей.</se>
+    <se lang="latin" variant_id="1">Ad vaporem carbonum alcali fixo cohibendum etiam operam non sine fructu adhiberi posse arbitramur.</se>
+    <weight variant_id="1">0,1875</weight>
+  </para>
+  <para id="343">
+    <se lang="russian" variant_id="0">Больше об этом не будем говорить, предоставив это усердию других.</se>
+    <se lang="latin" variant_id="1">Sed plura non commemoramus aliorum scrutinoi relinquentes.</se>
+    <weight variant_id="1">0,277358</weight>
+  </para>
+  <para id="344">
+    <se lang="russian" variant_id="0">В общем наша теория позволяет легко объяснить и понять самопроизвольные зарождения селитры, почти всегда летучей, выцветы на стенах зданий, на известняковых утесах Индии и Африки, особенно где имеются налицо необходимые условия.</se>
+    <se lang="latin" variant_id="1">Caeterum ex hac theoria facile perspici et intelligi possunt nitri, semper fere volatilis, spontaneae generationes et efflorescentiae ad muros aedium, in campis Indiae et Africae in rupibus calcareis, praesertim ubi circumstantiae necessariae extant.</se>
+    <weight variant_id="1">0,269849</weight>
+  </para>
+  <para id="345">
+    <se lang="russian" variant_id="0">Многое не примечено, еще больше рассказывают ложного, рожденного только в воображении, как-то о селитре погребов, высеченных в скалах; обыкновенно это ничто иное как земля, чуть пропитанная минеральной кислотою; рудокопы называют эту землю гуром или зинтером.</se>
+    <se lang="latin" variant_id="1">Multa enim omitti, plurima falso referri solent, in sola imaginatione nata, ut de nitro cellarum in rupibus excisarum, quod nil aliud esse solet, quam terra pauco acido minerali imbuta, Gur seu Sinter fossoribus dicta.</se>
+    <weight variant_id="1">0,235484</weight>
+  </para>
+  <para id="346">
+    <se lang="" variant_id="0">§ 46</se>
+    <se lang="" variant_id="1">§ 46</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="347">
+    <se lang="russian" variant_id="0">Из сообщенного в этой главе очевидно, что селитра — растительного происхождения.</se>
+    <se lang="latin" variant_id="1">Ex propositis hoc capite perspicitur, nitrum esse vegetabilis prosapiae.</se>
+    <weight variant_id="1">0,272308</weight>
+  </para>
+  <para id="348">
+    <se lang="russian" variant_id="0">И хотя справедливо, что начала всех царств природы одни и те же, мы утверждаем только то, что составные части селитры происходят из состава растений, кроме той незначительной доли, которая добавляется к щелочной соли из негашеной извести.</se>
+    <se lang="latin" variant_id="1">Et quamvis verum sit, omnium regnorum naturae principia esse eadem, tamen nihil aliud hic asseveramus, quam nitri miscibilia ex vegetabilium mixtione proficisci, praeter exiguum illud, quod ex calce viva alcalino sali accedit.</se>
+    <weight variant_id="1">0,287755</weight>
+  </para>
+  <para id="349">
+    <se lang="russian" variant_id="0">Истина эта особенно подтверждается тем, что непосредственно из растений может быть получена довольно обильная селитра (§ 36).</se>
+    <se lang="latin" variant_id="1">Potissimum vero eo veritas confirmatur, quod immediate ex vegetabilibus nitrum copiosum produci possit (§ 36).</se>
+    <weight variant_id="1">0,634794</weight>
+  </para>
+  <para id="350">
+    <se lang="russian" variant_id="0">Постоянная и везде себе подобная природа никогда не ищет обходов там, где может итти прямым путем.</se>
+    <se lang="latin" variant_id="1">Constans et sibi ubique similis natura nunquam ambages quaerit, ubi recta potest procedere.</se>
+    <weight variant_id="1">0,285</weight>
+  </para>
+  <para id="351">
+    <se lang="russian" variant_id="0">Глава 3</se>
+    <se lang="latin" variant_id="1">Caput 3</se>
+    <weight variant_id="1">11,3</weight>
+  </para>
+  <para id="352">
+    <se lang="russian" variant_id="0">О ВЗРЫВЧАТОЙ СИЛЕ СЕЛИТРЫ</se>
+    <se lang="latin" variant_id="1">DE VI EXPANSIVA NITRI</se>
+    <weight variant_id="1">0,236842</weight>
+  </para>
+  <para id="353">
+    <se lang="" variant_id="0">§ 47</se>
+    <se lang="" variant_id="1">§ 47</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="354">
+    <se lang="russian" variant_id="0">Во взрыве селитры необходимо выделить, главным образом, два обстоятельства: во-первых, что она вспыхивает с углем, во-вторых, — что пламя ее удивительно насколько превосходит восходит быстрейшим и сильнейшим распространением остальные виды пламени, которыми вспыхивают иные тела.</se>
+    <se lang="latin" variant_id="1">In detonatione nitri duo potissimum distinguuntur, alterum quod cum carbonibus flammam concipiat, alterum, quod flamma ejus reliquas, quae aliis corporibus concipiuntur, pernicissima et fortissima expansione mirum quantum superet.</se>
+    <weight variant_id="1">0,238235</weight>
+  </para>
+  <para id="355">
+    <se lang="russian" variant_id="0">Первое нетрудно объяснить горючим началом селитряной кислоты; объяснение второго требует большего труда и осмотрительности, тем более что не может быть выведено из выясненной в предыдущем природы селитры.</se>
+    <se lang="latin" variant_id="1">Illud propter inflammabile principium acidi nitrosi explicatu arduum non est; hoc vero plus industriae et circumspectionis requirit, praesertim cum ex hactenus explicata nitri natura perspici non possit.</se>
+    <weight variant_id="1">0,298315</weight>
+  </para>
+  <para id="356">
+    <se lang="russian" variant_id="0">Необходимо поэтому сделать обозрение других природных явлений и поискать, не встречается ли что-либо сходственное с действием селитры и такое, что можно по справедливости приложить к объяснению этого действия.</se>
+    <se lang="latin" variant_id="1">Circumspicienda igitur sunt alia naturae phaenomena, quaerendumque est, utrum aliquod occurrat, quod cum nitri effectu consentiat ad ipsumque explicandum jure adhiberi possit.</se>
+    <weight variant_id="1">0,245806</weight>
+  </para>
+  <para id="357">
+    <se lang="russian" variant_id="0">Никакое другое явление не отвечает больше свойству селитры давать взрыв, как явление воздуха, вырывающегося после очень сильного сжатия, когда ослаблены или разрушены его преграды.</se>
+    <se lang="latin" variant_id="1">Nullum autem phaenomenon expansivam nitri virtutem refert magis, quam ex violenta compressione prosiliens aër, laxatis vel ruptis repagulis.</se>
+    <weight variant_id="1">0,217742</weight>
+  </para>
+  <para id="358">
+    <se lang="russian" variant_id="0">Поэтому и духовые ружья, сделанные по образцу огнестрельных, по силе, правда, уступают им, но совершенно подобны по действию.</se>
+    <se lang="latin" variant_id="1">Unde et sclopeta pneumatica pyriorum in modum confecta, vi quidem inferiora, similitudine tamen effectus ex asse cum iis conveniunt.</se>
+    <weight variant_id="1">0,283486</weight>
+  </para>
+  <para id="359">
+    <se lang="russian" variant_id="0">Сравнивая эти явления и принимая во внимание остроумие природы, которая настолько щедра на разнообразие действий, насколько скупа на причины, легко притти к мысли, что взрывная сила селитры обусловлена воздухом, освобождающимся из пор ее, вследствие разрушения самой селитры.</se>
+    <se lang="latin" variant_id="1">Haec inter se conferenti et ingenium naturae, quae ut varietate effectuum prodiga, ita causis parcissima est,a consideranti facile occurrit, expansivam nitri virtutem ab aëre ex poris illius ob destructionem ejusdem liberato proficisci.</se>
+    <weight variant_id="1">0,250485</weight>
+  </para>
+  <para id="360">
+    <se lang="russian" variant_id="0">Мы полагаем, что это подозревал уже Шталь,* утверждавший, что в селитре содержится парообразный воздух и в то время как другие тела гаснут при отсутствии доступа его, селитра сама себе доставляет воздух.</se>
+    <se lang="latin" variant_id="1">Id autem etiam Stahlium suspicatum fuisse arbitramur,* qui in nitro aërem vaporosum contineri et, cum alia corpora illo praecluso extinguantur, nitrum suum sibi aërem suppeditare affirmat.</se>
+    <weight variant_id="1">0,281707</weight>
+  </para>
+  <para id="361">
+    <se lang="russian" variant_id="0">Чтобы надлежащим образом исследовать это предварительное предположение, необходимо изучить более внимательно воздух, заключенный в порах тел.</se>
+    <se lang="latin" variant_id="1">Haec praecursoria conjectura ut rite examinetur, diligentiore aëris, in poris corporum inclusi, scrutinio opus est.</se>
+    <weight variant_id="1">0,226471</weight>
+  </para>
+  <para id="362">
+    <se lang="" variant_id="0">§ 48</se>
+    <se lang="" variant_id="1">§ 48</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="363">
+    <se lang="russian" variant_id="0">Из опытов благороднейшего Бойля достаточно известно, что тела при разрушении выделяют упругую жидкость, весьма похожую на воздух, которую этот ученейший муж называл искусственным воздухом.**</se>
+    <se lang="latin" variant_id="1">Corpora per destructionem elasticum fluidum, aëri simillimum, producere ex nobilissimi Boylii experimentis satis est notum, quem experientissimus ille vir aërem factitium appellare solebat.**</se>
+    <weight variant_id="1">0,267692</weight>
+  </para>
+  <para id="364">
+    <se lang="russian" variant_id="0">После него Бургаве не усумнился назвать эту же жидкость безоговорочно воздухом и считал, что он находится в телах в таком количестве, что в воде его больше самой воды.*</se>
+    <se lang="latin" variant_id="1">Post eum Boerhaavius eundem absolute aërem nuncupare non dubitavit, quem in corporibus adeo copiosum haerere asseruit, ut in aqua majorem esse ipsa aqua pronunciaverit.* </se>
+    <weight variant_id="1">0,9</weight>
+  </para>
+  <para id="365">
+    <se lang="" variant_id="0">** В Новых физико-механических опытах.</se>
+    <se lang="" variant_id="1">** In experimentis novis physico-mechanicis.</se>
+    <weight variant_id="1">0,767568</weight>
+  </para>
+  <para id="366">
+    <se lang="russian" variant_id="0">Не было, однако, опытов, которыми можно было бы подтвердить эту истину так, чтобы не оставалось никакого сомнения, пока знаменитейший Галезий неутомимым трудом** не только сделал это, но и определил для многих тел количество воздуха, заключенного в теснинах пор.</se>
+    <se lang="latin" variant_id="1">Deficiebant tamen experimenta, quibus haec veritas ita confirmaretur, ut nulla superesset dubitatio, donec celeberrimus Halesius indefessa industria** non solum id efficeret, sed et quantitatem aëris, angustiis pororum inclusi, in plerisque corporibus determinaret.</se>
+    <weight variant_id="1">0,295522</weight>
+  </para>
+  <para id="367">
+    <se lang="russian" variant_id="0">Опыт, показывающий, что настоящий воздух находится в очень большом количестве в порах тел, таков.</se>
+    <se lang="latin" variant_id="1">Id, quo verus aër in poris corporum copiosissimus demonstratur, sequens est experimentum.</se>
+    <weight variant_id="1">0,277215</weight>
+  </para>
+  <para id="368">
+    <se lang="russian" variant_id="0">Искусственный воздух, полученный из человеческого камня, названный автор сохранял три года, но не мог заметить в нем какую-либо перемену.</se>
+    <se lang="latin" variant_id="1">Factitium aërem ex calculo humano productum servavit laudatus auctor per tres annos, sed nullam mutationem potuit notare.</se>
+    <weight variant_id="1">0,260377</weight>
+  </para>
+  <para id="369">
+    <se lang="russian" variant_id="0">Он нашел, что удельный вес его тот же, что и обыкновенного воздуха, что у обоих одинаковая упругость; сверх того, искусственный воздух, сдавленный в течение нескольких дней, нисколько не потерял упругости.***</se>
+    <se lang="latin" variant_id="1">Specificam ejus gravitatem invenit cum aëre communi eandem, eundem utriusque elaterem deprehendit; insuper per plures dies compressione domatus factitius aër nullam elateris fecit jacturam.***</se>
+    <weight variant_id="1">0,292531</weight>
+  </para>
+  <para id="370">
+    <se lang="russian" variant_id="0">Хотя мы иначе принялись за дело, но наблюдали довольно сходные явления.</se>
+    <se lang="latin" variant_id="1">Nos, quamvis alio modo in hoc inquisivimus, non absimilia tamen observavimus phaenomena.</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="371">
+    <se lang="russian" variant_id="0">А именно, при смешении щелочей с купоросным маслом, селитряным спиртом и другими кислотами, а также при растворении металлов, мы получали большие количества этой упругой жидкости, нередко во сто раз превосходившие [объем] взятого вещества, и нашли, что она по всем свойствам вполне похожа на воздух.</se>
+    <se lang="latin" variant_id="1">Ex commixtione enim alcalium cum li, spiritu nitri et aliorum acidorum, item ex solutionibus metallorum copiosissimum hoc fluidum et saepe plus quam centuplo majus materia adhibita obtinuimus omnique dote aëri simillimum esse deprehendimus.</se>
+    <weight variant_id="1">0,2311</weight>
+  </para>
+  <para id="372">
+    <se lang="russian" variant_id="0">Чтобы отделить от этой упругой жидкости пары, которым некоторые приписывают расширение ее, мы пропустили ее через щелочный раствор и через винный спирт.</se>
+    <se lang="latin" variant_id="1">Ut vero vapores, quibus expansio hujus fluidi a plerisque tribuitur, ab eo secernerentur, per lixivium alcalinum perque transcolavimus.</se>
+    <weight variant_id="1">0,267227</weight>
+  </para>
+  <para id="373">
+    <se lang="russian" variant_id="0">Получившаяся так упругая жидкость, более чистая, осталась весьма похожей на воздух при хранении в течение месяцев.</se>
+    <se lang="latin" variant_id="1">Unde purius fluidum natum aëri simillimum etiam per menses servatum mansit.</se>
+    <weight variant_id="1">0,145455</weight>
+  </para>
+  <para id="374">
+    <se lang="russian" variant_id="0">Она сжималась от холода, расширялась от теплоты, поддавалась сжатию и по удалении [сжимающей] силы приобретала первоначальный объем; поднималась через воду и другие жидкие тела в обычной форме пузырьков и в них, как показало наблюдение, никогда не исчезала, кроме случаев, когда жидкое тело лишено было воздуха при помощи воздушного насоса.</se>
+    <se lang="latin" variant_id="1">Contrahebatur frigore, calore expandebatur, pressum cedebat, remota vi pristinum volumen recuperabat, per aquam et alia liquida guttarum forma solita ascendebat, nec in iis unquam evanuisse observatus est, nisi liquor fuerit aëre per antliam privatus.</se>
+    <weight variant_id="1">0,0111111</weight>
+  </para>
+  <para id="375">
+    <se lang="" variant_id="0">** Статика растений.</se>
+    <se lang="" variant_id="1">** Statica vegetabilium.</se>
+    <weight variant_id="1">0,986842</weight>
+  </para>
+  <para id="376">
+    <se lang="" variant_id="0">§ 49</se>
+    <se lang="" variant_id="1">§ 49</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="377">
+    <se lang="russian" variant_id="0">Из всего этого следует с полной очевидностью, что жидкость, получающаяся из растворенных тел, есть истинный воздух, так как эти наблюдения имеют такую же силу, как химический анализ; но для лучшего доказательства можно применить аналогичное свидетельство синтеза.</se>
+    <se lang="latin" variant_id="1">Ex his omnibus quamvis evidentissime patet fluidum, quod ex resolutis corporibus producitur, esse verum aërem, cum illa eandem vim, ut analysis chymica, in demonstrando habeant; majoris tamen evidentiae gratia etiam synthesi analogum argumentum afferre lubet.</se>
+    <weight variant_id="1">0,296018</weight>
+  </para>
+  <para id="378">
+    <se lang="russian" variant_id="0">Так, в нескольких опытах Галезия обнаруживается, что некоторыми телами поглощается количество воздуха во много раз большее их самих.</se>
+    <se lang="latin" variant_id="1">Etenim plerisque Halesii experimentis ostenditur,c absorberi corporibus quantitatem aëris ipsis multoties majorem.</se>
+    <weight variant_id="1">0,265385</weight>
+  </para>
+  <para id="379">
+    <se lang="russian" variant_id="0">Так, одна драхма летучей аммониевой соли поглотила его 2½ кубических дюйма, откуда вычисление показывает, что объем летучей соли относится к объему поглощенного воздуха как 1 : 9.</se>
+    <se lang="latin" variant_id="1">Ita drachma salis volatilis salis ammoniaci absorbsit 2½ pollices cubicos, unde per calculum deducitur volumen salis volatilis ad aërem absorbtum fuisse ut 1 : 9.</se>
+    <weight variant_id="1">1,04489</weight>
+  </para>
+  <para id="380">
+    <se lang="russian" variant_id="0">Так как, следовательно, очевидно, что настоящий атмосферный воздух сжат порами тел в гораздо меньшее пространство, то нет сомнения, что воздух, выделенный из тел, как бы он ни превосходил их по объему, есть настоящий атмосферный воздух.</se>
+    <se lang="latin" variant_id="1">Cum itaque pateat verum aërem athmosphaericum in multo minus spatium corporum poris cohiberi, nullum profecto dubium superest, aërem ex corporibus productum, quantumvis superet illa volumine, verum esse aërem atmosphaericum.</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="381">
+    <se lang="" variant_id="0">§ 50</se>
+    <se lang="" variant_id="1">§ 50</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="382">
+    <se lang="russian" variant_id="0">Не иначе, чем прочие тела, и селитра имеет большое количество воздуха, заключенного в порах.</se>
+    <se lang="latin" variant_id="1">Non aliter ac reliqua corpora, etiam nitrum magnam copiam aëris poris inclusi possidet.</se>
+    <weight variant_id="1">0,284211</weight>
+  </para>
+  <para id="383">
+    <se lang="russian" variant_id="0">Галезий получил при перегонке 180-кратный объем его из этой соли.*</se>
+    <se lang="latin" variant_id="1">Halesium per destillationem 180 plum ejus, quoad volumen, ex hoc sale produxit.*</se>
+    <weight variant_id="1">0,360317</weight>
+  </para>
+  <para id="384">
+    <se lang="russian" variant_id="0">Робинс из пороха, зажженного в пустоте, выделил воздух, который занимал пространство в 244 раза большее, чем сам порох.** </se>
+    <se lang="latin" variant_id="1">Robinsius ex pulvere pyrio, quod in vacuo accensum fuit, eduxit aërem, qui 244 majus spati m occupavit, quam ipse pulvis.**</se>
+    <weight variant_id="1">0,9</weight>
+  </para>
+  <para id="385">
+    <se lang="russian" variant_id="0">При перегонке происходит распадение и разделение частиц от взаимного касания, и отсюда освобождение заключенного воздуха, но немедленно следует и воссоединение, когда частицы сгущаются, сливаются и при этом снова поглощают воздух.</se>
+    <se lang="latin" variant_id="1">In destillatione contingit quidem resolutio et separatio particularum a mutua cohaesione, inde et aëris inclusi liberatio, sed statim et conjunctio subsequitur, ubi particulae condensantur et confluunt, adeoque iterum aërem absorbent.</se>
+    <weight variant_id="1">0,239623</weight>
+  </para>
+  <para id="386">
+    <se lang="russian" variant_id="0">Наоборот, при взрыве пороха происходит распадение частей его без их последующего воссоединения.</se>
+    <se lang="latin" variant_id="1">Contra in detonatione pulveris pyrii resolutio partium ejus sine earundem conjunctione contingit.</se>
+    <weight variant_id="1">0,292941</weight>
+  </para>
+  <para id="387">
+    <se lang="russian" variant_id="0">Неудивительно поэтому, что в первом случае было обнаружено меньшее количество воздуха, чем во втором.</se>
+    <se lang="latin" variant_id="1">Unde mirum non est in casu priore minorem copiam aëris productam fuisse, quam in posteriore.</se>
+    <weight variant_id="1">0,262025</weight>
+  </para>
+  <para id="388">
+    <se lang="russian" variant_id="0">Что касается причины, по которой воздух входит в таком большом количестве в поры тела, то это чисто физический вопрос и сюда прямо не относится;</se>
+    <se lang="latin" variant_id="1">Qua autem ratione aër in corporum poros tam copiosus intrudatur, Physica quaestio est pura, nec huc proprie spectat.</se>
+    <weight variant_id="1">-0,0114796</weight>
+  </para>
+  <para id="389">
+    <se lang="russian" variant_id="0">впрочем для лучшего освещения этого вопроса прилагаем отдельно наши размышления об упругости воздуха.</se>
+    <se lang="latin" variant_id="1">Verum tamen propter majorem dilucidationem separatim adjungimus meditationes nostras de vi aëris elastica.</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="390">
+    <se lang="" variant_id="0">§ 51</se>
+    <se lang="" variant_id="1">§ 51</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="391">
+    <se lang="russian" variant_id="0">Обсуждающему то, что мы предлагаем в § 48 и 49, сейчас же представится вопрос: раз все тела содержат такие количества воздуха, плененного в порах, — а некоторые дают и большее количество, чем селитра, — то почему и они не имеют такой же взрывной силы?</se>
+    <se lang="latin" variant_id="1">Haec autem, quae § 48, 49 proposuimus, consideranti statim occurret; cum omnia corpora aërem in poris captivum adeo copiosum contineant et nonnulla majorem copiam largiantur, quam nitrum, cur ergo nec illa pari vi expansiva gaudeant?</se>
+    <weight variant_id="1">0,369833</weight>
+  </para>
+  <para id="392">
+    <se lang="russian" variant_id="0">Ответить, однако, на этот вопрос легко.</se>
+    <se lang="latin" variant_id="1">Sed facilis responsio est.</se>
+    <weight variant_id="1">0,1625</weight>
+  </para>
+  <para id="393">
+    <se lang="russian" variant_id="0">Действительно, предположим, что одновременно зажжены один фунт дерева и один фунт пороха;</se>
+    <se lang="latin" variant_id="1">Enimvero repraesentemus nobis libram ligni et libram aliam pulveris pyrii uno momento accensas;</se>
+    <weight variant_id="1">0,296226</weight>
+  </para>
+  <para id="394">
+    <se lang="russian" variant_id="0">мы увидим, что последний сгорит приблизительно в одну секунду, а первое будет гореть полчаса.</se>
+    <se lang="latin" variant_id="1">hanc momento secundo temporis circiter, illam horae dimidiae spatio consumi observabis.</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="395">
+    <se lang="russian" variant_id="0">Но предположим, что то пламя, которое при горении дерева продолжалось полчаса, зародилось бы сразу также в одну секунду;</se>
+    <se lang="latin" variant_id="1">Sed pone flammam illam, quae dimidio horae in ardente ligno duravit, etiam minuto secundo omnem simul nasci;</se>
+    <weight variant_id="1">0,268085</weight>
+  </para>
+  <para id="396">
+    <se lang="russian" variant_id="0">не придется ли сравнить его с пламенем от селитряного пороха?</se>
+    <se lang="latin" variant_id="1">nonne hanc cum illa pulveris nitrosi flamma jam confers?</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="397">
+    <se lang="russian" variant_id="0">Как ядро пушки, двигающееся со скоростью одной версты в час, натолкнувшись на стену, не повреждает ее, но пролетев это же расстояние в одну секунду, разрушает ее, так и внезапно освободившийся воздух производит разительное действие, которого не будет давать он же, выходя мало-помалу.</se>
+    <se lang="latin" variant_id="1">Ut globus tormenti bellici per distantiam stadii tempore horae integrae motus et muro admotus illum non laedit, contra minuto secundo idem spatium emensus illum diruit, sic repente liberatus aër stupendos effectus producit, quos pedetentim emissus haud praestaret.</se>
+    <weight variant_id="1">0,280349</weight>
+  </para>
+  <para id="398">
+    <se lang="russian" variant_id="0">Поэтому сила селитры или селитряного пороха происходит от внезапно вырывающегося воздуха, освободившегося из пор уничтоженной селитры; это случается и в других телах.</se>
+    <se lang="latin" variant_id="1">Vis igitur nitri, seu etiam pulveris nitrosi, proficiscitur a repentina eruptione aëris, ex resoluti nitri poris liberati, quod etiam in aliis corporibus contingit.</se>
+    <weight variant_id="1">0,293706</weight>
+  </para>
+  <para id="399">
+    <se lang="russian" variant_id="0">Какой стеклянный или иной сосуд настолько крепок, что, будучи закрытым, может противостоять воздуху, возрождающемуся при растворении железных опилок в купоросном масле?</se>
+    <se lang="latin" variant_id="1">Quod enim vitrum aut etiam aliud vas tam durum est, quod, si obturatum est, solvente oleo vitrioli limaturam martis, reviviscenti aëri resistere possit?</se>
+    <weight variant_id="1">0,258779</weight>
+  </para>
+  <para id="400">
+    <se lang="russian" variant_id="0">Однако это же масло, сильно разбавленное водою, растворяя брусок железа, неспособно производить какое-либо действие такого рода.</se>
+    <se lang="latin" variant_id="1">Qui tamen si multa aqua dilutus est, et ferri frustum solvit, nullum ejusmodi effectum producere par est.</se>
+    <weight variant_id="1">0,22</weight>
+  </para>
+  <para id="401">
+    <se lang="" variant_id="0">§ 52</se>
+    <se lang="" variant_id="1">§ 52</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="402">
+    <se lang="russian" variant_id="0">Итак, остается только объяснить, почему селитра, соединенная с углем и серою в порох, взрывается с такой силою.</se>
+    <se lang="latin" variant_id="1">Restat igitur solum, ut explicetur, qui fiat, ut nitrum cum carbonibus et sulphure unitum in pulvere pyrio tanta vi expandatur.</se>
+    <weight variant_id="1">0,259375</weight>
+  </para>
+  <para id="403">
+    <se lang="russian" variant_id="0">Но это можно легко постигнуть, если предварительно рассмотреть природу остальных составных частей пороха.</se>
+    <se lang="latin" variant_id="1">Sed hoc facile potest concipi, quamprimum natura reliquorum miscibilium repraesentatur.</se>
+    <weight variant_id="1">0,243038</weight>
+  </para>
+  <para id="404">
+    <se lang="russian" variant_id="0">А именно, частицы серы сохраняют пламя, уголь распространяет воспламенение, а селитра, флогистон которой, сильно действующий в кислоте, возбуждается примесью серы, внезапно распадаясь, родит пламя громадной силы.</se>
+    <se lang="latin" variant_id="1">Nempe sulphuris particulae flammam conservant, carbone propagatur ignitio, eti nitrum, cujus in acido potens phlogiston admixto sulphure excitatur,j resolutum repente flammam validissimam gignit.</se>
+    <weight variant_id="1">0,275862</weight>
+  </para>
+  <para id="405">
+    <se lang="russian" variant_id="0">Конец.</se>
+    <se lang="latin" variant_id="1">Finis.</se>
+    <weight variant_id="1">0,3</weight>
+  </para>
+</body>
+</html>

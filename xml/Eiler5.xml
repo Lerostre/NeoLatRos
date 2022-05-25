@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html>
+<head>
+</head>
+<body>
+  <para id="0">
+    <se lang="russian" variant_id="0">Мужу знаменитейшему и ученейшему, великому и несравненному математику и директору Берлинской королевской академии наук, достойнейшему члену императорской Петербургской Академии Наук и Лондонского королевского общества Михайло Ломоносов шлет нижайший привет.</se>
+    <se lang="latin" variant_id="1">Viro celeberrimo, doctissimo in Regia Scientiarum Academia Berolinensi summo atque incomparabili Mathematico atque directori, Caesareae Academiae Scientiarum Petropolitanae et Societatis Regiae Londinensis Membro dignissimo, Michael Lomonosow ~~~ S. P.. D. ~~~ </se>
+    <weight variant_id="1">-0,00540541</weight>
+  </para>
+  <para id="1">
+    <se lang="russian" variant_id="0">Хотя о многом хотел бы я в этом письме известить вас, в особенности же сообщить вам мысли мои о происхождении цветов, но мешает мне недостаток времени, ибо я спешу написать похвальное слово Петру Великому, которое должен буду произнести 19 декабря.</se>
+    <se lang="latin" variant_id="1">Quamvis multa sint, de quibus hisce litteris Te certiorem facere vellem; praesertim meditationes meas de colorum causa communicare; temporis tamen penuria ad sermonem panegyricum Petro Magno Imperatori ad 19 Decembris habendum urget, quem conscribere festino.</se>
+    <weight variant_id="1">0,143609</weight>
+  </para>
+  <para id="2">
+    <se lang="russian" variant_id="0">К тому же меня тревожит наглость рецензентов, которые с язвительностью Теона наперерыв терзают мои рассуждения, тогда как ваше веское суждение о них содержало одобрение и похвалу.</se>
+    <se lang="latin" variant_id="1">Praeterea movet me censorum insolentia, qui meditationes meas, Tuo gravissimo judicio probatas atque laudatas undique Theonino dente dilaniare contendunt.</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="3">
+    <se lang="russian" variant_id="0">Вам, муж проницательнейший, известно, разумеется, что издатель лейпцигского «Журнала естествознания и медицины» не столько из стремления к истине, сколько по недоброжелательству напал на мои труды и, плохо поняв их, обошелся с ними как нельзя хуже.</se>
+    <se lang="latin" variant_id="1">Et enim non Tibi, vir perspicacissime, ignotum esse puto Lipsiensem editorem Commentariorum de rebus in scientia naturali et Medicina gestis, non tam veritatis studio, quam malevolo animo lucubrationes meas aggressum fuisse, et male intellectas pejus proscidisse.</se>
+    <weight variant_id="1">0,280465</weight>
+  </para>
+  <para id="4">
+    <se lang="russian" variant_id="0">Посылаю на ваше проницательное рассмотрение яркий образчик его злобы и тупости и вместе с тем почтительнейше прошу: подобно тому, как вы с особенною благосклонностию оказали мне помощь в моем отечестве, не откажите защитить меня своим покровительством также и в чужих странах.</se>
+    <se lang="latin" variant_id="1">Malitiae et stuporis illius luculentissimam demonstrationem Tibi, Vir acutissime, expendendam mitto, simulque officiosissime obsecror, ut quemadmodum domi in Patria mea singulari benevolentia mihi succurrere voluisti; ita quoque foris defendere me et protegere non graveris.</se>
+    <weight variant_id="1">0,293671</weight>
+  </para>
+  <para id="5">
+    <se lang="russian" variant_id="0">Пример вышеозначенного рецензента увлек многих других, и они с яростию восстали против меня, а именно: Фогель в своей «Медицинской библиотеке», издатель «Гамбургского магазина» и некто Арнольд из Эрлангена, о диссертации которого я читал недавно благоприятный отзыв в гамбургской газете.</se>
+    <se lang="latin" variant_id="1">Nam exemplo dicti superius censoris moti atque incitati sunt plures alii, et furiosum impetum in me fecerunt. ~~~ Scilicet Fogel quidam in Bibliotheca sua Medica, Conditor Ephemeridum Hamburgensium (des Hamburgischen Magasins) item Arnold nonnemo Erlangae, cui faventem censuram in novis litterariis Hamburgensibus nuperrime legi.</se>
+    <weight variant_id="1">-0,0222</weight>
+  </para>
+  <para id="6">
+    <se lang="russian" variant_id="0">Все это заставляет меня не без основания подозревать, что тут таится нечто, и столь незаслуженные и оскорбительные поклепы на меня распространяются коварными усилиями какого-то заклятого моего врага.</se>
+    <se lang="latin" variant_id="1">Quibus omnibus co nsideratis non sine ratione suspicor latere hic anguem in herba, et cujusdam mihi infensissimi inimici malo dolo tam iniquas tamque injuriosas cavillationes publice moveri.</se>
+    <weight variant_id="1">0,283636</weight>
+  </para>
+  <para id="7">
+    <se lang="russian" variant_id="0">Итак, если вы по своей благосклонности не погнушаетесь помочь мне, то я нахожу самым удобным к тому способом, чтобы с защитой приложенного здесь опровержения (которое предоставляю вам по своему усмотрению изменить и, может быть, смягчить), по напечатании его, публично выступил в каком-либо университете человек ученый (как в Эрлангене против меня выступал Арнольд);</se>
+    <se lang="latin" variant_id="1">Si igitur, Vir humanissime, opem mihi ferre non fueris dedignatus, modum, quo id perficiatur, hunc convenientissimum esse arbitror, ut refutationes hic appositas (quae pro Tuo arbitrio immutandae traduntur et forsan emolliendae) in Universitate aliqua studiosus publice defendat (sicut contra me Erlangiae ab Arnoldo disputatum est) impressam;</se>
+    <weight variant_id="1">-0,0105839</weight>
+  </para>
+  <para id="8">
+    <se lang="russian" variant_id="0">после же можно будет поместить в ученом журнале разбор этого выступления против моих врагов. </se>
+    <se lang="latin" variant_id="1">quae tandem contra inimicorum impetum in actis eruditorum recenseri poterit. ~~~</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="9">
+    <se lang="russian" variant_id="0">Издержки по печатанию будут сполна мною возмещены.</se>
+    <se lang="latin" variant_id="1">Sumptus typographo abunde soluturum me promitto.</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="10">
+    <se lang="russian" variant_id="0">Впрочем, настоящее возражение мое может быть издано и в форме программы под чужим именем.</se>
+    <se lang="latin" variant_id="1">Caeterum potest haec mea defensio in forma programmatis edi, alterius nomine.</se>
+    <weight variant_id="1">0,260294</weight>
+  </para>
+  <para id="11">
+    <se lang="russian" variant_id="0">Вместе с тем предупреждаю вас, что здесь никто не знает и знать не будет об этих моих предложениях, почему и вас покорнейше прошу, чтобы все это было исполнено втайне.</se>
+    <se lang="latin" variant_id="1">Interea moneo, hoc propositum meum nemini hic esse notum, nec cognitum futurum: quamobrem etiam Те, Vir celeberrime, precor, ut id tacito modo fiat.</se>
+    <weight variant_id="1">0,269291</weight>
+  </para>
+  <para id="12">
+    <se lang="russian" variant_id="0">Подозреваю, что и здесь есть немаловажные особы, которые принимают участие в таковом моем опорочивании.</se>
+    <se lang="latin" variant_id="1">Nam equidem hic etiam non leves auctores tantae ignominiae meae suboleo.</se>
+    <weight variant_id="1">0,166667</weight>
+  </para>
+  <para id="13">
+    <se lang="russian" variant_id="0">Ваше благодеяние останется вечным залогом нашей дружбы; я со своей стороны никогда не перестану со всею искренностию поддерживать ее и оказывать вам всевозможные знаки моей благодарности.</se>
+    <se lang="latin" variant_id="1">Hoc beneficium tuum erit aeternum pignus amicititae nostrae, quam sincero animo colere, et omnia grati animi officia praestare nunquam praetermittam.</se>
+    <weight variant_id="1">0,226718</weight>
+  </para>
+  <para id="14">
+    <se lang="russian" variant_id="0">Будьте здоровы и по-прежнему расположены ко мне.</se>
+    <se lang="latin" variant_id="1">Vale atque favere perge.</se>
+    <weight variant_id="1">0,0136364</weight>
+  </para>
+  <para id="15">
+    <se lang="russian" variant_id="0">С.-Петербург, 28 ноября по старому стилю 1754 г.</se>
+    <se lang="latin" variant_id="1">Dabam Petropoli Die 28 Nov. ~~~ S.. V. ~~~ A.. 1754.</se>
+    <weight variant_id="1">-0,00833333</weight>
+  </para>
+  <para id="16">
+    <se lang="russian" variant_id="0">Камешки для мозаичных работ я давно уже передал в Канцелярию для пересылки вам.</se>
+    <se lang="latin" variant_id="1">Frustula encaustorum ad opera Musiva paratorum jam diu in cancellariam tradidi ad Te mittenda.</se>
+    <weight variant_id="1">0,238235</weight>
+  </para>
+</body>
+</html>

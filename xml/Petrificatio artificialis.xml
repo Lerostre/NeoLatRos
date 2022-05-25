@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html>
+<head>
+</head>
+<body>
+  <para id="0">
+    <se lang="russian" variant_id="0">Окаменелости, находимые среди истинных минералов, можно, по моему суждению, свести соответственно их внутреннему состоянию, к двум видам, из которых один не только внешней фигурой обнаруживает свое животное или растительное происхождение,</se>
+    <se lang="latin" variant_id="1">Petrefacta, quae inter vera mineralia reperiuntur, ad duas referri posse species ratione status interni, me quidem judice, videntur, quarum alteram non solum externa figura animalis sequi aut vegetabilis prosapiam exprimit;</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="1">
+    <se lang="russian" variant_id="0">но и внутренним строением и расположением частей подтверждает показания поверхности; </se>
+    <se lang="latin" variant_id="1">verum etiam intestinis fibris et partium dispositione indicium superficiei probat;</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="2">
+    <se lang="russian" variant_id="0">но и внутренним строением и расположением частей подтверждает показания поверхности; другой же, помимо внешнего вида, в своих внутренних частях ничего...</se>
+    <se lang="latin" variant_id="1">alteram vero praeter externam speciem nil intestinis partibus...</se>
+    <weight variant_id="1">0,282462</weight>
+  </para>
+</body>
+</html>

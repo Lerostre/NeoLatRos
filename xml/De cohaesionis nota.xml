@@ -1,0 +1,322 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html>
+<head>
+</head>
+<body>
+  <para id="0">
+    <se lang="russian" variant_id="0">Определение I</se>
+    <se lang="latin" variant_id="1">Definitio I</se>
+    <weight variant_id="1">1,24545</weight>
+  </para>
+  <para id="1">
+    <se lang="russian" variant_id="0">1. В порах посторонняя материя: смотри опыты о порах у Тюммига.</se>
+    <se lang="latin" variant_id="1">1.a Poris materia peregrina. ~~~ Vide experimenta de poris in Tummig.</se>
+    <weight variant_id="1">-0,00803571</weight>
+  </para>
+  <para id="2">
+    <se lang="russian" variant_id="0">2. Расположение от движения, тяжести и сцепления, опыт от сотрясения. ~~~ Если не воспрепятствует посторонняя материя.</se>
+    <se lang="latin" variant_id="1">2. Situs a motu, gravitate, et cohaesione, experientia a concussione, nisi peregrine materia impediat.</se>
+    <weight variant_id="1">0,0662023</weight>
+  </para>
+  <para id="3">
+    <se lang="russian" variant_id="0">3. В простых телах симилярных и однородных корпускулы равны по объему и тяжести, в смешанных нет.</se>
+    <se lang="latin" variant_id="1">3. In corporibus simplicibus similaribus et homogeneis corpuscula sunt mole et gravitate aequalia, in mixtis non item.</se>
+    <weight variant_id="1">0,405042</weight>
+  </para>
+  <para id="4">
+    <se lang="russian" variant_id="0">Сцепление</se>
+    <se lang="latin" variant_id="1">Cohaesio</se>
+    <weight variant_id="1">0,266667</weight>
+  </para>
+  <para id="5">
+    <se lang="russian" variant_id="0">1) Физические монады друг от друга разделены, хотя иногда не каждая от каждой. ~~~ Напр. разделены в месте, обозначенном чертой.</se>
+    <se lang="latin" variant_id="1">1) Monades physicae a se invicem dividuntur licet aliquando non singulae a singulis. e. g. in / divisae sunt.</se>
+    <weight variant_id="1">0,0511727</weight>
+  </para>
+  <para id="6">
+    <se lang="russian" variant_id="0">2) Твердые тела могут соединяться только сплавлением и если будут отполированы.</se>
+    <se lang="latin" variant_id="1">2) Corpora solida non possunt jungi nisi per fusionem et si fuerint polita.</se>
+    <weight variant_id="1">0,521875</weight>
+  </para>
+  <para id="7">
+    <se lang="russian" variant_id="0">3) Влажные [тела], как влажный песок, при сотрясении становятся более влажными.</se>
+    <se lang="latin" variant_id="1">3) Humida quassata ut arena humida humidiora evadunt.</se>
+    <weight variant_id="1">0,486525</weight>
+  </para>
+  <para id="8">
+    <se lang="russian" variant_id="0">4) Чистое купоросное масло от холода уплотняется, разведенное — нет.</se>
+    <se lang="latin" variant_id="1">4) Oleum vitrioli meracissimum frigore concrescit, dilutius non item.</se>
+    <weight variant_id="1">0,590164</weight>
+  </para>
+  <para id="9">
+    <se lang="russian" variant_id="0">6) Ковкие [тела] при изменении расположения [корпускул] сохраняют сцепление, хрупкие — нет.</se>
+    <se lang="latin" variant_id="1">6) Corpora ductilia mutato situ cohaesionem conservant, fragilia non item.</se>
+    <weight variant_id="1">0,504545</weight>
+  </para>
+  <para id="10">
+    <se lang="russian" variant_id="0">7) Имеющиеся у меня полированные пластины мрамора зимою едва можно разнять грузом в 580 фунтов, тогда как</se>
+    <se lang="latin" variant_id="1">7) Marmora polita, quae ego possideo, a 580 libris hyeme vix divelli possunt, cum aër eadem marmora comprimat vi aequali</se>
+    <weight variant_id="1">2,26</weight>
+  </para>
+  <para id="11">
+    <se lang="russian" variant_id="0">8) Если бы эфир не был весом, он не входил бы в колокол [воздушного насоса].</se>
+    <se lang="latin" variant_id="1">8) Si aether non foret gravis, non intraret in campanam.</se>
+    <weight variant_id="1">0,478977</weight>
+  </para>
+  <para id="12">
+    <se lang="russian" variant_id="0">9) Некоторые тела, будучи охлаждены, хрупки, а будучи нагреты — ковки; железо, схваченное морозом, легче разрывается.</se>
+    <se lang="latin" variant_id="1">9) Corpora quaedam frigefacta sunt fragilia, tepefacta ductilia, ferrum gelu constrictum rumpitur facilius.</se>
+    <weight variant_id="1">0,492411</weight>
+  </para>
+  <para id="13">
+    <se lang="russian" variant_id="0">10) Расположение</se>
+    <se lang="latin" variant_id="1">10) Situs</se>
+    <weight variant_id="1">1,06667</weight>
+  </para>
+  <para id="14">
+    <se lang="russian" variant_id="0">11) Кусок железа требует большой силы, чтобы его разломать, но при скоблении тонким напильником постепенно измельчается с приложением едва заметной силы.</se>
+    <se lang="latin" variant_id="1">11) Frustum ferri magna vi indiget priusquam rumpatur, at subtili lima rasum vi vix sensibili successive consumitur.</se>
+    <weight variant_id="1">0,368647</weight>
+  </para>
+  <para id="15">
+    <se lang="russian" variant_id="0">Согласованное сцепление: пример канатов и волокон конопли.</se>
+    <se lang="latin" variant_id="1">Conspirata cohaesio: exemplum rudentum et fibrarum cannabinarum.</se>
+    <weight variant_id="1">0,266038</weight>
+  </para>
+  <para id="16">
+    <se lang="russian" variant_id="0">12) Тела текучие пристают к твердым.</se>
+    <se lang="latin" variant_id="1">12) Corpora fluida solidis adhaerent.</se>
+    <weight variant_id="1">0,78125</weight>
+  </para>
+  <para id="17">
+    <se lang="russian" variant_id="0">12)а Корпускулы сцеплены не одной силой инерции.</se>
+    <se lang="latin" variant_id="1">12)a Corpuscula sola vi inertiae non cohaerent.</se>
+    <weight variant_id="1">0,292857</weight>
+  </para>
+  <para id="18">
+    <se lang="russian" variant_id="0">13) Металлы, прежде чем разорваться, вытягиваются в нити.</se>
+    <se lang="latin" variant_id="1">13) Metalla priusquam rumpantur in fila distrahuntur.</se>
+    <weight variant_id="1">0,65625</weight>
+  </para>
+  <para id="19">
+    <se lang="russian" variant_id="0">14) Абсолютное сцепление двух цилиндров из одного и того же вещества, но различной толщины, пропорционально квадратам диаметров.</se>
+    <se lang="latin" variant_id="1">14) Cohaesio absolute duorum cilindrorum ejusdem materiae sed diversae crassiciei est, ut quadrata diametrorum.</se>
+    <weight variant_id="1">0,457576</weight>
+  </para>
+  <para id="20">
+    <se lang="russian" variant_id="0">15) Мягкость зависит от более тонких корпускул, находящихся в промежутках, по их удалении тело становится твердым, как кирпичи, и т. д. cухари. </se>
+    <se lang="latin" variant_id="1">15) Mollicies dependet a corpusculis subtilioribus interpositis, his abactis corpus evadit durum ut lateres, etc. panes bis cocti.</se>
+    <weight variant_id="1">0,452632</weight>
+  </para>
+  <para id="21">
+    <se lang="russian" variant_id="0">16) Полированные пластины мрамора... несмотря на прочное сцепление, следовательно сцепление происходит не от какой-либо силы притяжения ибо и притяжение не позволит корпускуле передвигаться не только к d, но и к a или b.</se>
+    <se lang="latin" variant_id="1">16) Marmora polita cohaesione firma non obstante, igitur non per vim aliquam attractricem fit cohaesio. nam etiam attractio non permittetb non solum versus d corpusculum moveri sed etiam versus a vel b.</se>
+    <weight variant_id="1">0,121538</weight>
+  </para>
+  <para id="22">
+    <se lang="russian" variant_id="0">17) Дым в пустоте подражает воде.</se>
+    <se lang="latin" variant_id="1">17) Fumus in vacuo aquam imitatur.</se>
+    <weight variant_id="1">0,718227</weight>
+  </para>
+  <para id="23">
+    <se lang="russian" variant_id="0">18) Полированные пластины мрамора.</se>
+    <se lang="latin" variant_id="1">18) Marmora polita.</se>
+    <weight variant_id="1">0,816667</weight>
+  </para>
+  <para id="24">
+    <se lang="russian" variant_id="0">19) Высыпанный песок воспроизводит жидкость.</se>
+    <se lang="latin" variant_id="1">19) Arena effusa liquorem refert.</se>
+    <weight variant_id="1">0,69</weight>
+  </para>
+  <para id="25">
+    <se lang="russian" variant_id="0">20) Что корпускулы текучих тел тверды. ~~~ Пояснение Возогнанная красная ртуть. .</se>
+    <se lang="latin" variant_id="1">20) Quoda fluidorum corpuscula sunt solida Scholion us Rub.</se>
+    <weight variant_id="1">0,141429</weight>
+  </para>
+  <para id="26">
+    <se lang="russian" variant_id="0">21) Толченый алебастр или гипс на огне воспроизводит жидкость... смотри... сам... не однажды... сито... купороса (227).б</se>
+    <se lang="latin" variant_id="1">21) Alebastrum vel Gypsum tusum in igne liquores refert vide ipse non semel colum li (227).b</se>
+    <weight variant_id="1">0,0343891</weight>
+  </para>
+  <para id="27">
+    <se lang="russian" variant_id="0">22) О расположении см. ~~~ (35.. 36).в</se>
+    <se lang="latin" variant_id="1">22) De situ vide (35.. 36).c</se>
+    <weight variant_id="1">0,322727</weight>
+  </para>
+  <para id="28">
+    <se lang="russian" variant_id="0">23) Величина [частиц] — не единственная причина сцепления, иначе твердые тела не могли бы становиться жидкими, необходимо движение.</se>
+    <se lang="latin" variant_id="1">23) Magnitudo sola cohaesionis causa non est, alioqui solida reddi non possent fluida, motus necessarius est.</se>
+    <weight variant_id="1">0,413313</weight>
+  </para>
+  <para id="29">
+    <se lang="russian" variant_id="0">24) Твердое тело есть то, части которого так сцеплены, что без насилия не принимают границ и фигуры от каких-либо иных поверхностей, кроме тех, которые придает им их собственная связь.</se>
+    <se lang="latin" variant_id="1">24) Corpus solidum est cujus partes ita cohaerent ut sine violentia a nullis aliis superficiebus terminos et figuram accipiant, quam ab iis quas ipsarum nexus illis conciliat.</se>
+    <weight variant_id="1">0,393143</weight>
+  </para>
+  <para id="30">
+    <se lang="russian" variant_id="0">25) Исключить клей для последующего изыскания относительно сцепления.</se>
+    <se lang="latin" variant_id="1">25) Gluten eliminandum ulteriori inquisitione in cohaesionem.</se>
+    <weight variant_id="1">0,6375</weight>
+  </para>
+  <para id="31">
+    <se lang="russian" variant_id="0">26) Полированные пластины мрамора.</se>
+    <se lang="latin" variant_id="1">26) Marmora polita</se>
+    <weight variant_id="1">0,763636</weight>
+  </para>
+  <para id="32">
+    <se lang="russian" variant_id="0">26) Сцепление изменяется от поступления материи в поры.</se>
+    <se lang="latin" variant_id="1">26) Cohaesio mutatur per accessum materiae in poros.</se>
+    <weight variant_id="1">-0,00957447</weight>
+  </para>
+  <para id="33">
+    <se lang="russian" variant_id="0">27) Сцепление корпускул должно быть показано через движение первоначальное и производное.</se>
+    <se lang="latin" variant_id="1">27) Cohaesio corpusculorum demonstranda per motum primitivum et derivativum.</se>
+    <weight variant_id="1">0,552174</weight>
+  </para>
+  <para id="34">
+    <se lang="russian" variant_id="0">28) Бойль намекает на бесконечно медленное движение [корпускул] твердых тел. О внутренних движениях.</se>
+    <se lang="latin" variant_id="1">28) Motum solidorum innuit infinite lentum Boyle, de intest. motibus.</se>
+    <weight variant_id="1">0,538301</weight>
+  </para>
+  <para id="35">
+    <se lang="russian" variant_id="0">29) Так как корпускулы движутся вокруг своего центра, то, следовательно, они имеют скорее центробежную силу, чем притягательную.</se>
+    <se lang="latin" variant_id="1">29) Quoniam corpuscula circa centrum suum moventur, ergo vim centrifugam potius habent quam attractivam.</se>
+    <weight variant_id="1">0,0657609</weight>
+  </para>
+  <para id="36">
+    <se lang="russian" variant_id="0">30) Сцепление устраняется, когда центробежная сила больше сжатия.</se>
+    <se lang="latin" variant_id="1">30) Cohaesio tollitur, quando vis centrifuga major est compressione.</se>
+    <weight variant_id="1">0,623164</weight>
+  </para>
+  <para id="37">
+    <se lang="russian" variant_id="0">31) Мальбранш уже ранее меня усмотрел в сцеплении частей твердого тела давление эфира, но особенно... что</se>
+    <se lang="latin" variant_id="1">31) Malebranchius in cohaesione partium duri corporis jam ante me pressionem aetheris reperit, sed praecipue quod in cognitionem</se>
+    <weight variant_id="1">0,40724</weight>
+  </para>
+  <para id="38">
+    <se lang="russian" variant_id="0">32) Вес, больший чем самая атмосфера, не может оторвать цилиндр, который воздух не может прижимать так крепко.</se>
+    <se lang="latin" variant_id="1">32) Pondus gravius ipsa athmosphaera non potest avellere cylindrum, quod aër tam firmiter comprimere non potest.</se>
+    <weight variant_id="1">0,466997</weight>
+  </para>
+  <para id="39">
+    <se lang="russian" variant_id="0">33) Тяжесть не есть причина сцепления.</se>
+    <se lang="latin" variant_id="1">33) Gravitas causa cohaesionis non est.</se>
+    <weight variant_id="1">0,719748</weight>
+  </para>
+  <para id="40">
+    <se lang="russian" variant_id="0">34) Вес эфира не ощущается.</se>
+    <se lang="latin" variant_id="1">34) Pondus non sentitur aetheris.</se>
+    <weight variant_id="1">0,725</weight>
+  </para>
+  <para id="41">
+    <se lang="russian" variant_id="0">35) Сцепление зависит не от тяготительной материи, во-первых, потому что она сама не тяжела, во-вторых, потому что она гнетет отдельные монады к центру земли, в-третьих, тяготительная жидкость тоньше самого эфира, так как тяготеет к нему.</se>
+    <se lang="latin" variant_id="1">35) Cohaesio dependet non a materia gravifica, primo quia ipsa gravis non est, 2° quia singulas monades ad centrum telluris praemit, 3° fluidum gr. est subtilius ipso aethere, quia in ilium gravitat.</se>
+    <weight variant_id="1">0,327004</weight>
+  </para>
+  <para id="42">
+    <se lang="russian" variant_id="0">36) О крючках и веревочках шутка в Пояснении.</se>
+    <se lang="latin" variant_id="1">36) De uncinulis et funiculis jocus in Scholio.</se>
+    <weight variant_id="1">0,617949</weight>
+  </para>
+  <para id="43">
+    <se lang="russian" variant_id="0">37) Сцепление не может происходить от покоя и инерции, так как корпускулы ртути тяжелее и, однако, не столь крепко сцеплены, как корпускулы воды во льду.</se>
+    <se lang="latin" variant_id="1">37) A quiete et inertia cohaesio proficisci non potest, quia corpuscula mercurii sunt graviora et tamen non tam firmiter cohaerent, quam corpuscula aquae in glacie.</se>
+    <weight variant_id="1">0,39</weight>
+  </para>
+  <para id="44">
+    <se lang="russian" variant_id="0">38) Сцепление и притяжение — одно и то же.</se>
+    <se lang="latin" variant_id="1">38) Cohaesio et attractio idem sunt.</se>
+    <weight variant_id="1">0,700446</weight>
+  </para>
+  <para id="45">
+    <se lang="russian" variant_id="0">39) Мы поднимаем огромные тяжести, а легкие [тела] разорвать не можем.</se>
+    <se lang="latin" variant_id="1">39) Ingentia pondera sublevamus, rumpere levia non possumus.</se>
+    <weight variant_id="1">0,594444</weight>
+  </para>
+  <para id="46">
+    <se lang="russian" variant_id="0">40) Пример гвоздя, вбитого в стену, и молотка 99/100 силы.</se>
+    <se lang="latin" variant_id="1">40) Exemplum clavi parieti infixi et mallei 99/100 vis.</se>
+    <weight variant_id="1">0,8875</weight>
+  </para>
+  <para id="47">
+    <se lang="russian" variant_id="0">41) Сжатое уплотнение порошка, когда выталкивается эфир.</se>
+    <se lang="latin" variant_id="1">41) Pressa complicatio pulveris, ubi aether eliditur.</se>
+    <weight variant_id="1">0,65625</weight>
+  </para>
+  <para id="48">
+    <se lang="russian" variant_id="0">42) Показать, что корпускулы эфира — это тела, т. е., что они давят, следовательно имеют силу инерции, и тяготительная материя воздействует на них.</se>
+    <se lang="latin" variant_id="1">42) Demonstrandum quod corpuscula aetheris sint corpora, scil. quod premunt, habent ergo vim inertiae et materia gravifica agit in illa.</se>
+    <weight variant_id="1">0,422518</weight>
+  </para>
+  <para id="49">
+    <se lang="russian" variant_id="0">43) Более простые тела должны сразу превращаться из твердых в жидкие и из жидких в твердые без предварительного размягчения.</se>
+    <se lang="latin" variant_id="1">43) Corpora simpliciora statim e solido in fluidum et e fluido in solidum transmutari debent sine praevia mollicie.</se>
+    <weight variant_id="1">0,433652</weight>
+  </para>
+  <para id="50">
+    <se lang="russian" variant_id="0">44) Некоторые более твердые тела легче сжижаются, чем более мягкие, например лед и масло.</se>
+    <se lang="latin" variant_id="1">44) Quaedam corpora duriora mollioribus facilius liquantur ut glacies et butyrum.</se>
+    <weight variant_id="1">0,529167</weight>
+  </para>
+  <para id="51">
+    <se lang="russian" variant_id="0">1) Сцепление есть производное движение.</se>
+    <se lang="latin" variant_id="1">1) Cohaesio est motus derivativus.</se>
+    <weight variant_id="1">0,751613</weight>
+  </para>
+  <para id="52">
+    <se lang="russian" variant_id="0">2) итак, сдавливаются под водою два кружка.</se>
+    <se lang="latin" variant_id="1">2) igitur comprimuntur duo orbiculi sub aqua.</se>
+    <weight variant_id="1">0,659211</weight>
+  </para>
+  <para id="53">
+    <se lang="russian" variant_id="0">3) не от воздуха.</se>
+    <se lang="latin" variant_id="1">3) non ab aëre.</se>
+    <weight variant_id="1">0,853846</weight>
+  </para>
+  <para id="54">
+    <se lang="russian" variant_id="0">4) не от тяготительной материн.</se>
+    <se lang="latin" variant_id="1">4) non a mater. grav.</se>
+    <weight variant_id="1">0,633333</weight>
+  </para>
+  <para id="55">
+    <se lang="russian" variant_id="0">5) от какой-либо другой жидкости.</se>
+    <se lang="latin" variant_id="1">5) a fluido alio aliquo.</se>
+    <weight variant_id="1">0,671429</weight>
+  </para>
+  <para id="56">
+    <se lang="russian" variant_id="0">6) Пояснение 1) опровержение притяжения.</se>
+    <se lang="latin" variant_id="1">6) Schol. ~~~ 1) refutatio attractionis.</se>
+    <weight variant_id="1">0,366667</weight>
+  </para>
+  <para id="57">
+    <se lang="russian" variant_id="0">7) Пояснение 2) опровержение покоя и инерции.</se>
+    <se lang="latin" variant_id="1">7) Schol. ~~~ 2) refutatio quietis et inertiae.</se>
+    <weight variant_id="1">0,25</weight>
+  </para>
+  <para id="58">
+    <se lang="russian" variant_id="0">8) Пояснение крючков и веревочек.</se>
+    <se lang="latin" variant_id="1">8) Schol. uncinulorum et funiculor.</se>
+    <weight variant_id="1">0,78</weight>
+  </para>
+  <para id="59">
+    <se lang="russian" variant_id="0">10) Присовокупление. ~~~ Физические монады.</se>
+    <se lang="latin" variant_id="1">10) Coroll. monades physicae.</se>
+    <weight variant_id="1">0,4475</weight>
+  </para>
+  <para id="60">
+    <se lang="russian" variant_id="0">11) Сцепление устраняется центральным движением.</se>
+    <se lang="latin" variant_id="1">11) Cohaesio tollitur per motum centralem.</se>
+    <weight variant_id="1">0,744737</weight>
+  </para>
+  <para id="61">
+    <se lang="russian" variant_id="0">12) жидкое, то тяжелое.</se>
+    <se lang="latin" variant_id="1">12) fluidum illud grave.</se>
+    <weight variant_id="1">0,885714</weight>
+  </para>
+  <para id="62">
+    <se lang="russian" variant_id="0">NB. сцеплены не силою инерции, потому что более тяжелые менее тверды, более легкие тверды.</se>
+    <se lang="latin" variant_id="1">NB. per vim inertiae non cohaerent quia graviora sunt minus solida leviora solida.</se>
+    <weight variant_id="1">0,484708</weight>
+  </para>
+</body>
+</html>

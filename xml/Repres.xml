@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html>
+<head>
+</head>
+<body>
+  <para id="0">
+    <se lang="" variant_id="0">§ 1</se>
+    <se lang="" variant_id="1">§ 1</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="1">
+    <se lang="russian" variant_id="0">Какую пользу приносит человеческому роду, особенно же в мореходстве, точное познание расположения и движения светил, ясно показывает открытое плавание в Индии, Америку и даже вокруг земного шара для соискания бесчисленных богатств.</se>
+    <se lang="latin" variant_id="1">Accurata situs et motus siderum cognitio quantum generi humano emolumenti afferat, praesertim vero in re nautica, luculentissime indicat aperta navigatio ad Indias, Americam, imo circa terrarum orbem ad immensas opes conquirendas.</se>
+    <weight variant_id="1">0,298507</weight>
+  </para>
+  <para id="2">
+    <se lang="russian" variant_id="0">Об этом можно больше найти в моих рассуждениях о точном определении пути корабля в море.</se>
+    <se lang="latin" variant_id="1">Qua de re plura videre potes in meditationibus meis de via navis in mari certius determinanda.</se>
+    <weight variant_id="1">0,28</weight>
+  </para>
+  <para id="3">
+    <se lang="" variant_id="0">§ 2</se>
+    <se lang="" variant_id="1">§ 2</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="4">
+    <se lang="russian" variant_id="0">Итак, опуская повторные объяснения этого, я приступлю к самому предмету и определю различные пути для различных важнейших мест земной поверхности, где усердием астрономов будет наблюдаться явление прохождения Венеры по диску Солнца.</se>
+    <se lang="latin" variant_id="1">Missis igitur de illa repetitis monitionibus ad rem ipsam accedo, atque tramites varias pro varus et praecipuis superficiel telluris locis definiam, ubi astronomorum industrie phaenomenon transitus Veneris per faciem Solis observabitur.</se>
+    <weight variant_id="1">0,294089</weight>
+  </para>
+  <para id="5">
+    <se lang="" variant_id="0">§ 3</se>
+    <se lang="" variant_id="1">§ 3</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="6">
+    <se lang="russian" variant_id="0">Повод к изданию этого небольшого труда дало неполное и ошибочное изображение этого правдивейшего явления, изданное недавно в академической типографии и принадлежащее достославному Эпинусу.</se>
+    <se lang="latin" variant_id="1">Ansam producendi hoc opusculum praebuit manca et falsa imago hujus verissimi phaenomeni nuper typis academicis edita, auctore clarissimo Aepino.</se>
+    <weight variant_id="1">0,205512</weight>
+  </para>
+  <para id="7">
+    <se lang="russian" variant_id="0">Так как этой книжкой может быть не только обмануто ожидание любознательных зрителей, но и сделано тщетным усердие наших наблюдателей, посылаемых ради этой цели почти к самым отдаленным пределам Сибири, то я счел необходимым, дав здесь истинное понятие и изображение кажущихся различных путей Венеры, устранить могущие возникнуть заблуждения, чтобы наблюдатели искали действительное вступление на его месте и не были поражены, видя несоответствующую ожиданию скорость и направление движения планеты;</se>
+    <se lang="latin" variant_id="1">Cum autem dicto libello curiosorum spectatorum exspectatio frustrari, imo vero et observatorum nostrorum, qui ad extremas fere Sibiriae fines hanc ob causam mittuntur, industria falli possit, necessarium esse duxi hic vera idea et iconismo appariturae variae semitae Veneris ex futuro inde errore evolvere, ut verum ingressum in suo loco quaerant, et cursus celeritatem ac directionem planetae haud praeter opinionem depraehensam non attoniti spectent;</se>
+    <weight variant_id="1">0,263136</weight>
+  </para>
+  <para id="8">
+    <se lang="russian" variant_id="0">а следовательно, не навязывали бы ученому миру ошибочных наблюдений, будучи лишены заранее обдуманного метода.</se>
+    <se lang="latin" variant_id="1">indeque adeo destituti praemeditata methodo erroneas observationes orbi erudito obtrudant.</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="9">
+    <se lang="russian" variant_id="0">Ибо чрезвычайно важно знать на диске Солнца место вступления до самого вступления и знать скорость видимого движения.</se>
+    <se lang="latin" variant_id="1">Maxime enim interest noscere locum ingressus in limbo Solis ante ipsum ingressum et motus apparentis celeritatem ad rationem temporis.</se>
+    <weight variant_id="1">0,255882</weight>
+  </para>
+  <para id="10">
+    <se lang="" variant_id="0">§ 4</se>
+    <se lang="" variant_id="1">§ 4</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="11">
+    <se lang="russian" variant_id="0">Длительность промежутка времени, в течение которого закончится это явление, составит 6 часов 33 минуты, за каковое время заданная на земной поверхности точка пройдет 98¼ градусов с запада на восток.</se>
+    <se lang="latin" variant_id="1">Duratio temporis, quo phaenomenon hoc absolvetur, erit horarum 6 et 33 minutorum, quo intervallo, percurret datum in superficie telluris punctum gradus 98¼ ab occidente versus orientent.</se>
+    <weight variant_id="1">1,72778</weight>
+  </para>
+  <para id="12">
+    <se lang="russian" variant_id="0">Поэтому эклиптика, а также и сам истинный путь Венеры по Солнцу будет составлять различные углы к горизонту и, таким образом, путь Венеры по диску Солнца будет представляться наблюдателям криволинейным и различно расположенным для различных мест.</se>
+    <se lang="latin" variant_id="1">Hinc vero eccliptica atque etiam ipsa Veneris per Solem vera semita efficiet varios ad horizontem angulos, atque adeo semita Veneris per discum Solis spectatoribus apparebit curvilinea, vario situ pro locorum varietate.</se>
+    <weight variant_id="1">0,263684</weight>
+  </para>
+  <para id="13">
+    <se lang="" variant_id="0">§ 5</se>
+    <se lang="" variant_id="1">§ 5</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="14">
+    <se lang="russian" variant_id="0">Пусть S — Солнце; T — Земля; AB — линия, проведенная в плоскости эклиптики через центры обоих тел; BC — путь Венеры по лику Солнца, видимый на центра Земли; EF — земная ось; E — полюс южный; F — северный; GH — экватор; x — точка экватора, из которой проведена к центру Земли линия, продолженная сквозь плоскость эклиптики.</se>
+    <se lang="latin" variant_id="1">Sit S — Sol., T — Tellus, AB — linea per planum ecclipticae ducta et per centra utriusque corporis, BC — semita Veneris per faciem Solis ex centro telluris spectanda, EF — axis Telluris, E — polus australis, F — borealis, GH — aequator, x — punctum aequatoris, ex quo linea ducta ad centrum telluris extenditur per planum ecclipticae.</se>
+    <weight variant_id="1">1,20285</weight>
+  </para>
+  <para id="15">
+    <se lang="russian" variant_id="0">Отсюда вертикаль к горизонту точки x будет параллельна линии AB, а с истинным путем Венеры составили угол, равный углу между плоскостью орбиты Венеры и эклиптикой.</se>
+    <se lang="latin" variant_id="1">Hinc verticalis ad horizontem puncti x erit cum AB paralella, cum vera autem semita Veneris efficiet angulum, qui est inter planum orbitae Veneris et ecclipticam.</se>
+    <weight variant_id="1">0,413226</weight>
+  </para>
+  <para id="16">
+    <se lang="russian" variant_id="0">После передвижения точки x в течение 6 часов по четвертой части окружности до точки G вертикаль к горизонту vG будет перпендикулярна к AB.</se>
+    <se lang="latin" variant_id="1">Moto jam puncto x 6 horis per quartam partem circuli usque in G erit verticalis ad horizontem, vG perpendicularis ad AB.</se>
+    <weight variant_id="1">2,29793</weight>
+  </para>
+  <para id="17">
+    <se lang="russian" variant_id="0">Истинный же путь Венеры будет составлять с ней прямой угол с добавлением угла, заключенного между истинным путем Венеры и эклиптикой.</se>
+    <se lang="latin" variant_id="1">Vera autem semita Veneris cum illa efficiet angulum rectum addito angulo, semita Veneris vera et eccliptica intercepto.</se>
+    <weight variant_id="1">0,268269</weight>
+  </para>
+  <para id="18">
+    <se lang="russian" variant_id="0">Изменяя непрерывно свое положение при прохождении 90 градусов, перпендикуляр к горизонту точки x будет составлять с путем CD различные углы, вследствие чего с необходимостью явствует, что видимый путь Венеры образует на диске Солнца линию, представляющуюся зрителям кривой. ~~~</se>
+    <se lang="latin" variant_id="1">Transeundo per 90 gradus mutato jugiter situ perpendicularis ad horizontem x, varios cum CD semita efficiet angulos, quo fieri necesse est, ut apparens semita Veneris curvam lineam in disco Solis apparenter spectatoribus describat,</se>
+    <weight variant_id="1">0,297214</weight>
+  </para>
+  <para id="19">
+    <se lang="russian" variant_id="0">Чтобы наметить ее на карте для любого местонахождения наблюдателя, я придумал инструмент, который назвал годографической астролябией и представляю здесь на чертеже, рекомендуя его астрономам как весьма пригодный не только для проведения путей прохождения Венеры или Меркурия по диску Солнца, но и для того чтобы при затмении Солнца или Луны провести ее центр по Солнцу или по земной тени.</se>
+    <se lang="latin" variant_id="1">ad quam pro quolibet loco observatoris in chartam projiciendam instrumentum excogitavi, quod astrolabii hodographici nomine decoratum hic in figura explicatum exhibeo, astronomisque commendo aptissimum non solum ad semitas Veneris aut Mercurii per Solis orbem delineandas, verum etiam cum Sol aut Luna deficit ad centrum ejus per Solem, vel umbram Telluris deducendum.</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="20">
+    <se lang="" variant_id="0">§ 6</se>
+    <se lang="" variant_id="1">§ 6</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="21">
+    <se lang="russian" variant_id="0">Исходя из этих принципов, я при помощи описанного нового моего метода и прибора наметил видимые пути Венеры, которая должна пройти по Солнцу будущей весной, как они представятся здесь в Петербурге, а также в Москве, Архангельске, Иркутске, Париже, Лондоне, Болонье, на мысе Доброй Надежды, в Пекине и в Пондишери.</se>
+    <se lang="latin" variant_id="1">Ex istis principiis nova mea mox descripta et methodo et machina delineavi semitas apparentes Veneris futuro verno tempore per Solem transgressurae, quem ad modum apparebit, hic Petropoli, item Mosquae, Archangelopoli, Ircuti, Lutetiae Parisiorum, Londini, Bononiae, in Capite Bonae Spei, Pekini, Pondicheriis.</se>
+    <weight variant_id="1">0,295506</weight>
+  </para>
+</body>
+</html>

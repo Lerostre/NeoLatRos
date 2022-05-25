@@ -1,0 +1,967 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html>
+<head>
+</head>
+<body>
+  <para id="0">
+    <se lang="" variant_id="0">§ 1</se>
+    <se lang="" variant_id="1">§ 1</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="1">
+    <se lang="russian" variant_id="0">Хотя уже с древних времен люди, искусные в химии, положили на нее много труда и забот, а особенно за последние сто лет, поборники ее, как бы сговорившись, наперерыв исследовали сокровенный состав природных тел, тем не менее важнейшая часть естественной науки все еще покрыта глубоким мраком и подавлена своей собственной громадою.</se>
+    <se lang="latin" variant_id="1">Quamvis ab omni aevo multam curam atque operam viri sollertes ad Chymiam contulerint, et praesertim centum retro annis, quasi conspirati, ejus cultores penitiorem corporum naturalium mixtionem certatim indagaverint, nihilominus tamen scientiae naturalis pars nobilissima profundis etiamnum tenebris involvitur et propria sua mole laborat.</se>
+    <weight variant_id="1">0,284043</weight>
+  </para>
+  <para id="2">
+    <se lang="russian" variant_id="0">От нас скрыты подлинные причины удивительных явлений, которые производит природа своими химическими действиями, и потому до сих пор нам не известны более прямые пути, ведущие ко многим открытиям, которые умножили бы счастье человеческого рода.</se>
+    <se lang="latin" variant_id="1">Latent genuinae rationes mirabilium phaenomenorum, quae per labores chymicos natura producit, ideoque ignoratur adhuc rectior via, cujus ductu multa detegi possent, quae utilia forent ad promovendam humani generis felicitatem.</se>
+    <weight variant_id="1">0,28191</weight>
+  </para>
+  <para id="3">
+    <se lang="russian" variant_id="0">Ибо надо признать, что хотя имеется великое множество химических опытов, в достоверности коих мы не сомневаемся, однако мы по справедливости сетуем, что из них можно сделать лишь малое число таких выводов, в которых нашел бы успокоение ум, изощренный геометрическими доказательствами.</se>
+    <se lang="latin" variant_id="1">Equidem fatendum est, prostare plurima experimenta chymica, de quorum certitudine non dubitamus; inde tamen pauca ratiocinia, in quibus judicia geometricis demonstrationibus exercitata acquiescere possunt, deducta esse iure querimur.</se>
+    <weight variant_id="1">0,243478</weight>
+  </para>
+  <para id="4">
+    <se lang="" variant_id="0">§ 2</se>
+    <se lang="" variant_id="1">§ 2</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="5">
+    <se lang="russian" variant_id="0">Среди важнейших химических операций выделяется растворение тел, которое прежде всего заслуживает физического исследования: в самом деле оно очень часто применяется в химических лабораториях при изучении тел и на лекциях физики обыкновенно показывается любознательным наряду с другими опытами; однако причины его пока еще не настолько выяснены, чтобы можно было из них объяснить явления, происходящие при этой операции.</se>
+    <se lang="latin" variant_id="1">Inter palmarias operationes chymicas est corporum solutio, quae ante reliquas meretur, ut examini physico subjiciatur, nam et in Chymicorum officinis corporibus examinandis saepissime inservit, et in collegiis physicis inter alia exprimenta curiosorum oculis subjici solet; verum tamen causae ejus nondum ita perspectae habentur, ut phaenomena, quae in hoc negotio sese exserunt, inde explicari possint.</se>
+    <weight variant_id="1">0,288889</weight>
+  </para>
+  <para id="6">
+    <se lang="russian" variant_id="0">Обычно те, кто говорят о причинах растворений, утверждают, что все растворители входят в поры растворяемых тел (ниже будет показано, что это имеет место не всегда) и постепенно отрывают их частицы.</se>
+    <se lang="latin" variant_id="1">Qui solutionum causas vulgo exponunt, menstrua omnia solvendorum corporum poros ingredi (quod tamen non ubivis locum habere inferius patebit) et tandem eorum particulas abrumpere affirmant.</se>
+    <weight variant_id="1">0,294578</weight>
+  </para>
+  <para id="7">
+    <se lang="russian" variant_id="0">Но на вопрос о том, какими силами производится это действие отрывания, не дается никакого сколько-нибудь вероятного объяснения, кроме произвольно приписываемых растворителям клиньев, крючочков и не знаю еще каких инструментов.</se>
+    <se lang="latin" variant_id="1">Sed quibus viribus iste abruptionis effectus producatur, praeter cuneos, uncinulos et alia nescio quae instrumenta, quae menstruis precario tribuuntur, haud ulla ratio vel utcunque plausibilis affertur.</se>
+    <weight variant_id="1">0,264607</weight>
+  </para>
+  <para id="8">
+    <se lang="" variant_id="0">§ 4</se>
+    <se lang="" variant_id="1">§ 4</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="9">
+    <se lang="russian" variant_id="0">Один и тот же растворитель не может действовать на любое тело, но для растворения каждого берется соответствующий растворитель. ~~~ Это обыкновенно пытаются объяснить при помощи различий в величине и фигуре пор растворяемого тела и частиц растворителя, которые, как предполагают, облегчают или преграждают доступ растворителю, входящему в поры. ~~~ Так, например, если селитряный спирт растворяет серебро, медь, железо и другие менее благородные металлы, на золото же не действует, то это обычно объясняют тем, что поры золота как самого плотного из всех тел наиболее узки и поэтому частицы селитряного спирта не могут войти в них.</se>
+    <se lang="latin" variant_id="1">Unum idemque menstruum non in singula corpora agere potis est, sed ad quodlibet solvendum adhibetur menstruum conveniens; quod explicaturi in diversa magnitudine et figura pororum solvendi corporis et particularum menstrui opem quaerere solent, quibus viam menstruo poros ingredienti facilitari vel praecludi arbitrantur: e. g. quod spiritus nitri argentum, cuprum, ferrum et reliqua metalla ignobiliora solvat, aurum vero non attingat, ratio reddi solet, poros auri, prout omnium corporum densissimi, esse strictissimos, eoque fieri, ut particulae spiritus nitri eos ingredi nequeant.</se>
+    <weight variant_id="1">-0,119249</weight>
+  </para>
+  <para id="10">
+    <se lang="russian" variant_id="0">Мы готовы признать, что более крупные частицы растворителя не могут проникнуть в более мелкие поры растворяемого; но, как мы увидим из последующего, частицы селитряного спирта гораздо тоньше, чем поры золота.</se>
+    <se lang="latin" variant_id="1">Equidem fatemur, particulas menstrui grandiores poros solvendi subtiliores ingredi non posse; particulas tamen spiritus nitri multo subtiliores esse poris auri ex sequentibus colligimus.</se>
+    <weight variant_id="1">0,272727</weight>
+  </para>
+  <para id="11">
+    <se lang="russian" variant_id="0">Селитряный и соляной спирты, взятые в отдельности, не растворяют золота; но смешанные в царскую водку становятся специальным растворителем золота.</se>
+    <se lang="latin" variant_id="1">Spiritus nitri et spiritus salis seorsim sumpti aurum quidem non solvunt, at in aquam regis commixti peculiare auri menstruum existunt.</se>
+    <weight variant_id="1">0,269231</weight>
+  </para>
+  <para id="12">
+    <se lang="russian" variant_id="0">Следовательно, они входят в поры его (что это действительно происходит, будет показано в § 20), откуда вытекает, что частицы селитряного и соляного спиртов, соединившись в смешанные корпускулы, меньше пор золота; и, следовательно, взятые в отдельности, должны обладать гораздо меньшими размерами, чем те же поры золота.</se>
+    <se lang="latin" variant_id="1">Consequenter poros ejus ingrediuntur (quod actu fieri § 20 demonstrabitur), unde evidens est, particulas spiritus nitri et spiritus salis, simul in corpuscula mixta junctas, esse poris auri minores, atque adeo a se invicem separates multo minore extensione praeditas esse debere iisdem auri meatibus.</se>
+    <weight variant_id="1">0,348491</weight>
+  </para>
+  <para id="13">
+    <se lang="russian" variant_id="0">Однако не сомневаюсь, что найдутся многие, которые возразят, что ~~~ селитряный спирт субтилизируется соляным, т. е. его частицы делаются меньше.</se>
+    <se lang="latin" variant_id="1">Non tamen ~~~ dubito fore plerosque, qui objiciant spiritum nitri spiritu salis subtilisari, hoc est, particulas ejus minores reddi.</se>
+    <weight variant_id="1">-0,181731</weight>
+  </para>
+  <para id="14">
+    <se lang="russian" variant_id="0">Но если бы это действительно так было, то селитряный спирт, тщательно отделенный от соляного спирта, как сделавшийся более тонким, был бы в состоянии один растворять золото, что, тем не менее, никоим образом не удается.</se>
+    <se lang="latin" variant_id="1">Verum, quodsi hoc verum foret, spiritus nitri, a spiritu salis sollicite separatus, cum jam esset subtilior factus, solus aptus foret ad aurum solvendum, quod tamen nequaquam succedit.</se>
+    <weight variant_id="1">0,24717</weight>
+  </para>
+  <para id="15">
+    <se lang="" variant_id="0">§ 5</se>
+    <se lang="" variant_id="1">§ 5</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="16">
+    <se lang="russian" variant_id="0">Имеются и другие данные, свидетельствующие о том, что крупные размеры пор отнюдь не облегчают вхождение жидкостей в твердые тела.</se>
+    <se lang="latin" variant_id="1">Nec alia documenta desunt, quibus evincitur magnitudine pororum ingressum liquidorum in corpora solida minime facilitari.</se>
+    <weight variant_id="1">0,288889</weight>
+  </para>
+  <para id="17">
+    <se lang="russian" variant_id="0">Так, ртуть легко сама собою проходит в поры золота — весьма плотного тела, но не проникает, если не применить для этого силы, в дерево, кожу, бумагу — тела пористые.</se>
+    <se lang="latin" variant_id="1">Etenim mercurius poros auri, corporis densissimi, facile sponte sua pervadit, at ligna, corium, chartam, corpora porosissima, non penetrat, nisi vi adigatur.</se>
+    <weight variant_id="1">0,3</weight>
+  </para>
+  <para id="18">
+    <se lang="" variant_id="0">§ 6</se>
+    <se lang="" variant_id="1">§ 6</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="19">
+    <se lang="russian" variant_id="0">Не больше надежды можно возложить и на различную фигуру пор и частиц, для того чтобы выяснить причины различного проникания растворителей в тела.</se>
+    <se lang="latin" variant_id="1">Nec major sane spes exponendi causas varii in poros corporum ingressus menstruorum posita est in varia pororum et particularum figura.</se>
+    <weight variant_id="1">0,276724</weight>
+  </para>
+  <para id="20">
+    <se lang="russian" variant_id="0">Действительно, если частные качества тел зависят от нее, то большое несоответствие фигуры должно было бы отличать частицы ртути и крепкой водки; ведь эти два тела различаются столькими качествами: способностью пропускать и отражать лучи света, вкусом, тяжестью и различными способностями воздействия на однородные тела.</se>
+    <se lang="latin" variant_id="1">Enimvero si qualitates corporum particulares ab illa pendent, magna profecto figurae discrepantia particulas mercurii et aquae fortis intercederet, cum tot qualitatibus, nempe transmissione et reflexione radiorum, sapore, gravitate et diversis virtutibus, quas in homogenea corpora exercent, haec duo corpora inter se differant.</se>
+    <weight variant_id="1">0,289209</weight>
+  </para>
+  <para id="21">
+    <se lang="russian" variant_id="0">Тем не менее, оба эти растворителя проникают в одинаковые поры одного и того же тела, например, серебра.</se>
+    <se lang="latin" variant_id="1">Nihilominus tamen utrumque menstruum poros similes, ejusdem quippe corporis, e. g. argenti, penetrat.</se>
+    <weight variant_id="1">0,296629</weight>
+  </para>
+  <para id="22">
+    <se lang="russian" variant_id="0">А что фигура тел очень мало препятствует их вхождению в достаточно широкие проходы, очевидно и без ученых изысканий: через более широкие ворота, как мы видим, входят люди, вьючные лошади, повозки, несмотря на различие их фигур.</se>
+    <se lang="latin" variant_id="1">Ceterum ubi meatus satis patent, figuram corporum eorundem ingressui minus obstare etiam rudior Minerva docet: siquidem per ampliorem portam homines, jumenta et plaustra intrare videmus, figurae varietate nihil obstante.</se>
+    <weight variant_id="1">0,298446</weight>
+  </para>
+  <para id="23">
+    <se lang="" variant_id="0">§ 7</se>
+    <se lang="" variant_id="1">§ 7</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="24">
+    <se lang="russian" variant_id="0">Вхождение жидкости в поры твердого тела — не что иное, как соединение обоих тел в одно, подобно слиянию жидкостей.</se>
+    <se lang="latin" variant_id="1">Ingressus liquidi in poros solidi nil aliud est, quam utriusque corporis in unum combinatio, qualis est liquidorum corporum confusio.</se>
+    <weight variant_id="1">0,241237</weight>
+  </para>
+  <para id="25">
+    <se lang="russian" variant_id="0">Различие заключается только в том, что когда сливаются два жидких тела, оба они поступательным внутренним движением ~~~ проникают друг другу в поры, а когда жидкое тело соединяется с твердым, то лишь одно жидкое тело при помощи внутреннего поступательного движения входит в поры твердого.</se>
+    <se lang="latin" variant_id="1">Quae in eo solum discrepant, quod ubi duo corpora liquida confunduntur, utrumque motu intestino progressivo alterius poros invicem penetrat, verum ubi corpus liquidum cum solido jungitur, tum solum corpus liquidum, mediante motu progressivo intestino, poros solidi ingreditur.</se>
+    <weight variant_id="1">-0,00311203</weight>
+  </para>
+  <para id="26">
+    <se lang="" variant_id="0">§ 8</se>
+    <se lang="" variant_id="1">§ 8</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="27">
+    <se lang="russian" variant_id="0">Жидкости при сливании смешиваются одни легче, другие труднее: так, вода легко смешивается с водными спиртами, каковы кислые и горючие, но не дает соединения с маслами. ~~~ Точно так же ведут себя и расплавленные твердые тела: металлические гораздо легче соединяются с металлами, землистые — с землями, соляные — с солями, чем металлические с землями или камнями, или расплавленными солями.</se>
+    <se lang="latin" variant_id="1">Liquida per confusionem alia libentius, alia difficilius permiscentur, e. g. aqua cum spiritibus aquosis, ut sunt acidi et ardentes, facile confunditur, at cum oleis jungi detrectat, pari ratione corpora solida liquefacta, ut metallica metallis, terrea terris, salina salibus, multo facilius uniuntur, quam metallica corpora terris vel lapidibus aut salibus fusis.</se>
+    <weight variant_id="1">-0,00759494</weight>
+  </para>
+  <para id="28">
+    <se lang="russian" variant_id="0">Отсюда ясно, что частицы жидких тел одного и того же рода легче проникают друг в друга и проходят в поры поступательным движением, чем частицы разнородных жидких тел.</se>
+    <se lang="latin" variant_id="1">Ex quo elucet, particulas corporum fluidorum ejusdem generis facilius motu progressivo juxta se invicem serpere et poros pervadere, quam particulas corporum liquidorum heterogeneorum.</se>
+    <weight variant_id="1">0,255319</weight>
+  </para>
+  <para id="29">
+    <se lang="" variant_id="0">§ 9</se>
+    <se lang="" variant_id="1">§ 9</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="30">
+    <se lang="russian" variant_id="0">Итак, мерою однородности должно определяться и вхождение жидкостей в поры твердых тел (§ 7), т. е. жидкости должны легче проникать в поры подобнородного твердого тела, труднее — в поры инородного.</se>
+    <se lang="latin" variant_id="1">Homogeneitatis igitur ratio etiam in ingressu liquidorum in poros solidorum corporum haberi debet (§ 7), hoc est fluida poros solidi homogenei facilius, heterogenei difficilius ingrediantur, necesse est.</se>
+    <weight variant_id="1">0,496429</weight>
+  </para>
+  <para id="31">
+    <se lang="russian" variant_id="0">Это подтверждает следующий опыт.</se>
+    <se lang="latin" variant_id="1">Quod sequenti experientia comprobatur.</se>
+    <weight variant_id="1">0,24</weight>
+  </para>
+  <para id="32">
+    <se lang="russian" variant_id="0">При отделении более благородных металлов от низких в пробирной печи, расплавленный свинец не входит в купель, пока не остеклуется.</se>
+    <se lang="latin" variant_id="1">Metalla nobiliora ubi a vilioribus in furno docimastico secernuntur, tum plumbum fusum cupellam non ingreditur, quin prius vitrescat.</se>
+    <weight variant_id="1">0,289381</weight>
+  </para>
+  <para id="33">
+    <se lang="russian" variant_id="0">Это означает, что до тех пор, пока металл сохраняет в своем смешении горючую материю, сообщающую ему блеск и ковкость, он не может смешиваться с пеплом, образующим купель, и проникать в его поры.</se>
+    <se lang="latin" variant_id="1">Nimirum, quamdiu inflammabilem materiam, quae metallis et splendorem et ductilitatem conciliat, in mixtione sua retinet, tamdiu cum cineribus, cupellam constituentibus, misceri et poros illorum pervadere non potest.</se>
+    <weight variant_id="1">0,254545</weight>
+  </para>
+  <para id="34">
+    <se lang="russian" variant_id="0">А когда флогистон силою огня изгоняется, оставляя другие составные части свинца, то последний, потеряв ковкость и металлический блеск, стеклуется, проникает в поры купели, как тела также способного стекловаться и значит подобнородного, и уносит с собою в эти поры все, что подвержено остеклованию.</se>
+    <se lang="latin" variant_id="1">At postquam phlogiston vi ignis a reliquis plumbi miscibilibus excutitur, tum id, amissa ductilitate et splendore metallico, vitrescit, poros cupellae, prout corporis etiam vitrescibilis et ideo sibi homogenei, penetrat, atque omnia, quae vitrefactioni obnoxia sunt, secum in eos invehit.</se>
+    <weight variant_id="1">0,291393</weight>
+  </para>
+  <para id="35">
+    <se lang="russian" variant_id="0">Поэтому не удивительно, что золото и серебро не входят в пепел купели, ибо они никогда не стеклуются.</se>
+    <se lang="latin" variant_id="1">Unde mirum non est, aurum et argentum intra cineres cupellae minus ingredi, cum, nunquam vitrescant.</se>
+    <weight variant_id="1">0,276923</weight>
+  </para>
+  <para id="36">
+    <se lang="" variant_id="0">§ 10</se>
+    <se lang="" variant_id="1">§ 10</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="37">
+    <se lang="russian" variant_id="0">Так как подобнородность, которая облегчает вхождение жидкостей в твердые тела, состоит в тождестве самой материи, то тщетно искать в самих порах, т. е. не в материи, причину, в силу которой определенные растворители легко входят в поры растворяемых тел: ведь поры — не что иное, как промежутки, не содержащие самой материи тела.</se>
+    <se lang="latin" variant_id="1">Quoniam igitur homogeneitas, qua ingressus liquidorum in solida facilitatur, consistit in identitate ipsius materiae, frustra sane ratio, ob quam certa quaedam menstrua solvendorum corporum poros facile ingrediuntur, in poris ipsis, hoc est non in materia, quaeritur, cum pori nil aliud sint, quam spatiola ab ipsa materia corporis vacua.</se>
+    <weight variant_id="1">0,286022</weight>
+  </para>
+  <para id="38">
+    <se lang="" variant_id="0">§ 11</se>
+    <se lang="" variant_id="1">§ 11</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="39">
+    <se lang="russian" variant_id="0">Итак, поскольку почти все, что до сих пор было предложено относительно причин растворений, не стоит на твердой почве, мы сочли небесполезным создать более точную теорию этого предмета, подробнее рассмотрев химические и физические опыты, которые могут дать что-либо для объяснения растворения, и сопоставив их друг с другом.</se>
+    <se lang="latin" variant_id="1">Cum itaque fere omnia, quae hactenus de causis solutionum alias proposita sunt, haud firmo pede nitantur, ideo non inutile fore judicavimus, ut experimentis chymicis et physicis, quae ad explicandam solutionem conferre aliquid visa sunt, severius excussis et inter se collatis, magis exactam theoriam de hoc themate conderemus.</se>
+    <weight variant_id="1">0,296774</weight>
+  </para>
+  <para id="40">
+    <se lang="russian" variant_id="0">Мы здесь, однако, не задаемся целью выяснить те отдельные специальные свойства, в силу которых различные растворители действуют на разные растворяемые тела (это можно будет изложить и выяснить не раньше, чем будет определено число химических элементов и будет точно изучена химическая природа их), но предполагаем только описать причины растворений вообще.</se>
+    <se lang="latin" variant_id="1">Non tamen hic apud nos statuimus enucleare singulas virtutes specificas, quibus diversa menstrua agunt in diversa corpora solvenda (quod non ante exponi et dilucidari poterit, quam ubi principiorum chymicorum numerus fuerit decisus eorumque natura distincte cognita), sed tantum in animum induximus exponere solutionum causas in genere.</se>
+    <weight variant_id="1">0,282534</weight>
+  </para>
+  <para id="41">
+    <se lang="" variant_id="0">§ 12</se>
+    <se lang="" variant_id="1">§ 12</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="42">
+    <se lang="russian" variant_id="0">Итак, исследуя общие причины растворений, мы попытаемся показать, каким образом и какими силами растворитель может разъединять частицы растворяемого, уничтожив их взаимное сцепление.</se>
+    <se lang="latin" variant_id="1">Genericas igitur solutionum causas daturi ostendere tenemur quibus viribus quaque ratione menstruum solvendi particulas divellere possit, sublata mutua earum cohaesione.</se>
+    <weight variant_id="1">0,278146</weight>
+  </para>
+  <para id="43">
+    <se lang="russian" variant_id="0">Но как действующие частицы растворителя, так и самое действие представляются чувствам не ясно. ~~~ Нам остается поэтому попытаться отыскать истину, сосредоточив все внимание только на явлениях, сопутствующих растворению.</se>
+    <se lang="latin" variant_id="1">Verum cum particulae menstrui agentes, tum etiam ipsa actio sensibus haud distincte repraesentantur; restat itaque, ut ad sola phaenomena, solutiones comitantia, attenti veritatem investigare periclitemur.</se>
+    <weight variant_id="1">-0,00906593</weight>
+  </para>
+  <para id="44">
+    <se lang="russian" variant_id="0">Сопоставляя эти явления друг с другом, мы находим, что они в одних случаях одинаковы, в других — противоположны.</se>
+    <se lang="latin" variant_id="1">Quae cum inter se conferimus, alia aliis gemma, alia vero contrara offendimus.</se>
+    <weight variant_id="1">0,176471</weight>
+  </para>
+  <para id="45">
+    <se lang="russian" variant_id="0">Из последних самые известные такие: кислотные спирты при растворении металла нагреваются, а вода при растворении солей охлаждается.</se>
+    <se lang="latin" variant_id="1">Ad posteriora spectant illa notissima, quod nempe, spiritus acidi solvendo metalla incalescant, aqua vero solvendo sales magisfrigida reddatur.</se>
+    <weight variant_id="1">0,271552</weight>
+  </para>
+  <para id="46">
+    <se lang="russian" variant_id="0">Эти явления обусловлены противоположными причинами, и мы подозреваем, что металлы в кислых спиртах растворяются иначе, чем соли в воде.</se>
+    <se lang="latin" variant_id="1">Contraria ista phaenomena causa exstiterunt, ut suspicaremur, metalla in spiritibus acidis alia ratione solvi, quam sales in aqua.</se>
+    <weight variant_id="1">0,289474</weight>
+  </para>
+  <para id="47">
+    <se lang="russian" variant_id="0">И так как опыты, сделанные нами с растворами в пустоте, оказались вполне отвечающими ранее выработанной нами теории, то мы этими опытами подкрепляем ее как построенную теперь на верном основания.</se>
+    <se lang="latin" variant_id="1">Et cum experimenta, circa solutiones in vacuo a nobis institute, conceptae antea nostrae theoriae ex asse respondere videremus, eandem nunc certis principiis superstructam dictis experimentis confirmamus.</se>
+    <weight variant_id="1">0,278571</weight>
+  </para>
+  <para id="48">
+    <se lang="" variant_id="0">§ 14</se>
+    <se lang="" variant_id="1">§ 14</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="49">
+    <se lang="russian" variant_id="0">Когда крепкие водки действуют на металлы, то обыкновенно происходит вскипание; чтобы его рассмотреть, я взял короткую тонкую железную проволоку и прикрепил каждый конец ее воском к стеклянному кружку; на середину проволоки я поместил каплю селитряного спирта, разбавленного водою, чтобы растворение протекало медленно (быстро идущий процесс этого рода слишком неотчетлив и затрудняет наблюдение); на каплю, растворяющую железо, я направил достаточно сильный микроскоп.</se>
+    <se lang="latin" variant_id="1">Aquis fortibus in metalla agentibus effervescentia suboriri solet, quam contemplaturus accepi filum ferreum, breve et tenue, utramque ejus extremitatem orbiculo vitreo agglutinavi cera; super medium fili instillavi guttam spiritus nitri, aqua diluti, eum in finem, ut solutio leni passu procederet (praeceps enim ejusmodi operatio est nimium confusa, contemplationemque turbat), in guttulam, ferrum solventem, direxi microscopium satis acutum.</se>
+    <weight variant_id="1">0,283763</weight>
+  </para>
+  <para id="50">
+    <se lang="russian" variant_id="0">С поверхности проволоки поднимались воздушные пузырьки вместе с частицами железа бурого цвета, которые, как и пузырьки воздуха, отбрасывались в направлении, перпендикулярном к железной проволоке, и хотя я часто менял положение ее, но направление это сохранялось.</se>
+    <se lang="latin" variant_id="1">Prorumpebant a superficie fili bullulae äereae simul cum particulis ferri, quae erant colore fusco et, non secus ac ipsae bullulae, vibrabantur secundum directionem filo ferreo perpendicularem, et, quamvis situm ejus saepius immutarem, perpendicularis tamen directio durabat.</se>
+    <weight variant_id="1">0,284279</weight>
+  </para>
+  <para id="51">
+    <se lang="" variant_id="0"></se>
+    <se lang="" variant_id="1"></se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="52">
+    <se lang="russian" variant_id="0">После этого, применив более крепкий спирт, я снова рассматривал под микроскопом растворение проволоки. Видна была огромная масса отбрасываемых частиц с бесчисленными пузырьками, непрерывно следовавшими друг за другом; они устремлялись с поверхности проволоки в перпендикулярном направлении и представляли при свете свечи подобие бесчисленных светящихся фонтанов или, скорее, потешных огней, одновременно ~~~ пущенных в воздух.</se>
+    <se lang="latin" variant_id="1">Post haec, adhibito spiritu fortiore, solutionem fili rursus per microscopium lustrabam; vibrabatur ingens vis particularum cum innumeris bullulis, continua serie succedentibus, quae perpendiculari directione a superficie fili ferebantur et ad limen candelae innumeros fontes salientes lucidos, vel potius ignes festivos cumulatim per aërem missos repraesentabant.</se>
+    <weight variant_id="1">-0,108791</weight>
+  </para>
+  <para id="53">
+    <se lang="russian" variant_id="0">Частицы железа в последнем случае делались заметны не раньше, чем когда они, оттолкнутые далеко от проволоки, перемещались в растворителе беспорядочным движением.</se>
+    <se lang="latin" variant_id="1">Particulae ferri in casu posteriore non prius conspiciebantur, quam ubi a filo longius repulsae confusis motibus in menstruo agitarentur.</se>
+    <weight variant_id="1">0,2425</weight>
+  </para>
+  <para id="54">
+    <se lang="" variant_id="0">§ 15</se>
+    <se lang="" variant_id="1">§ 15</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="55">
+    <se lang="russian" variant_id="0">Итак, частицы металла отбрасываются силою растворителя в направлении, перпендикулярном к поверхности растворяемого тела. ~~~ Примем, что частица af отталкивается действием растворителя от поверхности BC тела BCDE в направлении ag; необходимо, чтобы растворитель действовал на нее в том же направлении, т. е. толкал ее от a к g; но толкать от a к g он может не иначе, как ударяя в часть поверхности растворяемого тела ff, по другую сторону от ближайшей поверхности растворения BC; в нее растворитель не может ударить, если он предварительно не поместился между частицей af и остальными частями растворяемого тела в пространствах ff; т. е. кислотные спирты могут растворять металлы не иначе, как входя в их поры.</se>
+    <se lang="latin" variant_id="1">Quoniam itaque particulae metalli vibrantur vi menstrui secundum directionem perpendicularem ad corporis solvendi superficiem, quamobrem ponamus particulam af propellendam esse actione menstrui a superficie BC corporis BCDE secundum directionem ag;b necesse igitur est, ut menstruum agat in illam secundum eandem directionem; hoc est, eam impellatb ex a versus g, sed impellere ex a versus g non potest, quin impingat in partem superficiei ejus ff, a proxima solvendi superficie BC aversam, in hanc vero impingere menstruum nequit, nisi prius sit inter particulam af et reliquas partes solvendi in spatiolis ff constitutum; hoc est, spiritus acidi solvere metalla nequeunt, nisi ingrediantur poros eorum.</se>
+    <weight variant_id="1">0,0905488</weight>
+  </para>
+  <para id="56">
+    <se lang="" variant_id="0">§ 16</se>
+    <se lang="" variant_id="1">§ 16</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="57">
+    <se lang="russian" variant_id="0">Металлы, расплавленные на самом сильном огне, вскипают и, подобно кислотному спирту и воде, выбрасывают пузырьки воздуха — ясное указание, что в металлах, так же как и в кислотных спиртах и воде, содержится воздух, рассеянный в порах их; теплотою он из них изгоняется, в силу собственной легкости поднимается вверх и образует пузырьки.</se>
+    <se lang="latin" variant_id="1">Metalla validissimo igne fusa fervent et, non secus ac spiritus acidi atque aqua, bullas aëreas projiciunt, manifesto indicio, in metallis non aliter ac in spiritibus acidis atque aqua contineri aërem, per poros eorum disseminatum, qai calore ex illis excutitur, propria levitate sursum ascendit et bullas format.</se>
+    <weight variant_id="1">0,281041</weight>
+  </para>
+  <para id="58">
+    <se lang="russian" variant_id="0">Как только металл погружается в кислотный спирт, он тотчас отбрасывает от своей поверхности пузырьки воздуха; отсюда ясно, что воздух, рассеянный в порах того и другого тела или одного из них, в момент растворения расширяется, т. е. проявляет действие своей упругости. ~~~ Это может происходить от трех причин: 1) когда устраняется давление внешнего воздуха; 2) если сам воздух воспринимает бо̀льшую степень теплоты; 3) наконец, когда большее количество воздуха внедряется в то же вместилище.</se>
+    <se lang="latin" variant_id="1">Quamprimum metallum spiritui acido immergitur, statim bullas aëreas a superficie sua vibrat; unde patet, aërem, per poros utriusque vel alterius utrius corporis disseminatum, tempore solutionis expandi, consequenter vim ejus elasticam actu exseri, quod triplici de causa proficisci solet: 1) quando pressio aëris externi tollitur; 2) si aër ipse majorem gradum caloris in se recipit; 3) denique quando major quantitas aëris in idem receptaculum intruditur.</se>
+    <weight variant_id="1">-0,0102792</weight>
+  </para>
+  <para id="59">
+    <se lang="" variant_id="0">§ 18</se>
+    <se lang="" variant_id="1">§ 18</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="60">
+    <se lang="russian" variant_id="0">Так как растворения металлов, сопровождающиеся вскипанием растворителя, всегда происходят под атмосферным давлением, то совершенно очевидно, что упомянутое расширение воздуха не происходит от первой из названных причин.</se>
+    <se lang="latin" variant_id="1">Cum autem solutiones metallorum, comitante effervescentia menstrui, sub gravi atmosphaera semper succedant, a causa igitur priore memoratam aëris expansionem haud proficisci evidentissimum est.</se>
+    <weight variant_id="1">0,259884</weight>
+  </para>
+  <para id="61">
+    <se lang="russian" variant_id="0">Далее, кислый спирт, растворяющий металл, сперва вскипает, потом нагревается, и теплота, появляющаяся после вскипания, всегда гораздо меньше, чем та, которая производит кипение кислотных спиртов, помещенных на огонь; поэтому расширение воздуха, производящее вскипание в кислотных спиртах, растворяющих металлы, отнюдь не зависит от увеличения теплоты. ~~~ Следовательно, достаточное основание вскипания крепкой водки содержится в сжатии воздуха, рассеянного в порах самой крепкой водки или металла.</se>
+    <se lang="latin" variant_id="1">Porro spiritus acidus metalla solvens prius ebullit, quam incalescit, et calor, qui ebullitionem sequitur, semper multo minor est, quam qui alias in spiritibus acidis, igni expositis, effervescentiam excitat; expansio igitur aëris, quae in spiritibus acidis metalla solventibus ebullitionem generat, ab aucto calore minime dependet, atque adeo ratio sufficiens ebullitionis aquae fortis continetur in constipatione aëris, disseminati per poros ipsius aquae fortis vel metalli.</se>
+    <weight variant_id="1">-0,00795181</weight>
+  </para>
+  <para id="62">
+    <se lang="" variant_id="0">§ 19</se>
+    <se lang="" variant_id="1">§ 19</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="63">
+    <se lang="russian" variant_id="0">Итак, необходимо допустить обнаруженное нами сгущение воздуха в порах или спирта-растворителя, или металла.</se>
+    <se lang="latin" variant_id="1">Indigitata aëris condensatio vel in poris spiritus solventis vel ipsius metalli fiat, necesse est.</se>
+    <weight variant_id="1">0,265116</weight>
+  </para>
+  <para id="64">
+    <se lang="russian" variant_id="0">Так как частицы спирта, жидкого тела, не прочно связаны друг с другом, то они не могут сопротивляться воздуху, сгущающемуся в их порах и расширяющемуся по причине большей упругости; поэтому они должны поддаться растущей упругости, так что воздух, расширившись спокойно в пузырьки, по своей легкости без всякого волнения поднимется к поверхности жидкости.</se>
+    <se lang="latin" variant_id="1">Verum quoniam particulae spiritus, tanquam corporis fluidi, levissime cohaerent, unde aëri, in poris suis sese condensanti et ob majorem elaterem expandenti, resistere non possunt, adeoque illi crescenti cedere debent, ut aër, placide in bullulas expansus, levitate sua ad liquoris superficiem sine ulla agitatione ascendat.</se>
+    <weight variant_id="1">0,295862</weight>
+  </para>
+  <para id="65">
+    <se lang="russian" variant_id="0">Но воздушные пузырьки, освободившиеся во время растворения, стремительно отбрасываются перпендикулярно к поверхности металла при любом положении последнего (§ 14); поэтому нельзя допустить, чтобы этот воздух сгущался в порах растворителя-спирта, следовательно он должен быть в порах твердого тела, т. е. самого металла, с поверхности коего он выделяется маленькими пузырьками.</se>
+    <se lang="latin" variant_id="1">Verum bullulae aëreae, durante solutione expansae, a superficie metalli perpendiculariter cum impetu vibrantur in quolibet ejus situ (§ 14), fieri igitur nequit, ut aër ille in poris spiritus solventis condensetur, consequenter in poris corporis solidi, hoc est, metalli ipsius, a cujus superficie minutis bullulis prosilit.</se>
+    <weight variant_id="1">0,312904</weight>
+  </para>
+  <para id="66">
+    <se lang="" variant_id="0">§ 20</se>
+    <se lang="" variant_id="1">§ 20</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="67">
+    <se lang="russian" variant_id="0">Но в порах металла воздух не может сгуститься без того, чтобы присоединился новый воздух к уже находящемуся в них; а в течение растворения никакой воздух не может прибавиться, кроме входящего с растворителем в поры металла, т. е. того воздуха, который находится в порах растворителя.</se>
+    <se lang="latin" variant_id="1">Cum vero in poris metalli aër condensari nequeat, nisi haerenti in illis aëri novus accedat, durante autem solutione, nullus accedere potest, quin cum menstruo in poros ingrediatur, is nimirum, qui in poris ejus continetur.</se>
+    <weight variant_id="1">0,221466</weight>
+  </para>
+  <para id="68">
+    <se lang="russian" variant_id="0">Это подтверждается и дальнейшим.</se>
+    <se lang="latin" variant_id="1">Quod etiam sequentibus comprobatur.</se>
+    <weight variant_id="1">0,27</weight>
+  </para>
+  <para id="69">
+    <se lang="" variant_id="0">§ 21</se>
+    <se lang="" variant_id="1">§ 21</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="70">
+    <se lang="russian" variant_id="0">Воздух, рассеянный в порах жидкости, проникает в самые тесные и узкие поры твердого тела, в какие один он войти не может.</se>
+    <se lang="latin" variant_id="1">Aër, per poros fluidi disseminatus, etiam angustissimos et compressos solidorum poros penetrat, quos solus pervadere nequit.</se>
+    <weight variant_id="1">0,276471</weight>
+  </para>
+  <para id="71">
+    <se lang="russian" variant_id="0">Причина этого легко может быть усмотрена из нашей теории упругости воздуха, § 24 и 26.. Эта истина, подтвержденная опытами, сделанными знаменитым Вольфом над порами животного пузыря, прекрасно известна физикам.</se>
+    <se lang="latin" variant_id="1">Ratio hujus rei ex theoria nostra de vi aëris elastica § 24 et 26 facile perspici potest, et veritas ipsa, experimentis ab excell. ~~~ Wolfio circa poros vesicae institutis, comprobata, Physicis est notissima.</se>
+    <weight variant_id="1">0,0231651</weight>
+  </para>
+  <para id="72">
+    <se lang="russian" variant_id="0">Под колоколом воздушного насоса при вытягивании воздуха кипение возбуждается в кислотных спиртах гораздо труднее, чем в воде; отсюда видно, что воздух прочнее закреплен в порах кислотных спиртов, чем в порах воды, и что, следовательно, этот воздух проникает в поры твердых тел с названными спиртами легче, чем с водой.</se>
+    <se lang="latin" variant_id="1">In spiritibus acidis, sub campana antliae constitutis, subducto per suctionem aëre, ebullitio multo difficilius excitatur, quam in aqua, unde apparet, aërem poris spirituum acidorum firmius inhaerere, quam poris aquae, consequenter eundem aërem poros corporum solidorum facilius penetrare cum dictis spiritibus, quam cum aqua.</se>
+    <weight variant_id="1">0,285662</weight>
+  </para>
+  <para id="73">
+    <se lang="" variant_id="0">§ 23</se>
+    <se lang="" variant_id="1">§ 23</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="74">
+    <se lang="russian" variant_id="0">Как только жидкие однородные тела прикоснутся друг к другу, то они сливаются воедино, — так капля воды присоединяет к себе сближенную с ней вторую каплю; два шарика ртути достаточно довести до соприкосновения, чтобы они сейчас же поглотили друг друга и образовали единый шарик. ~~~ Поэтому не приходится сомневаться, что и частицы воздуха, вместе с кислым спиртом проникшие в поры металла и освободившиеся благодаря столь мелкому разделению растворителя, соединяются с воздушными молекулами, приставшими между частицами металла.</se>
+    <se lang="latin" variant_id="1">Corpora fluida homogenea, quamprimum se mutuo contingunt, in unum confluunt, ut gutta aquae guttam aquae alteram sibi admotam associat, duo globuli mercurii, quamprimum ad mutuum contactum admittuntur, repente se invicem amplectuntur et unicum efformant globulum; dubitari igitur nequit, quin etiam particulae aëris, cum spiritu acido in poros metalli advectae et per tam minutam divisionem menstrui liberiores factae, cum haerentibus inter metalli particulas aëreis moleculis coacerventur.</se>
+    <weight variant_id="1">-0,00948478</weight>
+  </para>
+  <para id="75">
+    <se lang="" variant_id="0">§ 24</se>
+    <se lang="" variant_id="1">§ 24</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="76">
+    <se lang="russian" variant_id="0">Приняв в соображение все сказанное, легко видеть, что должно последовать дальше, если вспомнить сперва то свойство воздуха, которое объяснено раньше и которому мы даем название возрожденной упругости воздуха.</se>
+    <se lang="latin" variant_id="1">His ita comparatis, quid sequi debeat, facilius perspici potest; si prius proprietas illa aëris, quae superius explicatur, quaeque a nobis vis aëris elastica renata salutatur, in mentem revocetur.</se>
+    <weight variant_id="1">0,278824</weight>
+  </para>
+  <para id="77">
+    <se lang="" variant_id="0">§ 25</se>
+    <se lang="" variant_id="1">§ 25</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="78">
+    <se lang="russian" variant_id="0">А именно, природное свойство воздуха состоит в том, что до тех пор, пока его мельчайшие частицы, удаленные от взаимного соприкосновения, находятся включенными между частицами какого-либо более плотного тела, они не имеют почти что никакой упругости; но освобожденные из этих темниц, предоставленные самим себе и приведенные во взаимное соприкосновение, они вновь обретают как бы замиравшую упругость и проявляют ее по отношению к противостоящим телам.</se>
+    <se lang="latin" variant_id="1">Nimirum aëris indoles ea est, ut, quamdiu particulae ejus minutissimae a multo contactu semotae et particulis alicujus corporis densioris interclusae haerent, nulla fere vi elastica pollent; verum, hisce carceribus liberatae, suique juris factae et ad mutuum contactum admissae emortuum quasi elaterem recuperant, eumque in obstantia corpora exercent.</se>
+    <weight variant_id="1">0,26044</weight>
+  </para>
+  <para id="79">
+    <se lang="russian" variant_id="0">Это многими опытами весьма наглядно показал славный Галезий; и мы для этой цели сделали не мало опытов, из которых следующий лучше других годится для подкрепления предложенной нами теории.</se>
+    <se lang="latin" variant_id="1">Quod multis experimentis clarissimus Halesius evidentissime ostendit, et nos non pauca in eundem finem instituimus, ex quibus sequens experimentum ad propositam nostram theoriam condendam prae reliquis convenit.</se>
+    <weight variant_id="1">0,222222</weight>
+  </para>
+  <para id="80">
+    <se lang="russian" variant_id="0">Я налил 5 драхм селитряного спирта в склянку с узким горлом и положил в нее 2 драхмы меди; тотчас же я плотно завязал горло сосуда пузырем, после того как выгнал из него, сколько мог, воздух.</se>
+    <se lang="latin" variant_id="1">Spiritus nitri drachmas 5 infudi vitro colli angustioris eique immisi cupri drachmas 2, et statim collo vitri vesicam compressam, aëre, quantum fieri potuit, expulso, firmiter alligavi;</se>
+    <weight variant_id="1">0,246835</weight>
+  </para>
+  <para id="81">
+    <se lang="russian" variant_id="0">Растворение прекратилось примерно через четверть часа, и пузырь очень надулся воздухом, вышедшим из металла и спирта. ~~~ Перевязав пузырь над горлом сосуда ниткою, я снял его со склянки и не сомневался, что он наполнен настоящим воздухом, ибо после сжатия пальцем пузырь снова приобретал прежнюю фигуру; положенный в снег, он сделался более вялым, а при приближении к печи снова надулся; проколотый иглою и сжатый, он выпускал струю воздуха, которая приводила в движение легкие предметы и пламя свечи.</se>
+    <se lang="latin" variant_id="1">solutio post horae circiter quadrantem cessavit, et vesica aëre ex metallo et spiritu egresso fuit valide inflata; quam postquam super collum vitri filo constrinxi, a vitro removi, vero aëre plenam esse non dubitavi: nam digito compressa rursus pristinam figuram recuperabat, et nivi admota flaccidior, camino autem apposite rursus turgida facta est, et acu perforata et compressa expulso aëre levia objecta et flammam candelae agitabat.</se>
+    <weight variant_id="1">-0,0379391</weight>
+  </para>
+  <para id="82">
+    <se lang="russian" variant_id="0">Произведя тщательные измерения, я определил отношение объема воздуха, расширенного возрожденной упругостью, к объему спирта и металла как 68 к 1; а к металлу, которого была растворена одна драхма, как 2312:1.. Из этих опытов совершенно очевидно, что воздух, рассеянный в порах тел, лишается почти всей своей упругости и, наоборот, после того как частицы его освобождаются из теснин тел и вступают во взаимное соприкосновение, восстановляет снова свою упругость.</se>
+    <se lang="latin" variant_id="1">Dimensione sollicite institute, deprehendi volumen aëris, renato elatere expansi, ad volumen spiritus et metalli fuisse ut 68 ad 1; ad metallum vero, cujus una drachma erat soluta, ut 2312:1.. Ex his experimentis evidentissime elucet aërem, per poros corporum disseminatum, integro fere sui elatere destitui, et contra, particulis ejus ex angustiis corporum liberatis et se mutuo contingentibus, elaterem illius denuo restitui.</se>
+    <weight variant_id="1">1,27094</weight>
+  </para>
+  <para id="83">
+    <se lang="" variant_id="0">§ 26</se>
+    <se lang="" variant_id="1">§ 26</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="84">
+    <se lang="russian" variant_id="0">Насколько велико упругое свойство воздуха, возродившееся таким путем, показывают удивительные его действия.</se>
+    <se lang="latin" variant_id="1">Renata haec aëris elastica virtus quam sit valida, stupendi ejus effectus loquuntur.</se>
+    <weight variant_id="1">0,206757</weight>
+  </para>
+  <para id="85">
+    <se lang="russian" variant_id="0">Им разрываются сосуды, в которых вода превращается в лед; железные стволы разлетаются с великим шумом.</se>
+    <se lang="latin" variant_id="1">Ea enim vasa, in quibus aqua in glaciem constringitur, rumpuntur, sclopeta ferrea, vasto fragore edito, dissiliunt.</se>
+    <weight variant_id="1">0,259551</weight>
+  </para>
+  <para id="86">
+    <se lang="russian" variant_id="0">Очевидно, под влиянием холода вода сжимается в меньшее пространство, поры ее делаются у́же и из них выходит воздух, как свидетельствуют многочисленные пузырьки, которые испускает охлаждающаяся вода; освободившиеся частицы воздуха собираются вместе и, как однородные, сливаются воедино; они снова приобретают упругость, им присущую, но ранее потерянную от разделения, расширяются, образуют пузырьки, и таким образом, когда от собрания бесчисленного числа частиц образовались бесчисленные пузырьки, вода в момент перехода в лед расширяется и разрывает самые крепкие содержащие ее сосуды.</se>
+    <se lang="latin" variant_id="1">Nimirum, urgente frigore, aqua in minus spatium coërcetur, pori ejus strictiores redduntur, aër ex illis eliditur, testantibus bullis frequentibus, quas frigens aqua emittere solet, particulae ejus elisae sibi mutuo occurrunt et homogeneitatis causa in unum coacervantur, innatum sibi, sed ante per segregationem amissum, elaterem recuperant, extenduntur, bullulas formant, et sic, ex concursu innumerarum aëris particularum innumeris bullis natis, aqua, in glaciem jam jam abiens, expanditur, et solidissima illa vasa, quibus inclusa est, disrumpit.</se>
+    <weight variant_id="1">0,279958</weight>
+  </para>
+  <para id="87">
+    <se lang="russian" variant_id="0">Эта истина доказывается и тем, что лед, вынутый из разорванных им сосудов, наполнен бесчисленными пузырьками и лишен почти всякой прозрачности.</se>
+    <se lang="latin" variant_id="1">Veritas haec eo etiam demonstratur, quod glacies, ex disruptis vasis recepta, innumeris scateat bullis, ideoque omni fere pelluciditate caret.</se>
+    <weight variant_id="1">0,3</weight>
+  </para>
+  <para id="88">
+    <se lang="" variant_id="0">§ 27</se>
+    <se lang="" variant_id="1">§ 27</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="89">
+    <se lang="russian" variant_id="0">Приняв в соображение все изложенное, не трудно показать и самую силу, которой отбрасываются оторванные кислым спиртом частицы металла.</se>
+    <se lang="latin" variant_id="1">His consideratis, non erit arduum ostendere ipsam vim, qua particulae metalli avulsae per spiritus acidos vibrantur.</se>
+    <weight variant_id="1">0,252941</weight>
+  </para>
+  <para id="90">
+    <se lang="russian" variant_id="0">Частицы воздуха, входящие с кислым спиртом в поры металла при растворении, соединяются с теми, которые раньше удерживались в металле (§ 21); от этого они вновь приобретают потерянную упругость (§ 24, 25, 26), пытаются расшириться в большее пространство и, не будучи в состоянии выносить тесноту пор, ищут выхода; а так как он загроможден и прегражден последовательно надвигающимися корпускулами спирта, то они обламывают мешающие им частицы металла и отбрасывают их сквозь спирт.</se>
+    <se lang="latin" variant_id="1">Siquidem particulae aëris, quae cum spiritu poros metalli solvendi intrant, junguntur cum illis, quae antea in metallo haerebant (§ 21), quo facto amissam vim elasticam resumunt (§ 24, 25, 26), in majus spatium expandi conantur, et, cum pororum angustias ferre nequeant, exitum quaerunt; qui quoniam succedentibus acidi corpusculis obsessus et obstructus est, obstantes igitur sibi particulas metalli abrumpunt et per spiritum vibrant.</se>
+    <weight variant_id="1">-0,0483871</weight>
+  </para>
+  <para id="91">
+    <se lang="russian" variant_id="0">Очевидно, что дело частиц кислотного спирта при растворении — вводить в поры металлов частицы воздуха, а воздуха — вновь приобретя упругость, отрывать частицы металла.</se>
+    <se lang="latin" variant_id="1">Ex quo patet, particularum spiritus acidi in solvendo officium esse, particulas aëris in poros metalli invehere, aëris vero, renato elatere particulas metalli avellere.</se>
+    <weight variant_id="1">0,295862</weight>
+  </para>
+  <para id="92">
+    <se lang="" variant_id="0">§ 28</se>
+    <se lang="" variant_id="1">§ 28</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="93">
+    <se lang="russian" variant_id="0">Для исследования и подтверждения этой теории были сделаны следующие опыты.</se>
+    <se lang="latin" variant_id="1">Ad hanc theoriam examinandam et confirmandam sequentia experimenta instituta sunt.</se>
+    <weight variant_id="1">0,263636</weight>
+  </para>
+  <para id="94">
+    <se lang="russian" variant_id="0">Я налил в стеклянный цилиндрический сосуд 5 драхм крепкой водки и поместил его под колокол воздушного насоса.</se>
+    <se lang="latin" variant_id="1">Aquae fortis drachmas quinque vitro cylindrico infudi, atque sub campana antliae pneumaticae constitui.</se>
+    <weight variant_id="1">0,293478</weight>
+  </para>
+  <para id="95">
+    <se lang="russian" variant_id="0">После того как несколькими ходами поршня был выкачан воздух, из крепкой водки стали подниматься воздушные пузырьки, частые, но мелкие.</se>
+    <se lang="latin" variant_id="1">Aliquot agitationibus emboli aëre exantlato, surgebant bullae aëreae ex aqua forti, utcunque frequentes, tamen exiguae.</se>
+    <weight variant_id="1">0,268868</weight>
+  </para>
+  <para id="96">
+    <se lang="russian" variant_id="0">Через четверть часа я выставил растворитель на открытый воздух и положил в него медную монетку, по-нашему называемую деньгою.</se>
+    <se lang="latin" variant_id="1">Post horae quadrantem, menstruum exposui aëri libero, eique nummulum cupreum, qui nostratibus Denga dicitur, immisi.</se>
+    <weight variant_id="1">0,282524</weight>
+  </para>
+  <para id="97">
+    <se lang="russian" variant_id="0">Через 20 минут, прилив большое количество воды и освободив монету от грязи и приставшей влаги, я взвесил ее и нашел, что она потеряла 74 грана.</se>
+    <se lang="latin" variant_id="1">Post 20 minuta prima, affusa aqua copiosa nummulum a sordibus et adhaerente humore liberatum ponderavi, quo constitit eum 74 grana amisisse.</se>
+    <weight variant_id="1">1,93386</weight>
+  </para>
+  <para id="98">
+    <se lang="russian" variant_id="0">Затем вторую медную монету, такую же, как первая, я положил в 5 драхм той же крепкой водки, но из которой не был изгнан воздух, в том же сосуде и выставил в том же месте для растворения.</se>
+    <se lang="latin" variant_id="1">Denique alterum cupreum nummulum, priori aequalem et similem, ejusdem aquae fortis drachmis 5, sed ex qua aër non erat subductus, in eodem vasculo immersum solutioni exposui eodem in loco.</se>
+    <weight variant_id="1">0,282237</weight>
+  </para>
+  <para id="99">
+    <se lang="russian" variant_id="0">После 20 минут монета сделалась легче на 85 гранов.</se>
+    <se lang="latin" variant_id="1">Post 20 minuta prima nummulus 85 granis levior factus est.</se>
+    <weight variant_id="1">3,85909</weight>
+  </para>
+  <para id="100">
+    <se lang="russian" variant_id="0">Этот опыт показывает, что кислотный спирт действует на металл сильнее, если содержит большее количество рассеянного воздуха, и, следовательно, каждая порция крепкой водки вносит с собою в поры металла более значительное количество воздуха; упругость возрождается скорее и чаще отрывает кусочки металла.</se>
+    <se lang="latin" variant_id="1">Ex hoc experimento elucet, acidum spiritum fortius in metalla agere, si majore copia aëris disseminati fuerit praeditus, scilicet quaelibet aquae fortis portiuncula majorem quantitatem aëris secum in poros metalli invehit, vis elastica celerius renascitur, frequentius frustula metalli abrumpit.</se>
+    <weight variant_id="1">0,294208</weight>
+  </para>
+  <para id="101">
+    <se lang="russian" variant_id="0">Затем я взял той же самой крепкой водки две одинаковые порции и налил их в два равных и одинаковых по форме сосуда, в один и тот же момент бросил в каждый по медной монетке, по-нашему по полушке, каждая из которых весила 50 гранов; одну оставил на открытом воздухе, другую поместил под колокол воздушного насоса.</se>
+    <se lang="latin" variant_id="1">Deinde accepi aquae fortis ejusdem duas portiones aequales et in duo vitra aequalia et similia infudi, utrique immisi eodem momento singulos nummulos cupreos, nostratibus Poluschkas dictos, quorum quilibet pendebat grana 50, altero vasculo relicto in aëre libero, alterum sub campana antliae constitui.</se>
+    <weight variant_id="1">0,297692</weight>
+  </para>
+  <para id="102">
+    <se lang="russian" variant_id="0">Обе монеты сперва растворялись с одинаковым вскипанием растворителя.</se>
+    <se lang="latin" variant_id="1">Uterque nummulus primo cum pari effervescentia menstrui solvebatur.</se>
+    <weight variant_id="1">0,295082</weight>
+  </para>
+  <para id="103">
+    <se lang="russian" variant_id="0">Но когда несколькими ходами поршня был откачан воздух из колокола, растворитель стал кипеть гораздо сильнее — пузырьки были больше, и они выделялись чаще, чем в предыдущем опыте.</se>
+    <se lang="latin" variant_id="1">Verum repetitis aliquot agitationibus emboli et aëre ex campana subducto, menstruum multo vehementius ebulliebat, majoribus et frequentioribus bullis surgentibus, quam experimento praecedente.</se>
+    <weight variant_id="1">0,262745</weight>
+  </para>
+  <para id="104">
+    <se lang="russian" variant_id="0">По истечении 11 минут обе монеты были одновременно вынуты из растворителя, освобождены от грязи и влаги и взвешены.</se>
+    <se lang="latin" variant_id="1">Praeterlapsis 11 minutis primis, utrumque nummulum ex menstruo simul depromptum et a sordibus atque adhaerente humore liberatum ponderavi.</se>
+    <weight variant_id="1">1,96715</weight>
+  </para>
+  <para id="105">
+    <se lang="russian" variant_id="0">Та, которая подвергалась растворению под колоколом, потеряла 10 гранов, а та, которая растворялась на открытом воздухе, потеряла 26 гранов. ~~~ Итак, в этом опыте избыток меди, растворившейся в крепкой водке, которая содержала целиком весь рассеянный воздух, относительно гораздо больше, чем в предыдущем опыте, а именно: в первом опыте отношение было как 11 к 74, во втором — как 16 к 10.. Объяснение этого факта таково.</se>
+    <se lang="latin" variant_id="1">Qui sub campana solutioni erat expositus, amisit grana 10, qui vero in libero aëre solvebatur, perdidit grana 26.. In hoc igitur experimento excessus cupri soluti in aqua forti integro aëre disseminato praedita multo major est ratione praecedentis: nimirum id priore erat ut 11 ad 74, in posteriore ut 16 ad 10.. Facti ratio sequens est.</se>
+    <weight variant_id="1">0,42447</weight>
+  </para>
+  <para id="106">
+    <se lang="russian" variant_id="0">Крепкая водка, растворявшая металл под колоколом воздушного насоса, нагрелась и потеряла большее количество воздуха, чем в предыдущем опыте; растворитель был, таким образом, лишен большего количества рассеянного в нем воздуха и поэтому должен был действовать на металл с меньшей силою.</se>
+    <se lang="latin" variant_id="1">Aqua fortis metallum sub campana antliae solvens incaluit, majorem quantitatem aëris dimisit quam experimento praecedente, unde majore etiam copia aëris disseminati menstruum fuit privatum, atque adeo minore vi in metallum agere debuit.</se>
+    <weight variant_id="1">0,238835</weight>
+  </para>
+  <para id="107">
+    <se lang="" variant_id="0">§ 30</se>
+    <se lang="" variant_id="1">§ 30</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="108">
+    <se lang="russian" variant_id="0">Также и другие явления, сопровождающие растворение металлов, вполне отвечают предложенной теории; первое место здесь принадлежит выделению теплоты, наблюдаемому при ~~~ кипении растворителя.</se>
+    <se lang="latin" variant_id="1">Nec tamen alia quoque phaenomena, solutiones metallorum comitantia, propositae hactenus theoriae non respondent, in quibus primas obtinet cum ebullitione menstrui conjunctus calor.</se>
+    <weight variant_id="1">-0,0084375</weight>
+  </para>
+  <para id="109">
+    <se lang="russian" variant_id="0">Возрожденною в порах металла упругостью воздуха отрываются частицы металла, разносятся по растворителю, воздействуют трением на частицы последнего и приводят их во вращение; а так как вращательное движение есть причина теплоты, то не удивительно, что крепкие водки, растворяющие металл, нагреваются.</se>
+    <se lang="latin" variant_id="1">Renato in poris metalli aëris elatere particulae ipsius abripiuntur, per menstruum vibrantur, particulas illius fricant et in motum gyratorium excitant, qui quoniam caloris causa existit, mirum igitur non est, aquas fortes metalla solventes incalescere.</se>
+    <weight variant_id="1">0,244344</weight>
+  </para>
+  <para id="110">
+    <se lang="" variant_id="0">§ 31</se>
+    <se lang="" variant_id="1">§ 31</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="111">
+    <se lang="russian" variant_id="0">Селитряный спирт с цинком дает очень большое вскипание и сильно разогревается; с железом немного меньше, еще меньше с медью, гораздо меньше с серебром, совсем мало со свинцом и ртутью.</se>
+    <se lang="latin" variant_id="1">Spiritus nitri cum zinco maxime effervescit et incalescit valide, cum ferro paulo minus, sed plus minus cum cupro, multo lenius cum argento, admodum parum cum plumbo et mercurio.</se>
+    <weight variant_id="1">0,290132</weight>
+  </para>
+  <para id="112">
+    <se lang="russian" variant_id="0">Отсюда видно, что металлы и полуметаллы, удельно более легкие, производят в селитряном спирте бо́льшие вскипание и теплоту, чем удельно более тяжелые, что вполне согласуется с нашей теорией.</se>
+    <se lang="latin" variant_id="1">Unde patet metalla et semimetalla specifice leviora majorem ebullitionem et calorem in spiritu nitri producere, quam specifice graviora; quod cum nostra theoria egregie consentit.</se>
+    <weight variant_id="1">0,284713</weight>
+  </para>
+  <para id="113">
+    <se lang="russian" variant_id="0">Ибо физики не сомневаются, что металлы и полуметаллы, удельно более легкие, состоят из меньшего количества связанной материи, следовательно обладают бо́льшими или более частыми порами, чем удельно более тяжелые металлы.</se>
+    <se lang="latin" variant_id="1">Etenim metalla et semimetalla specifice leviora ex minore quantitate materiae cohaerentis constare Physici non dubitant, consequenter majoribus vel frequentioribus poris praedita esse, quam specifice graviora.</se>
+    <weight variant_id="1">0,290323</weight>
+  </para>
+  <para id="114">
+    <se lang="russian" variant_id="0">Следовательно в них содержится большее количество рассеянного воздуха; с растворителем добавочно вносится больше воздуха в поры металла и возрождается бо́льшая упругость; она действует сильнее на частицы металла, сильнее отбрасывает их, приводит в более быстрое вращение частицы селитряного спирта и порождает более значительные вскипание и теплоту.</se>
+    <se lang="latin" variant_id="1">Unde majorem quantitatem aëris disseminati in iis contineri, copiosioremque aërem cum menstruo ingeri, atque adeo majorem vim elasticam renasci, fortius in particulas metalli agere, violentius easdem vibrare, particulas spiritus nitri pernicius in gyrum agi, atque validiorem ebullitionem et calorem gigni.</se>
+    <weight variant_id="1">0,257463</weight>
+  </para>
+  <para id="115">
+    <se lang="" variant_id="0">§ 32</se>
+    <se lang="" variant_id="1">§ 32</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="116">
+    <se lang="russian" variant_id="0">Если железо растворить в щелочи и осадить уксусом, то селитряный спирт растворяет получившуюся известь без шипения.</se>
+    <se lang="latin" variant_id="1">Si ferrum in alcali dissolvitur et aceto praecipitatur, calcem spiritus nitri solvit sine strepitu.</se>
+    <weight variant_id="1">0,251724</weight>
+  </para>
+  <para id="117">
+    <se lang="russian" variant_id="0">Точно так же при сливании раствора медной зелени в перегнанном уксусе с крепкой водкою последняя вбирает в себя медь, но никакого вскипания не возникает.</se>
+    <se lang="latin" variant_id="1">Item quando viride aeris in aceto destillato solutum cum aqua forti confunditur, aqua fortis cuprum in se recipit, sed nulla effervescentia suboritur. ~~~ </se>
+    <weight variant_id="1">0,143023</weight>
+  </para>
+  <para id="118">
+    <se lang="russian" variant_id="0">В обоих случаях частицы металла не имеют взаимного сцепления, следовательно, не нуждаются в той силе, которая в других случаях их отрывает при растворении; но эти частицы тотчас же пристают ко вносимым частицам растворителя и разносятся с ними поступательным движением. ~~~ Поэтому никакого накопления частиц рассеянного воздуха не происходит, упругость не возрождается, не возникает ни вскипания, ни теплоты.</se>
+    <se lang="latin" variant_id="1">In utroque casu quoniam particulae metallorum mutua cohaesione destitutae sunt, vi igitur non indigent, qua alias divelli solent; sed statim particulis menstrui accedentibus adhaerent, cumque illis progressivo motu incedentibus distrahuntur; unde nulla constipatio particularum aëris disseminati subsequitur, vis elastica non reviviscit, nulla effervescentia aut calor exoritur.</se>
+    <weight variant_id="1">-0,155838</weight>
+  </para>
+  <para id="119">
+    <se lang="" variant_id="0">§ 33</se>
+    <se lang="" variant_id="1">§ 33</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="120">
+    <se lang="russian" variant_id="0">Когда для растворения металла берутся две равных порции одного и того же кислотного спирта, но одна из них немного разбавлена прилитой водою, то таковая растворяет большее количество металла, чем первая, вследствие большего количества воздуха, рассеянного в большем объеме.</se>
+    <se lang="latin" variant_id="1">Quando duae portiones aequales ejusdem spiritus acidi, satis concentrati, ad solvendum metallum adhibentur, una tamen earum diluitur modice aqua affusa, posterior majorem quantitatem solvit, quam prior, ob majorem scilicet quantitatem aëris per majus volumen disseminati.</se>
+    <weight variant_id="1">0,298734</weight>
+  </para>
+  <para id="121">
+    <se lang="" variant_id="0">§ 34</se>
+    <se lang="" variant_id="1">§ 34</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="122">
+    <se lang="russian" variant_id="0">При употреблении достаточно крепкого селитряного спирта для растворения металла растворение быстро кончается, так как растворитель перестает действовать.</se>
+    <se lang="latin" variant_id="1">Ad solvendum metallum adhibito spiritu nitri satis valido, solutio brevi tempore absolvitur, menstruo non amplius agente.</se>
+    <weight variant_id="1">0,213084</weight>
+  </para>
+  <para id="123">
+    <se lang="russian" variant_id="0">Но если через несколько дней погрузить металл в тот же самый спирт, то снова растворится довольно значительное количество его.</se>
+    <se lang="latin" variant_id="1">Verum si post aliquot dies metallum eidem spiritui rursus immergitur, quantitas ejus non contemnenda denuo solvitur.</se>
+    <weight variant_id="1">0,279412</weight>
+  </para>
+  <para id="124">
+    <se lang="russian" variant_id="0">Очевидно, когда идет бурное растворение, то спирт настолько оскудевает воздухом, что не может больше действовать на металл; но когда с течением времени он от окружающего воздуха получил воздушные частицы в свои поры, то снова приобретает способность растворять.</se>
+    <se lang="latin" variant_id="1">Nimirum praecipiti solutione furente, spiritus aëre ita orbatur, ut in metallum amplius agere nequeat; at superincumbentis aëris particulis successu temporis in poros suos receptis, rursus solvendi virtutem acquirit.</se>
+    <weight variant_id="1">0,243158</weight>
+  </para>
+  <para id="125">
+    <se lang="" variant_id="0">§ 35</se>
+    <se lang="" variant_id="1">§ 35 ~~~</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="126">
+    <se lang="russian" variant_id="0">Для этого прежде всего надо рассмотреть, какая сила требуется, чтобы произвести такое действие, т. е. насколько прочно взаимное сцепление частицы, которую сила воздуха, возродившаяся в поре металла, отрывает от поверхности последнего.</se>
+    <se lang="latin" variant_id="1">Primo igitur videndum est, quanta sit vis, quae ad hunc effectum producendum requiritur, h. e., quam firma sit mutua cohaesio particulae, quae renata vi aëris in poro metalli ab ejus superficie avellitur.</se>
+    <weight variant_id="1">0,246552</weight>
+  </para>
+  <para id="127">
+    <se lang="russian" variant_id="0">Знаменитый Мушенбрук нашел на опыте, что для разрыва медной проволоки, диаметр которой составляет 1/10 дюйма рейнского фута, разделенного на 12 равных частей, или 119/120 линии королевского парижского фута, требуется 299¼ амстердамских фунтов, каковой фунт равен парижскому.</se>
+    <se lang="latin" variant_id="1">Celeberrimus Muschenbroekius per experimenta invenit, ad rumpendum filum cupreum, cujus diameter est 1/10 pollicis pedis Rhenani in 12 ejusmodi partes divisi, seu 119/120 lineae pedis regii Parisini, requiri pondus 299¼ librae Amstelodamensis, quae aequalis est Parisinae.</se>
+    <weight variant_id="1">1,43261</weight>
+  </para>
+  <para id="128">
+    <se lang="russian" variant_id="0">Под микроскопом, увеличивающим диаметр тела в 360 раз, я наблюдал, что мельчайшие частицы меди, растворенной в селитряном спирте, имеют видимый диаметр в 1/2 линии парижского фута, так что истинный их диаметр равен 1/720 линии.</se>
+    <se lang="latin" variant_id="1">Per microscopium, quod diametrum corporis auget ad 360, observavi particulas minimas cupri, soluti in spiritu nitri, habere in diametro apparenti 1/2 lineae pedis Parisini. ~~~ Vera igitur carum diameter aequalis est 1/720 lineae.</se>
+    <weight variant_id="1">0,0576923</weight>
+  </para>
+  <para id="129">
+    <se lang="russian" variant_id="0">Представим себе проволоку, состоящую из таких частиц, расположенных друг подле друга непрерывным рядом и связываемых силою сцепления, так что диаметр проволоки равен диаметру самих частиц.</se>
+    <se lang="latin" variant_id="1">Concipiamus ex particulis istiusmodi, juxta se invicem continua serie dispositis et cohaerentibus, constare filum, cujus diameter aequalis est diametro ipsarum particularum.</se>
+    <weight variant_id="1">0,278571</weight>
+  </para>
+  <para id="130">
+    <se lang="russian" variant_id="0">Так как силы, необходимые для разрыва однородных тел, находятся в двойном отношении диаметров самих тел, то потребная для разрыва этой тончайшей нити сила относится к весу 299¼ фунтов, как квадрат диаметра той же проволоки к квадрату диаметра проволоки, разорванной грузом в 299¼ фунтов, т. е. следовательно он равен фунта, или грана.</se>
+    <se lang="latin" variant_id="1">Quoniam vires, ad rumpenda corpora homogenea necessariae, sunt in ratione duplicate diametrorum ipsorum corporum, ad rumpendum igitur tenuissimum illud filum requisita vis erit ad pondus 299¼ lib. ut diameter ejusdem fili quadrata ad quadratam diametrum fili pondere 299¼ librarum rupti, hoc est consequenter aequalis librae, seu grani.</se>
+    <weight variant_id="1">0,418684</weight>
+  </para>
+  <para id="131">
+    <se lang="russian" variant_id="0">Эта сила равна силе сцепления частиц меди, отрываемой упругостью воздуха, которая возродилась в поре металла.</se>
+    <se lang="latin" variant_id="1">Quae vis aequalis est cohaesioni particulae cupri, avellendae elatere aëris, renato in poro metalli.</se>
+    <weight variant_id="1">0,272727</weight>
+  </para>
+  <para id="132">
+    <se lang="russian" variant_id="0">Кто наблюдает воздух, кучно вырывающийся из металла во время растворения, тот легко допустит, что он занял бо́льшую часть пузыря, привязанного к горлу сосуда (§ 25).</se>
+    <se lang="latin" variant_id="1">Qui aërem ex metallo cumulatim prorumpentem durante solutione considerat, facile concedet, eum magnam partem spatii in vesica collo vitri alligata occupasse (§ 25).</se>
+    <weight variant_id="1">0,547887</weight>
+  </para>
+  <para id="133">
+    <se lang="russian" variant_id="0">Мы, правда, не отрицаем, что к пузырькам, поднимающимся из меди и направляющимся через спирт к поверхности его, прибавляются частички воздуха, рассеянные в растворителе, также входящие в пузырь и раздувающие его; но это происходит только в начале растворения.</se>
+    <se lang="latin" variant_id="1">Non equidem negamus, surgentibus ex cupro bullis et per spiritum ad superficiem ejus tendentibus aëris particulas, per menstruum disseminatas, accrescere, simul vesicam ingredi camque distendere; verum tamen hoc sub initium solutionis fieri solet.</se>
+    <weight variant_id="1">0,288889</weight>
+  </para>
+  <para id="134">
+    <se lang="russian" variant_id="0">Ибо если оно более продолжительно, пузырьки, вырывающиеся из металла, не только делаются менее крупными, но даже совершенно исчезают, прежде чем достигнут поверхности растворителя, так как жаждущий воздуха растворитель (§ 25) снова распределяет их по своим порам; это мы наблюдали не только для меди, но и для свинца и ртути во время их растворения.</se>
+    <se lang="latin" variant_id="1">Etenim, eadem diutius durante, bullae, ex metallo propumpentes, non solum minus ampliores redduntur, verum etiam prorsus evanescunt, priusquam superficiem menstrui attingunt, avido nempe aëris menstruo (§ 25), eas rursus per poros distrahente; id vero non solum in cupro, verum etiam in plumbo et mercurio solutioni exposito observavimus.</se>
+    <weight variant_id="1">0,357381</weight>
+  </para>
+  <para id="135">
+    <se lang="russian" variant_id="0">А вследствие этого не меньшее количество воздуха, возродившегося в металле, снова рассеивается по порам растворителя, не входя в пузырь, чем сколько вошло в пузырь при начале растворения из поднимающихся пузырьков.</se>
+    <se lang="latin" variant_id="1">Eo autem fit, ut non minor copia aëris in metallo renati per poros menstrui rursus dispergatur, nec vesicam ingrediatur, quam initio solutionis bullis surgentibus in illam accedit.</se>
+    <weight variant_id="1">0,24</weight>
+  </para>
+  <para id="136">
+    <se lang="russian" variant_id="0">Заметь к тому же, что немедленно после растворения, по прилитии постоянной щелочи, спирт сильно вскипал — ясный признак, что в порах его после процесса растворения оставалось большое количество воздуха.</se>
+    <se lang="latin" variant_id="1">Adde quod statim post solutionem, affuso alcali fixo, spiritus vehementer ebulliebat, manifesto indicio, magnam vim aëris in poris ejus actui solutionis superfuisse.</se>
+    <weight variant_id="1">0,237931</weight>
+  </para>
+  <para id="137">
+    <se lang="russian" variant_id="0">Чтобы не казалось, что мы допускаем нечто произвольное, примем, что 1312 частей (§ 25) расширившегося воздуха попали в пузырь из пор растворителя, а остальные 1000 частей действительно возродились и расширились в порах металла.</se>
+    <se lang="latin" variant_id="1">Verum ne quid precario assumere videamur, ponamus 1312 partes (§ 25) aëris expansi ex poris menstrui in vesicam accessisse, reliquas autem 1000 partes revera in poris metalli renatas et dilatatas fuisse.</se>
+    <weight variant_id="1">1,57457</weight>
+  </para>
+  <para id="138">
+    <se lang="russian" variant_id="0">Тогда объем растворенного металла относится к объему воздуха, возродившегося в его порах и расширившегося в пузыре, как 1 к 1000; следовательно, при отрыве любой частицы меди действовало количество расширившегося воздуха, относящееся к самой частице по объему, как 1000 к 1; поэтому диаметр пузырька расширившегося воздуха, после отрыва корпускулы, относится к диаметру корпускулы, как 10 к 1, т. е. равен 1/72 линии.</se>
+    <se lang="latin" variant_id="1">Erit ergo volumen metalli soluti ad volumen aëris in poris eius renati et in vesica expansi ut 1 ad 1000; consequenter, in quamlibet particulam cupri avellendam agebat portio aëris, quae expansa erat ad particulam ipsam ratione voluminis ut 1000 ad 1; atque adeo diameter bullae aëris, post avulsionem corpusculi expansae, erat ad diametrum corpusculi ut 10 ad 1, hoc est aequalis 1/72 lin.</se>
+    <weight variant_id="1">1,24641</weight>
+  </para>
+  <para id="139">
+    <se lang="" variant_id="0">§ 38</se>
+    <se lang="" variant_id="1">§ 38</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="140">
+    <se lang="russian" variant_id="0">Кубический дюйм ртути имеет вес 8 унций 6 драхм 8 гранов.</se>
+    <se lang="latin" variant_id="1">Mercurii pollex cubicus ponderat uncias 8, drachmas 6 et grana 8.. Cylindrus ergo mercurii ab aëre sustentatus.</se>
+    <weight variant_id="1">0,25</weight>
+  </para>
+  <para id="141">
+    <se lang="russian" variant_id="0">Следовательно, поддерживаемый давлением атмосферы цилиндр ртути, высотою 28 парижских дюймов, диаметра 1/72 линии, весит около грана; так как этот вес равен давлению воздушного столба, находящегося над пузырьком, вышедшим из поры металла (§ 37) и поддерживающим этот столб, то упругость пузырька равна весу названного столба ртути.</se>
+    <se lang="latin" variant_id="1">28 pollices Parisinos altus, cujus diameter est 1/72 lineae, ponderat fere grani, quod pondus quoniam aequale est pressioni columnae aëris, super bullulam ex poro metalli egressam incumbentis (§ 37), quae illum sustentat, quamobrem elater bullulae illius aequalis est ponderi dictae columnae mercurii.</se>
+    <weight variant_id="1">1,17594</weight>
+  </para>
+  <para id="142">
+    <se lang="russian" variant_id="0">А так как этот пузырек до расширения, пока он действовал в поре металла на корпускулу, был сжат в пространство в тысячу раз более тесное (§ 37) (здесь я не учитываю узости пор: ведь воздух до возрождения упругости занимал объем не всего металла, и собственная материя последнего выполняла бо́льшую часть объема), то упругость его была тогда больше в тысячу раз, т. е. была равна весу в грана, и, следовательно, превышала силу сцепления меди (§ 37) более, чем на две драхмы.</se>
+    <se lang="latin" variant_id="1">Verum quoniam haec bullula ante expansionem, dum in poro metalli in corpusculum agebat, coarctata erat in spatium millies angustius, § 37 (praetereo hic pororum angustias: nam aër ante renatum elaterem non integrum metalli volumen occupabat, sed propria hujus materia magnam partem tenebat), elater igitur ejus erat tum millies majus, hoc est, aequalis ponderi grani, adeoque cohaesionem particulae cupri (§ 37) superabat plus quam duabus drachmis.</se>
+    <weight variant_id="1">0,382338</weight>
+  </para>
+  <para id="143">
+    <se lang="russian" variant_id="0">И потому отнюдь не удивительно, что частицы меди, оторванные от поверхности металла, столь быстрым движением отбрасываются через растворитель.</se>
+    <se lang="latin" variant_id="1">Unde mirum sane non est, particulas cupri abruptas tam celeri motu a superficie ipsius metall per menstruum vibrari.</se>
+    <weight variant_id="1">0,222</weight>
+  </para>
+  <para id="144">
+    <se lang="" variant_id="0">§ 39</se>
+    <se lang="" variant_id="1">§ 39</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="145">
+    <se lang="russian" variant_id="0">После изложенного нам остается исследовать ту силу, которая освобождает от взаимного сцепления частицы солей, погруженных в воду, и распределяет их в воде.</se>
+    <se lang="latin" variant_id="1">His expositis investiganda nobis restat illa vis, qua salium aquae immersorum particulae a mutua cohaesione sejunguntur et per aquam distrahuntur.</se>
+    <weight variant_id="1">0,283594</weight>
+  </para>
+  <para id="146">
+    <se lang="russian" variant_id="0">Чтобы выяснить это, надо прежде всего заметить, что все соли содержат значительное количество воды, обильно выделяющейся из них ~~~ в приемник при отгонке; хотя от некоторых летучих солей никакой воды отделить нельзя, но по аналогии и по легкому их сочетанию с водою утверждаем то же и о них.</se>
+    <se lang="latin" variant_id="1">Quod ut in apricum prodeat, primo ~~~ notandum est, omnes sales abundare insigni quantitate aquae, quae per destillationem in vas recipiens copiosa ex illis elicitur, et quamvis a quibusdam salibus volatilibus nulla separari potest, ex analogia tamen et facili cum aqua conjunctione idem de illis asserimus.</se>
+    <weight variant_id="1">-0,158405</weight>
+  </para>
+  <para id="147">
+    <se lang="" variant_id="0">§ 40</se>
+    <se lang="" variant_id="1">§ 40</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="148">
+    <se lang="russian" variant_id="0">Соли, растворенные в воде, при медленном выпаривании вырастают в прозрачные кристаллы, следовательно принимают свою форму в воде; поэтому необходимо допустить, что поры солей наполнены водой.</se>
+    <se lang="latin" variant_id="1">Sales in aqua soluti post lenem evaporationem in crystallos pellucidas concrescunt, consequenter in aqua formam suam induunt, atque adeo necessarium est, ut pori salium sint aqua pleni.</se>
+    <weight variant_id="1">0,285</weight>
+  </para>
+  <para id="149">
+    <se lang="russian" variant_id="0">На это указывает и их прозрачность: тела пористые и сами по себе мало прозрачные, будучи напитаны водою, становятся прозрачными.</se>
+    <se lang="latin" variant_id="1">Quod etiam eorum pelluciditate comprobatur: corpora enim porosa et alias minus pellucida, aqua tamen imbuta, diaphana fieri solent.</se>
+    <weight variant_id="1">0,289189</weight>
+  </para>
+  <para id="150">
+    <se lang="russian" variant_id="0">Так, купорос, на медленном огне прокаленный до белизны, но так, чтобы малейшие части его не распались, делается непрозрачным; но после того как он впитает в поры подлитую воду, он снова приобретает прозрачность.</se>
+    <se lang="latin" variant_id="1">Unde vitriolum leni tepore ad albedinem calcinatum, ita tamen, ut partes ejus minutissimae non dilabantur, opacum redditur, at postquam affusam aquam poris imbibit rursum pelluciditatem recuperet.</se>
+    <weight variant_id="1">0,284302</weight>
+  </para>
+  <para id="151">
+    <se lang="russian" variant_id="0">Сахар, полученный кристаллизацией в воде, прозрачен, но образовавшийся выпариванием в конических формах едва пропускает или вовсе не пропускает лучи света; однако вода, входя в поры, делает его более прозрачным.</se>
+    <se lang="latin" variant_id="1">Saccharum per crystallisationem in aqua concretum pellucidum est, at quod per inspissationem in conis cavis formari solet, vix aut ne vix quidem radios lucis transmittit; verum aqua in poros eius accedente ad pelluciditatem propius accedit.</se>
+    <weight variant_id="1">0,2625</weight>
+  </para>
+  <para id="152">
+    <se lang="" variant_id="0">§ 41</se>
+    <se lang="" variant_id="1">§ 41</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="153">
+    <se lang="russian" variant_id="0">Так как поры солей (конечно, не прокаленных) наполнены водою, то соли, будучи погружены в воду, не могут вбирать ее в себя.</se>
+    <se lang="latin" variant_id="1">Cum itaque salium (nempe non calcinatorum) pori aqua pleni sint, fieri igitur nequit, ut aquae immersi eam in se recipient.</se>
+    <weight variant_id="1">0,297115</weight>
+  </para>
+  <para id="154">
+    <se lang="russian" variant_id="0">Отсюда очевидно, что и воздух, рассеянный в воде, не входит в поры солей и поэтому не может ни расширяться в них от возродившейся упругости, ни действовать на частицы солей.</se>
+    <se lang="latin" variant_id="1">Unde patet etiam aërem per aquam disseminatum poros salium minus ingredi, adeoque nec in illis renato elatere expandi, nec in particulas salium agere posse.</se>
+    <weight variant_id="1">0,273134</weight>
+  </para>
+  <para id="155">
+    <se lang="" variant_id="0">§ 42</se>
+    <se lang="" variant_id="1">§ 42</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="156">
+    <se lang="russian" variant_id="0">Справедливость сказанного подтверждается следующим опытом.</se>
+    <se lang="latin" variant_id="1">Asserti veritatem confirmat sequens experimentum.</se>
+    <weight variant_id="1">0,241304</weight>
+  </para>
+  <para id="157">
+    <se lang="russian" variant_id="0">Стеклянный сосудик, наполовину наполненный водою, я поместил под колокол воздушного насоса и несколько раз повторенными ходами поршня выкачивал воздух; из воды поднимались частые воздушные пузырьки.</se>
+    <se lang="latin" variant_id="1">Vasculum vitreum aquae semiplenum posui sub campana antliae et reiteratis aliquot agitationibus emboli aërem subducebam; surgebant bullae aërem utcunque frequentes.</se>
+    <weight variant_id="1">0,240411</weight>
+  </para>
+  <para id="158">
+    <se lang="" variant_id="0"></se>
+    <se lang="" variant_id="1"></se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="159">
+    <se lang="russian" variant_id="0">Когда я счел воду достаточно освобожденной от воздуха, я выставил сосудик на открытый воздух вместе с другим сосудиком, равным и подобным по виду первому, в котором находилось такое же количество той же воды (из которой однако не был удален ~~~ воздух).</se>
+    <se lang="latin" variant_id="1">Tandem aërem ex aqua abunde subductum esse ratus, vasculum exposui aëri libero simul cum altero vasculo aequali et simili, in quo ejusdem aquae (ex qua aër non erat subductus) aequalis quantitas continebatur.</se>
+    <weight variant_id="1">-0,0878906</weight>
+  </para>
+  <para id="160">
+    <se lang="russian" variant_id="0">В оба я положил по одинаковому кусочку каменной соли, кубической формы, весом по 50 гранов.</se>
+    <se lang="latin" variant_id="1">Utrique immisi salis gemmae singula frustula aequalia figurae cubicae, quorum quodlibet pendebat grana 50; </se>
+    <weight variant_id="1">0,141176</weight>
+  </para>
+  <para id="161">
+    <se lang="russian" variant_id="0">По истечении одного часа кусочек соли, которая растворилась в воде, подвергнутой откачиванию воздуха, потерял 27 гранов, а в содержащей воздух — 15 гранов.</se>
+    <se lang="latin" variant_id="1">post horae unius spatium frustulum salis quod solvebatur in aqua exantlata amisit grana 27, alterum vero grana 15.</se>
+    <weight variant_id="1">0,172388</weight>
+  </para>
+  <para id="162">
+    <se lang="" variant_id="0">§ 43</se>
+    <se lang="" variant_id="1">§ 43</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="163">
+    <se lang="russian" variant_id="0">Из этого опыта очевидно: 1) что воздух, рассеянный в порах воды, не только не способствует растворению солей, но даже мешает таковому; как именно он мешает, мы поясняем в § 47 и тем самым подтверждаем нашу теорию; 2) необходимо заключить, что частицы соли отделяются друг от друга действием частиц самой воды.</se>
+    <se lang="latin" variant_id="1">Ex hoc experimento patet 1) aërem per poros aquae disseminatum non solum ad solutionem salium nihil conferre, verum eidem esse impedimento; quomodo autem impedimento esse possit, § 47 exponimus et hoc ipso nostram theoriam confirmamus; 2) necessario sequitur particulas salium separari actione particularum ipsius aquae.</se>
+    <weight variant_id="1">1,19465</weight>
+  </para>
+  <para id="164">
+    <se lang="" variant_id="0">§ 44</se>
+    <se lang="" variant_id="1">§ 44</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="165">
+    <se lang="russian" variant_id="0">Когда твердые тела делаются жидкими, то частицы их приходят в более быстрое вращательное движение.</se>
+    <se lang="latin" variant_id="1">Quando corpora solida liquida redduntur, particulae eorum excitantur in motum gyratorium celeriorem.</se>
+    <weight variant_id="1">0,286047</weight>
+  </para>
+  <para id="166">
+    <se lang="russian" variant_id="0">Следовательно, при ожижении соли в воде ускоряется вращательное движение частиц соли.</se>
+    <se lang="latin" variant_id="1">Quando igitur sal in aqua liquescit, motus gyratorius particularum ejus acceleratur.</se>
+    <weight variant_id="1">0,296</weight>
+  </para>
+  <para id="167">
+    <se lang="russian" variant_id="0">Так как соли растворяются действием частиц самой воды (§ 43), то, следовательно, частицы воды, вращаясь, как частицы тела более жидкого, более быстрым круговым движением, при приближении к частицам соли, погруженной в воду, трутся о них и одновременно об однородные себе частицы воды, входящие в состав соли, и ускоряют их вращательное движение.</se>
+    <se lang="latin" variant_id="1">Ceterum quoniam sales solvuntur actione particularum ipsius aquae (§ 43), consequenter particulae aquae, tanquam corporis liquidi, celeriore motu gyratorio rotatae et particulis salis aquae immersi admotae, eas, simulque homogeneas sibi particulas aqueas, mixtionem salis constituentes radunt, et motum earum gyratorium accelerant.</se>
+    <weight variant_id="1">0,438748</weight>
+  </para>
+  <para id="168">
+    <se lang="russian" variant_id="0">Вследствие этого частицы соли отделяются от остальной массы и, сцепляясь с водными</se>
+    <se lang="latin" variant_id="1">Quo facto particulae salis a reliqua massa separantur,</se>
+    <weight variant_id="1">0,15</weight>
+  </para>
+  <para id="169">
+    <se lang="russian" variant_id="0">частицами, вместе с ними начинают двигаться поступательно и разносятся по растворителю.</se>
+    <se lang="latin" variant_id="1">et aqueis particulis adhaerentes motu progressivo cum illis incedunt et per ipsum menstruum distrahuntur.</se>
+    <weight variant_id="1">0,242308</weight>
+  </para>
+  <para id="170">
+    <se lang="" variant_id="0">§ 45</se>
+    <se lang="" variant_id="1">§ 45</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="171">
+    <se lang="russian" variant_id="0">Когда какое-либо тело ускоряет движение другого, то сообщает ему часть своего движения; но сообщить часть движения оно не может иначе, как теряя точно такую же часть.</se>
+    <se lang="latin" variant_id="1">Quando aliquod corpus alterius motum accelerat, eidem partem sui motus communicat, communicare autem partem non potest, quin illi eadem pars decedat.</se>
+    <weight variant_id="1">0,272308</weight>
+  </para>
+  <para id="172">
+    <se lang="russian" variant_id="0">Поэтому частицы воды, ускоряя вращательное движение частиц соли, теряют часть своего вращательного движения.</se>
+    <se lang="latin" variant_id="1">Quamobrem particulae aquae accelerando motum gyratorium particularum salis partem sui motus gyratorii amittunt.</se>
+    <weight variant_id="1">0,290722</weight>
+  </para>
+  <para id="173">
+    <se lang="russian" variant_id="0">А так как последнее — причина теплоты, то нисколько не удивительно, что вода охлаждается при растворении соли.</se>
+    <se lang="latin" variant_id="1">Qui quoniam calorie causa existit, mirum igitur non est, aquam soluto sale refrigerari.</se>
+    <weight variant_id="1">0,225</weight>
+  </para>
+  <para id="174">
+    <se lang="" variant_id="0">§ 47</se>
+    <se lang="" variant_id="1">§ 47</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="175">
+    <se lang="russian" variant_id="0">Так как в порах воды рассеян воздух, то частицы воды, перемежающиеся с частицами воздуха, несколько разрежены, что показывает следующий опыт.</se>
+    <se lang="latin" variant_id="1">Aëre per poros aquae disseminato, particulae aquae, aëreis interpositae, aliquantum rariores sunt; quod sequenti experimento demonstratur.</se>
+    <weight variant_id="1">0,297561</weight>
+  </para>
+  <para id="176">
+    <se lang="russian" variant_id="0">Нальем воду, подвергнутую откачиванию воздуха, в сосуд с узким горлом, оставив над ней небольшое пространство, заполненное воздухом.</se>
+    <se lang="latin" variant_id="1">Aqua exantlata infundatur vitro colli angustioris, relicto super ea spatiolo aëre pleno.</se>
+    <weight variant_id="1">-0,3</weight>
+  </para>
+  <para id="177">
+    <se lang="russian" variant_id="0">Горлышко закроем затычкой и замажем воском, чтобы не мог входить наружный воздух.</se>
+    <se lang="latin" variant_id="1">Collum, obturatum operculo, oblinatur cera, ne aëri externo pateat aditus; </se>
+    <weight variant_id="1">0,270423</weight>
+  </para>
+  <para id="178">
+    <se lang="russian" variant_id="0">Спустя один-два дня воздух, оставленный над водою, войдет в нее, и сосуд окажется полным водою: очевидное указание на то, что воздух, распределившись в воде, ее расширил.</se>
+    <se lang="latin" variant_id="1">post diem unum aut alterum aër super aquam relictus eam ingredietur, et vas aqua plenum reddetur, certo indicio, aquam ab aëre per eam disseminato distendi.</se>
+    <weight variant_id="1">0,193151</weight>
+  </para>
+  <para id="179">
+    <se lang="russian" variant_id="0">Поэтому, когда соль погружена в воду, насыщенную распределенным воздухом, меньшее число частиц самого растворителя касается поверхности соли и он действует на нее медленнее, так что растворение замедляется.</se>
+    <se lang="latin" variant_id="1">Submerso igitur sale in aqua, aëre disseminato turgida, minor copia particularum ipsius menstrui superficiem salis attingit in eamque remissius agit, atque adeo solutio fit tardior.</se>
+    <weight variant_id="1">0,256329</weight>
+  </para>
+  <para id="180">
+    <se lang="" variant_id="0">§ 48</se>
+    <se lang="" variant_id="1">§ 48</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="181">
+    <se lang="russian" variant_id="0">Из перечисленных до сих пор действий, при помощи которых растворители растворяют помещенные в них тела, можно назвать первое опосредствованным, второе — непосредственным.</se>
+    <se lang="latin" variant_id="1">Expositarum hactenus actionum, quibus menstrua solvunt corpora sibi immersa, priorem mediatam posteriorem immediatam appellare lubet.</se>
+    <weight variant_id="1">0,268421</weight>
+  </para>
+  <para id="182">
+    <se lang="russian" variant_id="0">Ибо в первом случае растворитель отрывает частицы растворяемого тела при посредстве возродившейся упругости воздуха, а во втором случае сам растворитель действует своими собственными частицами.</se>
+    <se lang="latin" variant_id="1">Etenim in casu priore menstruum abripit particulas corporis solvendi mediante renato elatere aëris, in casu posteriore ipsum menstruum agit propriis suis particulis.</se>
+    <weight variant_id="1">0,246207</weight>
+  </para>
+  <para id="183">
+    <se lang="russian" variant_id="0">Так как опосредствованное растворение производит теплоту, а непосредственное — холод, то эти явления должны рассматриваться как признаки того и другого.</se>
+    <se lang="latin" variant_id="1">Cum vero mediate solutio calorem, immediata autem frigus producat, phaenomena haec tanquam signa utriusque censeri debent.</se>
+    <weight variant_id="1">0,227778</weight>
+  </para>
+  <para id="184">
+    <se lang="" variant_id="0">§ 49</se>
+    <se lang="" variant_id="1">§ 49</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="185">
+    <se lang="russian" variant_id="0">Кроме растворения металлов в кислотных спиртах и солей в воде, остается сказать об амальгамировании, о частичных растворениях, как то: о вытяжках и выварках, о растворении битумов в жирных маслах и т. д.; хотя эти случаи кажутся отличающимися от первых, но мы не сомневаемся, что и эти растворения происходят либо тем, либо другим способом, либо обоими одновременно.</se>
+    <se lang="latin" variant_id="1">Praeter solutiones metallorum in spiritibus acidis et salium in aqua, exponendae supersunt amalgamationes, solutiones partiales, nempe extractiones et decoctiones, item solutiones bituminum in oleosis etc., quae licet ab illis discrepare videntur, tamen alterutro vel utroque simul modo eas perfici non dubitamus.</se>
+    <weight variant_id="1">0,258394</weight>
+  </para>
+  <para id="186">
+    <se lang="russian" variant_id="0">Так как, однако, имеется мало опытов, которые что-либо дают для суждения об этом, и у нас пока не было возможности сделать новые опыты, то мы в настоящее время воздержимся от их изложения.</se>
+    <se lang="latin" variant_id="1">Sed quoniam pauca experimenta extant, quae ad eas exponendas quid conferunt, nec nobis ad nova instituenda commoditas data fuit, quamobrem illis exponendis in praesentia supersedemus.</se>
+    <weight variant_id="1">0,296203</weight>
+  </para>
+  <para id="187">
+    <se lang="" variant_id="0">§ 50</se>
+    <se lang="" variant_id="1">§ 50</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="188">
+    <se lang="russian" variant_id="0">В нашу задачу входило еще дать объяснение, почему удельно более тяжелые частицы металлов и солей взвешены в своих растворителях и не опускаются по обычному закону в жидкостях, удельно более легких.</se>
+    <se lang="latin" variant_id="1">Ceterum muneris nostri erat, ut rationem redderemus, quare particulae metallorum et salium specifice graviores in menstruis suis pendeant, nec lege communi in liquoribus specifice levioribus subsidant.</se>
+    <weight variant_id="1">0,285799</weight>
+  </para>
+  <para id="189">
+    <se lang="russian" variant_id="0">Но так как все это достаточно подробно выяснено ученейшими мужами Фрейндом и Гейнзиусом, то мы не будем останавливаться на повторении того же самого.</se>
+    <se lang="latin" variant_id="1">Verum quoniam hoc ante nos jam a viris eruditissimis Freindio et Heinsio satis dilucide explicatum habemus, ideo eidem reiterando non immoramur.</se>
+    <weight variant_id="1">0,2928</weight>
+  </para>
+  <para id="190">
+    <se lang="" variant_id="0">* В лекциях по химии.</se>
+    <se lang="" variant_id="1">* In praelectionibus chymicis.</se>
+    <weight variant_id="1">0,733333</weight>
+  </para>
+  <para id="191">
+    <se lang="" variant_id="0">** В описании кометы 1744 года.</se>
+    <se lang="" variant_id="1">** In descriptione cometae anni 1744.</se>
+    <weight variant_id="1">0,661905</weight>
+  </para>
+</body>
+</html>

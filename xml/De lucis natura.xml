@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+<head>
+</head>
+<body>
+  <para id="0">
+    <se lang="russian" variant_id="0">Природа вещей, будучи везде подобна себе, особенно стойко соблюдает этот закон в однородных телах.</se>
+    <se lang="latin" variant_id="1">Cum rerum natura ubique sit sibi similis, tum potissimum in homogeneis hanc legem tenacissime observat.</se>
+    <weight variant_id="1">0,286047</weight>
+  </para>
+  <para id="1">
+    <se lang="russian" variant_id="0">Так, вода в Америке и в Европе одна и та же, одно и то же золото, один и тот же воздух.</se>
+    <se lang="latin" variant_id="1">Ita aqua in America est et in Europa eadem, idem aurum, idem aër.</se>
+    <weight variant_id="1">0,222222</weight>
+  </para>
+  <para id="2">
+    <se lang="russian" variant_id="0">Так, далее, золото также и на Сатурне есть золото.</se>
+    <se lang="latin" variant_id="1">Sic ultro aurum etiam in Saturno est aurum.</se>
+    <weight variant_id="1">0,251351</weight>
+  </para>
+  <para id="3">
+    <se lang="russian" variant_id="0">Так и воздух на кометах есть тот же самый и вполне подобный нашему; кто думает иначе, рассуждает не иначе как утверждая, что золото в другом месте не существует.</se>
+    <se lang="latin" variant_id="1">Sic aër etiam in cometis est idem ipse nostroque simillimus, qui aliter sentit, non aliter disputat, quam aurum alio in loco non esse.</se>
+    <weight variant_id="1">0,241593</weight>
+  </para>
+  <para id="4">
+    <se lang="russian" variant_id="0">Лучи неподвижных звезд преломляются в воздухе, так как видны различные цвета, они же преломляются в воде и других прозрачных телах, а также отражаются от красного красные и т. д. и соблюдают те же законы, что лучи солнца и остальных светящих тел.</se>
+    <se lang="latin" variant_id="1">Stellarum fixarum radii refringuntur in aëre, quia varii colores apparent, iidem refringuntur in aqua et aliis corporibus transparentibus, item reflectuntur a rubris rubri etc. et servant easdem leges, quas radii solis, et reliquorum lucentium.</se>
+    <weight variant_id="1">0,292754</weight>
+  </para>
+  <para id="5">
+    <se lang="russian" variant_id="0">Следовательно, природа и движение их светящей материи те же, что и на солнце и на земле.</se>
+    <se lang="latin" variant_id="1">Ergo natura materiae lucidae et motus ejus eadem est cum ea quae in sole et in terra est.</se>
+    <weight variant_id="1">0,29589</weight>
+  </para>
+  <para id="6">
+    <se lang="russian" variant_id="0">Тела, порождающие этот свет, так же родственны ему, как наши тела лучам солнца.</se>
+    <se lang="latin" variant_id="1">Corpora, quae lucem hanc generant, eodem modo cognata sunt cum illa &lt;rum luce&gt;, quam nostra corpora cum radiis solis.</se>
+    <weight variant_id="1">0,158824</weight>
+  </para>
+  <para id="7">
+    <se lang="russian" variant_id="0">Но когда две вещи родственны одной и той же третьей, то они родственны и между собой, следовательно и вещества...</se>
+    <se lang="latin" variant_id="1">Cum vero duo eidem tertio sunt cognata, sunt etiam cognata inter se, ergo ergo [sic] et materiae qu...</se>
+    <weight variant_id="1">0,265116</weight>
+  </para>
+</body>
+</html>

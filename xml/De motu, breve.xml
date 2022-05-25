@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html>
+<head>
+</head>
+<body>
+  <para id="0">
+    <se lang="russian" variant_id="0">Во-первых, предлагается наблюдение оного движения и описание, найденное в горной книге Георгия Агриколы; потом в § 1—9 определения с их следствиями присовокупляются.</se>
+    <se lang="latin" variant_id="1">Tandem § 1—9 definitiones cum corollariis exhibentur.</se>
+    <weight variant_id="1">0,44375</weight>
+  </para>
+  <para id="1">
+    <se lang="russian" variant_id="0">В § 10—24 показано, что сие движение происходит от разной густости воздуха, для того, что в ямах воздух всегда одной теплоты и густости, а внешний летом бывает теплее и реже, а зимою холоднее и гуще того, который в ямах.</se>
+    <se lang="latin" variant_id="1">Denique § 10—24 ostenditur, ex diversa densitate aëris fodinarum ab ea quam externus habet, motum hunc nasci, et cum in fodinis aëris calor sit constans, externi vero varius, et quidem major aestate, hyeme minor, reciprocantes fluxiones inde proficisci.</se>
+    <weight variant_id="1">0,398108</weight>
+  </para>
+  <para id="2">
+    <se lang="russian" variant_id="0">На конце вкратце показана польза, которая от сего рассуждения следовать может.</se>
+    <se lang="latin" variant_id="1">Ultimo usus hujus theoriae breviter indicatur.</se>
+    <weight variant_id="1">0,107143</weight>
+  </para>
+</body>
+</html>

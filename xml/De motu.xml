@@ -1,0 +1,357 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html>
+<head>
+</head>
+<body>
+  <para id="0">
+    <se lang="russian" variant_id="0">Когда [в 1740 году]° на Фрейбергских заводах обучался я химии и рудному делу; неоднократно при осматривании рудников случалось приметить движение воздуха, которое в шахтах и штольнах в самую тихую погоду без принуждения воздушными машинами простиралось, от чего употребительные у рудокопов ночники и свечки погасали.</se>
+    <se lang="latin" variant_id="1">Cum anno 1740 Freibergae in Misnia degerem, ubi Chymiae et rei metallicae operam dabam; accidit aliquoties ut fodinas invisens observarem motum aëris, qui per puteos, cuniculos et fossas latentes etiam tranquillissimo coelo nullis machinis pneumaticis impulsus ita ferebatur, ut aliquando lampades fossoribus usitatas extingueret.</se>
+    <weight variant_id="1">1,018</weight>
+  </para>
+  <para id="1">
+    <se lang="russian" variant_id="0">Обстоятельств сего явления тогда заприметить не было удобно: для того, что простиралось мое внимание больше к практике, которая везде была перед глазами.</se>
+    <se lang="latin" variant_id="1">Huius tunc phaenomeni proprietates satis perspicere non mihi licuit, cum aliis rebus, quae ad praxim metallicam spectabant et ubique annotandae occurebant, essem intentus.</se>
+    <weight variant_id="1">0,261654</weight>
+  </para>
+  <para id="2">
+    <se lang="russian" variant_id="0">Но как, возвратясь в отечество, просматривал я [книги] о рудных делах Георгия Агриколы; вышеупомянутое движение воздуха нашел явственно описано.</se>
+    <se lang="latin" variant_id="1">Verum postquam in patriam redux Georgii Agricolae, libros de re metallica evolverem, memoratum phaenomenon distincte descriptum inveni.</se>
+    <weight variant_id="1">0,2825</weight>
+  </para>
+  <para id="3">
+    <se lang="russian" variant_id="0">Слова его суть следующие: „Воздух сам от себя вливается в земные полости; и где проход есть, опять вон вылетает. ~~~ Но сие бывает разными образы.</se>
+    <se lang="latin" variant_id="1">Verba laudati auctoris haec sunt: „Aër exterior se sua sponte fundit in cava terrae, atque cum per ea penetrare potest, rursus evolat foras: sed diversa ratione hoc lieri solet.</se>
+    <weight variant_id="1">-0,0344262</weight>
+  </para>
+  <para id="4">
+    <se lang="russian" variant_id="0">Ибо в вешние и летние дни входит в шахты, кои выше, простирается штольнами и выливается шахтом, который ниже. ~~~</se>
+    <se lang="latin" variant_id="1">Etenim vernis et aestivis diebus in altiorem puteum influit et per cuniculum vel fossam latentem permeat, ac ex humiliori effluit: similiter iisdem diebus in altiorem cuniculum infunditur et interjecto puteo defluit in humiliorem cuniculum atque ex eo emanat.</se>
+    <weight variant_id="1">-0,0603774</weight>
+  </para>
+  <para id="5">
+    <se lang="russian" variant_id="0">Зимою и осенью, напротив того, вливается в устье, кое ниже, выходит высшим.</se>
+    <se lang="latin" variant_id="1">Autumnali autem et hyberno tempore in cuniculum vel puteum humiliorem intrat et ex altiori exit.</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="6">
+    <se lang="russian" variant_id="0">Сия перемена течения воздуха в умеренных климатах бывает в начале весны и в конце осени; в холодных — при окончании весны и в начале осени.</se>
+    <se lang="latin" variant_id="1">Verum ea fluxionum aëris mutatio in temperatis regionibus et locis fit initio veris et fine autumni, in frigidis vero in fine veris et in initio autumni.</se>
+    <weight variant_id="1">0,180723</weight>
+  </para>
+  <para id="7">
+    <se lang="russian" variant_id="0">В обои случаи воздух, прежде нежели установит свое течение, частым подвергается переменам, около двух недель времени, втекая то в верхнее, то в нижнее отверстие“.</se>
+    <se lang="latin" variant_id="1">Sed aër utroque tempore, antequam cursum suum illum constanter teneat, plerumque quatuordecim dierum spatio crebras habet mutationes, modo in altiorem puteum vel cuniculum influens, modo in humiliorem“. ~~~ </se>
+    <weight variant_id="1">0,274419</weight>
+  </para>
+  <para id="8">
+    <se lang="russian" variant_id="0">Сие описание, от человека в рудных делах преискусного оставленное нам, увидев согласно с агерометрическими и гидростатическими основаниями, не усумнился я, то сие явление, на них же утвержденное математическим порядком, предложить можно.</se>
+    <se lang="latin" variant_id="1">Hanc igitur descriptionem a viro rei metallicae peritissimo nobis relictam cum viderim legibus aërometricis et hydrostaticis esse consonant, nullus dubitavi theoriam hujus phaenomeni iisdem legibus superstrui et Geometrarum methodo concinnari posse.</se>
+    <weight variant_id="1">0,167368</weight>
+  </para>
+  <para id="9">
+    <se lang="russian" variant_id="0">Определение 1</se>
+    <se lang="latin" variant_id="1">Definitio 1</se>
+    <weight variant_id="1">11,2455</weight>
+  </para>
+  <para id="10">
+    <se lang="" variant_id="0">§ 1. Шахт называется глубокая узкая яма, на подобие колодезя к горизонту перпендикулярная AB или к нему наклоненная CE.</se>
+    <se lang="" variant_id="1">§ 1. Puteus est fossa profunda angustior, ad horizontem perpendicularis AB, vel ad eundem plus aut minus inclinata CE.</se>
+    <weight variant_id="1">0,747059</weight>
+  </para>
+  <para id="11">
+    <se lang="russian" variant_id="0">Определение 2</se>
+    <se lang="latin" variant_id="1">Definitio 2</se>
+    <weight variant_id="1">11,2455</weight>
+  </para>
+  <para id="12">
+    <se lang="" variant_id="0">§ 2. Штольна потаенная есть яма BE глубокая, узкая, с горизонтом параллельная, которая нижние концы шахтов соединяет.</se>
+    <se lang="" variant_id="1">§ 2. Fossa latens BE dicitur, quae ab ima parte putei B ad imam partem alterius putei E horizontaliter ducta illos conjungit seu communicat.</se>
+    <weight variant_id="1">0,753398</weight>
+  </para>
+  <para id="13">
+    <se lang="russian" variant_id="0">Присовокупление</se>
+    <se lang="latin" variant_id="1">Corollarium</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="14">
+    <se lang="" variant_id="0">§ 3. Рудник, состоящий из двух шахтов, соединенных внизу потаенною штольною, представляет точно согнутые трубки, кои употребляются в физике для доказательств равновесия жидких тел: того ради жидкие тела, вливающиеся в подобные рудники, тем же гидростатическим законам повиноваться должны.</se>
+    <se lang="" variant_id="1">§ 3. Fodina, quae constat ex duobus puteis, fossa latente conjunctis seu communicatis, refert exacte tubos communicantes, quibus utuntur Physici ad aequilibrium fluidorum demonstrandum, quamobrem corpora fluida eiusmodi fodinae infusa legibus hydrostaticis ut in syphonibus obtemperare debent.</se>
+    <weight variant_id="1">0,45078</weight>
+  </para>
+  <para id="15">
+    <se lang="" variant_id="0">§ 4. Шахты AB и EC трубочных коленцев, потаенный шахт BE соединения их силу имеет.</se>
+    <se lang="" variant_id="1">§ 4. Putei AB et EC crurum syphonis, fossa autem latens BE baseos illius vicem explent.</se>
+    <weight variant_id="1">1,22036</weight>
+  </para>
+  <para id="16">
+    <se lang="russian" variant_id="0">Определение 3</se>
+    <se lang="latin" variant_id="1">Definitio 3</se>
+    <weight variant_id="1">11,2455</weight>
+  </para>
+  <para id="17">
+    <se lang="" variant_id="0">§ 5. Высший шахт CE называется, коего отверстие C на горе выше, низший шахт, — коего отверстие A лежит ближе к подолу.</se>
+    <se lang="" variant_id="1">§ 5. Puteus altior CE dicitur, cuius apertura superior C patet in parte montis editiore. ~~~ Puteus humilior AB est, cuius apertura superior A patet in parte montis humiliore.</se>
+    <weight variant_id="1">0,329605</weight>
+  </para>
+  <para id="18">
+    <se lang="" variant_id="0">§ 6. Ежели оба шахты и со штольною наполнены будут жидкою материею, которая пропорционально легче внешней, количество в высшем шахте перевесит то, что в низшем.</se>
+    <se lang="" variant_id="1">§ 6. Si uterque puteus et fossa latens replentur fluido, quod aërem externum gravitate specifica superat, fluidum in puteo altiore praeponderabit fluido in puteo humiliori.</se>
+    <weight variant_id="1">0,504682</weight>
+  </para>
+  <para id="19">
+    <se lang="russian" variant_id="0">Определение 4</se>
+    <se lang="latin" variant_id="1">Definitio 4</se>
+    <weight variant_id="1">11,2455</weight>
+  </para>
+  <para id="20">
+    <se lang="" variant_id="0">§ 7. Открытая штольна называется горизонтальный прокоп FG или HK, коего отверстие в косогоре H и F; по разной вышине оного называется верхняя или нижняя штольна.</se>
+    <se lang="" variant_id="1">§ 7. Cuniculus est fossa horizontalis FG vel HK, cuius apertura patet in parte montis declivi, superior FG dicitur, quae montis partem editiorem occupat, inferior HK, quae humiliorem.</se>
+    <weight variant_id="1">0,700966</weight>
+  </para>
+  <para id="21">
+    <se lang="russian" variant_id="0">Определение 5</se>
+    <se lang="latin" variant_id="1">Definitio 5</se>
+    <weight variant_id="1">11,2455</weight>
+  </para>
+  <para id="22">
+    <se lang="" variant_id="0">§ 8. Потаенный шахт GK есть, коим верхняя FG и нижняя HK открытая штольна соединяются.</se>
+    <se lang="" variant_id="1">§ 8. Puteus interiectus GK est, qui cuniculum superiorem FG cum cuniculo inferiore HK conjungit seu communicat.</se>
+    <weight variant_id="1">1,14426</weight>
+  </para>
+  <para id="23">
+    <se lang="" variant_id="0">§ 9. Рудник FGKH также представляет изогнутые гидростатические трубки; для того в рассуждении равновесия жидких тел ту же силу иметь должен.</se>
+    <se lang="" variant_id="1">§ 9. Cum etiam fodina FGKH tubos communicantes horizontaliter inclinatos repraesentet, quamobrem circa aequilibrium corporum fluidorum illorum officio fungi potest.</se>
+    <weight variant_id="1">0,667096</weight>
+  </para>
+  <para id="24">
+    <se lang="russian" variant_id="0">Искусство 1</se>
+    <se lang="latin" variant_id="1">Experientia 1</se>
+    <weight variant_id="1">11,2455</weight>
+  </para>
+  <para id="25">
+    <se lang="" variant_id="0">§ 10. Воздух в рудниках во всякое время целого года сохраняет равное растворение, где рудокопы ни от летних жаров, ни от зимних морозов не претерпевают никакого беспокойства.</se>
+    <se lang="" variant_id="1">§ 10. Aër in fodinis qualibet anni tempestate habet eundem gradum caloris, ubi fossores nullam injuriam a frigore vel aestu sentiunt.</se>
+    <weight variant_id="1">0,481423</weight>
+  </para>
+  <para id="26">
+    <se lang="russian" variant_id="0">Напротив того, на внешнем воздухе лето зной, зимою стужа господствует.</se>
+    <se lang="latin" variant_id="1">Contra vero in libero aëre hyberno tempore frigus, aestivo aestus dominatur.</se>
+    <weight variant_id="1">0,275806</weight>
+  </para>
+  <para id="27">
+    <se lang="" variant_id="0">§ 11. Посему в рудниках воздух летом холоднее внешнего, а зимою теплее [и всеконечно летом он пропорционально тяжелее наружного, а зимою легче]°.</se>
+    <se lang="" variant_id="1">§ 11. Aestate igitur aër in fodinis est frigidior externo, hyeme autem eodem calidior, adeoque aestate specifice gravior externo, hyeme specifice levior.</se>
+    <weight variant_id="1">0,541822</weight>
+  </para>
+  <para id="28">
+    <se lang="russian" variant_id="0">Искусство 2</se>
+    <se lang="latin" variant_id="1">Experientia 2</se>
+    <weight variant_id="1">11,2455</weight>
+  </para>
+  <para id="29">
+    <se lang="" variant_id="0">§ 12. Внешний воздух летом или зимою, когда сам от себя или от машин в рудник войдет, теплоту или стужу свою, кою имел вне, теряет в едва чувствительное время вовсе, и немедленно принимает на себя то же растворение, кое рудником обладает.</se>
+    <se lang="" variant_id="1">§ 12. Aër externus tempore aestivo vel hyberno dum sponte sua vel industria fossorum in cava terrae infunditur, calorem vel frigus foris sibi impressum repente amittit, et eandem temperiem in se recipit, qua latera fossarum sunt praedita, seu quam habebat aër, qui ante fodinam replebat.</se>
+    <weight variant_id="1">0,375357</weight>
+  </para>
+  <para id="30">
+    <se lang="russian" variant_id="0">Примечание</se>
+    <se lang="latin" variant_id="1">Scholium</se>
+    <weight variant_id="1">0,233333</weight>
+  </para>
+  <para id="31">
+    <se lang="" variant_id="0">§ 13. Коль скоро воздух теплоту принимает и теряет, беспрестанно показывает наше дыхание, когда холодный воздух почерпаем в легкое, теплый испускаем, который в близости у рта руку нагревает, прохлаждает в малом отдалении.</se>
+    <se lang="" variant_id="1">§ 13. Quam repente aër calorem acquirit et amittit, respiratio quolibet momento temporis loquitur, ubi frigidum aëra pulmonibus haurimus, calidum effundimus, qui ex ore emanans proxime admotam manum tepore, remotiorem vero levi frigore afficit.</se>
+    <weight variant_id="1">0,449006</weight>
+  </para>
+  <para id="32">
+    <se lang="" variant_id="0">§ 14. Воздух, в рудники входящий зимою, становится пропорционально легче, летом пропорционально тяжелее (§ 11).</se>
+    <se lang="" variant_id="1">§ 14. Aër, qui in fodinas infunditur aestate redditur externo specifice gravior hyeme eodem specifice levior (§ 11).</se>
+    <weight variant_id="1">1,04394</weight>
+  </para>
+  <para id="33">
+    <se lang="russian" variant_id="0">Положение 1</se>
+    <se lang="latin" variant_id="1">Theorema 1</se>
+    <weight variant_id="1">11,27</weight>
+  </para>
+  <para id="34">
+    <se lang="" variant_id="0">§ 15. Летним временем воздух должен вливаться в высший шахт CE, вытекать нижним AB. ~~~</se>
+    <se lang="" variant_id="1">§ 15. Tempore aestivo aër debet infundi in puteum altiorem CE et ex puteo humiliori AB egredi</se>
+    <weight variant_id="1">0,175</weight>
+  </para>
+  <para id="35">
+    <se lang="russian" variant_id="0">Доказательство</se>
+    <se lang="latin" variant_id="1">Demonstratio</se>
+    <weight variant_id="1">0,253846</weight>
+  </para>
+  <para id="36">
+    <se lang="russian" variant_id="0">Воздух в рудниках летним временем бывает пропорционально тяжелее внешнего (§ 14), для того он в высоком шахте CE перевесит воздух, что в низком шахте AB (§ 6).</se>
+    <se lang="latin" variant_id="1">Aër in fodinis aestivo tempore est specifice gravior quam externus (§ 11), quamobrem aër in puteo altiore CE praeponderabit aëri in puteo humiliori AB (§ 6).</se>
+    <weight variant_id="1">0,8533</weight>
+  </para>
+  <para id="37">
+    <se lang="russian" variant_id="0">Следовательно, от C опустится до D, чтобы сыскать равновесие с воздухом, что в шахте AB. ~~~ Опустясь, выгонит из шахты AB количество воздуха, равное тому, кое содержалось в части CD шахта EC.</se>
+    <se lang="latin" variant_id="1">Consequenter ex C descendet usque ad D, ut cum aëre in puteo AB contento aequilibrium acquirat; post descensum expellet ex puteo AB quantitatem aëris aequalem quantitati, quae continebatur in parte CD putei EC.</se>
+    <weight variant_id="1">0,17073</weight>
+  </para>
+  <para id="38">
+    <se lang="russian" variant_id="0">Между тем внешний воздух собственою своею тягостию опустится в шахт CE даже до D, и примет на себя ту же теплоту с прочим воздухом, что в руднике (§ 12), и для того будет тяжелее внешнего (§ 14); следовательно, воздух в шахте CE таким же образом, как прежде, перевесит воздух, что в шахте AB содержится; и опустясь в часть CD шахта CE до D, оный погонит сквозь A из шахта AB, дая место втекающему внешнему воздуху.</se>
+    <se lang="latin" variant_id="1">Interea aër externus propria sua gravitate descendet in puteum EC usque ad D, habebitque eundem gradum caloris, quem habet reliqua pars aëris in fodina contenta (§ 12), h. e. erit specifice gravior externo (§ 14). ~~~ Consequenter aër in puteo CE, eadem ratione ut ante, praeponderabit aëri in puteo AB contento, et descendens usque in D, illum per A expellet ex puteo AB, in partem CD putei EC, externum aërem rursus admissurus.</se>
+    <weight variant_id="1">0,159189</weight>
+  </para>
+  <para id="39">
+    <se lang="russian" variant_id="0">И, таким образом, сие движение продолжится, пока воздух в руднике будет пропорционально тяжелее внешнего: то есть должен в летнее время вливаться в верхнее устье, вытекать из нижнего.</se>
+    <se lang="latin" variant_id="1">Et, hac ratione iste aëris motus tamdiu continuabitur, quousque aër in fodina contentus manebit specifice gravior externo, hoc est, tempore aestivo aër infundetur in puteum altiorem, ex humiliore, effluet.</se>
+    <weight variant_id="1">0,262025</weight>
+  </para>
+  <para id="40">
+    <se lang="" variant_id="0">[Что и требовалось доказать].°</se>
+    <se lang="latin" variant_id="1">Q. E. ~~~ D.</se>
+    <weight variant_id="1">-0,27</weight>
+  </para>
+  <para id="41">
+    <se lang="" variant_id="0">§ 16. Воздух, вышедший из нижнего шахта на следующий ему снизу, всею тягостию действовать и восстановить в руднике равновесие не может. ~~~ Ибо как только из отверстия A к L вытечет, редок от теплоты становится, мешается со внешним воздухом и развевается.</se>
+    <se lang="" variant_id="1">§ 16. Aër ex puteo humiliore AB egressus in eum qui succedit integro suo pondere agere et aequilibrium in fodina restituere non potest; quippe quam primum ex apertura A versus L effluit, calore rarefit, cum reliquo aëre commiscetur et distrahitur.</se>
+    <weight variant_id="1">0,132078</weight>
+  </para>
+  <para id="42">
+    <se lang="" variant_id="0">§ 17. В летнее время воздух должен вливаться в верхнюю открытую штольну FG, а из нижней HK вытекать. ~~~</se>
+    <se lang="" variant_id="1">§ 17. Tempore aestivo aër debet infundi in curriculum superiorem FG, et e cuniculo inferiore HK effluere</se>
+    <weight variant_id="1">0,298142</weight>
+  </para>
+  <para id="43">
+    <se lang="russian" variant_id="0">На обоих отверстиях H и F стоят воздушные столбы, простирающиеся от них до самой поверхности атмосферы.</se>
+    <se lang="latin" variant_id="1">Utriusque putei aperturis H et F insistunt columnae aëris ad superficiem atmosphaerae exporrectae.</se>
+    <weight variant_id="1">0,721675</weight>
+  </para>
+  <para id="44">
+    <se lang="russian" variant_id="0">Стоящий на отверстии F короче другого, что стоит на отверстии H, частию HP, который недостаток дополняет воздушный столп, что в потаенном шахте GK.</se>
+    <se lang="latin" variant_id="1">Quae insistit aperturae F, brevior est altera columna insistente aperturae H, parte HP, quem defectum substituit columna aëris in puteo interjecto GK contenta.</se>
+    <weight variant_id="1">0,521429</weight>
+  </para>
+  <para id="45">
+    <se lang="russian" variant_id="0">Но как в летнее время воздух в рудниках пропорционально тяжелее внешнего (§ 11), для того часть столпа атмосферного, что в потаенном шахте GK, должна быть пропорционально тяжелее части столпа PH.</se>
+    <se lang="latin" variant_id="1">Quoniam autem tempore aestivo aër in fodinis est specifice gravior aëre externo (§ 11), quamobrem pars columnae atmosphaericae in puteo interjecto contenta GK erit specifice gravior parte columnae PH.</se>
+    <weight variant_id="1">0,589222</weight>
+  </para>
+  <para id="46">
+    <se lang="russian" variant_id="0">Прочие столпов части, простирающиеся до поверхности атмосферы, суть той же вышины и пропорциональной тягости: ибо в той же части оные на малом расстоянии одним пределом кончатся. ~~~ Посему столп воздуха, стоящий на отверстии F, с частию GK, коя пропорционально тяжелее, перевесит столп, стоящий на отверстии H, с частию HP, коя пропорционально легче.</se>
+    <se lang="latin" variant_id="1">Reliquae autem columnarum partes ad superficiem atmosphaerae exporrectae sunt ejusdem altitudinis et gravitatis specificae (nam in eadem fere atmosphaerae parte subdio ad unum terminum extenduntur) quamobrem columna aëris, quae insistit aperturae F cum parte specifice graviore GK praeponderabit columnae insistenti aperturae H cum parte specifice leviore HP.</se>
+    <weight variant_id="1">-0,007</weight>
+  </para>
+  <para id="47">
+    <se lang="russian" variant_id="0">Следовательно воздух, рушив равновесие в потаенном шахте GK, опустится в нижний штольн HK и равное себе количество воздуха из него сквозь H вытеснит.</se>
+    <se lang="latin" variant_id="1">Consequenter sublato aequilibrio aër in puteo interjecto GK descendet in cuniculum inferiorem HK, et quantitatem aëris sibi aequalem ex eo foras per H protrudet.</se>
+    <weight variant_id="1">0,399219</weight>
+  </para>
+  <para id="48">
+    <se lang="russian" variant_id="0">В потаенный шахт GK воздух опустится из штольны FG, и на его место вступит внешний, который, простынув (§ 12), в шахт GK вольется, и снова рушив равновесие, штольною HK вон выйдет. ~~~ Итак беспрестанно воздух входить верхнею, выходить нижнею штольною станет, пока внешний будет теплее и легче внутреннего; то есть пока продолжается весна и лето (§ 11).</se>
+    <se lang="latin" variant_id="1">In puteum interiectum GK aër defluet ex cuniculo FG, eique succedet externus; qui tandem refrigeratus (§ 12) in puteum GK influet, ei sublato iterum aequilibrio per cuniculum HK foras egredietur, et sic continuo aër in cuniculum superiorem ingredietur, ex inferiore effluet, quousque aër externus manebit specifice levior interno, hoc est, quamdiu aestas durabit (§ 11).</se>
+    <weight variant_id="1">0,105284</weight>
+  </para>
+  <para id="49">
+    <se lang="" variant_id="0">[Что и требовалось доказать].°</se>
+    <se lang="latin" variant_id="1">Q. E. ~~~ D.</se>
+    <weight variant_id="1">-0,27</weight>
+  </para>
+  <para id="50">
+    <se lang="russian" variant_id="0">Присовокупление 1</se>
+    <se lang="latin" variant_id="1">Corollarium 1</se>
+    <weight variant_id="1">11,2077</weight>
+  </para>
+  <para id="51">
+    <se lang="" variant_id="0">§ 18. Где лето больше, там и воздух долее тем движением простираться должен, коим в верхний шахт входит, нижним вытекает; и напротив того, где лето коротко, там и сие движение меньше времени занимает.</se>
+    <se lang="" variant_id="1">§ 18. Ubi aestas longiori tempore permanet, ibi etiam aër diutius eam directionem motus conservabit, qua ingreditur in puteum vel cuniculum altiorem, ex humiliore effluit. ~~~ Et contra, ubi aestas brevis est, ibi etiam haec fluxio aëris breviore tempore durabit.</se>
+    <weight variant_id="1">0,0942437</weight>
+  </para>
+  <para id="52">
+    <se lang="" variant_id="0">§ 19. Итак не дивно, что в умеренных климатах сие движение воздуха начинается рано весною и поздно осенью кончится; а в холодных краях начало принимает при конце весны, кончится в начале осени.</se>
+    <se lang="" variant_id="1">§ 19. Mirum prefecto non est in oris temperatis ejusmodi fluxionem incipere initio veris et fine autumni cessare, in frigidis autem initium capere sub finem veris et sub initium autumni desinere.</se>
+    <weight variant_id="1">0,482012</weight>
+  </para>
+  <para id="53">
+    <se lang="russian" variant_id="0">Положение 3</se>
+    <se lang="latin" variant_id="1">Theorema 3</se>
+    <weight variant_id="1">11,27</weight>
+  </para>
+  <para id="54">
+    <se lang="" variant_id="0">§ 20. Зимнею порою воздух должен вливатися в нижний шахт AB, выходить верхним CE.</se>
+    <se lang="" variant_id="1">§ 20. Brumali tempore aër infundi debet in puteum humiliorem AB, et ex puteo altiore EC effluere.</se>
+    <weight variant_id="1">0,844286</weight>
+  </para>
+  <para id="55">
+    <se lang="russian" variant_id="0">Шахт CE выше шахта AB, и воздух в рудниках зимою легче внешнего (§ 11).</se>
+    <se lang="latin" variant_id="1">Puteus CE est altior puteo AB (per hypoth.) et aër in fodinis tempore hyberno specifice levior externo (§ 11).</se>
+    <weight variant_id="1">0,727119</weight>
+  </para>
+  <para id="56">
+    <se lang="russian" variant_id="0">Посему часть AL столпа воздушного, стоящего на отверстии B, должна быть тяжелее части DE другого столпа воздушного, стоящего на отверстии E (§ тот же).</se>
+    <se lang="latin" variant_id="1">Igitur pars AL columnae insistentis extremitati B erit specifice gravior parte DE columnae insistentis extremitati E (§ eod.).</se>
+    <weight variant_id="1">0,879761</weight>
+  </para>
+  <para id="57">
+    <se lang="russian" variant_id="0">Того ради столп, [стоящий над отверстием B]° перевесит столп, [стоящий над отверстием E]°; следовательно, внешний воздух вольется в отверстие A шахта AB, и внутренний воздух погонит вон отверстием C. И понеже воздух, вшедший в руднике зимою, становится легче внешнего (§ 14), для того, нарушая всегда равновесие зимою, должен вливаться в нижний шахт, выливаться из верхнего.</se>
+    <se lang="latin" variant_id="1">Quamobrem columna insistens extremitati B praeponderabit columnae insistenti extremitati E, adeoque aër externus irruet in aperturam A putei AB, ac illum, qui ceteras partes fodinae occupat per aperturam C protrudet foras. ~~~ Et quoniam aër fodinam ingressus hyeme redditur specifice gravior externo (§ 14), quamobrem semper aequilibrio sublato aër hyberno tempore in puteum humiliorem influet, ex altiore effluet.</se>
+    <weight variant_id="1">0,0769798</weight>
+  </para>
+  <para id="58">
+    <se lang="" variant_id="0">[Что и требовалось доказать].°</se>
+    <se lang="latin" variant_id="1">Q. E. ~~~ D.</se>
+    <weight variant_id="1">-0,27</weight>
+  </para>
+  <para id="59">
+    <se lang="" variant_id="0">§ 21. Рудник FGHK в таком же состоит расположении, как ABCE; то есть часть HP воздушного столпа, простирающегося до поверхности атмосферы, стоящая на отверстии H, зимним временем холоднее и тяжелее части GK, коя потаенный шахт наполняет: для того воздух зимнею порою в руднике нижним отверстием вливаться должен, выходить верхним.</se>
+    <se lang="" variant_id="1">§ 21. Quoniam fodina FGHK eadem ratione est comparata, ut fodina ABCE, nimirum pars HP columnae aëris ad superficiem atmosphaerae exporrectae, aperturae H insistentis, tempore brumali est specifice gravior parte GK, quae replet puteum interjectum, quamobrem aër hyberno tempore infundetur in cuniculum inferiorem, ex superiore egredietur.</se>
+    <weight variant_id="1">0,607529</weight>
+  </para>
+  <para id="60">
+    <se lang="" variant_id="0">§ 22. Внешний воздух беспрестанно втекает в шахты и штольны нижние, верхними выходит, пока он внутреннего пропорционально тяжелее. ~~~ Следовательно, где зима стоит долее, там и течение воздуха из нижнего шахта в верхний больше времени занимает, нежели где зима короче. ~~~ И всеконечно, в холодных краях [наружный воздух должен начинать свое движение по рудникам от отверстия нижней шахты или штольни к отверстию верхней шахты или штольни к началу осени и оканчивать его к исходу весны; в умеренном же это движение должно иметь начало к концу осени, прекращаться к началу весны].°</se>
+    <se lang="" variant_id="1">§ 22. Aër externus continuo ingreditur in puteos et cuniculos inferiores, ex superioribus egreditur, quamdiu manet specifice gravior interno, consequenter ubi hyems pluribus mensibus dominatur, ibi etiam motus aëris ab apertura inferiore versus superiorem diutius durare debet, quam ubi hyems est brevior; adeoque in regionibus frigidis aër externus incipere debet fluxionem per fodinas ab apertura putei vel cuniculi humilioris versus aperturam putei vel cuniculi altioris sub initium autumni, eamque finire sub exitum veris; sub coelo autem temperato motus hic initium capere debet sub finem autumni, sub initium veris cessare.</se>
+    <weight variant_id="1">-0,144415</weight>
+  </para>
+  <para id="61">
+    <se lang="russian" variant_id="0">Присовокупление 3</se>
+    <se lang="latin" variant_id="1">Corollarium 3</se>
+    <weight variant_id="1">11,2077</weight>
+  </para>
+  <para id="62">
+    <se lang="" variant_id="0">§ 23. Весною и осенью, когда стужа с теплотою борется, и внешний воздух становится то теплее, то холоднее в рудниках находящегося; от чего бывает то легче, то тяжелее оного.</se>
+    <se lang="" variant_id="1">§ 23. Vere et autumno, quando frigus et calor luctantur, aër externus tum calidior, tum frigidior redditur interno, qui fodinas occupat, adeoque fit externo tum specifice levior, tum gravior.</se>
+    <weight variant_id="1">0,463265</weight>
+  </para>
+  <para id="63">
+    <se lang="russian" variant_id="0">Итак не дивно, что в сии времена воздух в рудниках около двух недель, а инде и долее, в противные стороны течение переменяет.</se>
+    <se lang="latin" variant_id="1">Mirum igitur non est his anni tempestatibus motum illius quatuordecim dierum circiter spatio contrariis directionibus fodinas alternatim permeare.</se>
+    <weight variant_id="1">0,228571</weight>
+  </para>
+  <para id="64">
+    <se lang="russian" variant_id="0">Примечание 1</se>
+    <se lang="latin" variant_id="1">Scholium 1</se>
+    <weight variant_id="1">11,24</weight>
+  </para>
+  <para id="65">
+    <se lang="" variant_id="0">§ 24. Сия теория о вольном движении воздуха в рудниках полезна будет, уповаю, содержателям рудных заводов и рудокопам.</se>
+    <se lang="" variant_id="1">§ 24. Hanc theoriam de aëris motu spontaneo in fodinis non inutilem fore arbitramur praefectis fodinarum et fossoribus.</se>
+    <weight variant_id="1">0,612877</weight>
+  </para>
+  <para id="66">
+    <se lang="russian" variant_id="0">Ибо (ежели место позволяет) расположенные шахты и штольны по выше показанным правилам работникам легче и хозяевам безубыточнее. ~~~ На строение и движение воздушных машин [вследствие необходимости удалять испорченный подземными парами воздух]° требуется немало иждивения и работы.</se>
+    <se lang="latin" variant_id="1">Etenim (si locorum situs patitur) puteis, cuniculis et fossis ea ratione ductis, hi laboribus, illi sumptibus parcere possunt: siquidem ad construendas machines pneumaticas, ad easque movendas, propter aërem subterraneis vaporibus infectum expellendum, non exigua pecunia et opera impenditur.</se>
+    <weight variant_id="1">-0,00673469</weight>
+  </para>
+  <para id="67">
+    <se lang="russian" variant_id="0">Примечание 2</se>
+    <se lang="latin" variant_id="1">Scholium 2</se>
+    <weight variant_id="1">11,24</weight>
+  </para>
+  <para id="68">
+    <se lang="" variant_id="0">§ 25. От сего же рассуждения можно ожидать помощи и в изъяснении многих натуральных явлений.</se>
+    <se lang="" variant_id="1">§ 25. Nec in phaenomenis rerum naturalium explicandis non alia hinc opera expectari potest.</se>
+    <weight variant_id="1">0,7</weight>
+  </para>
+  <para id="69">
+    <se lang="russian" variant_id="0">Афанасий Кирхер в своей книге „Подземный мир“ указывает, что в Италии, из некоторых пещер временем воздух выходит и производит на ближних полях дыхание ветра, что изъяснить можно без сомнения по первому положению</se>
+    <se lang="latin" variant_id="1">Athanasius Kircherus in Mundo suo subterraneo refert, dari in Italia quasdam speluncas, quae certis anni tempestatibus aërem effundunt et in agris vicinis ventum producunt, quod propositae hujus theoriae auxilio dilucidari posse censemus.</se>
+    <weight variant_id="1">0,264516</weight>
+  </para>
+</body>
+</html>

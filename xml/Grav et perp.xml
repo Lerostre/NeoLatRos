@@ -1,0 +1,242 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html>
+<head>
+</head>
+<body>
+  <para id="0">
+    <se lang="russian" variant_id="0">Положение</se>
+    <se lang="latin" variant_id="1">Theorema</se>
+    <weight variant_id="1">0,266667</weight>
+  </para>
+  <para id="1">
+    <se lang="russian" variant_id="0">Тяжесть тел не зависит от какой-либо притягательной силы, но от тяготительной материи.</se>
+    <se lang="latin" variant_id="1">Gravitas corporum non dependet a vi quadam attractrice, sed a materia gravifica.</se>
+    <weight variant_id="1">0,274286</weight>
+  </para>
+  <para id="2">
+    <se lang="russian" variant_id="0">Доказательство</se>
+    <se lang="latin" variant_id="1">Demonstratio</se>
+    <weight variant_id="1">0,253846</weight>
+  </para>
+  <para id="3">
+    <se lang="russian" variant_id="0">Приращения скорости движения, приобретаемые падающими телами, — это движения, которых до того в данном тяготеющем теле не было и которые, следовательно, являются производными.</se>
+    <se lang="latin" variant_id="1">Incrementa celeritatis motus quae corpora cadentia acquirunt sunt motus, qui prius in corpore illo gravi non fuerunt adeoque sunt derivativi.</se>
+    <weight variant_id="1">0,22439</weight>
+  </para>
+  <para id="4">
+    <se lang="russian" variant_id="0">Но так как они связаны с тяготением и происходят от той же самой причины, от которой зависит стремление тяготеющего тела к центру земли, то очевидно, что тяготение есть движение производное и следовательно зависит от другого движущего [тела].</se>
+    <se lang="latin" variant_id="1">Cum vero ad gravitatem pertineant et ab eadem causa proficiscantur, a qua nisus corporis gravis ad centrum telluris dependet: patet gravitatem esse motum derivativum, adeoque ab alio movente dependere.</se>
+    <weight variant_id="1">0,243103</weight>
+  </para>
+  <para id="5">
+    <se lang="russian" variant_id="0">Далее, приписывать это физическое свойство тел божественной воле или какой-либо чудодейственной силе мы не можем, не кощунствуя против бога и природы; необходимо признать, что существует некая материя, своим движением толкающая тяготеющие тела к центру земли.</se>
+    <se lang="latin" variant_id="1">Porro voluntati divinae aut miraculosae cuidam virtuti physicam hanc corporum proprietatem sine injuria in deum et naturam adscribere non possumus, fatendum est dari quandam materiam, quae corpora gravia motu suo ad telluris centrum propellit.</se>
+    <weight variant_id="1">0,278673</weight>
+  </para>
+  <para id="6">
+    <se lang="russian" variant_id="0">Определение I</se>
+    <se lang="latin" variant_id="1">Definitio I</se>
+    <weight variant_id="1">1,24545</weight>
+  </para>
+  <para id="7">
+    <se lang="russian" variant_id="0">Движение есть непрерывное перемещение.</se>
+    <se lang="latin" variant_id="1">Motus est continua loci mutatio.</se>
+    <weight variant_id="1">0,227586</weight>
+  </para>
+  <para id="8">
+    <se lang="russian" variant_id="0">Определение II</se>
+    <se lang="latin" variant_id="1">Definitio II</se>
+    <weight variant_id="1">1,25</weight>
+  </para>
+  <para id="9">
+    <se lang="russian" variant_id="0">Покой есть пребывание в одном и том же месте.</se>
+    <se lang="latin" variant_id="1">Quies est permanentia in eodem loco.</se>
+    <weight variant_id="1">0,24375</weight>
+  </para>
+  <para id="10">
+    <se lang="russian" variant_id="0">Все, что имеет начало своего движения, движется.</se>
+    <se lang="latin" variant_id="1">Omne quod motus sui initium habet movetur.</se>
+    <weight variant_id="1">0,251351</weight>
+  </para>
+  <para id="11">
+    <se lang="russian" variant_id="0">Опыт</se>
+    <se lang="latin" variant_id="1">Experientia</se>
+    <weight variant_id="1">-0,12</weight>
+  </para>
+  <para id="12">
+    <se lang="russian" variant_id="0">Когда тяготеющее тело несется к центру земли, его скорость возрастает.</se>
+    <se lang="latin" variant_id="1">Corpus grave dum ad telluris centrum fertur, celeritas ejus crescit.</se>
+    <weight variant_id="1">0,29</weight>
+  </para>
+  <para id="13">
+    <se lang="russian" variant_id="0">Это приращение скорости есть новое движение, которого ранее не было в стремлении тяготеющего тела и которое не зависит от этого простого стремления.</se>
+    <se lang="latin" variant_id="1">Incrementum hoc celeritatis est motus novus, qui in nisu corporis gravis non fuit, neque a nisu illo simplici dependet.</se>
+    <weight variant_id="1">0,223529</weight>
+  </para>
+  <para id="14">
+    <se lang="russian" variant_id="0">Всякое тело, имеющее ныне начало своего движения, движимо другим.</se>
+    <se lang="latin" variant_id="1">Omne corpus quod motus sui nunc initium habet, movetur ab alio c[orpor]e.</se>
+    <weight variant_id="1">0,274138</weight>
+  </para>
+  <para id="15">
+    <se lang="russian" variant_id="0">Но всякое тело, силою своего тяготения несущееся к центру земли, имеет начало своего движения.</se>
+    <se lang="latin" variant_id="1">Sed omne corpus quod vi gravitatis suae ad centrum telluris fertur, habet motus sui initium.</se>
+    <weight variant_id="1">0,288608</weight>
+  </para>
+  <para id="16">
+    <se lang="russian" variant_id="0">Всякое тело, силою тяготения несущееся к центру земли, движимо другим телом.</se>
+    <se lang="latin" variant_id="1">Omne corpus quod vi gravitatis ad telluris centrum fertur, movetur ab alio corpore.</se>
+    <weight variant_id="1">0,277612</weight>
+  </para>
+  <para id="17">
+    <se lang="russian" variant_id="0">Всякое тело, ранее не двигавшееся, а ныне движущееся, имеет начало своего движения.</se>
+    <se lang="latin" variant_id="1">Omne corpus quod prius non movebatur et nunc movetur, habet motus sui initium.</se>
+    <weight variant_id="1">0,273134</weight>
+  </para>
+  <para id="18">
+    <se lang="russian" variant_id="0">Но тяготеющее тело, несущееся к центру земли, ранее не двигалось, а теперь движется.</se>
+    <se lang="latin" variant_id="1">Sed corpus grave quod ad centrum telluris fertur, prius non movebatur et nunc movetur.</se>
+    <weight variant_id="1">0,29589</weight>
+  </para>
+  <para id="19">
+    <se lang="russian" variant_id="0">Тяготеющее тело, несущееся к центру земли, имеет начало своего движения.</se>
+    <se lang="latin" variant_id="1">Corpus grave quod ad centrum telluris fertur, habet motus sui initium.</se>
+    <weight variant_id="1">0,285246</weight>
+  </para>
+  <para id="20">
+    <se lang="russian" variant_id="0">Всякое движение тела, которого в этом теле ранее не было, имеет свое начало; но, напр., приращения движения к центру земли ранее в теле не было, значит оно имеет свое начало.</se>
+    <se lang="latin" variant_id="1">Omnis corporis motus, qui antea in corpore non fuit, hab[et] sui initium, sed incrementum motus ad T. C. e. g. prius in corpore gravi non fuit, ergo habet sui initium.</se>
+    <weight variant_id="1">0,287143</weight>
+  </para>
+  <para id="21">
+    <se lang="russian" variant_id="0">Всякое движение тела, имеющее начало ныне, зависит от другого тела.</se>
+    <se lang="latin" variant_id="1">Omnis corporis motus qui nunc initium habet, dependet ab alio corpore.</se>
+    <weight variant_id="1">0,289831</weight>
+  </para>
+  <para id="22">
+    <se lang="russian" variant_id="0">Но движение тяготеющего тела к центру земли имеет начало, следовательно зависит от движения другого тела.</se>
+    <se lang="latin" variant_id="1">Sed corporis gravis motus ad centrum telluris initium habet, ergo dependet a motu corporis alterius.</se>
+    <weight variant_id="1">0,282759</weight>
+  </para>
+  <para id="23">
+    <se lang="russian" variant_id="0">Существует тяготительная материя.</se>
+    <se lang="latin" variant_id="1">Datur materia gravifica.</se>
+    <weight variant_id="1">0,182609</weight>
+  </para>
+  <para id="24">
+    <se lang="russian" variant_id="0">Ее представление.</se>
+    <se lang="latin" variant_id="1">Propos[itio] ips[ius].</se>
+    <weight variant_id="1">0,211765</weight>
+  </para>
+  <para id="25">
+    <se lang="russian" variant_id="0">1. Ибо она гнетет тела к центру земли.</se>
+    <se lang="latin" variant_id="1">1. Quia corpora ad centrum telluris premit.</se>
+    <weight variant_id="1">0,620455</weight>
+  </para>
+  <para id="26">
+    <se lang="russian" variant_id="0">2. Ибо тела несутся к центру.</se>
+    <se lang="latin" variant_id="1">2. Quia corpora ad centrum feruntur.</se>
+    <weight variant_id="1">0,647802</weight>
+  </para>
+  <para id="27">
+    <se lang="russian" variant_id="0">2. Ибо они движутся.</se>
+    <se lang="latin" variant_id="1">2. Quia moventur.</se>
+    <weight variant_id="1">1,01471</weight>
+  </para>
+  <para id="28">
+    <se lang="russian" variant_id="0">Определение</se>
+    <se lang="latin" variant_id="1">Definitio</se>
+    <weight variant_id="1">0,24</weight>
+  </para>
+  <para id="29">
+    <se lang="russian" variant_id="0">Первичное движение — это такое, которое в себе самом имеет свое основание, т. е. не зависит от другого движения.</se>
+    <se lang="latin" variant_id="1">Motus primitivus est, qui rationem sui in se ipso habet, sive ab alio motu non dependet.</se>
+    <weight variant_id="1">0,214865</weight>
+  </para>
+  <para id="30">
+    <se lang="russian" variant_id="0">Определение</se>
+    <se lang="latin" variant_id="1">Definitio</se>
+    <weight variant_id="1">0,24</weight>
+  </para>
+  <para id="31">
+    <se lang="russian" variant_id="0">Производное движение — это такое, которое зависит от другого движения.</se>
+    <se lang="latin" variant_id="1">Motus derivativus est, qui ab alio motu dependet.</se>
+    <weight variant_id="1">0,167442</weight>
+  </para>
+  <para id="32">
+    <se lang="russian" variant_id="0">Аксиома</se>
+    <se lang="latin" variant_id="1">Axioma</se>
+    <weight variant_id="1">0,257143</weight>
+  </para>
+  <para id="33">
+    <se lang="russian" variant_id="0">Все, что покоится, не может притти в движение, если не будет двинуто другим.</se>
+    <se lang="latin" variant_id="1">Quidquid quiescit, illud moveri non potest, nisi ab alio moveatur.</se>
+    <weight variant_id="1">0,263793</weight>
+  </para>
+  <para id="34">
+    <se lang="russian" variant_id="0">Положение</se>
+    <se lang="latin" variant_id="1">Theorema</se>
+    <weight variant_id="1">0,266667</weight>
+  </para>
+  <para id="35">
+    <se lang="russian" variant_id="0">Первичное движение не может иметь начала, но должно существовать извечно.</se>
+    <se lang="latin" variant_id="1">Motus primitivus initium habere non potest, sed ab aeterno esse debet.</se>
+    <weight variant_id="1">0,280328</weight>
+  </para>
+  <para id="36">
+    <se lang="russian" variant_id="0">Доказательство</se>
+    <se lang="latin" variant_id="1">Demonstratio</se>
+    <weight variant_id="1">0,253846</weight>
+  </para>
+  <para id="37">
+    <se lang="russian" variant_id="0">Предположим, что первичное движение не существует извечно; отсюда следует, что было время, когда этого движения не было, и что движущееся тело покоилось, но было наконец возбуждено к движению. ~~~ Отсюда можно заключить, что было нечто внешнее, что его двигало, и следовательно первичное движение не было первичным, что однако содержит противоречие.</se>
+    <se lang="latin" variant_id="1">Ponatur motum primitivum non esse ab aeterno, igitur sequetur fuisse tempus, quo ille non fuit, adeoque mobile quievis[s]e et tandem ad motum concitatum fuisse, unde colligere licet, quod aliquid externum fuerit quod illud moveret, consequenter, motus primitivus non esset primitivus, quod tamen contradictionem involvit.</se>
+    <weight variant_id="1">-0,0112903</weight>
+  </para>
+  <para id="38">
+    <se lang="russian" variant_id="0">Поэтому необходимо принять противоположное утверждение и признать, что первичное движение никогда не может иметь начала, но должно длиться извечно.</se>
+    <se lang="latin" variant_id="1">Quamobrem contraria sententia assumenda est et fatendum, motum primitivum initium nunquam habere posse, sed ab aeterno durare debere.</se>
+    <weight variant_id="1">0,266667</weight>
+  </para>
+  <para id="39">
+    <se lang="russian" variant_id="0">Опыт</se>
+    <se lang="latin" variant_id="1">Experientia</se>
+    <weight variant_id="1">-0,12</weight>
+  </para>
+  <para id="40">
+    <se lang="russian" variant_id="0">Когда тяготеющие тела падают, то движение, которым они несутся, не равномерно, и скорость их непрерывно увеличивается.</se>
+    <se lang="latin" variant_id="1">Corpora gravia dum cadunt, feruntur motu inaequabili sed celeritas eorum continuo augetur.</se>
+    <weight variant_id="1">0,21</weight>
+  </para>
+  <para id="41">
+    <se lang="russian" variant_id="0">А именно, скорости имеют такое же отношение к расстояниям, какое сами расстояния к своим квадратам.</se>
+    <se lang="latin" variant_id="1">Scilicet celeritates ad distantias eam rationem habent quam distantiae ipsae ad quadrata sua.</se>
+    <weight variant_id="1">0,285366</weight>
+  </para>
+  <para id="42">
+    <se lang="russian" variant_id="0">Гипотеза</se>
+    <se lang="latin" variant_id="1">Hypothesis</se>
+    <weight variant_id="1">0,233333</weight>
+  </para>
+  <para id="43">
+    <se lang="russian" variant_id="0">Земля притягивает тела одной и той же тяжести с одной и той же силой, если они находятся на одном и том же расстоянии от центра земли.</se>
+    <se lang="latin" variant_id="1">Tellus corpora ejusdem gravitatis attrahit eadem vi, si fuerint in eadem distantia a centro telluris.</se>
+    <weight variant_id="1">0,225</weight>
+  </para>
+  <para id="44">
+    <se lang="russian" variant_id="0">Опыт</se>
+    <se lang="latin" variant_id="1">Experientia</se>
+    <weight variant_id="1">-0,12</weight>
+  </para>
+  <para id="45">
+    <se lang="russian" variant_id="0">В приращении скорости падающих тел одной и той же тяжести не наблюдается никакой разницы.</se>
+    <se lang="latin" variant_id="1">In celeritatis incremento corporum cadentium ejusdem gravitatis nulla differentia observatur.</se>
+    <weight variant_id="1">0,268831</weight>
+  </para>
+  <para id="46">
+    <se lang="russian" variant_id="0">Если разность расстояний от центра земли невелика, напр. 20 десятифут[овых?].</se>
+    <se lang="latin" variant_id="1">Si distantiarum a centro telluris non magna fuerit differentia, e. g. 20 decemped.</se>
+    <weight variant_id="1">0,24</weight>
+  </para>
+</body>
+</html>

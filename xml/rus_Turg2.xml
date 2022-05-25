@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html>
+<head>
+</head>
+<body>
+  <para id="0">
+    <se lang="russian" variant_id="0">Вопрос, который мне предстоит разобрать, выражен примерно так: что римляне в литературе заимствовали у греков?</se>
+    <se lang="latin" variant_id="1">Quaestio, quae mihi tractanda est his fere verbis continetur: quid romani in Uteris a graecis acceperint?</se>
+    <weight variant_id="1">0,294828</weight>
+  </para>
+  <para id="1">
+    <se lang="russian" variant_id="0">Это как бы продолжение того вопроса, который я получил для ответа вчера,</se>
+    <se lang="" variant_id="1">— Est vero — quasi continuatio quaestionis illius, quam absolvendam heri accepi.</se>
+    <weight variant_id="1">0,21</weight>
+  </para>
+  <para id="2">
+    <se lang="russian" variant_id="0">а именно: я должен был вкратце изложить судьбу философии у римлян, и мы видели, что римляне слишком рабски шли по следам своих учителей:</se>
+    <se lang="latin" variant_id="1">Nempe de philosophiae apud Romanos fato pauca verba prof erre debui; et vidimus Romanos nimis serviliter vestigia magistrorum suorum pressisse;</se>
+    <weight variant_id="1">-0,00267857</weight>
+  </para>
+  <para id="3">
+    <se lang="russian" variant_id="0">теперь же мне поручено исследовать, что в римской литературе носит неизгладимый отпечаток греческого происхождения.</se>
+    <se lang="latin" variant_id="1">nunc autem jubeor explorare quid in uteris Romanis originis Graecae ~~~ notam recusare non possit.</se>
+    <weight variant_id="1">-0,0142857</weight>
+  </para>
+  <para id="4">
+    <se lang="russian" variant_id="0">Но мне хотелось бы, если будет позволено, говорить об этом покороче, потому что и материал для разбора здесь гораздо обширнее, да и боюсь я, что вновь впаду в такую ошибку, что назову Приапа вместо Пана, скажу alvum вместо alveum.</se>
+    <se lang="latin" variant_id="1">Sed breviore sermone, bona venia dixerim, uti volo: quia et materia tractandi multo majorem se praebet, et vereor, ne denuo in talem errorem inducar ut Priapum pro Pani, alvum pro alveo dicam.</se>
+    <weight variant_id="1">0,289888</weight>
+  </para>
+  <para id="5">
+    <se lang="russian" variant_id="0">Но чтобы вернуться к делу, повторяю то, что я уже сказал: поэзия у римлян блестит не своим светом; зато в прозе, особенно в красноречии (хотя Цицерона нельзя сравнивать с Демосфеном или Эсхином), они по праву заслуживают великой похвалы.</se>
+    <se lang="latin" variant_id="1">Ut ad rem redeam, repetam id, quod jam dixi: poësis apud Romanos non sua luce splendet: in oratione contra pedestri, praecipue in eloquentia (quamquam Demostheni vel Aeschyno non sit Cicero comparandus) multam laudem jure habent.</se>
+    <weight variant_id="1">0,0975</weight>
+  </para>
+  <para id="6">
+    <se lang="russian" variant_id="0">Чтобы подтвердить сказанное примерами, противопоставим Вергилия Гомеру.</se>
+    <se lang="latin" variant_id="1">Ut exeplis dicta firmem, opponetur Virgilius Homero.</se>
+    <weight variant_id="1">0,223404</weight>
+  </para>
+  <para id="7">
+    <se lang="russian" variant_id="0">Поэмы Гомера представляют нам настоящий, даже единственный образец эпической поэзии; и всё, что желали бы мы встретить в подобного рода стихотворениях, в изобилии встречается нам в Илиаде и Одиссее:</se>
+    <se lang="latin" variant_id="1">Homeri carmina genuinum, immo unicum specimen poëseos Epicae nobis praebent: et omnia, quae cupiamus, ut in talis generis carminibus reperiantur, abunde nobis in Iliade et Odyssea occurrunt:</se>
+    <weight variant_id="1">0,3</weight>
+  </para>
+  <para id="8">
+    <se lang="russian" variant_id="0">простота, сила, вдохновение, привлекательнейшее описание древних нравов и обычаев, самое живое описание битв и многое другое, чего нельзя исчерпать в немногих словах.</se>
+    <se lang="latin" variant_id="1">simplicitas, vis, inspiratio, suavissima descriptio veterum morum et institutionum, viridissima enarratio pugnarum — multaque alia, quae paucis verbis ~~~ exhauriri non possunt.</se>
+    <weight variant_id="1">0,290625</weight>
+  </para>
+  <para id="9">
+    <se lang="russian" variant_id="0">А что сказать нам о Вергилии?</se>
+    <se lang="latin" variant_id="1">Quid autem dicemus de Virgilio?</se>
+    <weight variant_id="1">0,264</weight>
+  </para>
+  <para id="10">
+    <se lang="russian" variant_id="0">Конечно, всякий в его стихотворениях должен удивляться изяществу слога, чрезвычайно гладкому стиху, а также его вкусу и чувству меры — но всё же как ему далеко до Гомера! — так далек бывает подражатель от своего образца;</se>
+    <se lang="latin" variant_id="1">Sane ~~~ quisquam in carminibus ejus — admirari debet elegantiam dictionis, versificationem limatissimam nec non gustum et moderationem — sed nihilominus quantum abstat a Homero! — quantum solet imitator ab archetypo;</se>
+    <weight variant_id="1">-0,0127119</weight>
+  </para>
+  <para id="11">
+    <se lang="russian" variant_id="0">то же самое соотношение сохраняется и при сравнении греческой ~~~ литературы с римской.</se>
+    <se lang="latin" variant_id="1">eadem relatio pretium habet in comparatione literarum Graecarum cum Latinis.</se>
+    <weight variant_id="1">-0,0957831</weight>
+  </para>
+  <para id="12">
+    <se lang="russian" variant_id="0">Я не сомневаюсь, что никто не возобновит спора, ~~~ который многие годы длился в прошлом столетии относительно того, кто выше — Гомер или Вергилий.</se>
+    <se lang="latin" variant_id="1">Non dubito quin nemo hanc controversiam denuo moveret, quae, praeterito saeculo, de Homero et Virgilio, quis sit alteri praeponendus — per multos annos duravit.</se>
+    <weight variant_id="1">-0,0388889</weight>
+  </para>
+  <para id="13">
+    <se lang="" variant_id="0"></se>
+    <se lang="" variant_id="1"></se>
+    <weight variant_id="1">0,0217391</weight>
+  </para>
+  <para id="14">
+    <se lang="russian" variant_id="0">Следует заметить, что стихотворения Гомера представляют чрезвычайно обильный и богатый источник для всех историков, исследующих греческие нравы и быт, а Энеида Вергилия хотя и дает, конечно, много, но все же, сравнительно с поэмами Гомера, мало для тех, кто занимается изучением римской истории и римского быта.</se>
+    <se lang="latin" variant_id="1">Notatu dignum est, ut Homeri carmina omnibus historicis, de moribus et vita Graecorum inquirentibus — uberrimam et luculentissimam fontem praebeant, Virgilii Aeneis contra — sane multa, sed cum Homeri carminibus comparentur — pauca adjumenta adferent illis, qui se vitae historiaeque Romanae studio dederunt.</se>
+    <weight variant_id="1">0,284211</weight>
+  </para>
+  <para id="15">
+    <se lang="russian" variant_id="0">Эта особенность имеет, может быть, большее значение, чем можно было бы думать.</se>
+    <se lang="latin" variant_id="1">Et hoc indicium ~~~ fortasse plus valeat, quam credideris.</se>
+    <weight variant_id="1">0,14</weight>
+  </para>
+  <para id="16">
+    <se lang="russian" variant_id="0">В стихотворениях римских поэтов часто труднее бывает определить то, что следует приписать латинскому гению (кроме языка и всего непосредственно касающегося римской истории; равным образом следует исключить и сатиры), чем то, что достаточно явно показывает свое греческое ~~~ происхождение.</se>
+    <se lang="latin" variant_id="1">In carminibus poëtarum Romanorum saepe difficilius existimares id, quod Latinae indoli abscribendum sit (praeter linguam — et quae a peculiari historia Romanorum pendent; Satyrae pariter excipiendae sunt) — quam id, quod Graecam originem satis aperte indicet — eruere.</se>
+    <weight variant_id="1">-0,00157068</weight>
+  </para>
+  <para id="17">
+    <se lang="russian" variant_id="0">Но — чтобы не распускать малых парусов по Тирренскому морю, как говорит Гораций, 1 или чтобы, как он советует в другом месте, не брать мне тяжести на плечи, «когда они отказываются нести», 2</se>
+    <se lang="latin" variant_id="1">Sed — ne pauca vela darem per Tyrrhenum mare, ut Horatius dicit — vel ut alio loco monet: ne onus humeris suscipiam, «quum ferre récusent».</se>
+    <weight variant_id="1">0,646429</weight>
+  </para>
+  <para id="18">
+    <se lang="russian" variant_id="0">пора мне кончать, и я прошу вас, глубокоуважаемый профессор, извинить мне помарки и погрешности, которые вы обнаружите в том, что я сейчас написал; прошу также, чтобы вы как-нибудь приняли во внимание мое намерение — заняться изучением древней литературы.</se>
+    <se lang="latin" variant_id="1">Itaque ad finem pergo, et precor, ut maculae et culpae, quae in his, quae nunc scripsi — reperiuntur a te, Professor reverendissime, mihi ~~~ ignoscantur; precorque, ut consilii a me constituti, ut literarum ~~~ antiquarum studiis me doderem, aliquam rationem duceres.</se>
+    <weight variant_id="1">0,284211</weight>
+  </para>
+</body>
+</html>

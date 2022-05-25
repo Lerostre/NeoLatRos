@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html>
+<head>
+</head>
+<body>
+  <para id="0">
+    <se lang="russian" variant_id="0">1</se>
+    <se lang="latin" variant_id="1">1</se>
+    <weight variant_id="1">16,8</weight>
+  </para>
+  <para id="1">
+    <se lang="russian" variant_id="0">Найти, какой удельный вес имели бы кислоты — серная, азотная и соляная, — если бы их можно было получить вполне свободными от воды и чистыми, — и внимательно исследовать этот вопрос методом Гомберга или каким-нибудь другим, тщательно произведя опыт.</se>
+    <se lang="latin" variant_id="1">Invenire gravitatem specificam acidorum vitriolici, nitrosi et salini, quam haberent, si omnis aquae expertia ac nuda sisti possent, eamque rem vel methodo Hombergiana circumspectius, vel alia quacunque instituto sedulo experimento investigare.</se>
+    <weight variant_id="1">0,295755</weight>
+  </para>
+  <para id="2">
+    <se lang="russian" variant_id="0">2</se>
+    <se lang="latin" variant_id="1">2</se>
+    <weight variant_id="1">16,8</weight>
+  </para>
+  <para id="3">
+    <se lang="russian" variant_id="0">Исследовать с помощью опытов преломление лучей света в различных телах как твердых, так и жидких и выяснить отсюда, в какой степени величина преломления зависит от различного удельного веса тел, от разного сцепления частиц и от первоначал, составляющих тела.</se>
+    <se lang="latin" variant_id="1">Indagare experimentis refractionem radiorum lucis in diversis corporibus tam solidis quam fluidis, indeque eruere, quantum diversae gravitati specificae corporum, quantumque variae particularum cohaesioni, aut principiis corpora constituentibus magnitudo refractionis debeat.</se>
+    <weight variant_id="1">0,266216</weight>
+  </para>
+  <para id="4">
+    <se lang="russian" variant_id="0">Объяснить все это теорией, согласной с произведенными опытами.</se>
+    <se lang="latin" variant_id="1">Id autem omne per theoriam, quae institutis experimentis respondeat, explicare.</se>
+    <weight variant_id="1">0,219643</weight>
+  </para>
+</body>
+</html>

@@ -1,0 +1,767 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+<head>
+</head>
+<body>
+  <para id="0">
+    <se lang="russian" variant_id="0">ФИЗИЧЕСКАЯ ДИССЕРТАЦИЯ О РАЗЛИЧИИ СМЕШАННЫХ ТЕЛ, СОСТОЯЩЕМ В СЦЕПЛЕНИИ КОРПУСКУЛ, КОТОРУЮ ДЛЯ УПРАЖНЕНИЯ НАПИСАЛ МИХАЙЛО ЛОМОНОСОВ, СТУДЕНТ МАТЕМАТИКИ И ФИЛОСОФИИ, В 1739 ГОДУ В МАРТЕ МЕСЯЦЕ</se>
+    <se lang="latin" variant_id="1">DISSERTATIO PHYSICA DE CORPORUM MIXTORUM DIFFERENTIA, QUAE IN COHAESIONE CORPUSCULORUM CONSISTIT, QUAM EXERCITII GRATIA CONSCRIPSIT MICHAEL LOMONOSOW MATHESEOS ET PHILOSOPHIAE STUDIOSUS, ANNO 1739, MENSE MARTIO</se>
+    <weight variant_id="1">0,262048</weight>
+  </para>
+  <para id="1">
+    <se lang="russian" variant_id="0">Определение I</se>
+    <se lang="latin" variant_id="1">Definitio I</se>
+    <weight variant_id="1">1,24545</weight>
+  </para>
+  <para id="2">
+    <se lang="" variant_id="0">§ 1. Корпускулы — сущности сложные, не доступные сами по себе наблюдению, т. е. настолько малые, что совершенно ускользают от взора.</se>
+    <se lang="" variant_id="1">§ 1. Corpuscula sunt entia composite per se inobservabilia, seu adeo exigua, ut omnem visum effugiant.</se>
+    <weight variant_id="1">0,568672</weight>
+  </para>
+  <para id="3">
+    <se lang="russian" variant_id="0">Присовокупление I</se>
+    <se lang="latin" variant_id="1">Corollarium I</se>
+    <weight variant_id="1">1,20769</weight>
+  </para>
+  <para id="4">
+    <se lang="" variant_id="0">§ 2. Так как основание того, что свойственно природным телам, нужно искать в качествах корпускул и способе их взаимного расположения (Космология, § 233),1 то и основание различия, наблюдаемого в их сцеплении, надо искать в них же.</se>
+    <se lang="" variant_id="1">§ 2. Quoniam ratio eorum, quae corporibus naturalibus conveniunt, quaerenda est in qualitatibus corpusculorum, et modo quo juxta se ponuntur (Cosmol., § 233), ergo etiam differentiae, quae in eorum cohaesione conspicitur, ratio inde petenda est.</se>
+    <weight variant_id="1">0,525635</weight>
+  </para>
+  <para id="5">
+    <se lang="russian" variant_id="0">Присовокупление II</se>
+    <se lang="latin" variant_id="1">Corollarium II</se>
+    <weight variant_id="1">1,21429</weight>
+  </para>
+  <para id="6">
+    <se lang="" variant_id="0">§ 3. Корпускулы совершенно недоступны для зрения (§ 1), поэтому свойства их и способ взаимного расположения должно исследовать при помощи рассуждения.</se>
+    <se lang="" variant_id="1">§ 3. Corpuscula omni visui obvia non sunt (§ 1), proprietates igitur eorum, et modus, quo juxta se invicem ponuntur, ratiociniorum auxilio sunt investiganda.</se>
+    <weight variant_id="1">0,836364</weight>
+  </para>
+  <para id="7">
+    <se lang="russian" variant_id="0">Определение II</se>
+    <se lang="latin" variant_id="1">Definitio II</se>
+    <weight variant_id="1">1,25</weight>
+  </para>
+  <para id="8">
+    <se lang="" variant_id="0">§ 4. Корпускулы, имеющие основанием своего сложения элементы, называются первичными.</se>
+    <se lang="" variant_id="1">§ 4. Corpuscula, quae rationem compositionis suae habent in elementis, dicuntur primitiva.</se>
+    <weight variant_id="1">0,82987</weight>
+  </para>
+  <para id="9">
+    <se lang="russian" variant_id="0">Определение III</se>
+    <se lang="latin" variant_id="1">Definitio III</se>
+    <weight variant_id="1">1,25385</weight>
+  </para>
+  <para id="10">
+    <se lang="" variant_id="0">§ 5. Корпускулы, имеющие основание своего сложения в других меньших, чем они, корпускулах, суть производные.</se>
+    <se lang="" variant_id="1">§ 5. Corpuscula, quae rationem compositionis suae in aliis se minoribus habent, derivative sunt.</se>
+    <weight variant_id="1">0,661176</weight>
+  </para>
+  <para id="11">
+    <se lang="russian" variant_id="0">Определение IV</se>
+    <se lang="latin" variant_id="1">Definitio IV</se>
+    <weight variant_id="1">1,25</weight>
+  </para>
+  <para id="12">
+    <se lang="" variant_id="0">§ 6. Производные корпускулы называются ближайшими, если состоят из первичных, и отдаленными, если сложены из производных корпускул.</se>
+    <se lang="" variant_id="1">§ 6. Corpuscula derivative proxima sunt, quae ex primitivis constant; remota vero, quae ex derivativis componuntur.</se>
+    <weight variant_id="1">0,608824</weight>
+  </para>
+  <para id="13">
+    <se lang="" variant_id="0">§ 7. Первичные корпускулы относятся к производной, которую они образуют, и производные ближайшие — к производной отдаленной, которую они слагают, как части к целому.</se>
+    <se lang="" variant_id="1">§ 7. Primitive ad derivativum, quod constituunt, et derivativa proxima ad derivativum remotum, quod componunt, sunt ut partes ad tota.</se>
+    <weight variant_id="1">0,516484</weight>
+  </para>
+  <para id="14">
+    <se lang="russian" variant_id="0">Определение V</se>
+    <se lang="latin" variant_id="1">Definitio V</se>
+    <weight variant_id="1">1,24545</weight>
+  </para>
+  <para id="15">
+    <se lang="" variant_id="0">§ 8. Однородными я называю те корпускулы, которые равновелики и подобны по фигуре.</se>
+    <se lang="" variant_id="1">§ 8. Corpuscula homogenea dico, quae aequalia et similia sunt quoad figuram.</se>
+    <weight variant_id="1">0,73915</weight>
+  </para>
+  <para id="16">
+    <se lang="russian" variant_id="0">Пояснение</se>
+    <se lang="latin" variant_id="1">Scholium</se>
+    <weight variant_id="1">0,266667</weight>
+  </para>
+  <para id="17">
+    <se lang="" variant_id="0">§ 9. Я понимаю под этим не такое подобие фигуры и равновеликость, чтобы корпускулы различались лишь по какому-либо иному внутреннему свойству, или только по номеру; они могут иметь некоторое несходство фигуры и неравенство, но настолько незначительные, что ими можно пренебречь и не принимать их во внимание при отыскании причины ощутительной разницы в сцеплении.</se>
+    <se lang="" variant_id="1">§ 9. Non eam hic corpusculorum similitudinem figurae aequalitatemque intelligo, ut illa non nisi alia quadam qualitate intrinseca, aut solo numero different; verum etiamsi aliquam dissimilitudinem figurae et inaequalitatem habeant, in reddenda tamen ratione, cohaesionis sensibiliter differentis negligendam atque pro nulla habendam.</se>
+    <weight variant_id="1">0,420147</weight>
+  </para>
+  <para id="18">
+    <se lang="russian" variant_id="0">Например, если масса одной корпускулы относится к массе другой, как 1000 к 999, а по отношению к фигуре — если две корпускулы обладают фигурой пирамиды, стоящей на квадратном основании, и одна имеет угол к основанию равный 52°31′, а вторая 52°30′.</se>
+    <se lang="latin" variant_id="1">Ex. g. si moles unius corpusculi fuerit ad molem alterius ut 1000 ad 999. Et quoad figuram, si fuerint duo corpuscula pyramidis basi quadratae insistentis figura praedita, alterius anguli ad basim arcum 52°31′, alterius vero 52°30′ pro mensura habuerint.</se>
+    <weight variant_id="1">1,18708</weight>
+  </para>
+  <para id="19">
+    <se lang="russian" variant_id="0">Определение VI</se>
+    <se lang="latin" variant_id="1">Definitio VI</se>
+    <weight variant_id="1">1,25</weight>
+  </para>
+  <para id="20">
+    <se lang="" variant_id="0">§ 10. Корпускулы разнородны, если различаются массою или фигурою, или тем и другим одновременно.</se>
+    <se lang="" variant_id="1">§ 10. Corpuscula heterogenea sunt, quae mole vel figura vel utroque simul differunt.</se>
+    <weight variant_id="1">0,683977</weight>
+  </para>
+  <para id="21">
+    <se lang="russian" variant_id="0">Пояснение I</se>
+    <se lang="latin" variant_id="1">Scholium I</se>
+    <weight variant_id="1">1,27</weight>
+  </para>
+  <para id="22">
+    <se lang="" variant_id="0">§ 11. Что корпускулы различаются массою и фигурою, видно из того, что они — сложные сущности (§ 1), а сложные все имеют протяжение (Онтология, § 619);2 всякое протяженное может увеличиваться и уменьшаться (там же, § 629 и 630), а его фигура может меняться (там же, § 634 и 640).</se>
+    <se lang="" variant_id="1">§ 11. Mole et figura differre corpuscula exinde patet, quod sint entia composita (§ 1), composita namque omnia sunt extensa (Ontol., § 619), extensum omne augeri et minui potest (ibid., § 629 et 630) atque ejus figura immutari (ibid. ~~~ § 634 et 640).</se>
+    <weight variant_id="1">0,246786</weight>
+  </para>
+  <para id="23">
+    <se lang="russian" variant_id="0">Поэтому если одна корпускула увеличивается, а другая уменьшается, одна принимает такую фигуру, другая — иную, то, тем самым, они различаются массою и фигурою.</se>
+    <se lang="latin" variant_id="1">Dum igitur corpusculum unum augetur, alterum vero minuitur; alterum hanc, alterum vero aliam figuram induit; adeo tunc eadem mole et figura differunt.</se>
+    <weight variant_id="1">0,283846</weight>
+  </para>
+  <para id="24">
+    <se lang="" variant_id="0">§ 12. Не говорю о других свойствах корпускул; ибо, кроме этих, нельзя указать других, которые могли бы дать хоть что-нибудь для объяснения различия их сцепления.</se>
+    <se lang="" variant_id="1">§ 12. Proprietates corpusculorum alias praetereo; quia nulla assignari potest, quae ad eorum cohaesionis differentiam explicandam aliquid conferre possit.</se>
+    <weight variant_id="1">0,597826</weight>
+  </para>
+  <para id="25">
+    <se lang="russian" variant_id="0">Определение VII</se>
+    <se lang="latin" variant_id="1">Definitio VII</se>
+    <weight variant_id="1">1,25385</weight>
+  </para>
+  <para id="26">
+    <se lang="" variant_id="0">§ 13. Стороны соприкосновения суть стороны корпускул, которыми они соприкасаются друг с другом.</se>
+    <se lang="" variant_id="1">§ 13. Latera contactus sunt latera corpusculorum, quibus ea se mutuo contingunt.</se>
+    <weight variant_id="1">0,702384</weight>
+  </para>
+  <para id="27">
+    <se lang="russian" variant_id="0">Определение VIII</se>
+    <se lang="latin" variant_id="1">Definitio VIII</se>
+    <weight variant_id="1">1,25714</weight>
+  </para>
+  <para id="28">
+    <se lang="" variant_id="0">§ 14. Площадь соприкосновения есть площадь, которую занимает на одной стороне соприкосновения другая сторона соприкосновения, приложенная к ней.</se>
+    <se lang="" variant_id="1">§ 14. Planum contactus est planum, quod unum latus contactus alteri applicatum occupat in eodem.</se>
+    <weight variant_id="1">0,514286</weight>
+  </para>
+  <para id="29">
+    <se lang="russian" variant_id="0">Определение IX</se>
+    <se lang="latin" variant_id="1">Definitio IX</se>
+    <weight variant_id="1">1,25</weight>
+  </para>
+  <para id="30">
+    <se lang="" variant_id="0">§ 15. Площадь соприкосновения я называю полной, когда эта площадь наибольшая, которую могут описать стороны соприкосновения, расположенные рядом; неполной — меньшую, чем наибольшая.</se>
+    <se lang="" variant_id="1">§ 15. Planum contactus completum dico planum maximum, quod latera contactus juxta se posita describere possunt, incompletum vero maximo minus.</se>
+    <weight variant_id="1">0,499314</weight>
+  </para>
+  <para id="31">
+    <se lang="russian" variant_id="0">Определение X</se>
+    <se lang="latin" variant_id="1">Definitio X</se>
+    <weight variant_id="1">1,24545</weight>
+  </para>
+  <para id="32">
+    <se lang="" variant_id="0">§ 16. Корпускулы A и B отличаются в отношении соприкосновения от корпускул C и D, если их площади соприкосновения имеют разное отношение к сторонам соприкосновения; они сходны, если площади находятся в одинаковом отношении к сторонам соприкосновения.</se>
+    <se lang="" variant_id="1">§ 16. Corpuscula A et B differunt ratione contactus a corpusculis C et D, si eorum plana contactus non eandem rationem habent ad sua latera contactus; conveniunt, si ad latera contactus in eadem sunt ratione.</se>
+    <weight variant_id="1">0,730114</weight>
+  </para>
+  <para id="33">
+    <se lang="" variant_id="0">§ 17. Корпускулы A и B отличаются в отношении соприкосновения от корпускул C и D, во-первых, если стороны соприкосновения корпускул A и B будут больше, чем стороны соприкосновения корпускул C и D, а площадь соприкосновения корпускулы A и B будут иметь равную площади соприкосновения корпускул C и D или же меньшую; во-вторых, если стороны соприкосновения корпускул A и B, C и D одинаковы, но площади соприкосновения их различаются протяженностью.</se>
+    <se lang="" variant_id="1">§ 17. Differunt corpuscula A et B ratione contactus a corpusculis C et D primo, si latera contactus corpusculorum A et B fuerint majora, quam corpusculorum C et D, corpuscula tamen A et B planum contactus habuerint aequate plano contactus corpusculorum C et D vel eodem minus; 2-do, si corpusculorum A et B, C et D latera contactus fuerint aequalia, plana vero contactus eorum discrepantia extensione.</se>
+    <weight variant_id="1">1,02392</weight>
+  </para>
+  <para id="34">
+    <se lang="russian" variant_id="0">Корпускулы</se>
+    <se lang="latin" variant_id="1">Conveniunt ratione</se>
+    <weight variant_id="1">0,109091</weight>
+  </para>
+  <para id="35">
+    <se lang="" variant_id="0">§ 18. Говорят, что корпускулы сцеплены, когда они так соединены друг с другом, что одна не может двигаться без другой, пока они не будут разделены какою-либо силою.</se>
+    <se lang="" variant_id="1">§ 18. Corpuscula cohaere[re] dicuntur, si ita inter se juncta fuerint, ut unum sine altero moveri nequeat, nisi vi aliqua separentur.</se>
+    <weight variant_id="1">0,50751</weight>
+  </para>
+  <para id="36">
+    <se lang="russian" variant_id="0">Определение XII</se>
+    <se lang="latin" variant_id="1">Definitio XII</se>
+    <weight variant_id="1">1,25385</weight>
+  </para>
+  <para id="37">
+    <se lang="" variant_id="0">§ 19. Если корпускулы A и B сопротивляются разделяющей силе не так, как корпускулы C и D, то они различаются сцеплением.</se>
+    <se lang="" variant_id="1">§ 19. Si corpuscula A et B vi separ[an]ti non aeque resistunt ac corpuscula C et B, ea cohaesione differunt.</se>
+    <weight variant_id="1">0,978022</weight>
+  </para>
+  <para id="38">
+    <se lang="russian" variant_id="0">Определение XIII</se>
+    <se lang="latin" variant_id="1">Definitio XIII</se>
+    <weight variant_id="1">1,25714</weight>
+  </para>
+  <para id="39">
+    <se lang="" variant_id="0">§ 20. Корпускулы сцепляются опосредствованно, если между сторонами соприкосновения их проникают одна или несколько инородных корпускул и связывают их противоположными сторонами, приставая к ним.</se>
+    <se lang="" variant_id="1">§ 20. Corpuscula cohaerent mediate, dum inter eorum latera contactus unum vel plura corpuscula heterogenea sese insinuant, atque lateribus oppositis iisdem adhaerendo connectunt.</se>
+    <weight variant_id="1">0,521519</weight>
+  </para>
+  <para id="40">
+    <se lang="russian" variant_id="0">Они сцеплены непосредственно, если связаны без внедрения каких-либо инородных корпускул.</se>
+    <se lang="latin" variant_id="1">Immediate vero cohaerent, si nullis corpusculis heterogeneis interpositis unguntur.</se>
+    <weight variant_id="1">0,284211</weight>
+  </para>
+  <para id="41">
+    <se lang="" variant_id="0">§ 21. Например корпускулы чистого золота имеют непосредственное соприкосновение; но когда золото дает со ртутью амальгаму, то стороны касания отходят от взаимного прикосновения, вследствие проникающих между ними корпускул ртути.</se>
+    <se lang="" variant_id="1">§ 21. Ex. g. corpuscula auri puri contactum immediatum habent; sed id quando cum mercurio amalgamatur, latera contactus a mutuo contactu recedunt, intercedentibus corpusculis argenti vivi.</se>
+    <weight variant_id="1">0,454949</weight>
+  </para>
+  <para id="42">
+    <se lang="russian" variant_id="0">Определение XIV</se>
+    <se lang="latin" variant_id="1">Definitio XIV</se>
+    <weight variant_id="1">1,25385</weight>
+  </para>
+  <para id="43">
+    <se lang="" variant_id="0">§ 22. Тело смешанное3 есть такое, которое образовано производными корпускулами, собравшимися воедино.</se>
+    <se lang="" variant_id="1">§ 22. Corpus mixtum est, quod corpuscula derivativa aggre gata constituunt.</se>
+    <weight variant_id="1">0,68806</weight>
+  </para>
+  <para id="44">
+    <se lang="" variant_id="0">§ 23. Следовательно, корпускулы смешанного тела — производные корпускулы.</se>
+    <se lang="" variant_id="1">§ 23. Corpuscula igitur mixti sunt corpuscula derivative.</se>
+    <weight variant_id="1">0,880128</weight>
+  </para>
+  <para id="45">
+    <se lang="russian" variant_id="0">Определение XV</se>
+    <se lang="latin" variant_id="1">Definitio XV</se>
+    <weight variant_id="1">1,25</weight>
+  </para>
+  <para id="46">
+    <se lang="" variant_id="0">§ 24. Смешанное ближайшее тело есть такое, корпускулы коего суть производные ближайшие; отдаленное, — корпускулы коего суть производные отдаленные.</se>
+    <se lang="" variant_id="1">§ 24. Mixtum proximum est, cujus corpuscula sunt derivative proxima; remotum vero, cujus corpuscula sunt derivative remota.</se>
+    <weight variant_id="1">0,572783</weight>
+  </para>
+  <para id="47">
+    <se lang="russian" variant_id="0">Определение XVI</se>
+    <se lang="latin" variant_id="1">Definitio XVI</se>
+    <weight variant_id="1">1,25385</weight>
+  </para>
+  <para id="48">
+    <se lang="" variant_id="0">§ 25. Составные части суть корпускулы, из коих состоят корпускулы смешанного тела.</se>
+    <se lang="" variant_id="1">§ 25. Miscibilia sunt corpuscula, ex quibus corpuscula mixti constant.</se>
+    <weight variant_id="1">0,797835</weight>
+  </para>
+  <para id="49">
+    <se lang="russian" variant_id="0">Присовокупление</se>
+    <se lang="latin" variant_id="1">Corollarium</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="50">
+    <se lang="" variant_id="0">§ 26. Каждая составная часть относится к корпускуле смешанного тела, как часть к целому.</se>
+    <se lang="" variant_id="1">§ 26. Miscibile quodlibet est ad corpusculum mixti ut pars ad totum.</se>
+    <weight variant_id="1">0,670013</weight>
+  </para>
+  <para id="51">
+    <se lang="russian" variant_id="0">Определение XVII</se>
+    <se lang="latin" variant_id="1">Definitio XVII</se>
+    <weight variant_id="1">1,25714</weight>
+  </para>
+  <para id="52">
+    <se lang="" variant_id="0">§ 27. Ближайшими составными частями называются составные части смешанного тела; отдаленными составными частями — составные части составных частей.</se>
+    <se lang="" variant_id="1">§ 27. Miscibilia proxima sunt miscibilia mixti; miscibilia vero remota sunt miscibilia miscibilium.</se>
+    <weight variant_id="1">0,586998</weight>
+  </para>
+  <para id="53">
+    <se lang="" variant_id="0">§ 28. Пусть B и C — составные части смешанного тела A, и составная часть B, в свою очередь, составлена из составных частей D и E, а C — также на составных частей F и G; составные части B и C будут ближайшие составные части, а составные части D, E, F и G — отдаленные составные части смешанного тела A. Не приходится сомневаться, что именно это имеет место в природе: так, некоторые тела, исследованные аналитическою перегонкою,4 распадаются на составные части.</se>
+    <se lang="" variant_id="1">§ 28. Sit corpus mixtum A, cujus miscibilia sunt B et C, et miscibile B sit iterum mixtum ex miscibilibus D et E, miscibile quoque C sit mixtum ex miscibilibus F et G: erunt miscibilia B et C miscibilia proxima, et miscibilia D, E, F et G miscibilia remota corporis mixti A. Hoc ipsum quod in rerum natura obtineat, dubitari nequit: etenim corpora quaedam per destillationem analiticam examinata in miscibilia resolvuntur.</se>
+    <weight variant_id="1">0,900493</weight>
+  </para>
+  <para id="54">
+    <se lang="russian" variant_id="0">Пример: кровь, которая при перегонке дает как ближайшие составные части — флегму, летучую соль и маслянистую постоянную соль (Бургаве, Элементы химии, том II, процесс 119).5 Так как, однако, все доступные наблюдению тела — смешанные, как будет показано в § 32, то флегма,</se>
+    <se lang="latin" variant_id="1">Exemplo sit sangvis, qui destillatus miscibilia proxima dat Phlegma, salem volatilem, fixum oleosum (Boerhaave in Elem. chem., tomo 2, processu 119). ~~~ Sed quoniam omnia corpora observabilia sunt mixta, ut inferius § 32 patebit; Phlegma igitur illud, spiritus et sal</se>
+    <weight variant_id="1">-0,00131004</weight>
+  </para>
+  <para id="55">
+    <se lang="" variant_id="0">§ 29. Смешанные тела различаются, если корпускулы одного из них массою, или фигурою, или отношением соприкосновения отличаются от корпускул другого смешанного тела.</se>
+    <se lang="" variant_id="1">§ 29. Corpora mixta differunt, si unius corpuscula fuerint mole aut figura aut ratione contactus a corpusculis corporis mixt alterius diverse.</se>
+    <weight variant_id="1">0,521921</weight>
+  </para>
+  <para id="56">
+    <se lang="" variant_id="0">§ 30. Так как здесь идет речь только о различии сцепления, то умышленно ничего не упоминается о других свойствах корпускул, не изменяющих такового.</se>
+    <se lang="" variant_id="1">§ 30. Quoniam hic de solius cohaesionis differentia agitur, de aliis corpusculorum proprietatibus, quae ad eam nihil conferunt, consulto nihil commemoratur.</se>
+    <weight variant_id="1">0,546743</weight>
+  </para>
+  <para id="57">
+    <se lang="russian" variant_id="0">Лемма I</se>
+    <se lang="latin" variant_id="1">Lemma I</se>
+    <weight variant_id="1">1,3</weight>
+  </para>
+  <para id="58">
+    <se lang="" variant_id="0">§ 31. Все доступные наблюдению тела состоят из производных корпускул (Космология, § 231).</se>
+    <se lang="" variant_id="1">§ 31. Omnia corpora observabilia constant ex corpusculis derivativis (Cosmol., § 231).</se>
+    <weight variant_id="1">1,21528</weight>
+  </para>
+  <para id="59">
+    <se lang="russian" variant_id="0">Положение I</se>
+    <se lang="latin" variant_id="1">Theorema I</se>
+    <weight variant_id="1">1,27</weight>
+  </para>
+  <para id="60">
+    <se lang="" variant_id="0">§ 32. Все доступные наблюдению тела — смешанные.</se>
+    <se lang="" variant_id="1">§ 32. Corpora observabilia sunt omnia mixta.</se>
+    <weight variant_id="1">1,0275</weight>
+  </para>
+  <para id="61">
+    <se lang="russian" variant_id="0">Доказательство</se>
+    <se lang="latin" variant_id="1">Demonstratio</se>
+    <weight variant_id="1">0,253846</weight>
+  </para>
+  <para id="62">
+    <se lang="russian" variant_id="0">Тела, состоящие из производных корпускул, — смешанные (§ 22); все доступные наблюдению тела состоят из производных корпускул (§ 31), следовательно они смешанные.</se>
+    <se lang="latin" variant_id="1">Corpora, quae ex corpusculis derivativis constant, sunt mixta (§ 22); omnia vero corpora observabilia constant ex corpusculis derivativis (§ 31), sunt igitur mixta.</se>
+    <weight variant_id="1">0,817484</weight>
+  </para>
+  <para id="63">
+    <se lang="russian" variant_id="0">Положение II</se>
+    <se lang="latin" variant_id="1">Theorema II</se>
+    <weight variant_id="1">1,27273</weight>
+  </para>
+  <para id="64">
+    <se lang="" variant_id="0">§ 33. Соответственные стороны однородных корпускул равны по протяжению.</se>
+    <se lang="" variant_id="1">§ 33. Corpusculorum homogeneorum latera homologa sunt extensione aequalia.</se>
+    <weight variant_id="1">0,886154</weight>
+  </para>
+  <para id="65">
+    <se lang="russian" variant_id="0">Подобные тела имеют одинаковое число ограничивающих плоскостей и притом подобных (Элементы геометрии, § 564);6 но однородные корпускулы подобны (§ 8), следовательно они имеют одинаковое число ограничивающих плоскостей.</se>
+    <se lang="latin" variant_id="1">Corpora similia habent plana terminantia et numero aequalia et similia (Elem. geom., § 564), sed corpuscula homogenea sunt similia (§ 8), habent igitur plana terminantia, numero aequalia et sim[il]ia.</se>
+    <weight variant_id="1">0,586746</weight>
+  </para>
+  <para id="66">
+    <se lang="russian" variant_id="0">Так как, далее, однородные корпускулы равновелики (§ 8), то поэтому при одновременном наличии одинаковости и подобия</se>
+    <se lang="latin" variant_id="1">Porro quoniam corpuscula homogenea aequalia sunt (§ cit.), ob aequalitatem igitur cum sim[il]itudine conjunctam superficies aequales habere debent: quae quoniam in partes similes atque</se>
+    <weight variant_id="1">0,3</weight>
+  </para>
+  <para id="67">
+    <se lang="" variant_id="0">§ 34. Если корпускула A больше корпускулы B, но подобна ей по фигуре, то соответственные стороны корпускулы A больше соответственных сторон корпускулы B.</se>
+    <se lang="" variant_id="1">§ 34. Si corpusculum A fuerit majus corpusculo B, eidem tamen quoad figuram simile; corpusculi A latera homologa sunt majora lateribus homologis corpusculi B.</se>
+    <weight variant_id="1">1,04098</weight>
+  </para>
+  <para id="68">
+    <se lang="russian" variant_id="0">Так как, по предположению, корпускула A подобна корпускуле B, то любая соответственная сторона корпускулы A имеет такое же отношение ко всей поверхности, какое соответственная сторона корпускулы B — к ее поверхности (Элементы арифметики, § 170),7 и, по перестановке [членов пропорции], любая соответственная сторона корпускулы A к соответственной стороне корпускулы B относится так же, как поверхность корпускулы A к поверхности корпускулы B (там же, § 173).</se>
+    <se lang="latin" variant_id="1">Quoniam corpusculum A est simile corpusculo B, per hyp., latus quodlibet homologum corpusculi A eandem habet rationem ad superficiem integram, quam latus homologum corpusculi B ad ejus superficiem (Elem. arit., § 170), et alternando latus quodlibet homologum corpusculi A ad latus homologum corpusculi B eandem rationem habet, quam superficies corpusculi A ad superficiem corpusculi B (Ibidem, § 173).</se>
+    <weight variant_id="1">0,815844</weight>
+  </para>
+  <para id="69">
+    <se lang="russian" variant_id="0">Так как, по предположению, корпускула A больше корпускулы B, то она имеет бо́льшую поверхность, следовательно и соответственные стороны корпускулы A больше соответственных сторон корпускулы B.</se>
+    <se lang="latin" variant_id="1">Cum vero corpusculum A majus sit corpusculo B, per hypoth., habet igitur superficiem majorem; adeoque latera homologa corpusculi A majora sunt lateribus homologis corpusculi B.</se>
+    <weight variant_id="1">0,730166</weight>
+  </para>
+  <para id="70">
+    <se lang="russian" variant_id="0">Положение IV</se>
+    <se lang="latin" variant_id="1">Theorema IV</se>
+    <weight variant_id="1">1,27273</weight>
+  </para>
+  <para id="71">
+    <se lang="" variant_id="0">§ 35. Если корпускула A равна корпускуле B, но отдельные стороны корпускулы A больше отдельных сторон корпускулы B, то эти корпускулы различаются фигурою.</se>
+    <se lang="" variant_id="1">§ 35. Si corpusculum A fuerit aequale corpusculo B, latera tamen singula corpusculum A majora lateribus singulis corpusculi B habuerit; corpuscula haec figura differunt.</se>
+    <weight variant_id="1">0,893657</weight>
+  </para>
+  <para id="72">
+    <se lang="russian" variant_id="0">Положим, что корпускулы A и B подобны по фигуре, и, следовательно, их стороны также подобны и их столько же (Элементы геометрии, § 564); так как, по предположению, стороны корпускулы A больше, то, значит, взятые вместе они образуют поверхность бо́льшую, но подобную поверхности корпускулы B; следовательно в эти бо́льшие и подобные пределы</se>
+    <se lang="latin" variant_id="1">Ponamus corpuscula A et B esse quoad figuram similia, sequetur latera eorum etiam similia atque numero aequalia esse (Elem. geom., § 564); quoniam latera corpusculi A majora sunt, per hypoth., simul ergo sumpta majorem superficiem constituent, similem tamen superficiei corpusculi B: adeoque majoribus hisce</se>
+    <weight variant_id="1">0,605031</weight>
+  </para>
+  <para id="73">
+    <se lang="" variant_id="0">§ 36. У корпускул смешанного тела, различающихся массою, а также фигурою, должны различаться и их составные части массою, числом, фигурою или способом соприкосновения.</se>
+    <se lang="" variant_id="1">§ 36. Corpusculorum mixti, quae mole differunt, atque figura; differre debent eorum miscibilia mole, numero, figura vel ratione contactus.</se>
+    <weight variant_id="1">0,538525</weight>
+  </para>
+  <para id="74">
+    <se lang="russian" variant_id="0">Пусть корпускула A больше корпускулы B и не сходна с нею по фигуре; составные же ее части пусть по массе и числу одинаковы, а также по положению и по фигуре подобны составным частям корпускулы B. Следовательно они, взятые вместе, будут равны и подобны самой корпускуле B и поэтому, по предположению, будут меньше корпускулы A и не подобны ей; и так, корпускула A будет меньше самой себя и не подобна себе.</se>
+    <se lang="latin" variant_id="1">Sit corpusculum A majus corpusculo B eique quoad figuram dissimile; miscibilia tamen ejus sint mole et numero aequalia, tum etiam situ et figura similia miscibilibus corpusculi B: erunt igitur ea ipsi corpusculo B simul sumpta aequalia et similia, quare minora ipso corpusculo A, eidemque dissimilia, per hypoth., adeoque corpusculum A erit semet ipso minus sibique dissimile.</se>
+    <weight variant_id="1">0,495619</weight>
+  </para>
+  <para id="75">
+    <se lang="russian" variant_id="0">Так как это нелепо, то по необходимости следует, что составные части корпускулы A должны отличаться числом, массою, фигурою или расположением от составных частей корпускулы B, если эти корпускулы различаются массою или фигурою.</se>
+    <se lang="latin" variant_id="1">Quod cum absurdum sit, necessario sequitur, miscibilia corpusculi A differre debere numero, mole, figura aut situ a miscibilibus corpusculi B, si corpuscula hae[c] mole vel figura differunt.</se>
+    <weight variant_id="1">0,456104</weight>
+  </para>
+  <para id="76">
+    <se lang="" variant_id="0">§ 37. Если ближайшие составные части корпускул A и B различаются массою или фигурою, то также различаются массою, числом, фигурою или расположением отдаленные составные части их.</se>
+    <se lang="" variant_id="1">§ 37. Si miscibilia corpusculorum A et B proxima mole aut figura differunt, differunt etiam mole, numero, figura aut situ miscibilia remota.</se>
+    <weight variant_id="1">0,737442</weight>
+  </para>
+  <para id="77">
+    <se lang="russian" variant_id="0">Положение VI</se>
+    <se lang="latin" variant_id="1">Theorema VI</se>
+    <weight variant_id="1">1,27273</weight>
+  </para>
+  <para id="78">
+    <se lang="" variant_id="0">§ 38. При соприкосновении равновеликих и подобных сторон, полная площадь соприкосновения равна каждой из двух сторон.</se>
+    <se lang="" variant_id="1">§ 38. Laterum contactus aequalium et similium, planum contactus completum aequale est lateri utrique.</se>
+    <weight variant_id="1">0,653333</weight>
+  </para>
+  <para id="79">
+    <se lang="russian" variant_id="0">Так как, по предположению, стороны соприкосновения равновелики и подобны, они могут совпадать (Элементы геометрии, § 162), а раз совпадают, то целиком взаимно соприкасаются и образуют площадь соприкосновения наибольшую, а следовательно полную (§ 15).</se>
+    <se lang="latin" variant_id="1">Quoniam latera contactus aequalia et similia sunt, per hypoth., congruere ergo possunt (Elem. geom., § 162), atque dum congruunt, integra se mutuo contingunt, planum contactus maximum, adeoque completum formant (§ 15).</se>
+    <weight variant_id="1">0,627381</weight>
+  </para>
+  <para id="80">
+    <se lang="" variant_id="0">§ 39. Если однородные корпускулы в соответственных сторонах имеют полную площадь соприкосновения, то она будет равна каждой из этих сторон.</se>
+    <se lang="" variant_id="1">§ 39. Si corpuscula homogenea in lateribus homologis planum contactus completum habent, erit id cuilibet eorum aequale.</se>
+    <weight variant_id="1">0,584762</weight>
+  </para>
+  <para id="81">
+    <se lang="russian" variant_id="0">Положение VII</se>
+    <se lang="latin" variant_id="1">Theorema VII</se>
+    <weight variant_id="1">1,275</weight>
+  </para>
+  <para id="82">
+    <se lang="" variant_id="0">§ 40. Если две корпускулы, стороны которых неравны между собой, непосредственно соприкасаются ими друг с другом, то площадь соприкосновения не может сделаться больше, чем меньшая сторона соприкосновения.</se>
+    <se lang="" variant_id="1">§ 40. Si duo corpuscula, quorum latera sunt inaequalia, iisdema immediate se mutuo contingunt, planum contactus majus fieri nequit latere contactus minore.</se>
+    <weight variant_id="1">0,466017</weight>
+  </para>
+  <para id="83">
+    <se lang="russian" variant_id="0">Пусть площадь соприкосновения между двумя сторонами соприкосновения A и B больше меньшей стороны соприкосновения B; меньшая сторона B должна будет прикасаться к большей стороне A вне своего периметра и таким образом распространиться за пределы периметра, и следовательно сделаться больше самой себя.</se>
+    <se lang="latin" variant_id="1">Sit planum contactus inter duo latera contactus A et B majus latere contactus minore B, latus minus B ultra sui perimetrum contingere debebit latus majus A, quamobrem ultra eandem extendi, atque adeo semet ipso fieri majus.</se>
+    <weight variant_id="1">0,430545</weight>
+  </para>
+  <para id="84">
+    <se lang="russian" variant_id="0">Так как это нелепо (Элементы арифметики, § 81), то не может быть, чтобы неравные стороны двух корпускул образовали площадь соприкосновения бо́льшую, чем меньшая сторона.</se>
+    <se lang="latin" variant_id="1">Quod quoniam absurdum est (Elem. arith., § 81), fieri non potest, ut duorum corpusculorum latera inaequalia planum contactus forment latere minore majus.</se>
+    <weight variant_id="1">0,529291</weight>
+  </para>
+  <para id="85">
+    <se lang="" variant_id="0">§ 41. Итак, площадь соприкосновения неравных сторон меньше, чем бо́льшая сторона соприкосновения.</se>
+    <se lang="" variant_id="1">§ 41. Planum igitur contactus laterum inaequalium minus est latere contactus majore.</se>
+    <weight variant_id="1">0,709538</weight>
+  </para>
+  <para id="86">
+    <se lang="" variant_id="0">§ 42. Соответственные стороны однородных корпускул A и B дают бо́льшую полную площадь соприкосновения, будучи непосредственно соединены друг с другом, чем любая из них с меньшей стороною C.</se>
+    <se lang="" variant_id="1">§ 42. Latera homologa, corpusculorum homogeneorum, A et B majus formant planum contactus completum secum immediate juncta, quam eorum quodlibet cum latere minore C.</se>
+    <weight variant_id="1">0,855944</weight>
+  </para>
+  <para id="87">
+    <se lang="russian" variant_id="0">Сторона C меньше обеих сторон A и B, по предположению, следовательно должна с любой из них образовать площадь соприкосновения меньшую, чем эта сторона (§ 41).</se>
+    <se lang="latin" variant_id="1">Latus C est minus latere utroque A et B, per hypoth., planum igitur contactus formare debet cum quolibet eorum utroque minus (§ 41).</se>
+    <weight variant_id="1">0,860135</weight>
+  </para>
+  <para id="88">
+    <se lang="russian" variant_id="0">Далее, полная площадь соприкосновения соответственных сторон, которыми соответственные корпускулы взаимно соприкасаются, равна любой из них (§ 39), так что соответственные стороны однородных корпускул имеют полную площадь соприкосновения бо́льшую той, которую каждая из них может образовать с меньшею стороною C.</se>
+    <se lang="latin" variant_id="1">Porro laterum contactus homologorum, quibus corpuscula homologa se mutuo contingunt, planum contactus completum est cuilibet eorum aequale (§ 39), latera igitur homologa corpusculorum homogeneorum planum contactus completum habent majus eo, quod eorum quodlibet formare potest cum latere minore C.</se>
+    <weight variant_id="1">0,507692</weight>
+  </para>
+  <para id="89">
+    <se lang="russian" variant_id="0">Лемма II</se>
+    <se lang="latin" variant_id="1">Lemma II</se>
+    <weight variant_id="1">1,3</weight>
+  </para>
+  <para id="90">
+    <se lang="" variant_id="0">§ 43. В телах существуют промежутки, не содержащие той материи, из которой тела состоят, и они наполняются какой-то другой нечувствительной жидкой материей (Догматическая физика, § 36 и 7).8</se>
+    <se lang="" variant_id="1">§ 43. Dantur interstitia in corporibus ab ea materia ex qua constant, vacua, eaque replentur alia quadam materia fluida insensibili (Phys. dogmat., § 36 et 7).</se>
+    <weight variant_id="1">1,79158</weight>
+  </para>
+  <para id="91">
+    <se lang="russian" variant_id="0">Лемма III</se>
+    <se lang="latin" variant_id="1">Lemma III</se>
+    <weight variant_id="1">1,3</weight>
+  </para>
+  <para id="92">
+    <se lang="" variant_id="0">§ 44. Если две корпускулы или тела, непосредственно взаимно соприкасающиеся, давят друг на друга в противоположных направлениях, то эти тела сцепляются (Космология, § 285).</se>
+    <se lang="" variant_id="1">§ 44. Si duo corpuscula vel corpora immediate se mutuo contingentia secundum directiones contrarias premantur, corpora ista cohaerent (Cosmol., § 285).</se>
+    <weight variant_id="1">0,804853</weight>
+  </para>
+  <para id="93">
+    <se lang="" variant_id="0">§ 45. Так как доступные наблюдению тела сцепляются, о чем свидетельствует ежедневный опыт, то требуется дать некоторое объяснение этого сцепления (Онтология, § 70). ~~~ А так как нельзя произвольно допустить притягательную силу или какое-нибудь другое скрытое качество, то необходимо, чтобы существовала некоторая материя, которая своим давлением толкала бы корпускулы в противоположных направлениях и которая была бы причиною их сцепления.9</se>
+    <se lang="" variant_id="1">§ 45. Quoniam corpora observabilia cohaerent, experientia quotidiana teste, cohaesionis istius ratio aliqua dari debet (Ontol., § 70); cum vero vis attractrix seu alia quaecunque qualitas occulta precario admittenda non est, materia aliqua sit necesse est, quae pressione sua corpuscula secundum directiones contrarias urgeat, quaeque cohaesionis eorum sit causa.</se>
+    <weight variant_id="1">0,00729167</weight>
+  </para>
+  <para id="94">
+    <se lang="" variant_id="0">§ 46. Если два [куска] мрамора приложить друг к другу плоскими и полированными сторонами так, чтобы притиранием по возможности был изгнан воздух из места соприкосновения, то эти куски мрамора настолько сцепляются, что требуются напряженные усилия для их разнимания.</se>
+    <se lang="" variant_id="1">§ 46. Si duo marmora lateribus planis atque politis ita juxta se invicem applicentur, ut ex contactu aër quantum fieri potest per affrictum expellatur; marmora haec cohaerent adeo, ut intensis viribus ea divellentis indigeant.</se>
+    <weight variant_id="1">0,417582</weight>
+  </para>
+  <para id="95">
+    <se lang="russian" variant_id="0">Если же они подвешены под колпаком воздушного насоса, то по изгнании воздуха один отделяется от другого собственной тяжестью (Экспериментальная физика, том 1, § 113).10</se>
+    <se lang="latin" variant_id="1">Verum dum in recipientis cavitate suspenduntur, aëre exacto propria gravitate unum ab altero dilabitur (Phys. exp., tom. ~~~ 1, § 113).</se>
+    <weight variant_id="1">-0,0404348</weight>
+  </para>
+  <para id="96">
+    <se lang="" variant_id="0">§ 47. Так как [куски] мрамора, касающиеся друг друга плоскими полированными сторонами, сцепляются (§ предшествующий), то они подвергаются давлению в противоположных направлениях (§ 44).</se>
+    <se lang="" variant_id="1">§ 47. Quoniam marmora lateribus planis politisque se mutuo contingentia cohaerent (§ praec.), igitur premuntur secundum directiones contrarias (§ 44).</se>
+    <weight variant_id="1">0,944361</weight>
+  </para>
+  <para id="97">
+    <se lang="" variant_id="0">§ 48. Эти [куски] мрамора поддерживаются в состоянии сцепления окружающим воздухом и распадаются по его удалении (§ 46); это указывает, что они сцепляются, будучи прижаты друг к другу воздухом.</se>
+    <se lang="" variant_id="1">§ 48. Marmora illa aëre ambiente in statu cohaesionis perdurant, eodem sublato dilabuntur (§ 46), evidens ergo est, ea vi aëris compressa cohaerere.</se>
+    <weight variant_id="1">0,583594</weight>
+  </para>
+  <para id="98">
+    <se lang="russian" variant_id="0">Опыт II</se>
+    <se lang="latin" variant_id="1">Experimentum II</se>
+    <weight variant_id="1">0,957143</weight>
+  </para>
+  <para id="99">
+    <se lang="" variant_id="0">§ 49. Если бронзовый кружок охвачен окружностью цилиндрического сосуда, так что вода не может проникать в пространство между ним и дном, и если погружать сосуд в воду до тех пор, пока давление ее не превысит веса кружка, то вода так его прибивает ко дну сосуда, что силою собственной тяжести кружок не может оторваться ото дна.</se>
+    <se lang="" variant_id="1">§ 49. Si orbis orichalceus vasculi cylindrici ambitu comprehensus ita, ut aqua inter eum et fundum vasculi penetrare nequeat, aquae immergatur usque ejus pressio superet pondus orbis, aqua eum ita ad fundum vasis allidit, ut gravitatis propriae vi ab eodem decidere non possit.</se>
+    <weight variant_id="1">0,388262</weight>
+  </para>
+  <para id="100">
+    <se lang="russian" variant_id="0">Если же сосуд поднять кверху и давление воды перестает быть достаточным для поддержания кружка, последний тотчас, оторвавшись от дна сосуда, стремглав падает вниз (Экспериментальная физика, том 3, § 129).11</se>
+    <se lang="latin" variant_id="1">Verum quamprimum sursum attollitur, usque pressio aquae ponderi ejus sustinendo non sufficiat, orbis illico a fundo vasis avulsus deorsum praeceps labitur (Experim phys., tom. ~~~ 3, § 129).</se>
+    <weight variant_id="1">-0,0147239</weight>
+  </para>
+  <para id="101">
+    <se lang="" variant_id="0">§ 50. Если в этом опыте заменить воду какой-нибудь другой жидкостью, действие будет такое же.</se>
+    <se lang="" variant_id="1">§ 50. In experimento hoc si liquor quicunque alius substituitur, idem sequitur effectus.</se>
+    <weight variant_id="1">0,717033</weight>
+  </para>
+  <para id="102">
+    <se lang="" variant_id="0">§ 51. Следовательно, вода и заменяющие ее жидкости, так же как и воздух, будучи изгнаны из места непосредственного соприкосновения двух тел и окружая их, давят на них в противоположных направлениях и заставляют сцепляться.</se>
+    <se lang="" variant_id="1">§ 51. Aqua igitur et fluida eidem substitute pariter atque aër ex contactu immediato duorum corporum exclusa eademque ambientia, ea secundum directiones contrarias premunt atque cohaerere faciunt.</se>
+    <weight variant_id="1">0,479402</weight>
+  </para>
+  <para id="103">
+    <se lang="russian" variant_id="0">Положение IX</se>
+    <se lang="latin" variant_id="1">Theorema IX</se>
+    <weight variant_id="1">1,27273</weight>
+  </para>
+  <para id="104">
+    <se lang="" variant_id="0">§ 52. Сцепление корпускул зависит от жидкой нечувствительной материи, наполняющей промежутки, не содержащие составляющей тело материи.</se>
+    <se lang="" variant_id="1">§ 52. Cohaesio corpusculorum dependet a materia fluida insensibili, quae interstitia vacua a materia, ex qua corpus constat, replet.</se>
+    <weight variant_id="1">0,64001</weight>
+  </para>
+  <para id="105">
+    <se lang="russian" variant_id="0">Действительно, должна иметься материя, которая своим давлением напирала бы на корпускулы в противоположных направлениях и заставляла бы их сцепляться (§ 45).</se>
+    <se lang="latin" variant_id="1">Etenim materia adesse debet, quae pressione sua corpuscula secundum directiones contrarias urgeat, eaque cohaerere faciat (§ 45).</se>
+    <weight variant_id="1">0,570175</weight>
+  </para>
+  <para id="106">
+    <se lang="russian" variant_id="0">Но кроме жидкости, заполняющей пустые промежутки между корпускулами, составляющими тело, ничего нельзя предложить (§ 43); поэтому необходимо, чтобы она, подобно доступным наблюдению жидкостям, как воздух и вода (§ 49 и 51), давила на корпускулы в противоположных направлениях и была причиною сцепления, в них обнаруживаемого.</se>
+    <se lang="latin" variant_id="1">Verum praeter fluidum, quod intervalla a corpusculis, ex quibus corpus constat, vacua replet, [aliquid] assignari nequit (§ 43), necesse igitur est, ut hoc, sicut alia fluida observabilia, aër nempe et aqua etc. ~~~ (§ 49 et 51), corpuscula secundum directiones contrarias premant, atque cohaesionis, quae in illis deprehenditur, causa sit.</se>
+    <weight variant_id="1">0,843884</weight>
+  </para>
+  <para id="107">
+    <se lang="" variant_id="0">§ 53. Здесь мы не вдаемся в вопрос о том, откуда происходит стойкое сцепление элементов, силою которого первичные корпускулы сливаются воедино, ибо речь идет не о различии сцепления, наблюдаемом у элементов.</se>
+    <se lang="" variant_id="1">§ 53. Unde elementorum tenax cohaerentia proficiscatur, vi cujus corpuscula primitiva coalescunt, hic non inquiritur: non enim de differentia cohaesionis, quae in elementis est, agitur.</se>
+    <weight variant_id="1">0,501321</weight>
+  </para>
+  <para id="108">
+    <se lang="" variant_id="0">§ 54. Так как доступные чувствам жидкости должны быть удаляемы из места соприкосновения сжимаемых ими тел (§ 46, и 49), то необходимо, чтобы и жидкость, сжимающая корпускулы, была удаляема из места соприкосновения их.</se>
+    <se lang="" variant_id="1">§ 54. Quoniam fluida sensibilia ex contactu corporum quae comprimunt, excludi debent (§ 46 et 49), fluidum, quod corpuscula comprimit, ex contactu eorum etiam excludatur necesse est.</se>
+    <weight variant_id="1">0,673508</weight>
+  </para>
+  <para id="109">
+    <se lang="russian" variant_id="0">Положение X</se>
+    <se lang="latin" variant_id="1">Theorema X</se>
+    <weight variant_id="1">1,27</weight>
+  </para>
+  <para id="110">
+    <se lang="" variant_id="0">§ 55. Сцепление корпускул пропорционально площади соприкосновения.</se>
+    <se lang="" variant_id="1">§ 55. Cohaesio corpusculorum est proportionalis plano contactus.</se>
+    <weight variant_id="1">1,03475</weight>
+  </para>
+  <para id="111">
+    <se lang="russian" variant_id="0">Из плоскости соприкосновения корпускул при их сцеплении изгоняется окружающая жидкость (§ предшествующий); поэтому на поверхности и той и другой корпускулы остается площадь того же протяжения, что и площадь соприкосновения, на которую окружающая жидкость может давить без противодействия. ~~~ Отсюда, количество окружающей жидкости, действующее на противолежащие части поверхностей в соприкосновении, пропорционально площади соприкосновения; она давит, соответственно силам данного количества ее, в противоположных направлениях на корпускулы и пригнетает их друг к другу, так что сцепление корпускул пропорционально площади соприкосновения.</se>
+    <se lang="latin" variant_id="1">Ex plano contactus corpusculorum excluditur fluidum circumfluens, dum eadem cohaerent (§ praec.), quare in utriusque corpusculi superficie ejusdem extensionis spacium relinquitur, ut est planum contactus, in quod fluidum ambiens sine reactione premere possit, unde quantitas fluidi ambientis in ratione plani contactus in partes superficierum contactui oppositas agit, atque corpuscula pro viribus quantitatis secundum directiones contrarias premit eaque conpingit, quamobrem corpusculorum cohaesio est in ratione plani contactus.</se>
+    <weight variant_id="1">-0,0315451</weight>
+  </para>
+  <para id="112">
+    <se lang="" variant_id="0">§ 56. Итак, если площадь соприкосновения корпускул A и B равна площади соприкосновения корпускул C и D, то сцепление этих корпускул одинаково.</se>
+    <se lang="" variant_id="1">§ 56. Si igitur planum contactus corpusculorum A et B fuerit aequale plano contactus corpusculorum C et D, corpuscula haec aequaliter cohaerent.</se>
+    <weight variant_id="1">1,07773</weight>
+  </para>
+  <para id="113">
+    <se lang="" variant_id="0">§ 57. Чем больше площадь соприкосновения, тем крепче сцеплены корпускулы, и наоборот — чем меньше площадь, тем слабее.</se>
+    <se lang="" variant_id="1">§ 57. Quo planum contactus majus est, corpuscula eo firmius cohaerent, et contra, quo minus, eo remissius.</se>
+    <weight variant_id="1">0,597464</weight>
+  </para>
+  <para id="114">
+    <se lang="russian" variant_id="0">Присовокупление III</se>
+    <se lang="latin" variant_id="1">Corollarium III</se>
+    <weight variant_id="1">1,22</weight>
+  </para>
+  <para id="115">
+    <se lang="" variant_id="0">§ 58. Если плоскость соприкосновения полная, то корпускулы сцеплены крепче, чем если бы она была неполная.</se>
+    <se lang="" variant_id="1">§ 58. Planum contactus si fuerit completum, firmius cohaerent corpuscula, quam si esset incompletum.</se>
+    <weight variant_id="1">0,686517</weight>
+  </para>
+  <para id="116">
+    <se lang="" variant_id="0">§ 59. Опыты, приложенные к более крупным телам, вполне подтверждают справедливость доказанного выше положения и выведенных из него присовокуплений.</se>
+    <se lang="" variant_id="1">§ 59. Veritatem theorematis supra demonstrati ex eoque deductorum corollariorum experimenta in corporibus majoribus adhibita loquuntur.</se>
+    <weight variant_id="1">0,63081</weight>
+  </para>
+  <para id="117">
+    <se lang="russian" variant_id="0">Так, Отто фон Герике в Новых магдебургских опытах над пустотою12 должен был для разнятия двух полушарий, диаметр которых был ¾ магдебургского локтя,13 взять шестнадцать лошадей; а для разнятия двух полушарий в целый локоть диаметром — тридцать лошадей.</se>
+    <se lang="latin" variant_id="1">Etenim Otto de Gericke in experimentis novis Magdeburgicis de vacuo ad distrahenda duo hemisphaeria, quorum diameter erat ¾ ulnae Magdeburgicae, equis sedecim; ad distrahenda vero alia, quorum diameter erat ulnae integrae, triginta equis opus habebat.</se>
+    <weight variant_id="1">0,381951</weight>
+  </para>
+  <para id="118">
+    <se lang="" variant_id="0">§ 60. Корпускулы, не имеющие плоскости соприкосновения, не сцепляются.</se>
+    <se lang="" variant_id="1">§ 60. Corpuscula, quorum plana contactus nulla sunt, non cohaerent.</se>
+    <weight variant_id="1">0,88</weight>
+  </para>
+  <para id="119">
+    <se lang="russian" variant_id="0">Действительно, если корпускулы не имеют плоскостей соприкосновения, то не остается никакого участка в противоположных соприкосновению частях поверхностей, на который окружающая жидкость давила бы без противодействия; поэтому на корпускулы она давит со всех сторон с одинаковой силою, никакого давления в противоположных направлениях не возникает и никакого сцепления не рождается.</se>
+    <se lang="latin" variant_id="1">Etenim si corpuscula plana contactus non habent, nullum quoque spacium relinquitur in superficierum partibus contactui oppositis, in quod fluidum ambiens sine reactione premat, adeoque premit corpuscula undiquaque vi aequali, nulla in directiones contrarias subsequitur pressio, nulla oritur cohaesio.</se>
+    <weight variant_id="1">0,221887</weight>
+  </para>
+  <para id="120">
+    <se lang="russian" variant_id="0">Положение XIа</se>
+    <se lang="latin" variant_id="1">Theorema XIa</se>
+    <weight variant_id="1">0,275</weight>
+  </para>
+  <para id="121">
+    <se lang="" variant_id="0">§ 61. Если однородные корпускулы A и B сцеплены опосредствованно при помощи находящейся между ними корпускулы C, у которой стороны соприкосновения D и E меньше соответственных сторон F и G корпускул A и B, то корпускулы A и B сцеплены слабее, чем если бы непосредственно соприкасались между собой соответственными сторонами F и G.</se>
+    <se lang="" variant_id="1">§ 61. Si corpuscula homogenea A et B cohaerent mediate, nempe interposito corpusculo C, cujus latera contactus D et E minora sunt lateribus contactus homologis F et G corpusculorum A et B; corpuscula A et B remissius cohaerent, quam si immediate lateribus homologis F et G se mutuo contingerent.</se>
+    <weight variant_id="1">1,04265</weight>
+  </para>
+  <para id="122">
+    <se lang="russian" variant_id="0">Площади соприкосновения сторон D и F, E и G меньше соответственных сторон F и G корпускул A и В (§ 41).</se>
+    <se lang="latin" variant_id="1">Plana contactus laterum D et F, E et G minora sunt lateribus homologis F et G corpusculorum A et B (§ 41).</se>
+    <weight variant_id="1">1,52013</weight>
+  </para>
+  <para id="123">
+    <se lang="russian" variant_id="0">Но если бы корпускулы A и B взаимно непосредственно соприкасались соответственными сторонами F и G, то образуемая ими площадь соприкосновения была бы больше, т. е. равна любой стороне (§ 41), и поэтому они сцепились бы прочнее, чем при посредстве корпускулы C (§ 57).</se>
+    <se lang="latin" variant_id="1">At si corpuscula A et B lateribus homologis F et G se mutuo immediate contingerent, planum contactus formarent majus, cuilibet nempe lateri aequale (§ 41), adeoque firmius cohaererent, quam mediante corpusculo C (§ 57).</se>
+    <weight variant_id="1">0,923147</weight>
+  </para>
+  <para id="124">
+    <se lang="" variant_id="0">§ 62. Здесь предполагается, что стороны D и F, E и G корпускул A, C, B и стороны F и G корпускул A и B взаимно соприкасаются так, что образуемая ими площадь соприкосновения полная.</se>
+    <se lang="" variant_id="1">§ 62. Supponitur hic latera D et F, E et G corpusculorum A, C, B et latera F et G corpusculorum A et B ita se mutuo contingere, ut planum contactus describant completum.</se>
+    <weight variant_id="1">1,42548</weight>
+  </para>
+  <para id="125">
+    <se lang="" variant_id="0">§ 63. Если корпускулы тела A будут больше корпускул тела B, но подобны по фигуре и по способу соприкосновения, то корпускулы тела A сцепляются прочнее, чем корпускулы тела B.</se>
+    <se lang="" variant_id="1">§ 63. Si corpuscula corporis A fuerint majora, quam corpuscula corporis B, eidem tamen figura et ratione contactus similia, corpuscula corporis A firmius cohaerent, quam corpuscula corporis B.</se>
+    <weight variant_id="1">0,882176</weight>
+  </para>
+  <para id="126">
+    <se lang="russian" variant_id="0">Так как, по предположению, корпускулы тела A подобны по способу соприкосновения корпускулам тела B, то образуемые соответственными сторонами площади соприкосновения, должны иметь то же отношение к сторонам соприкосновения, что и площади соприкосновения корпускул тела B к сторонам соприкосновения, которыми эти площади образуются (§ 16 и 17); и по перестановке [членов пропорции] площади соприкосновения корпускул тела A имеют то же отношение к площадям соприкосновения корпускул тела B, как и стороны соприкосновения корпускул тела A к сторонам соприкосновения корпускул тела B (Элементы арифметики, § 173). ~~~ А так как стороны соприкосновения корпускул тела A больше, чем стороны соприкосновения корпускул тела B (§ 34), то, по необходимости, площади соприкосновения корпускул тела A больше, чем площади соприкосновения корпускул тела B; поэтому корпускулы тела A прочнее сцеплены, чем корпускулы тела B (§ 57).</se>
+    <se lang="latin" variant_id="1">Quoniam corpuscula corporis A similia sunt ratione contactus corpusculis corporis B per hypoth., debent ergo lateribus homologis plana contactus formare eandem rationem ad latera contactus habentia, quam plana contactus corpusculorum corporis B ad latera contactus, quibus ea formantur (16 et 17), et alternando plana contactus corpusculorum corporis A eandem rationem habent ad plana contactus corpusculorum corporis B, quam latera contactus corpusculorum corporis A ad latera contactus corpusculorum corporis B (Elem. arith., § 173), Quoniam autem latera contactus corpusculorum corporis A majora sunt lateribus contactus corpusculorum corporis B (§ 34), sunt igitur necessario plana contactus corpusculorum corporis A majora, quam plana contactus corpusculorum corporis B: atque adeo corpuscula corporis A firmius cohaerent, quam corpuscula corporis B (§ 57).</se>
+    <weight variant_id="1">0,134624</weight>
+  </para>
+  <para id="127">
+    <se lang="" variant_id="0">§ 64. Так как все доступные наблюдению тела — смешанные (§ 32), то у всех тел, которые вследствие различной массы корпускул различаются сцеплением, должны различаться и их составные части (§ 36).</se>
+    <se lang="" variant_id="1">§ 64. Quoniam omnia corpora observabilia sunt mixta (§ 32), quaecunque igitur propter diversam molem corpusculorum cohaesione differunt, eorum miscibilia etiam differre debent (§ 36).</se>
+    <weight variant_id="1">0,981128</weight>
+  </para>
+  <para id="128">
+    <se lang="russian" variant_id="0">Положение XIII</se>
+    <se lang="latin" variant_id="1">Theorema XIII</se>
+    <weight variant_id="1">1,27692</weight>
+  </para>
+  <para id="129">
+    <se lang="" variant_id="0">§ 65. Если корпускулы тела A будут по массе равны корпускулам тела B, но корпускулы тела A сцеплены прочнее, чем корпускулы тела B, то эти корпускулы различаются способом соприкосновения или фигурою.</se>
+    <se lang="" variant_id="1">§ 65. Si corpuscula corporis A fuerint mole aequalia corpusculis corporis B, corpuscula tamen corporis A firmius cohaerent, quam corpuscula corporis B, corpuscula haec ratione contactus vel figura differunt.</se>
+    <weight variant_id="1">0,882456</weight>
+  </para>
+  <para id="130">
+    <se lang="russian" variant_id="0">Положим, что корпускулы тела A способом соприкосновения и фигурою не отличаются от корпускул тела В; тогда корпускулы A и В будут однородными (§ 8 и предположение). ~~~ Далее, они, по предположению, не отличаются и способом соприкосновения и, следовательно, образуют соответственными сторонами равные площади соприкосновения (§ 16, 17). ~~~ Поэтому корпускулы тела A будут сцеплены так же, как и корпускулы тела В (§ 56); а так как это противно предположению, то, если корпускулы тела A и B, будут равны, но различны по сцеплению, они обязательно должны различаться фигурою или способом соприкосновения.</se>
+    <se lang="latin" variant_id="1">Ponamus corpuscula corporis A ratione contactus et figura non differre a corpusculis corporis B; erunt ergo corpuscula A et B homogenea (§ 8 et hyp.); porro eadem ratione contactus non differre positum est, lateribus ergo homologis plana contactus formabunt aequalia (§ 16, 17), adeoque corpuscula corporis A aeque cohaerebunt atque corpuscula corporis B (§ 56), quod quoniam contra hypothesim est, corpuscula corporum A et B, si fuerint aequalia, cohaesione tamen differentia, necessario figura aut ratione contactus differre debent.</se>
+    <weight variant_id="1">0,191376</weight>
+  </para>
+  <para id="131">
+    <se lang="" variant_id="0">§ 66. Все наблюдаемые тела — смешанные (§ 32); поэтому у всех тел, которые, в силу различной фигуры, различаются сцеплением, различаются и составные части (§ 36).</se>
+    <se lang="" variant_id="1">§ 66. Corpora observabilia sunt omnia mixta (§ 32), quaecunque igitur ob diversam figuram cohaesione differunt, eorum miscibilia etiam differunt (§ 36).</se>
+    <weight variant_id="1">0,93864</weight>
+  </para>
+  <para id="132">
+    <se lang="" variant_id="0">§ 67. Если различаются ближайшие составные части, то должны быть различными и отдаленные составные части (§ 37).</se>
+    <se lang="" variant_id="1">§ 67. Si miscibilia proxima differunt, discrepare etiam debent miscibilia remota (§ 37).</se>
+    <weight variant_id="1">1,08022</weight>
+  </para>
+  <para id="133">
+    <se lang="" variant_id="0">§ 68. Так как корпускулы ускользают от всякого взора, то нельзя узнать их массу, расположение, фигуру, и нет возможности дать не подлежащий сомнению пример высказанного положения.</se>
+    <se lang="" variant_id="1">§ 68. Quoniam corpuscula visum omnem effugiunt, moles, situs figuraque eorum cognosci nequeunt, atque axiomatis hujus exemplum indubitatum minime assignare licet.</se>
+    <weight variant_id="1">0,547727</weight>
+  </para>
+  <para id="134">
+    <se lang="russian" variant_id="0">Однако, насколько возможно заключить по явлениям, показываемым смешанными телами, можно по крайней мере предполагать то, что, повидимому, не очень расходится со смыслом доказанного выше положения.</se>
+    <se lang="latin" variant_id="1">Verum quantum ex phaenomenis corporum mixtorum colligere datum est, talia saltem conjecturando proponere licebit, quae non adeo a propositionis superius demonstratae sensu multum videntur dissentire.</se>
+    <weight variant_id="1">0,294798</weight>
+  </para>
+  <para id="135">
+    <se lang="russian" variant_id="0">Действительно, если принять во внимание весьма большую тонкость корпускул золота и ртути, то, вероятно, как это доказывает не одно простое явление, они по массе различаются лишь немного (если вообще различаются).</se>
+    <se lang="latin" variant_id="1">Etenim si subtilitas corpusculorum auri atque argenti vivi consideretur, adeo probabile est, plusquam simplici phaenomeno arguente, ea mole non multum (si qua est discrepantia) differre.</se>
+    <weight variant_id="1">0,26135</weight>
+  </para>
+  <para id="136">
+    <se lang="russian" variant_id="0">Подобно тому как тонко золото (о чем свидетельствует его вызывающая удивление тягучесть),</se>
+    <se lang="latin" variant_id="1">Quemadmodum enim aurum est subtillissimum, admiranda ejus ductilitate testante, ita quoque argenti vivi corpuscula tenuissima atque minutissima sunt, quod volatilitas ejus mediocri in calore promptissima</se>
+    <weight variant_id="1">-0,0835443</weight>
+  </para>
+  <para id="137">
+    <se lang="" variant_id="0">§ 69. У корпускул тела, в котором сцепление после внутреннего движения его не изменяется, по окончании возмущения площади соприкосновения равны тем, которые у них были до этого движения.</se>
+    <se lang="" variant_id="1">§ 69. Corporis, post cujus motum intrinsecum cohaesio non mutatur, corpuscula post sui perturbationem plana contactus aequalia habent iis, quae ante motum habebant.</se>
+    <weight variant_id="1">0,514583</weight>
+  </para>
+  <para id="138">
+    <se lang="russian" variant_id="0">Действительно, при одинаковом сцеплении корпускулы должны иметь и одинаковые площади соприкосновения (§ 56); но после внутреннего движения тела и после своего возмущения его корпускулы, по предположению, сохраняют прежнее сцепление.</se>
+    <se lang="latin" variant_id="1">Etenim quorum cohaesio aequalis est plana contactus aequalia habere debent (§ 56), sed post motum corporis intestinum postque sui perturbationem corpuscula eandem cohaesionem servant per hypoth.</se>
+    <weight variant_id="1">0,349346</weight>
+  </para>
+  <para id="139">
+    <se lang="russian" variant_id="0">Следовательно площади соприкосновения их таковы же, какие были до того.</se>
+    <se lang="latin" variant_id="1">Plana ergo contactus iis, quae antea habebant, aequalia habent.</se>
+    <weight variant_id="1">0,2625</weight>
+  </para>
+  <para id="140">
+    <se lang="" variant_id="0">§ 70. Если сцепление корпускул какого-либо тела изменяется, то изменяется соприкосновение или фигура, или масса корпускул.</se>
+    <se lang="" variant_id="1">§ 70. Si cohaesio corpusculorum corporis alicujus alteratur; contactus aut figura aut moles corpusculorum mutatur.</se>
+    <weight variant_id="1">0,654412</weight>
+  </para>
+  <para id="141">
+    <se lang="russian" variant_id="0">Положим, что при изменении сцепления корпускул не изменились ни их соприкосновение, ни фигура, ни масса; тогда образуемые теми же сторонами площади соприкосновения, будут одинаковы с прежними, и поэтому корпускулы будут сцеплены так же, как и прежде.</se>
+    <se lang="latin" variant_id="1">Ponamus mutata corpusculorum cohaesione neque contactum neque figuram neque molem eorum immutari, lateribus ergo iisdem plana contactus pristinis aequalia formabunt, adeoque pariter ac antea cohaerebunt.</se>
+    <weight variant_id="1">0,24</weight>
+  </para>
+  <para id="142">
+    <se lang="russian" variant_id="0">Так как это противоречит предположению, то корпускулы при изменении их сцепления должны изменять массу, фигуру или соприкосновение.</se>
+    <se lang="latin" variant_id="1">Quod quoniam contra hypothesin est; corpuscula mutata eorum cohaesione, molem, figuram vel contactum mutare debent.</se>
+    <weight variant_id="1">0,258824</weight>
+  </para>
+  <para id="143">
+    <se lang="" variant_id="0">§ 71. Если сцепление изменяется от изменения фигуры или массы корпускул, то должен измениться и их состав (§ 36).</se>
+    <se lang="" variant_id="1">§ 71. Si cohaesio ob mutatam figuram aut molem corpusculorum alteratur; eorum mixtio etiam mutari debet (§ 36).</se>
+    <weight variant_id="1">0,928454</weight>
+  </para>
+  <para id="144">
+    <se lang="" variant_id="0">§ 72. Роберт Бойль в трактате „О происхождении качеств и форм“,15 в исторической части, отдел 2, утверждает, что на опыте видел, что купоросное масло, жидкость летучая, и камфора, тело тоже полностью летучее, по взаимном соединении оказались неспособны возгоняться, так что остаток в реторте не только выдержал довольно сильный огонь, но даже мог сохраняться полчаса в открытом раскаленном сосуде.</se>
+    <se lang="" variant_id="1">§ 72. Robertus Boyle, in tractatu „De origine qualitatum et formarum“, parte historica sect. ~~~ 2, expertum asserit se fuisse, quod oleum vitrioli, liquor volatilis, et camphora, itidem corpus integrum volatile, simul combinata ad volandum inepta evaserint, ita ut non modo caput mortuum in retorta ignem satis violentum sustinuerit; verum etiam per dimidiam horam in aperto candentique vase perdurare potuerit.</se>
+    <weight variant_id="1">0,0273455</weight>
+  </para>
+  <para id="145">
+    <se lang="russian" variant_id="0">Олений рог16 при перегонке разлагается в спирты щелочные, маслянистые, жирные, в летучую соль, масло, в соль более постоянную, масло густое, вязкое, смолистое, твердый уголь, не легко ожижаемый (Бургаве, Элементы химии, т.</se>
+    <se lang="latin" variant_id="1">Cornu cervi per destillationem resolvitur in spiritus alcalinos, oleosos, pingues, salem volatilem, oleum, salem fixiorem, oleum crassum, tenax, piceum, carbonem solidum, non facile liquabile (Boerhaave in Elem. chem., tom.</se>
+    <weight variant_id="1">0,295337</weight>
+  </para>
+  <para id="146">
+    <se lang="russian" variant_id="0">2, процесс 120) — все тела отличные от оленьего рога по сцеплению.</se>
+    <se lang="latin" variant_id="1">2, processu 120), corpora a cornu cervi cohaesione discrepantia.</se>
+    <weight variant_id="1">0,594643</weight>
+  </para>
+  <para id="147">
+    <se lang="russian" variant_id="0">Указанные продукты, претерпевшие изменение или от прибавления составных частей, как в первом примере, или от удаления таковых, как во втором, массой или также фигурой своих</se>
+    <se lang="latin" variant_id="1">Allata haece producta aut per additionem miscibilium, prout est in priore exemplo, aut per eorundem detractionem, sicut in posteriore, alterata mole aut etiam figura quae in eorum corpusculis dantur, differunt</se>
+    <weight variant_id="1">0,23557</weight>
+  </para>
+  <para id="148">
+    <se lang="" variant_id="0">§ 73. Если сцепление корпускул изменяется, вследствие перехода непосредственного соприкосновения в опосредствованное, то между сторонами соприкосновения их внедряются корпускулы какого-нибудь постороннего тела (§ 61).</se>
+    <se lang="" variant_id="1">§ 73. Si cohaesio corpusculorum ob mutationem contactus immediati in mediatum alteratur; inter latera eorum contactus corpuscula corporis alicujus peregrini sese insinuant (§ 61).</se>
+    <weight variant_id="1">0,707848</weight>
+  </para>
+  <para id="149">
+    <se lang="" variant_id="0">§ 74. Пример для присовокупления § 73 представляют тела, переходящие из твердого состояния в жидкое, и особенно те, которые плавятся силою огня; при этом огневые корпускулы проникают между плоскостями соприкосновения и делают самое соприкосновение опосредствованным.а Это показывает расширение плавящегося тела: если бы огневые корпускулы не проникали в место соприкосновения и, вследствие малости сторон, не уменьшали плоскости соприкосновения, то в сжиженном теле не наблюдалось бы разрежения или уменьшения сцепления.</se>
+    <se lang="" variant_id="1">§ 74. Exemplum corollarii proximi praebent corpora, quae ex solidis in fluida abeunt, et praecipue ea, quae vi ignis funduntur; corpuscula namque ignea inter plana contactus atque inter ipsum contactum penetrant eumque mediatuma reddunt. ~~~ Hoc testatur corporis, quod funditur, expansio: nisi enim ignea corpuscula contactum introirent et ob exilitatem laterum planum contactus minus efficerent, nulla in corpore liquato observaretur rarescentia, nulla cohaesionis diminutio.</se>
+    <weight variant_id="1">-0,0144578</weight>
+  </para>
+  <para id="150">
+    <se lang="" variant_id="0">§ 75. Если сцепление изменяется вследствие превращения опосредствованного соприкосновения в непосредственное, то корпускулы каждого постороннего тела, препятствующего непосредственному соприкосновению, должны уходить из места соприкосновения (§ 61).</se>
+    <se lang="" variant_id="1">§ 75. Si cohaesio mutatur ob contactus mediati transmutationem in immediatum; corpuscula corporis alicujus peregrini contactum immediatum impedientis ex eodem recedere debent (§ 61).</se>
+    <weight variant_id="1">0,658882</weight>
+  </para>
+  <para id="151">
+    <se lang="" variant_id="0">§ 76. Это наблюдается в металлах, которые, снова приобретая твердость после расплавления, сжимаются: явный признак, что огневые корпускулы удаляются из места соприкосновения</se>
+    <se lang="" variant_id="1">§ 76. Hoc observatur in metallis, quae, dum post fusionem consistentiam recuperant, contrahuntur, manifesto indicio, quod ignea corpuscula ex metalli corpusculorum contactu recedant,</se>
+    <weight variant_id="1">0,545285</weight>
+  </para>
+</body>
+</html>

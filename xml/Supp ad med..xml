@@ -1,0 +1,362 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html>
+<head>
+</head>
+<body>
+  <para id="0">
+    <se lang="" variant_id="0">§ 1</se>
+    <se lang="" variant_id="1">§ 1</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="1">
+    <se lang="russian" variant_id="0">Когда мы читали наши размышления об упругости воздуха в собрании академиков, то достославный Рихман заметил, что мы пропустили важнейшее свойство упругого воздуха, а именно, что из теории нашей не вывели объяснения, почему упругость воздуха пропорциональна его плотностям.</se>
+    <se lang="latin" variant_id="1">Cum meditationes nostrae de vi aëris elastica in conventu Academicorum praelegerentur, monuit clarissimus Richmannus nos proprietatem aëris elastici palmariam praeteriisse; nempe ex theoria nostra rationem nullam reddidisse, cur elastica vis aëris proportionalis sit ejusdem densitatibus:</se>
+    <weight variant_id="1">-0,0054878</weight>
+  </para>
+  <para id="2">
+    <se lang="russian" variant_id="0">Тогда я ответил, что пропустил это, находясь в сомнении, и обещал удовлетворить это пожелание в будущем.</se>
+    <se lang="latin" variant_id="1">tum id me dubitatione turbatum praetermisisse respondi, promisique me in posterum satisfacturum.</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="3">
+    <se lang="russian" variant_id="0">А сомнение в названном законе возникло у меня вначале вследствие несогласия нашей теории с этим законом, и это сомнение в большой степени усилили утверждения знаменитого Бернулли.</se>
+    <se lang="latin" variant_id="1">Dubitatio vero hac de lege orta est primum ex inconvenientia theoriae nostrae cum illa, quam dubitationem tandem assertum celeberimi Bernoullii magnopere auxit.</se>
+    <weight variant_id="1">0,267857</weight>
+  </para>
+  <para id="4">
+    <se lang="" variant_id="0">§ 2</se>
+    <se lang="" variant_id="1">§ 2</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="5">
+    <se lang="russian" variant_id="0">А именно Бернулли,* изучая выбрасывание ядер из орудий, показал, что или то упругое дуновение, которое выделяется зажженным порохом, не есть обыкновенный воздух, или что упругости возрастают в большем отношении, чем плотности:</se>
+    <se lang="latin" variant_id="1">Deduxit nempe Bernoullius* ex ictibus globorum tormentariorum auram illam elasticam, quae ex pulvere pyrio accenso elicitur, aut non aërem esse communem, aut elasticitates in majore ratione crescere, quam densitates:</se>
+    <weight variant_id="1">-0,0142061</weight>
+  </para>
+  <para id="6">
+    <se lang="russian" variant_id="0">ибо плотность воздуха, рождающегося при горении пороха, не может превосходить больше чем в тысячу раз плотность обыкновенного воздуха, хотя бы весь порох состоял только из сжатого воздуха, каковое заключение он вывел из удельного веса пороха.</se>
+    <se lang="latin" variant_id="1">non posse enim densitatem aëris, qui a pulvere pyrio inflammato oritur, esse plus quam millies densitate aëris ordinarii majorem, si pulvis pyrius vel totus ex aëre compresso compositus sit, quod ex gravitate pulveris specifica concludit.</se>
+    <weight variant_id="1">1,01667</weight>
+  </para>
+  <para id="7">
+    <se lang="russian" variant_id="0">Он утверждает даже, что упругость этого дуновения должна была бы быть еще гораздо большей, если бы весь порох, взятый для взрыва в орудии, сгорал в одно мгновение.</se>
+    <se lang="latin" variant_id="1">Imo elasticitatem aurae illius longe majorem fieri oportere affirmat, si omnis pulvis, ad explodenta tormenta adhibitus, et quidem in instanti flamma consumeretur.</se>
+    <weight variant_id="1">0,260656</weight>
+  </para>
+  <para id="8">
+    <se lang="" variant_id="0">§ 3</se>
+    <se lang="" variant_id="1">§ 3</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="9">
+    <se lang="russian" variant_id="0">Что это дуновение есть истинный атмосферный воздух, мы показываем в другом месте.*</se>
+    <se lang="latin" variant_id="1">Quod aura illa sit verus aër atmosphaericus, demonstramus alias.*</se>
+    <weight variant_id="1">0,291797</weight>
+  </para>
+  <para id="10">
+    <se lang="russian" variant_id="0">А можно ли утверждать, что упругости воздуха пропорциональны его плотностям, уяснится, если возможно будет из других специально поставленных опытов сделать выводы, сходные с выводами самого Бернулли и подтверждающие их.</se>
+    <se lang="latin" variant_id="1">An vero affirmandum sit, elasticitates aëris densitatibus ejus proportionales esse, id non obscure patebit, si ex aliis experimentis, ob id institutis, deductiones Bernoullianis similes ipsasque corroborantes elici potuerint.</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="11">
+    <se lang="russian" variant_id="0">Для этой цели мы считаем наиболее подходящими опыты, где сильно сжатый воздух, действуя на содержащие его сосуды, разрывает их: из их сопротивления можно определить его упругость и сравнить с его объемом.</se>
+    <se lang="latin" variant_id="1">Hunc in finem nulla alia experimenta aptius adhiberi posse censemus, quam ubi compressus admodum aër in cohibentia vasa agit ipsaque disrumpit, ex quorum resistentia vis ejus elastica determinari et cum volumine comparari potest.</se>
+    <weight variant_id="1">0,260571</weight>
+  </para>
+  <para id="12">
+    <se lang="" variant_id="0">§ 4</se>
+    <se lang="" variant_id="1">§ 4 </se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="13">
+    <se lang="russian" variant_id="0">Как хорошо известно, вода, переходя в лед, увеличивается в объеме и с громадной силой разрывает содержащие ее сосуды.</se>
+    <se lang="latin" variant_id="1">Cum vero notissimum sit, aqua in glaciem abeunte, volumen ejus crescere et stupenda vi cohibentia vasa rumpere;* ~~~</se>
+    <weight variant_id="1">-0,00891089</weight>
+  </para>
+  <para id="14">
+    <se lang="russian" variant_id="0">Нет никакого сомнения, что это производится воздухом, освобождающимся из пор воды в момент замерзания и собирающимся в пузырьки.</se>
+    <se lang="latin" variant_id="1">d autem ab aëre, ex poris aquae, jam jam congelascentis, liberato et in bullas collecto, proficisci, extra omne dubium est;</se>
+    <weight variant_id="1">-0,0107143</weight>
+  </para>
+  <para id="15">
+    <se lang="russian" variant_id="0">Для изучения этого мы озаботились изготовлением нескольких стеклянных полых шаров разной величины, снабженных толстостенными трубками с узким просветом [фиг. 1, 2, 3, 4];</se>
+    <se lang="latin" variant_id="1">hunc in finem confici curavimus aliquot globos vitreos diversae magnitudinis, cavos, cum tubulis crassis angusti luminis [fig. ~~~ 1, 2, 3, 4],</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="16">
+    <se lang="russian" variant_id="0">их мы выставляли наполненными водою на сильный холод, свирепствовавший этой зимою.*</se>
+    <se lang="latin" variant_id="1">quos aqua repletos exponebamus magno, qui hac* hyeme saeviebat, frigori.</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="17">
+    <se lang="russian" variant_id="0">Замерзшая часть воды, покрывшая коркой льда стенки полости, разорвала несколько шаров — кроме тех, которых просвет не был вполне закупорен водою, замерзшей раньше, и в которых от давления внутреннего льда из просвета выталкивался ледяной цилиндрик d.</se>
+    <se lang="latin" variant_id="1">Conglaciata aquae portio, quae quasi crusta quaedam latera cavitatis occupabat, singulos globos disrupit, praeter eos, quorum foramen conglaciata prius aqua non satis obturatum fuit, ideoque vi glaciei internae cylindrus glacialis d ex lumine extrudebatur.</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="18">
+    <se lang="russian" variant_id="0">Разрыв совершался по разным направлениям, чаще однако по длине трубки, как показано на фиг. 2, 3, 4, линиями mm. </se>
+    <se lang="latin" variant_id="1">Disruptio facta est secundum varias directiones, plerumque tamen secundum longitudinem tubuli, ut in figuris 2, 3, 4 ostenditur lineis mm.</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="19">
+    <se lang="russian" variant_id="0">После разрыва остаток воды вытекал и оставлял полость c.</se>
+    <se lang="latin" variant_id="1">Post ruptionem reliquum aquae effluebat et cavitatem c relinquebat.</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="20">
+    <se lang="" variant_id="0">* В самих размышлениях (§ 27) и в отдельной диссертации, которую мы подготовляем.</se>
+    <se lang="" variant_id="1">*Meditationibus ipsis (§ 27) et singulari dissertatione, quam paramus. Post ruptionem reliquum aquae effluebat et cavitatem c relinquebat.</se>
+    <weight variant_id="1">0,245</weight>
+  </para>
+  <para id="21">
+    <se lang="" variant_id="0">§ 5</se>
+    <se lang="" variant_id="1">§ 5</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="22">
+    <se lang="russian" variant_id="0">Самый большой из таких использованных нами стеклянных шаров имел диаметр в 26 линий парижского королевского фута,4 диаметр полости был 8 линий, ледяная корка — толщиною около 11/2 линий (измерить ее с необходимой точностью мы не могли вследствие неровностей, которые производило быстрое примерзание к самой корке, вытекающей из полости c остаточной воды, главным образом во внутренней части корки: от этого толщина корки увеличивалась; мы здесь взяли наибольшую измеренную толщину), так что диаметр полости внутри корки был 5 линий.</se>
+    <se lang="latin" variant_id="1">Hujusmodi globorum vitreorum maximus, quem adhibuimus, habebat diametrum 26 linearum Parisini Regii pedis, diameter cavitatis erat 8 linearum, crusta glacialis 11/2 lineas circiter crassa (hanc mensurare cum debita accuratione non potuimus ob inaequalitates, quas effluentis ex medio c residuae aquae repentina ad ipsam crustam congelatio, praesertim in parte interiore crustae, produxerat, et crassitiem illius augebat; maximam tamen, quam fieri potuit, hic assumimus), adeoque diameter cavitatis in crusta erat 5 linearum.</se>
+    <weight variant_id="1">0,933145</weight>
+  </para>
+  <para id="23">
+    <se lang="russian" variant_id="0">Отсюда вычисление дает, что площадь разрыва, не считая трубки, была 480 квадратных линий; площадь большого круга, которую должен был бы иметь большой шар, образованный ледяной коркою, — 41 кв. линия.</se>
+    <se lang="latin" variant_id="1">Hinc per calculum deducitur planum ruptionis, excepto tubulo, fuisse 480 lineas quadratas, planum circuli maximi, quem habere debet globus ex crusta glaciali formatus, 41 lin. quadratas.</se>
+    <weight variant_id="1">1,61667</weight>
+  </para>
+  <para id="24">
+    <se lang="russian" variant_id="0">Стеклянный цилиндр 25/100 рейнского дюйма5 в поперечнике разорвался при грузе в 150 фунтов,** откуда можно вычислить, что стеклянный цилиндр, имеющий поперечник в 1 парижский королевский дюйм, должен разорваться от 2572 фунтов;</se>
+    <se lang="latin" variant_id="1">Cylindrus vitreus, 25/100 pollicis Rhenani ruptus est 150 libris,** unde per calculum deducitur cylindrum vitreum, 1 pollicem Regium Parisinum in diametro habentem, rumpi debere 2572 libris;</se>
+    <weight variant_id="1">0,325919</weight>
+  </para>
+  <para id="25">
+    <se lang="russian" variant_id="0">а отсюда, цилиндр, площадь разрыва которого 480 квадратных линий, требует для разрыва приблизительно 10925 фунтов.</se>
+    <se lang="latin" variant_id="1">adeoque cylindrum, cujus planum ruptionis est 480 lin. qu., ad ruptionem requirere libras 10925 circiter.</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="26">
+    <se lang="" variant_id="0">* 1749 года.</se>
+    <se lang="" variant_id="1">* Anno 1749.</se>
+    <weight variant_id="1">1,05</weight>
+  </para>
+  <para id="27">
+    <se lang="" variant_id="0">** Мушенбрек, примечания к опытам в Академии естествоиспытателей.</se>
+    <se lang="" variant_id="1">** Muschenbroeck in notis ad experimenta Academiae del Cimento p.</se>
+    <weight variant_id="1">0,617544</weight>
+  </para>
+  <para id="28">
+    <se lang="" variant_id="0"></se>
+    <se lang="" variant_id="1"></se>
+    <weight variant_id="1">-0,6</weight>
+  </para>
+  <para id="29">
+    <se lang="" variant_id="0">§ 6</se>
+    <se lang="" variant_id="1">§ 6</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="30">
+    <se lang="russian" variant_id="0">Если бы вода внутри стеклянного шара замерзла вся полностью, то разрушающую силу льда надо было бы исчислять из площади круга, делящего пополам всю полость;</se>
+    <se lang="latin" variant_id="1">Si aqua integra in cavitate globi vitrei conglaciata fuisset, vis glaciei disrumpens aestimanda foret ex plano circuli, cavitatem integram bifariam dividentis;</se>
+    <weight variant_id="1">0,81804</weight>
+  </para>
+  <para id="31">
+    <se lang="russian" variant_id="0">но так как посредине осталась незамерзшая вода, которая поэтому не отдавала воздуха и не действовала на стекло, то действующая сила должна быть вычислена из площади наибольшего круга, который должен иметь шар, образуемый ледяною коркою; а эта площадь равна 41 квадратной линии.</se>
+    <se lang="latin" variant_id="1">sed quoniam in medio remansit aqua a conglaciatione libera, quae idcirco non producebat aërem, nec agebat in vitrum; aestimari ergo vis agens debet ex plano circuli maximi, quem habere debet globus ex crusta glaciali formatus, quod est aequale 41 lineis quadratis.</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="32">
+    <se lang="russian" variant_id="0">Столб ртути, равный по весу воздушному, а основанием в 41 квадратную линию, высотою 28 дюймов, весит 40242 грана, т. е. ~~~ 4 фунта и 3378 гранов. ~~~ Отсюда, если бы вода, замерзшая в корку, нацело состояла из воздуха, то этот последний должен был бы быть сжат примерно в 1/2521 часть пространства, занимаемого им в атмосфере, чтобы быть в состоянии разрушить этот шар.</se>
+    <se lang="latin" variant_id="1">Columna mercurii aëreae aequipollens 41 linearum quadratarum basi incumbens, 28 pollices alta, ponderat grana 40242, seu libras 4 et grana 3378.. Hinc si aqua in crustam conglaciata vel integra, esset aër, condensatum fuisse oporteret in 1/2521 circiter spatii, quod in atmosphaera occupat, ut globum hunc disrumpere potuisset.</se>
+    <weight variant_id="1">-0,109115</weight>
+  </para>
+  <para id="33">
+    <se lang="russian" variant_id="0">Откуда, если бы плотности воздуха были пропорциональны упругости, то сама вода должна была бы сделаться в 21/2 раза удельно более тяжелой, когда превратилась в лед; а так как это не имеет места, то ясно, что наш вывод вполне согласен с Бернуллиевым.</se>
+    <se lang="latin" variant_id="1">Unde si densitates aëris elateri proportionales essent, aquam se ipsam 21/2 plo specifice reddi graviorem necesse foret, cum in glaciem converteretur; quod cum absonum sit, non obscure igitur apparet cum Bernoulliana deductione nostram magnopere consentire.</se>
+    <weight variant_id="1">0,363333</weight>
+  </para>
+  <para id="34">
+    <se lang="" variant_id="0">§ 7</se>
+    <se lang="" variant_id="1">§ 7</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="35">
+    <se lang="russian" variant_id="0">Откровенно скажем, что возбуждает подозрение материя стекла, — оно ведь могло лопнуть от внезапного охлаждения и без замерзания воды в пустоте шара.</se>
+    <se lang="latin" variant_id="1">Suspectam esse materiam vitri ingenue fatemur, nempe eam rumpi posse etiam ob repentinam refrigerationem sine conglaciatione aquae in cavitate globi.</se>
+    <weight variant_id="1">0,292969</weight>
+  </para>
+  <para id="36">
+    <se lang="russian" variant_id="0">Но опыт был повторен с двумя другими стеклянными шарами, наполненными водою и выставленными на мороз, неизменно с тем же успехом, тогда как многие другие подобные стеклянные шары, полые и не наполненные водою, выставленные на холод одновременно с первыми, остались неразорванными.</se>
+    <se lang="latin" variant_id="1">Verum tamen hoc experimentum, duobus aliis globis vitreis aqua repletis et frigori expositis, repetitum fuit, eodem semper successu, cum plerique ejusmodi vitrei globi alii, cavi et ab aqua vacui, cum illis simul frigori expositi, sine ruptionis damno perstiterint.</se>
+    <weight variant_id="1">0,282969</weight>
+  </para>
+  <para id="37">
+    <se lang="russian" variant_id="0">Диаметр одного шара был 18 линий, полости — 52/3 линии, толщина ледяной корки — 1 линия; диаметр второго — 17 линий, полости — 51/2 линий, толщина ледяной корки — 3/4 линии.</se>
+    <se lang="latin" variant_id="1">Unius diameter erat 18 linearum, cavitatis 52/3, crustae glacialis crassities lineae 1, alterius diameter 17 lineas, cavitatis 51/2 lineae, crusta glacialis 3/4 lineae crassa.</se>
+    <weight variant_id="1">0,76125</weight>
+  </para>
+  <para id="38">
+    <se lang="" variant_id="0">§ 8</se>
+    <se lang="" variant_id="1">§ 8</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="39">
+    <se lang="russian" variant_id="0">Кстати, и знаменитый наш коллега Рихман произвел, при том же морозе, опыты со сжиманием воздуха силою холода в бомбах,7 которые были разорваны силою замерзающей воды.</se>
+    <se lang="latin" variant_id="1">Commodum clarissimus collega noster Richmannus instituit, eodem gelu durante, ad aërem vi frigoris in bombis comprimendum experimenta, quae vi congelascentis aquae ruptae erant.</se>
+    <weight variant_id="1">0,272727</weight>
+  </para>
+  <para id="40">
+    <se lang="russian" variant_id="0">Одна из бомб была нами измерена: она имела в диаметре 94 парижских линии, средний диаметр полости был 60 линий, толщина ледяной корки 4 линии и, отсюда, диаметр воды, которая еще не застыла в момент разрыва, был 52 линии.</se>
+    <se lang="latin" variant_id="1">Una earum a nobis mensurata fuit, quae habuit in diametro 94 lineas Parisinas, cavitatis diameter media erat 60 linearum, crusta vero glacialis 4 linearum, adeoque diameter aquae, quae ad momentum ruptionis nondum conglaciata fuit, 52 lin.</se>
+    <weight variant_id="1">1,4027</weight>
+  </para>
+  <para id="41">
+    <se lang="russian" variant_id="0">Так как этот опыт со всех точек зрения вполне соответствует тому, который мы проделали сами, то он прекрасно может быть привлечен для нашей цели.</se>
+    <se lang="latin" variant_id="1">Quod phaenomenon quoniam cum eis, quae ipsi experti sumus, omni ratione convenit, optime ad propositum nostrum adhiberi potest.</se>
+    <weight variant_id="1">0,267568</weight>
+  </para>
+  <para id="42">
+    <se lang="" variant_id="0">§ 9</se>
+    <se lang="" variant_id="1">§ 9</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="43">
+    <se lang="russian" variant_id="0">Примем прочность чугуна, из которого делают бомбы, за среднюю между прочностью железа и стекла, так как в чугуне с железными частицами смешаны и стекловатые.</se>
+    <se lang="latin" variant_id="1">Ponamus firmitatem ferri fusi, ex quo bombae parari solent, inter ferri et vitri firmitatem esse mediam, ob mixtas in illo vitrescentes particulas cum ferreis.</se>
+    <weight variant_id="1">0,295556</weight>
+  </para>
+  <para id="44">
+    <se lang="russian" variant_id="0">Так как из опытов Мушенбрека вытекает, что прочность стекла относится к прочности железа как 24 к 450, то среднее будет 237, так что силы, потребные для разрыва бомбы, равны 904 1053/4 фунта.</se>
+    <se lang="latin" variant_id="1">Quoniam ex Muschenbroeckianis experimentis colligitur, firmitatem vitri ad firmitatem ferri esse ut 24 ad 450, erit media 237, adeoque vires ad bombam rumpendam requiri aequales 9041053/4 librae.</se>
+    <weight variant_id="1">0,604658</weight>
+  </para>
+  <para id="45">
+    <se lang="russian" variant_id="0">Кубический дюйм ртути весит 5048 гранов; следовательно столб ртути, имеющий вес, равный воздушному столбу, с площадью разреза, равной большому кругу ледяной корки, обращенной в шар, будет составлять 1 375 159 гранов или около 150 фунтов.</se>
+    <se lang="latin" variant_id="1">Pollex cubicus mercurii ponderat grana 5048; columna igitur mercurialis, aëreae aequipollens, insistens plano sectionis circuli maximi crustae glacialis, in globum reductae, ponderabit grana 1375159 seu libras prope 150.</se>
+    <weight variant_id="1">-0,00436508</weight>
+  </para>
+  <para id="46">
+    <se lang="russian" variant_id="0">Отсюда, для разрыва бомбы, если бы цельная ледяная корка вся состояла из сжатого воздуха, последний должен был бы быть в 6000 раз плотнее атмосферного воздуха, и ледяная корка — более чем в шесть раз тяжелее самой себя.</se>
+    <se lang="latin" variant_id="1">Hinc ad rumpendam bombam, si vel integra crusta glacialis fuisset nil nisi compressus aër, requireretur 6000 ies densior atmosphaerico, atque adeo crusta glacialis plus quam sexies semet ipsa gravior esse deberet.</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="47">
+    <se lang="" variant_id="0">§ 10</se>
+    <se lang="" variant_id="1">§ 10</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="48">
+    <se lang="russian" variant_id="0">Вода под колоколом воздушного насоса, при удалении внешнего воздуха, выделяет гораздо большее количество воздуха, чем сколько изгоняется морозом из замерзающей воды и собирается в пузырьки, разрывающие сосуды.</se>
+    <se lang="latin" variant_id="1">Aqua sub campana antliae exteriore aëre decedente multo majorem copiam aëris emittit, quam quae ex congelascente aqua gelu elicitur et in bullas vasa rupturas colligitur.</se>
+    <weight variant_id="1">0,22449</weight>
+  </para>
+  <para id="49">
+    <se lang="russian" variant_id="0">Отсюда явствует, что воздух, содержащийся в воде, не весь обратно получает свою упругость при замораживании и таким образом не весь действует на содержащие его сосуды.</se>
+    <se lang="latin" variant_id="1">Unde apparet aërem, in aqua contentum, non omnem resumere vim suam elasticam per congelationem, adeoque nec integrum in cohibentia vasa agere.</se>
+    <weight variant_id="1">0,24878</weight>
+  </para>
+  <para id="50">
+    <se lang="russian" variant_id="0">Если бы весь воздух мог действовать, то обнаружились бы гораздо более значительные действия от того же самого или такие же от меньшего количества льда.</se>
+    <se lang="latin" variant_id="1">Id autem si obtineret, multo majores effectus ab eadem vel iidem a minori copia glaciei exsererentur.</se>
+    <weight variant_id="1">-0,0023622</weight>
+  </para>
+  <para id="51">
+    <se lang="russian" variant_id="0">Итак, из этого обстоятельства, совершенно аналогичного тому, на которое указал знаменитый Бернулли,* также вытекает, что плотности воздуха при больших сжатиях не пропорциональны упругостям его.</se>
+    <se lang="latin" variant_id="1">Ex hac itaque circumstantia, illi, quam cel. Bernoullius annotavit,* gemina, etiam apparet aëris elasticitatibus densitates illius in magnis compressionibus proportionales non esse.</se>
+    <weight variant_id="1">-0,0268966</weight>
+  </para>
+  <para id="52">
+    <se lang="russian" variant_id="0">Сюда присоединяется еще и наблюдение Мушенбрека,** что когда воздух доведен до объема, более чем в четыре раза меньшего, то далее он не подчиняется обычному закону, но оказывает большее сопротивление сжимающим его силам.</se>
+    <se lang="latin" variant_id="1">Accedit, quod etiam cl. Muschenbroeckius** observavit, cum aërem plus quam in quadruplo minus spatium redigeret, ipsum non amplius auscultare regulae traditae, sed plus resistere viribus comprimentibus.</se>
+    <weight variant_id="1">0,239241</weight>
+  </para>
+  <para id="53">
+    <se lang="russian" variant_id="0">Посмотрим, как это вытекает из нашей теории.</se>
+    <se lang="latin" variant_id="1">Id autem quomodo ex nostra theoria sequatur, videamus.</se>
+    <weight variant_id="1">0,230769</weight>
+  </para>
+  <para id="54">
+    <se lang="" variant_id="0">§ 11</se>
+    <se lang="" variant_id="1">§ 11</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="55">
+    <se lang="russian" variant_id="0">Пусть A и B — две массы воздуха равного веса, причем промежутки колебания между корпускулами массы A относятся к промежуткам колебаний между корпускулами массы B, как a к a — b; тогда объем массы B будет относиться к объему массы A, как a3 : (a — b)3.</se>
+    <se lang="latin" variant_id="1">Sint massae aëris duae pondere aequales A et B, spatiola vero vibrationis inter corpuscula massae A ad spatiola vibrationis inter corpuscula massae B, ut a ad a — b; erit volumen massae B ad volumen massae A = a3 : (a — b)3.. Quoniam autem globuli aërei eo frequentius reciprocant vibrationes suas, quo minora habent spatiola vibrationis, erit frequentia ictuum inter globulos, ut spatiola, reciproce. ~~~ Hinc frequentia ictuum inter</se>
+    <weight variant_id="1">0,292744</weight>
+  </para>
+  <para id="56">
+    <se lang="russian" variant_id="0">А так как воздушные шарики возобновляют свои колебания тем чаще, чем меньше пределы их колебания, то частота ударов будет обратно пропорциональна этим пределам.</se>
+    <se lang="latin" variant_id="1">Quoniam autem globuli aërei eo frequentius reciprocant vibrationes suas, quo minora habent spatiola vibrationis, erit frequentia ictuum inter globulos, ut spatiola, reciproce.</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="57">
+    <se lang="russian" variant_id="0">Отсюда, частота ударов между всеми шариками воздушной массы A по всем трем измерениям будет относиться к подобной же частоте ударов между всеми шариками воздушной массы B, как (a — b)3 : a3.</se>
+    <se lang="latin" variant_id="1">Hinc frequentia ictuum inter omnes globulos massae aëreae A secundum omnes tres dimensiones ad similem frequentiam ictuum inter omnes globulos aëreos massae B erit = (a — b)3 : a3.</se>
+    <weight variant_id="1">0,625443</weight>
+  </para>
+  <para id="58">
+    <se lang="russian" variant_id="0">Но так как чем чаще происходят взаимные удары шариков воздуха, тем сильнее должны они отталкиваться друг от друга и тем больше должна делаться упругость воздуха, то поэтому упругость массы воздуха A будет относиться к упругости массы воздуха B, как (a — b)3 : a3, так что упругости воздуха будут обратно пропорциональны объемам, или, что то же, пропорциональны плотностям.</se>
+    <se lang="latin" variant_id="1">Cum vero ictus reciproci globulorum aëris quo frequentiores sunt, eo fortius a se invicem illos repelli, et vim elasticam aëris eo magis invalescere oportet; erit ergo vis elastica massae aëris A ad eam massae aëris B = (a — b3): a3, adeoque elasticitates aëris erunt ut volumina reciproce, seu, quod idem est, densitatibus proportionales.</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="59">
+    <se lang="" variant_id="0">§ 12</se>
+    <se lang="" variant_id="1">§ 12</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="60">
+    <se lang="russian" variant_id="0">Это было бы совершенно верно, если бы двигающиеся туда и сюда воздушные шарики B и C [фиг. 5] после каждого удара, отскакивая, всегда прямо сталкивались с каким-нибудь из ближайших шариков A, а не пролетали зачастую через промежутки между ними к другим встречающимся им более отдаленным шарикам, в каковом случае столкновения должны будут происходить реже и указанное выше отношение уменьшится.</se>
+    <se lang="latin" variant_id="1">Verissimum hoc foret, si reciprocantes globuli aërei B et C [fig. 5] post quemlibet impactum resiliendo semper in proximum aliquem globulum A directe incurrerent, nec per interstitia transsilientes illos saepius praetergrederentur ad alios globulos remotiores, sibi obvios, tardius impetum facturi et supradictae rationi derogaturi.</se>
+    <weight variant_id="1">0,698214</weight>
+  </para>
+  <para id="61">
+    <se lang="russian" variant_id="0">Но так как очевидно, что сделанное предположение невозможно, то по необходимости на деле должно быть не то отношение, которое выведено выше.</se>
+    <se lang="latin" variant_id="1">Sed, quoniam hoc supponi non posse satis apparet, alia igitur ratio intercedat, necesse est.</se>
+    <weight variant_id="1">0,14625</weight>
+  </para>
+  <para id="62">
+    <se lang="russian" variant_id="0">В чем оно состоит и от чего зависит, можно, мы уверены, найти, внимательно изучая изменения колебаний.</se>
+    <se lang="latin" variant_id="1">In quo autem ea consistat et unde proveniat, id, vibrationum varietates attentius considerando, inveniri posse certum habemus.</se>
+    <weight variant_id="1">0,221591</weight>
+  </para>
+  <para id="63">
+    <se lang="" variant_id="0">§ 13</se>
+    <se lang="" variant_id="1">§ 13</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="64">
+    <se lang="russian" variant_id="0">Никто не усумнится, что воздушные корпускулы B и C после столкновения тем режеа проскакивают через промежутки AA, не попадая в корпускулы A, и диаметры корпускул воздуха имеют тем большее отношение к пространствам колебаний, чем больше воздух сжимается.</se>
+    <se lang="latin" variant_id="1">Corpuscula aëris B et C post collisionem saepius etiam per spatiola AA transsilire, corpusculis A intactis, et corpusculorum aëris diametros eo majorem rationem ad spatiola vibrationis habere, quo magis aër comprimitur, nemo dubitabit.</se>
+    <weight variant_id="1">0,455882</weight>
+  </para>
+  <para id="65">
+    <se lang="russian" variant_id="0">Далее, рассматривая совокупность колебаний, числом бесконечных, можно вывести отношение числа колебаний, приводящих к удару в ближайшие шарики A, к числу колебаний, в которых шарики через промежутки AA столкнутся в своем движении с более отдаленными шариками D.</se>
+    <se lang="latin" variant_id="1">Porro vibrationibus, numero infinitis, simul consideratis, dari oportet rationem aliquam vibrationum, quae in proximos globulos A impetum faciunt, ad vibrationes, quibus per interstitia AA globuli motu in remotiores D incurrunt.</se>
+    <weight variant_id="1">0,0781611</weight>
+  </para>
+  <para id="66">
+    <se lang="russian" variant_id="0">Это отношение равно отношению между числом воздушных шариков, которые могут поместиться между шариками A на поверхности шара, описанного полукругом AFAB, и числом шариков A, из которых каждый отстоит от другого настолько же, как и от центра B.</se>
+    <se lang="latin" variant_id="1">Illam autem ad hanc esse, ut numerum globulorum aëreorum, qui in superficie sphaerae, semicirculo AFAB descriptae, inter globulos A collocari possunt, ad numerum globulorum A, qui singuli a se invicem distant tantum, quantum a centro B.</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="67">
+    <se lang="russian" variant_id="0">При увеличении плотности воздуха шарики A расположатся ближе друг к другу, уменьшатся промежутки между ними, окажется ме́ньшим число колебаний при незатронутых шариках A, и поэтому отношение числа колебаний, в которых шарики выскакивают через промежутки AA и ударяют в более отдаленные шарики D, к числу колебаний, которыми поражаются ближайшие шарики A, уменьшится.</se>
+    <se lang="latin" variant_id="1">Crescente densitate aëris, globuli A propius ad se invicem accedent, interstitia inter illos decrescent, minor numerus vibrationum globulis A intactis fiet, atque adeo ratio vibrationum, quibus per interstitia AA globuli transsilientes in remotiores D incurrunt, minor erit ad vibrationes, quibus proximi globuli A feriuntur.</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="68">
+    <se lang="russian" variant_id="0">Отсюда, к большей частоте ударов, происходящей от меньшего взаимного расстояния шариков воздуха (§ 11), присоединится еще и то, что, вследствие уменьшения величины промежутков AA между ближайшими шариками воздуха, они будут чаще получать удары, и тем самым сопротивление упругого воздуха увеличится сверх даваемого отношением § 11.</se>
+    <se lang="latin" variant_id="1">Hinc majori frequentiae ictuum a minori distantia globulorum aëris profecta (§ 11) id quoque accedet, ut propter contracta interstitia AA inter proximos aëris globulos frequentiores quoque impactus fiant in ipsos, et hoc ipso resistentia aëris elastici augebitur ultra assignatam rationem (§ 11).</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="69">
+    <se lang="russian" variant_id="0">При том сжатии воздуха, когда пространства колебаний сделаются меньше диаметров шариков, все встречи шариков будут только с ближайшими шариками A, так как они окажутся не в состоянии проникать через промежутки AA, не ударившись в шарики A.</se>
+    <se lang="latin" variant_id="1">In ea compressione aëris, in qua vibrationum spatiola minora sunt diametris globulorum, omnes conflictus globulorum erunt cum proximis A, cum per interstitia AA sine impactu penetrare non potuerint.</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="70">
+    <se lang="russian" variant_id="0">Отсюда видно, насколько отношение упругостей воздуха должно отличаться от отношений плотностей, при наибольшем его сжатии.</se>
+    <se lang="latin" variant_id="1">Unde perspicitur, quantum ratio elasticitatum aëris discrepare debeat a ratione densitatum in summa illius compressione.</se>
+    <weight variant_id="1">-0,0938147</weight>
+  </para>
+</body>
+</html>

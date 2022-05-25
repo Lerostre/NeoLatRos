@@ -1,0 +1,397 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html>
+<head>
+</head>
+<body>
+  <para id="0">
+    <se lang="russian" variant_id="0">ЭЛЕМЕНТЫ МАТЕМАТИЧЕСКОЙ ХИМИИ.</se>
+    <se lang="latin" variant_id="1">ELEMENTA CHIMIAE MATHEMATICAE.</se>
+    <weight variant_id="1">0,3</weight>
+  </para>
+  <para id="1">
+    <se lang="russian" variant_id="0">1741</se>
+    <se lang="latin" variant_id="1">1741</se>
+    <weight variant_id="1">16,8</weight>
+  </para>
+  <para id="2">
+    <se lang="russian" variant_id="0">ВВЕДЕНИЕ</se>
+    <se lang="latin" variant_id="1">PROLEGOMENA</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="3">
+    <se lang="russian" variant_id="0">Определение I</se>
+    <se lang="latin" variant_id="1">Def. ~~~ I</se>
+    <weight variant_id="1">-0,075</weight>
+  </para>
+  <para id="4">
+    <se lang="russian" variant_id="0">1) Химия — наука об изменениях, происходящих в смешанном теле, поскольку оно смешанное.1</se>
+    <se lang="latin" variant_id="1">1) Chymia est scientia mutationum, quae fiunt in corpore mixto, quatenus mixtum est.</se>
+    <weight variant_id="1">0,497847</weight>
+  </para>
+  <para id="5">
+    <se lang="russian" variant_id="0">Пояснение</se>
+    <se lang="latin" variant_id="1">Schol.</se>
+    <weight variant_id="1">0,171429</weight>
+  </para>
+  <para id="6">
+    <se lang="russian" variant_id="0">2) Не сомневаюсь, что найдутся многие, которым это определение покажется неполныма и которыеб будут сетовать на отсутствие начал разделения, соединения, очищения и других выражений, которыми наполнены почти все химические книги;в но те, кто проницательнее, легко усмотрят, что упомянутые выражения, которыми весьма многие писатели по химии имеют обыкновение обременять без надобности свои исследования, могут быть охвачены одним словом: смешанное тело.г В самом деле, обладающий знанием смешанного тела может объяснить все возможные изменения его, и в том числе разделение, соединение и т. д.; грубые и органические, каковы раздробление и размалывание злаков, произрастание растений, обращение крови в живом теле, могут быть исключены.д</se>
+    <se lang="latin" variant_id="1">2) Non dubito fore plerosque, qui hanc definitionem minus completama suspicabuntur etb principiorum divisionis, conjunctionis, depurationis etc. voces, quibus omnes fere chymici libri scatent, omissas querentur,c verum cordatioribus facile erit perspicere, memoratas dictiones, quibus chymici scriptores plerique decisiones suas sine necessitate onerare solent, verbo mixtid posse complecti;e qui enim mixti scientiam possidet, etiam ejus mutationum possibilium rationem reddere potest, adeoque et divisionis, combinationis etc. explicare; rudes et organicas, quales sunt comminutiones et commolitiones frugum, vegetatio plantarum, circulatio sanguinis in corpore animali, inde excludi.f</se>
+    <weight variant_id="1">0,319378</weight>
+  </para>
+  <para id="7">
+    <se lang="russian" variant_id="0">3) Так как в науке принято доказывать утверждаемое ( .</se>
+    <se lang="latin" variant_id="1">3) Quoniam scientiae est habitus asserta demonstrandi ( .</se>
+    <weight variant_id="1">1,17391</weight>
+  </para>
+  <para id="8">
+    <se lang="" variant_id="0">), то и в химии все высказываемое должно быть доказываемо.</se>
+    <se lang="" variant_id="1">),a quae igitur in Chymia dicuntur demonstrari debent.</se>
+    <weight variant_id="1">0,2875</weight>
+  </para>
+  <para id="9">
+    <se lang="russian" variant_id="0">Определение II</se>
+    <se lang="latin" variant_id="1">Def. ~~~ II</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="10">
+    <se lang="russian" variant_id="0">4) Практическая часть химии состоит в историческом познании изменений смешанного тела.</se>
+    <se lang="latin" variant_id="1">4) Pars Chymiae practice est cognitio mutationum corporis mixti historica.</se>
+    <weight variant_id="1">0,522727</weight>
+  </para>
+  <para id="11">
+    <se lang="russian" variant_id="0">6) Практическая часть химии, подобно науке исчисления, есть особый метод познания: как из нескольких данных чисел практическая арифметика находит другие (§ 2 Элементов арифметики), так и через химическую практику из нескольких взятых тел порождаются новые.</se>
+    <se lang="latin" variant_id="1">6) Chymiae pars practice, non secus ac scientia computandi, est methodus inveniendi specialis; prout enim ex datis quibusdam numeris Arithmetice practice alios invenit (§ 2 Elem. arith.), ita quoque per Chymicam praxin ex assumtis quibusdam corporibus nova generantur.</se>
+    <weight variant_id="1">1,28933</weight>
+  </para>
+  <para id="12">
+    <se lang="russian" variant_id="0">Таким образом и стали известны почти все истины, доныне найденные в химии.</se>
+    <se lang="latin" variant_id="1">Et hunc in modum omnes fere veritates, hactenus in Chymia erutae,c innotuerunt.</se>
+    <weight variant_id="1">0,276563</weight>
+  </para>
+  <para id="13">
+    <se lang="russian" variant_id="0">Определение III</se>
+    <se lang="latin" variant_id="1">Def. ~~~ III</se>
+    <weight variant_id="1">0,3375</weight>
+  </para>
+  <para id="14">
+    <se lang="russian" variant_id="0">7) Теоретическая часть химии состоит в философском познании изменений смешанного тела.</se>
+    <se lang="latin" variant_id="1">7) Pars Chymiae theoretica est cognitio mutationum corporis mixti philosophica.</se>
+    <weight variant_id="1">0,547375</weight>
+  </para>
+  <para id="15">
+    <se lang="russian" variant_id="0">Определение IV</se>
+    <se lang="latin" variant_id="1">Def. ~~~ IV</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="16">
+    <se lang="russian" variant_id="0">8) Химик есть тот, кто обладает знанием изменений смешанного тела, поскольку оно смешанное.</se>
+    <se lang="latin" variant_id="1">8) Chymicus est qui possidet scientiam mutationum corporis mixti, quatenus mixtum est.</se>
+    <weight variant_id="1">0,51498</weight>
+  </para>
+  <para id="17">
+    <se lang="russian" variant_id="0">Присовокупление</se>
+    <se lang="latin" variant_id="1">Coroll.</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="18">
+    <se lang="russian" variant_id="0">9) Он, значит, должен доказывать то, что говорится в химии.</se>
+    <se lang="latin" variant_id="1">9) Possidet igitur habitum demonstrandi ea, quae in Chymia dicuntur.</se>
+    <weight variant_id="1">0,519786</weight>
+  </para>
+  <para id="19">
+    <se lang="russian" variant_id="0">Определение V</se>
+    <se lang="latin" variant_id="1">Def. ~~~ V</se>
+    <weight variant_id="1">-0,075</weight>
+  </para>
+  <para id="20">
+    <se lang="russian" variant_id="0">10) Химик-практик есть тот, кто обладает историческим познанием изменений, происходящих в смешанном теле.</se>
+    <se lang="latin" variant_id="1">10) Chymicus practicus est, qui habet cognitionem historicam mutationum, quae fiunt in corpore mixto.</se>
+    <weight variant_id="1">0,497432</weight>
+  </para>
+  <para id="21">
+    <se lang="russian" variant_id="0">11) Химик-теоретик есть тот, кто обладает философским познанием изменений, происходящих в смешанном теле.</se>
+    <se lang="latin" variant_id="1">11) Chymicus theoreticus est, qui habet cognitionem philosophicam corporis mixti mutationum.</se>
+    <weight variant_id="1">0,510241</weight>
+  </para>
+  <para id="22">
+    <se lang="russian" variant_id="0">12) Если, например, кто-нибудь знает, что в сосуде, наполненном водою или другою жидкостью, поставленном на огонь, может быть вызвано кипение, и проводит это на деле, то будет называться практиком.</se>
+    <se lang="latin" variant_id="1">12) E.. g. siquis in olla, aqua vel alio liquore plena, igni imposita ebullitionem excitari posse noverit, idque actu prosequitur, practicus audit.</se>
+    <weight variant_id="1">0,32886</weight>
+  </para>
+  <para id="23">
+    <se lang="russian" variant_id="0">Но если он будет знать, что вода приводится в кипение воздухом, расширившимся в ней от огня и вырывающимся из нее, то будет теоретиком.</se>
+    <se lang="latin" variant_id="1">Quodsi vero eidem innotuerit aquam per aërem igne expansum atque inde erumpentem in ebullitionem excitari, est theoreticus. ~~~</se>
+    <weight variant_id="1">-0,00263158</weight>
+  </para>
+  <para id="24">
+    <se lang="russian" variant_id="0">Положение I</se>
+    <se lang="latin" variant_id="1">Theor. I</se>
+    <weight variant_id="1">0,45</weight>
+  </para>
+  <para id="25">
+    <se lang="russian" variant_id="0">13) Истинный химик должен быть теоретиком и практиком.</se>
+    <se lang="latin" variant_id="1">13) Verus Chymicus debet esse theoreticus et practicus.</se>
+    <weight variant_id="1">0,627083</weight>
+  </para>
+  <para id="26">
+    <se lang="russian" variant_id="0">Доказательство</se>
+    <se lang="latin" variant_id="1">Dem.</se>
+    <weight variant_id="1">-0,3</weight>
+  </para>
+  <para id="27">
+    <se lang="russian" variant_id="0">Химик должен доказывать все, что говорится в химии (§ 8). ~~~ Но то, что он доказывает, ему надо сперва познать, т. е. приобрести историческое познаниеа изменений смешанного тела, и, следовательно, быть практиком (§ 10). ~~~ Это — первое.</se>
+    <se lang="latin" variant_id="1">Chymicus possidet habitum ea demonstrandi, quae in Chymia dicuntur (§ 8), ea igitur, quae demonstret, prius debet cognoscere, hoc est cognitionem historicam acquirerea mutationum corporis mixti adeoque practicus esse (§ 10).b Q.. E. primum.</se>
+    <weight variant_id="1">-0,0695633</weight>
+  </para>
+  <para id="28">
+    <se lang="russian" variant_id="0">Далее, он же должен уметь доказывать познанное (§ 9), т. е. давать ему объяснение, что предполагает философское познание (§ ).</se>
+    <se lang="latin" variant_id="1">Porro idem debet cognita demonstrare posse (§ 9), id est eorum rationem assignare, quod cognitionem philosophicam praesupponit (§ ).</se>
+    <weight variant_id="1">0,880556</weight>
+  </para>
+  <para id="29">
+    <se lang="russian" variant_id="0">Отсюда следует, что истинный химик должен быть и теоретиком (§ 11).</se>
+    <se lang="latin" variant_id="1">Adeoque sequitur Chymicum verum etiam theoreticumc esse oportere (§ 11).</se>
+    <weight variant_id="1">0,81442</weight>
+  </para>
+  <para id="30">
+    <se lang="russian" variant_id="0">Это — второе.б</se>
+    <se lang="latin" variant_id="1">Q.. E. alterum.d</se>
+    <weight variant_id="1">0,253846</weight>
+  </para>
+  <para id="31">
+    <se lang="russian" variant_id="0">Присовокупление I</se>
+    <se lang="latin" variant_id="1">Corol. ~~~ I</se>
+    <weight variant_id="1">-0,105</weight>
+  </para>
+  <para id="32">
+    <se lang="russian" variant_id="0">14) Истинный химик, следовательно, должен быть также и философом.</se>
+    <se lang="latin" variant_id="1">14) Chymicus igitur verus debet esse etiam Philosophus.</se>
+    <weight variant_id="1">0,578231</weight>
+  </para>
+  <para id="33">
+    <se lang="russian" variant_id="0">Присовокупление II</se>
+    <se lang="latin" variant_id="1">Corol. ~~~ II</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="34">
+    <se lang="russian" variant_id="0">15) Занимающиеся одной практикою — не истинные химики.</se>
+    <se lang="latin" variant_id="1">15) Illi, qui sola praxi occupantur, veri chymici non sunt.</se>
+    <weight variant_id="1">0,614583</weight>
+  </para>
+  <para id="35">
+    <se lang="russian" variant_id="0">16) Но и те, которые услаждают себя одними умозрениями, не могут считаться истинными химиками.</se>
+    <se lang="latin" variant_id="1">16) Neque ii, qui solis speculationibus delectantur, veri chymici nuncupari nequeunt.</se>
+    <weight variant_id="1">0,526316</weight>
+  </para>
+  <para id="36">
+    <se lang="russian" variant_id="0">Лемма I</se>
+    <se lang="latin" variant_id="1">Lemma I</se>
+    <weight variant_id="1">1,3</weight>
+  </para>
+  <para id="37">
+    <se lang="russian" variant_id="0">17) Все изменения тел происходят посредством движения.</se>
+    <se lang="latin" variant_id="1">17) Omnes mutationes corporum fiunt per motum.</se>
+    <weight variant_id="1">0,616463</weight>
+  </para>
+  <para id="38">
+    <se lang="russian" variant_id="0">18) Доказал это знаменитый В.3</se>
+    <se lang="latin" variant_id="1">18) Demonstravit illustris W. ~~~ Coroll.</se>
+    <weight variant_id="1">0,9</weight>
+  </para>
+  <para id="39">
+    <se lang="russian" variant_id="0">19) Mutationes igitur corporis mixti etiam per motum fiunt.</se>
+    <se lang="latin" variant_id="1">I ~~~ 19) Следовательно, изменения смешанного тела происходят также посредством движения. ~~~</se>
+    <weight variant_id="1">0,0807692</weight>
+  </para>
+  <para id="40">
+    <se lang="russian" variant_id="0">20) Motus hie est plerumque insensibilis at que causa ejus sensibus minimum percipi potest, in eam igitur ratiocinio inquirendum est.a</se>
+    <se lang="latin" variant_id="1">20) Это движение по большей части нечувствительно, и причина его никак не может быть воспринята чувствами; поэтому нужно исследовать ее путем умозаключения.</se>
+    <weight variant_id="1">0,92561</weight>
+  </para>
+  <para id="41">
+    <se lang="russian" variant_id="0">Присовокупление II</se>
+    <se lang="latin" variant_id="1">Coroll. II</se>
+    <weight variant_id="1">1,8</weight>
+  </para>
+  <para id="42">
+    <se lang="russian" variant_id="0">21) Наука о движении есть механика; итак, изменения мешанных тел происходят механически.</se>
+    <se lang="latin" variant_id="1">21) Motus scientia est mechanica, mutationes igitur corporum mixtorum peraguntur mechanice.</se>
+    <weight variant_id="1">-0,3</weight>
+  </para>
+  <para id="43">
+    <se lang="russian" variant_id="0">Присовокупление III</se>
+    <se lang="latin" variant_id="1">Coroll. III</se>
+    <weight variant_id="1">0,675</weight>
+  </para>
+  <para id="44">
+    <se lang="russian" variant_id="0">22) А потому изменения эти могут быть объяснены законами механики.</se>
+    <se lang="latin" variant_id="1">22) Adeoque per leges mechanicas explicari possunt.</se>
+    <weight variant_id="1">0,596739</weight>
+  </para>
+  <para id="45">
+    <se lang="russian" variant_id="0">Присовокупление IV</se>
+    <se lang="latin" variant_id="1">Coroll. ~~~ IV</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="46">
+    <se lang="russian" variant_id="0">23) Так как количество движения может быть определено при помощи механики, а определенные количества познаются отчетливее, то изменения смешанного тела можно отчетливее познать при помощи механики.</se>
+    <se lang="latin" variant_id="1">23) Cum vero mechanices ope quantitas motus determinari potest, quantitates vero determinatae distinctius percipiuntur. ~~~ Mechanices igitur ope mutationes corporis mixti distinctius cognosci possunt.</se>
+    <weight variant_id="1">0,00607477</weight>
+  </para>
+  <para id="47">
+    <se lang="russian" variant_id="0">24) Поэтому, если кто хочет глубже постигнуть химические истины, то ему необходимо изучать механику.</se>
+    <se lang="latin" variant_id="1">24) Quicunque igitur veritates chymicas profundius perspicere cupit, mechanicam discat necesse est.</se>
+    <weight variant_id="1">0,52736</weight>
+  </para>
+  <para id="48">
+    <se lang="russian" variant_id="0">Присовокупление VI</se>
+    <se lang="latin" variant_id="1">Coroll. ~~~ VI</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="49">
+    <se lang="russian" variant_id="0">25) А так как знание механики предполагает знание чистой математики, то стремящийся к ближайшему изучению химии должен быть сведущ и в математике.</se>
+    <se lang="latin" variant_id="1">25) Et quoniama mechanicae cognitio cognitionem Matheseos purae praesupponit, quare [qui] Chymiam intimius addiscere animum induxit, Mathesi imbutus esse debet.</se>
+    <weight variant_id="1">0,404762</weight>
+  </para>
+  <para id="50">
+    <se lang="russian" variant_id="0">26) Какой свет способна возжечь в спагирической науке4 математика, может предвидеть тот, кто посвящен в ее таинства и знает такие главы естественных наук, удачно обработанные математически, как гидравлика, аэрометрия, оптика и др.: все, что до того было в этих науках темно, сомнительно и недостоверно, математика сделала ясным, достоверным и очевидным.</se>
+    <se lang="latin" variant_id="1">26) Quantam lucem spagiricae scientiae Mathematice accendere valeat, ille, qui hujus sacris initiatus est et jam quaedam scientiae naturalis capita, ut est Hydraulica, Aërometria. ~~~ Optica etc., feliciter mathematice pertractata novit, praevidet. ~~~ Etenim omnia ea, quae alias in naturali scientia fuerunt obscura, dubia et incerta, clara, certa et evidentia reddidit.</se>
+    <weight variant_id="1">-0,139908</weight>
+  </para>
+  <para id="51">
+    <se lang="russian" variant_id="0">Правда, многие отрицают возможность положить в основание химии начала механики и отнести ее к числу наук, но отрицают они это, заблудившись в потемках скрытых свойств и не зная, что в изменениях смешанных тел всегда наблюдаются законы механики, а также испытывая недоверие к пустым и ложным умозрениям, которые навязывают ученому миру без какого-либо предварительного опыта иные теоретики, злоупотребляющие своим досугом.</se>
+    <se lang="latin" variant_id="1">Et licet plerique Chymiam mechanices principiis stabiliri atque in scientiarum numerum referri posse eant inficias, id tamen qualitatum occultarum tenebris seducti, ac mechanices leges in mutationibus corporum mixtorum semper observari ignorantes; tum vero vanas ac falsas speculationes, quas theoretici quidam otio suo abusi, nulla experientia praevia, orbi litterario obtrudunt, exosi, faciunt.</se>
+    <weight variant_id="1">0,285303</weight>
+  </para>
+  <para id="52">
+    <se lang="russian" variant_id="0">Если бы те, которые все свои дни затемняют дымом и сажей и в мозгу которых господствует хаос от массы непродуманных опытов, не гнушались поучиться священным законам геометров, которые некогда были строго установлены Евклидом и в наше время усовершенствованы знаменитым Вольфом, то несомненно могли бы глубже проникнуть в таинства природы, истолкователями которой они себя объявляют.</se>
+    <se lang="latin" variant_id="1">Verum enimvero, si illi, qui omnes dies suos fumis et fuligine offuscarunt, quorumque cerebrum, chaos quoddam ac indigesta experimentorum moles obruit, sanctissimis Geometrarum legibus, quas olim Euclides severe observaverat, et praesente tempestate illustris Wolfius perfecit, instrui non essent pertesi, intimius certe naturae adyta, cujus se mystagogos esse profitentur, possent penetrare.</se>
+    <weight variant_id="1">0,287273</weight>
+  </para>
+  <para id="53">
+    <se lang="russian" variant_id="0">В самом деле, если математики из сопоставления немногих линий выводят очень многие истины, то и для химиков я не вижу никакой иной причины, вследствие которой они не могли бы вывести больше закономерностей из такого обилия имеющихся опытов, кроме незнания математики.</se>
+    <se lang="latin" variant_id="1">Profecto cum Mathematici per combinationem paucarum linearum quam plurimas veritates eruant, cur et non Chymici ex tanta experimentorum farragine plura deducere possint, nullam rationem praeter Matheseos ignorantiam video.</se>
+    <weight variant_id="1">0,24949</weight>
+  </para>
+  <para id="54">
+    <se lang="russian" variant_id="0">27) Так как то, о чем мне предстоит говорить, я намерен изложить на началах математических и философских, то считаю уместным предпослать несколько философских и математических аксиом, на которые мне придется часто ссылаться, оставляя до соответствующих мест те, которые придется вводить при том или другом случае.</se>
+    <se lang="latin" variant_id="1">27) Quoniam mathematicis et philosophicis principiis ea, quae dicenda mihi incumbunt, superstruere animus est, eam ob causam axiomata quaedam Philosophica et Mathematica, in toto contextu saepius citanda, praemittere placet, aliis, quae semel forte inducenda erunt suo loco relictis.</se>
+    <weight variant_id="1">0,348988</weight>
+  </para>
+  <para id="55">
+    <se lang="russian" variant_id="0">Аксиома I</se>
+    <se lang="latin" variant_id="1">Axioma I</se>
+    <weight variant_id="1">1,2625</weight>
+  </para>
+  <para id="56">
+    <se lang="russian" variant_id="0">28) Одно и то же не может одновременно быть и не быть.</se>
+    <se lang="latin" variant_id="1">28) Idem non potest simul esse et non esse.</se>
+    <weight variant_id="1">0,533333</weight>
+  </para>
+  <para id="57">
+    <se lang="russian" variant_id="0">Аксиома II</se>
+    <se lang="latin" variant_id="1">Axioma II</se>
+    <weight variant_id="1">1,26667</weight>
+  </para>
+  <para id="58">
+    <se lang="russian" variant_id="0">29) Ничто не происходит без достаточного основания.</se>
+    <se lang="latin" variant_id="1">29) Nihil fit sine ratione sufficiente.</se>
+    <weight variant_id="1">0,634286</weight>
+  </para>
+  <para id="59">
+    <se lang="russian" variant_id="0">Аксиома III</se>
+    <se lang="latin" variant_id="1">Axioma III</se>
+    <weight variant_id="1">1,27</weight>
+  </para>
+  <para id="60">
+    <se lang="russian" variant_id="0">30) Одно и то же равно самому себе.</se>
+    <se lang="latin" variant_id="1">30) Idem est aequale sibimet ipsi.</se>
+    <weight variant_id="1">0,718227</weight>
+  </para>
+  <para id="61">
+    <se lang="russian" variant_id="0">Лемма II</se>
+    <se lang="latin" variant_id="1">Lemma II</se>
+    <weight variant_id="1">1,3</weight>
+  </para>
+  <para id="62">
+    <se lang="russian" variant_id="0">31) Целое равно всем своим частям, взятым вместе.</se>
+    <se lang="latin" variant_id="1">31) Totum est aequale omnibus sui partibus simul sumptis.</se>
+    <weight variant_id="1">0,584496</weight>
+  </para>
+  <para id="63">
+    <se lang="russian" variant_id="0">Лемма III</se>
+    <se lang="latin" variant_id="1">Lemma III</se>
+    <weight variant_id="1">1,3</weight>
+  </para>
+  <para id="64">
+    <se lang="russian" variant_id="0">32) Общие атрибуты единичностей зависят от одной и той же причины.</se>
+    <se lang="latin" variant_id="1">32) Attribute communia singularium ab eadem causa dependent.</se>
+    <weight variant_id="1">0,616667</weight>
+  </para>
+  <para id="65">
+    <se lang="russian" variant_id="0">Атрибуты зависят от сущности (§ 157 Онтологии); единичности же имеют одинаковую сущность, поскольку они принадлежат к одному роду (§ 254 Онтологии), следовательно и их общие атрибуты зависят от одной и той же сущности.</se>
+    <se lang="latin" variant_id="1">Attribute dependent ab essentia (§ 157 Ontol.), singularia autem eandem essentiam habent, quatenus sub eodem genere continentur, (§ 254 Ontol.), earum igitur attribute communia ab eadem essentia dependent.</se>
+    <weight variant_id="1">1,73319</weight>
+  </para>
+  <para id="66">
+    <se lang="russian" variant_id="0">Таким образом, они имеют достаточное основание в общей сущности (§ 851 Онтологии), т. е. зависят от одной причины.</se>
+    <se lang="latin" variant_id="1">Adeoque rationem sufficientem in essentia communi habent (§ 851 Ontol.), id est ab eadem causa dependent.</se>
+    <weight variant_id="1">2,39457</weight>
+  </para>
+  <para id="67">
+    <se lang="russian" variant_id="0">Определение</se>
+    <se lang="latin" variant_id="1">Def.</se>
+    <weight variant_id="1">-0,12</weight>
+  </para>
+  <para id="68">
+    <se lang="russian" variant_id="0">33) Изменение смешанного тела, поскольку оно смешанное, есть изменение его внутренних качеств.</se>
+    <se lang="latin" variant_id="1">33) Mutatio corporis mixti, prout mixti, est alteratio qualitatum ejus intrinsecarum.</se>
+    <weight variant_id="1">0,518421</weight>
+  </para>
+  <para id="69">
+    <se lang="russian" variant_id="0">34) Под внутренними качествами я понимаю все то, что можно в теле познать чувствами, за исключениема фигуры, движения и положения всего тела.</se>
+    <se lang="latin" variant_id="1">34) Per intrinsecas qualitates intelligo omne id, quod in corpore sensibus percipi potest,a figura, motu et situ totiusb exceptis.</se>
+    <weight variant_id="1">0,428761</weight>
+  </para>
+  <para id="70">
+    <se lang="russian" variant_id="0">35) В химии, следовательно, надо доказывать изменения внутренних качеств (§ 1, 3).</se>
+    <se lang="latin" variant_id="1">35) In Chymia igitur alterationes qualitatum intrinsecarum demonstrari debent (§ 1, 3).</se>
+    <weight variant_id="1">1,20224</weight>
+  </para>
+  <para id="71">
+    <se lang="russian" variant_id="0">36) Так как доказательство утверждаемого должно быть извлекаемо из ясного представления о самой вещи, то необходимы ясные представления о внутренних качествах тел для изложения того, о чем идет речь в химии.</se>
+    <se lang="latin" variant_id="1">36) Cum vero asserti demonstratio ex ipsius rei notione clarac sit petenda, qualitatum itaque corporis intrinsecarum notiones clarae ad ea, quae in Chymia dicuntur, requiruntur.</se>
+    <weight variant_id="1">0,368631</weight>
+  </para>
+  <para id="72">
+    <se lang="russian" variant_id="0">37) Поэтому часть работы должна быть уделена объяснению внутренних качеств тела.</se>
+    <se lang="latin" variant_id="1">37) Quamobrem operis parsd qualitatibus corporis intrinsecis explicandis destinanda est.</se>
+    <weight variant_id="1">0,534699</weight>
+  </para>
+  <para id="73">
+    <se lang="russian" variant_id="0">38) Элемент есть часть тела, не состоящая из каких-либо других меньших и отличающихся от него тел.</se>
+    <se lang="latin" variant_id="1">38) Elementum est pars corporis, quae ex nullis aliis corporibus minoribus et a se diversis constat.</se>
+    <weight variant_id="1">0,469328</weight>
+  </para>
+  <para id="74">
+    <se lang="russian" variant_id="0">39) Корпускула есть собрание элементов, образующее одну малую массу.</se>
+    <se lang="latin" variant_id="1">39) Corpusculum este elementorum in unam massulam congeries.</se>
+    <weight variant_id="1">0,588889</weight>
+  </para>
+  <para id="75">
+    <se lang="russian" variant_id="0">Определениев</se>
+    <se lang="latin" variant_id="1">Def.</se>
+    <weight variant_id="1">-0,05</weight>
+  </para>
+  <para id="76">
+    <se lang="russian" variant_id="0">40) Корпускулы однородны, если состоят из одинакового числа одних и тех же элементов, соединенных одинаковым образом.</se>
+    <se lang="latin" variant_id="1">40) Corpuscula homogenea sunt,g quae aequali numero eorundem elementorum simili ratione junctis constant.</se>
+    <weight variant_id="1">0,485562</weight>
+  </para>
+  <para id="77">
+    <se lang="russian" variant_id="0">Что такого рода корпускулы существуют, свидетельствует однородность массы тел, у которых каждая часть подобна</se>
+    <se lang="latin" variant_id="1">Ejusmodi corpuscula dari similares massae corporum, quorum quaelibet pars toti est similis, loquuntur.</se>
+    <weight variant_id="1">0,28022</weight>
+  </para>
+</body>
+</html>

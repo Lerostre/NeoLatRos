@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html>
+<head>
+</head>
+<body>
+  <para id="0">
+    <se lang="russian" variant_id="0">Спрашивается: можно ли сделать инструмент оптический, помощью которого можно б было видеть вещи в море или в реках глубже, нежели как простыми глазами усмотреть можно.</se>
+    <se lang="latin" variant_id="1">Quaeritur utrum construi possit instrumentum opticum, cujus ope profundius spectari queant objecta in aqua maris aut fluviorum, quam nudis oculis cerni solent;</se>
+    <weight variant_id="1">-0,0179348</weight>
+  </para>
+  <para id="1">
+    <se lang="russian" variant_id="0">Если то возможно, то каким образом надлежит сделать такой инструмент?</se>
+    <se lang="latin" variant_id="1">et si hoc est possibile, qua ratione construi debeat.</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="2">
+    <se lang="russian" variant_id="0">М. Ломоносов.</se>
+    <se lang="latin" variant_id="1">M. Lomonosow.</se>
+    <weight variant_id="1">0,3</weight>
+  </para>
+  <para id="3">
+    <se lang="russian" variant_id="0">Июля 10 дня 1759 году.</se>
+    <se lang="latin" variant_id="1">Die 10 julii A.. 1759.</se>
+    <weight variant_id="1">7,8</weight>
+  </para>
+</body>
+</html>

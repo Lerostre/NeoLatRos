@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+<head>
+</head>
+<body>
+  <para id="0">
+    <se lang="russian" variant_id="0">1. Я выставил на крыше своего дома две стрелы для наблюдения над электричеством северного сияния: одну железную, обладающую электрическим свойством, со всем аппаратом также железным, другую бронзовую со всеми принадлежностями бронзовыми, и с помощью .�их инструментов я несколько раз наблюдал движение электрического указателя при появлении слабого северного сияния. ~~~ Я жду более сильного и более яркого сияния; нить указателя убегает от пальца.</se>
+    <se lang="latin" variant_id="1">1. Exposui duas sagittas ad electricitatem aurorae borealis observandam supra tectum domus meae, alteram ferream virtute electrica donatam cum omni apparatu etiam ferreo, alteram orichalceam cum omnibus requisitis orichalceis, et his instrumentis observavi aliquoties motum in indice electrico apparente debili aurora bor.; fortiorem et luculentiorem exspecto, filum indicis refugit digitum.</se>
+    <weight variant_id="1">0,0198646</weight>
+  </para>
+  <para id="1">
+    <se lang="russian" variant_id="0">2. Я сделал наблюдение, что упругость воздуха изменяется от противодействия электрической силы — в моем универсальном или запаянном барометре.</se>
+    <se lang="latin" variant_id="1">2. Observavi, elasticitatem aeris variari adversa vi electrica in barometro meo universali sive sigillato.</se>
+    <weight variant_id="1">0,402105</weight>
+  </para>
+</body>
+</html>

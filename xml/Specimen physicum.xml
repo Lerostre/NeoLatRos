@@ -1,0 +1,402 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html>
+<head>
+</head>
+<body>
+  <para id="0">
+    <se lang="russian" variant_id="0">РАБОТА ПО ФИЗИКЕ О ПРЕВРАЩЕНИИ ТВЕРДОГО ТЕЛА В ЖИДКОЕ В ЗАВИСИМОСТИ ОТ ДВИЖЕНИЯ ПРЕДСУЩЕСТВУЮЩЕЙ ЖИДКОСТИ</se>
+    <se lang="latin" variant_id="1">SPECIMEN PHYSICUM DE TRANSMUTATIONE CORPORIS SOLIDI IN FLUIDUM A MOTU FLUIDI PRAEEXISTENTIS DEPENDENTE</se>
+    <weight variant_id="1">0,296703</weight>
+  </para>
+  <para id="1">
+    <se lang="russian" variant_id="0">Определение I</se>
+    <se lang="latin" variant_id="1">Definitio I</se>
+    <weight variant_id="1">1,24545</weight>
+  </para>
+  <para id="2">
+    <se lang="russian" variant_id="0">1. Твердое тело — такое, в котором все частицы связаны.</se>
+    <se lang="latin" variant_id="1">1. Corpus solidum est cujus massulae quantaelibet sunt connexae.</se>
+    <weight variant_id="1">0,5375</weight>
+  </para>
+  <para id="3">
+    <se lang="russian" variant_id="0">Пояснение</se>
+    <se lang="latin" variant_id="1">Scholion</se>
+    <weight variant_id="1">0,266667</weight>
+  </para>
+  <para id="4">
+    <se lang="russian" variant_id="0">2. Что частицы твердых тел взаимно связаны, доказывает сцепление их, сопротивляющееся всякому их разламыванию или дроблению.</se>
+    <se lang="latin" variant_id="1">2. Corporum solidorum massulas esse connexas earum probat cohaesio, quae unicuique ea rumpenti seu quomodocunque discutienti resistit.</se>
+    <weight variant_id="1">0,452146</weight>
+  </para>
+  <para id="5">
+    <se lang="russian" variant_id="0">Так, холодные металлы трудно поддаются ударам молота; обтесывание камней, даже полировка стекол требуют больших усилий покрывающегося по́том мастера.</se>
+    <se lang="latin" variant_id="1">Etenim metalla frigida ictibus mallei difficulter cedunt; lapides dum caelantur, aut dum etiam vitra poliuntur intensis viribus sudantis artificis indigent.</se>
+    <weight variant_id="1">0,288722</weight>
+  </para>
+  <para id="6">
+    <se lang="russian" variant_id="0">Определение II</se>
+    <se lang="latin" variant_id="1">Definitio II</se>
+    <weight variant_id="1">1,25</weight>
+  </para>
+  <para id="7">
+    <se lang="russian" variant_id="0">3. Жидкое тело — такое,1 в котором все частицы не связаны друг с другом, так как взаимное сцепление затруднено.</se>
+    <se lang="latin" variant_id="1">3. Corpus fluidum est cujus massulae quantaelibet non sunt connexae mutua cohaesione impedita.</se>
+    <weight variant_id="1">0,475</weight>
+  </para>
+  <para id="8">
+    <se lang="russian" variant_id="0">Присовокупление I</se>
+    <se lang="latin" variant_id="1">Corollarium I</se>
+    <weight variant_id="1">1,20769</weight>
+  </para>
+  <para id="9">
+    <se lang="russian" variant_id="0">4. Следовательно, частицы жидкого тела могут быть отделены друг от друга без сопротивления.</se>
+    <se lang="latin" variant_id="1">4. Massulae igitur corporis fluidi sine resistentia separari possunt.</se>
+    <weight variant_id="1">0,514286</weight>
+  </para>
+  <para id="10">
+    <se lang="russian" variant_id="0">Присовокупление II</se>
+    <se lang="latin" variant_id="1">Corollarium II</se>
+    <weight variant_id="1">1,21429</weight>
+  </para>
+  <para id="11">
+    <se lang="russian" variant_id="0">5. Так как частицы огня, воздуха, воды и растворенных в воздухе паров, а также минералов, расплавленных или растворенных в растворителях, не связаны и могут быть отделены друг от друга без сопротивления, то эти тела жидкие.</se>
+    <se lang="latin" variant_id="1">5. Quoniam ignis, aëris, aquae et vaporum in aëre solutorum, tum mineralium, quando fusa aut in menstruis soluta fuerint, massulae non sunt connexae ac sine resistentia separari possunt; ideo sunt ea corpora fluida.</se>
+    <weight variant_id="1">0,378506</weight>
+  </para>
+  <para id="12">
+    <se lang="russian" variant_id="0">Присовокупление III</se>
+    <se lang="latin" variant_id="1">Corollarium III</se>
+    <weight variant_id="1">1,22</weight>
+  </para>
+  <para id="13">
+    <se lang="russian" variant_id="0">6. Если требуется превратить какое-либо твердое тело в жидкое, то необходимо затруднить взаимное сцепление отдельных его частиц.</se>
+    <se lang="latin" variant_id="1">6. Corpus quodlibet solidum si in fluidum transmutandum fuerit, singularum ejus massularum mutua cohaesio impediri debet.</se>
+    <weight variant_id="1">0,459804</weight>
+  </para>
+  <para id="14">
+    <se lang="russian" variant_id="0">7. Знаменитый Вольф (Космология, § 291, и Догматическая физика, § 45)2 показал, что сцепление частиц твердого тела зависит от одинакового стремления их к движению в противоположных направлениях.</se>
+    <se lang="latin" variant_id="1">7. Cohaesionem massularum corporis solidi a nisu aequali in directiones contrarias sese movendi dependere demonstravit clarissimus Wolfius (Cosmol., § 291, et Phys. dog., § 45).</se>
+    <weight variant_id="1">0,732506</weight>
+  </para>
+  <para id="15">
+    <se lang="russian" variant_id="0">Положение I</se>
+    <se lang="latin" variant_id="1">Theorema I</se>
+    <weight variant_id="1">1,27</weight>
+  </para>
+  <para id="16">
+    <se lang="russian" variant_id="0">8. При переходе твердого тела в жидкость должно затрудняться одинаковое стремление частиц к движению в противоположных направлениях.</se>
+    <se lang="latin" variant_id="1">8. Corpus solidum dum in fluidum abit, massularum nisus aequalis sese movendi in directiones contrarias impediri debet.</se>
+    <weight variant_id="1">0,429524</weight>
+  </para>
+  <para id="17">
+    <se lang="russian" variant_id="0">Доказательство</se>
+    <se lang="latin" variant_id="1">Demonstratio</se>
+    <weight variant_id="1">0,253846</weight>
+  </para>
+  <para id="18">
+    <se lang="russian" variant_id="0">Взаимное сцепление частиц твердого тела должно затрудняться при превращении его в жидкое (§ 6).</se>
+    <se lang="latin" variant_id="1">Massularum corporis solidi impediri debet mutua cohaesio, cum id in fluidum fuerit transmutandum (§ 6).</se>
+    <weight variant_id="1">0,674699</weight>
+  </para>
+  <para id="19">
+    <se lang="russian" variant_id="0">Сцепление это происходит от одинакового стремления частиц к движению в противоположных направлениях (§ 7).</se>
+    <se lang="latin" variant_id="1">Cohaesio haec ab aequali massularum nisu in directiones contrarias sese movendi proficiscitur (§ 7).</se>
+    <weight variant_id="1">0,679545</weight>
+  </para>
+  <para id="20">
+    <se lang="russian" variant_id="0">Следовательно, должно быть затруднено это стремление, являющееся причиною сцепления частиц твердого тела.</se>
+    <se lang="latin" variant_id="1">Nisus itaque hic prout causa cohaesionis corporis solidi massularum impediri debet.</se>
+    <weight variant_id="1">0,214865</weight>
+  </para>
+  <para id="21">
+    <se lang="russian" variant_id="0">Что и требовалось доказать.</se>
+    <se lang="latin" variant_id="1">Q. E. ~~~ D.</se>
+    <weight variant_id="1">-0,225</weight>
+  </para>
+  <para id="22">
+    <se lang="russian" variant_id="0">9. Так как ничто не может совершаться без достаточного основания (Онтология, § 70),3 то одинаковое стремление частиц к движению в противоположных направлениях должно затрудниться от какой-либо причины, когда твердое тело переходит в жидкое.</se>
+    <se lang="latin" variant_id="1">9. Quoniam sine ratione sufficiente nihil fieri potest (Ont., § 70), massularum nisus aequalis in directiones contrarias sese movendi a causa quadam impediatur necesse est, dum corpus solidum in fluidum transmutatur.</se>
+    <weight variant_id="1">0,452394</weight>
+  </para>
+  <para id="23">
+    <se lang="russian" variant_id="0">10. Ниже будет показано, что эта причина — движение предсуществующей жидкости.</se>
+    <se lang="latin" variant_id="1">10. Causam hanc esse motum fluidi praeexistentis patebit inferius.</se>
+    <weight variant_id="1">0,55</weight>
+  </para>
+  <para id="24">
+    <se lang="russian" variant_id="0">11. При переходе твердого тела в жидкое силы одинакового стремления, проявляемого частицами твердого тела к движению в противоположных направлениях, не могут сопротивляться силам причины, препятствующей сцеплению частиц.</se>
+    <se lang="latin" variant_id="1">11. Corpus solidum dum in fluidum transmutatur, vires nisus aequalis, quem massulae corporis solidi exerunt ad sese movendas in directiones contrarias, viribus causae massularum cohaesionem impedientis resistere nequeunt.</se>
+    <weight variant_id="1">0,407143</weight>
+  </para>
+  <para id="25">
+    <se lang="russian" variant_id="0">12. Поэтому силы причины, препятствующей сцеплению частиц, должны быть больше сил одинакового стремления частиц к движению в противоположных направлениях.</se>
+    <se lang="latin" variant_id="1">12. Atque adeo vires causae massularum cohaesionem impedientis violentiores esse debent viribus nisus aequalis massularum in directiones contrarias sese movendi.</se>
+    <weight variant_id="1">0,436957</weight>
+  </para>
+  <para id="26">
+    <se lang="russian" variant_id="0">Аксиома</se>
+    <se lang="latin" variant_id="1">Axioma</se>
+    <weight variant_id="1">0,257143</weight>
+  </para>
+  <para id="27">
+    <se lang="russian" variant_id="0">13. Твердые тела различаются степенью твердости.</se>
+    <se lang="latin" variant_id="1">13. Corpora solida soliditatis gradu differunt.</se>
+    <weight variant_id="1">0,721753</weight>
+  </para>
+  <para id="28">
+    <se lang="russian" variant_id="0">14. Так как каждому очевидно, что в олове и в железе, в алмазе и в стекле и во множестве других разного рода твердых тел при разламывании наблюдается различное сопротивление, а отсюда обнаруживается различное сцепление частей их и, следовательно, различная твердость, — то по справедливости можно принять без доказательства это положение и украсить его названием аксиомы.</se>
+    <se lang="latin" variant_id="1">14. Quoniam unicuique diversa in stanno et ferro, in diamante et vitro atque sexcentis aliis diversae sortis corporibus solidis frangendis perspicua est resistentia, indeque diversa partium cohaerentia atque adeo diversa soliditas colligitur: jure non demonstrata propositio haec admittenda est, et Axiomatis nomine est ornanda.</se>
+    <weight variant_id="1">0,333217</weight>
+  </para>
+  <para id="29">
+    <se lang="russian" variant_id="0">Бехер в своей Подземной физике, книга I, отд. 5, гл. 3,4 объясняет различие твердости твердых тел в следующих словах: „Твердое состояние, — говорит он, — противопоставляется жидкому; его низшая степень есть застывание, когда тела застывают подобно желатину, так что они не текут.</se>
+    <se lang="latin" variant_id="1">Becherus in Physica subterranea, libro I, sect. 5, cap. 3 in corporibus solidis soliditatis differentiam verbis sequentibus explicat: „Soliditas, inquit, liquiditati opponitur, cujus infimus gradus consistentia est: ut cum corpora gelatinae instar consistunt, ita ut non fluant.</se>
+    <weight variant_id="1">0,3</weight>
+  </para>
+  <para id="30">
+    <se lang="russian" variant_id="0">Вторая степень твердости есть свертывание, когда частицы, хотя и сцепляются, но легко подвергаются разделению.</se>
+    <se lang="latin" variant_id="1">Secundus gradus soliditatis coagulatio est cum nempe particulae cohaerent, sed solutionem facile admittunt.</se>
+    <weight variant_id="1">0,29375</weight>
+  </para>
+  <para id="31">
+    <se lang="russian" variant_id="0">Третья степень есть затвердение, когда тела связаны весьма плотно, как камни, металлы“.</se>
+    <se lang="latin" variant_id="1">Tertius est fixatio, cum corpora compactissime unita sunt; ut lapides, metalla“.</se>
+    <weight variant_id="1">0,274648</weight>
+  </para>
+  <para id="32">
+    <se lang="russian" variant_id="0">15. Чем тверже тело, тем прочнее связываются частицы его, и наоборот.</se>
+    <se lang="latin" variant_id="1">15. Corpus quo solidius est, eo massulae ejus arctius cohaerent, et contra.</se>
+    <weight variant_id="1">0,52541</weight>
+  </para>
+  <para id="33">
+    <se lang="russian" variant_id="0">16. Одинаковое стремление частиц к движению в противоположных направлениях должно быть тем сильнее, чем тверже тело, и наоборот.</se>
+    <se lang="latin" variant_id="1">16. Nisus aequalis massularum in directiones contrarias sese movendi eo debet esse intentior, quo corpus fuerit solidius, et contra.</se>
+    <weight variant_id="1">0,44993</weight>
+  </para>
+  <para id="34">
+    <se lang="russian" variant_id="0">17. Чем тверже тела́, тем труднее воспрепятствовать взаимной связи их молекул.</se>
+    <se lang="latin" variant_id="1">17. Corpora quo solidiora sunt, eo difficilius eorum molecularum cohaesio impeditur.</se>
+    <weight variant_id="1">0,524286</weight>
+  </para>
+  <para id="35">
+    <se lang="russian" variant_id="0">18. Отсюда следует также, что требуется тем бо́льшая сила причины, препятствующей одинаковому стремлению частиц к движению в противоположных направлениях, чем тверже тело.</se>
+    <se lang="latin" variant_id="1">18. Hinc quoque sequitur massularum nisum aequalem in directiones contrarias sese movendi eo majores requirere vires causae eum impedientis, quo corpus fuerit solidius.</se>
+    <weight variant_id="1">0,422327</weight>
+  </para>
+  <para id="36">
+    <se lang="russian" variant_id="0">Определение III</se>
+    <se lang="latin" variant_id="1">Definitio III</se>
+    <weight variant_id="1">1,25385</weight>
+  </para>
+  <para id="37">
+    <se lang="russian" variant_id="0">19. Я называю предсуществующей жидкость, существующую как жидкость до перехода какого-либо твердого тела в жидкое.</se>
+    <se lang="latin" variant_id="1">19. Fluidum praeexistens dico, quod ante reductionem alicujus corporis solidi in fluidum existit fluidum.</se>
+    <weight variant_id="1">0,474468</weight>
+  </para>
+  <para id="38">
+    <se lang="russian" variant_id="0">20. Так, существуют в жидком состоянии вода до растворения солей, царская водка до растворения золота, огонь до плавления тел.</se>
+    <se lang="latin" variant_id="1">20. E. g. ~~~ Aqua ante solutionem salium, Aqua regia ante solutionem auri, ignis ante fusionem corporum in statu fluido existunt.</se>
+    <weight variant_id="1">-0,00136364</weight>
+  </para>
+  <para id="39">
+    <se lang="russian" variant_id="0">Определение IV</se>
+    <se lang="latin" variant_id="1">Definitio IV</se>
+    <weight variant_id="1">1,25</weight>
+  </para>
+  <para id="40">
+    <se lang="russian" variant_id="0">21. Я называю жидкость постоянной,5 если все частицы ее никогда не связываются друг с другом, вследствие затрудненности взаимного сцепления, как воздух, огонь.</se>
+    <se lang="latin" variant_id="1">21. Fluidum constans esse dico, cujus massulae quantaelibet nunquam connectuntur mutua cohaesione impedita, ut aër, ignis.</se>
+    <weight variant_id="1">0,391149</weight>
+  </para>
+  <para id="41">
+    <se lang="russian" variant_id="0">Определение V</se>
+    <se lang="latin" variant_id="1">Definitio V</se>
+    <weight variant_id="1">1,24545</weight>
+  </para>
+  <para id="42">
+    <se lang="russian" variant_id="0">22. Непостоянная жидкость — такая, частицы которой то не связаны друг с другом, вследствие затрудненности взаимного сцепления, то связываются и сцепляются, как вода и почти все минералы.</se>
+    <se lang="latin" variant_id="1">22. Fluidum inconstans est cujus massulae tum non sunt connexae mutua cohaesione impedita, tum connexae cohaerent, ut aqua et mineralia fere omnia.</se>
+    <weight variant_id="1">0,350747</weight>
+  </para>
+  <para id="43">
+    <se lang="russian" variant_id="0">Опыт</se>
+    <se lang="latin" variant_id="1">Experientia</se>
+    <weight variant_id="1">-0,12</weight>
+  </para>
+  <para id="44">
+    <se lang="russian" variant_id="0">23. Металлы и минералы при плавлении расширяются по всем измерениям, а когда растворяются в растворителях, то распространяются в них, и каждая мельчайшая капелька растворителя насыщается растворенным минералом.</se>
+    <se lang="latin" variant_id="1">23. Metalla et mineralia omnia dum funduntur in omnes dimensiones sese extendunt; dum vero in menstruis solvuntur per ea sese diffundunt ac minima quaelibet menstrui guttula minerali soluto impraegnatur;</se>
+    <weight variant_id="1">-0,00447761</weight>
+  </para>
+  <para id="45">
+    <se lang="russian" variant_id="0">Испарения пахучих тел, как амбра или ассафетида, выделяясь почти или вовсе без уменьшения веса этого тела, расплываются по большому пространству воздуха и заполняют его всё целиком.</se>
+    <se lang="latin" variant_id="1">effluvia e corporibus odoriferis, e. g.: ambra aut assa foetida, egressa vix aut ne vix quidem pondere corporis illius diminuto, per magnum aëris spatium diffluunt, idque totum replent.</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="46">
+    <se lang="russian" variant_id="0">Присовокупление</se>
+    <se lang="latin" variant_id="1">Corollarium</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="47">
+    <se lang="russian" variant_id="0">24. Твердое тело, переходя в жидкое, занимает большее пространство.</se>
+    <se lang="latin" variant_id="1">24. Corpus solidum dum in fluidum transmutatur, majus spatium occupat.</se>
+    <weight variant_id="1">0,590164</weight>
+  </para>
+  <para id="48">
+    <se lang="russian" variant_id="0">25. Этой всеобщей истине, повидимому, противоречит вода, занимающая меньше пространства, чем лед до плавления.</se>
+    <se lang="latin" variant_id="1">25. Universali huic veritati refragari videtur aqua ex glacie liquefacta in spatium minus collecta.</se>
+    <weight variant_id="1">0,4625</weight>
+  </para>
+  <para id="49">
+    <se lang="russian" variant_id="0">Но расширение льда обусловлено упругостью включенного в лед воздуха, который, рассеявшись в воде, теряет почти всю свою упругость, а во льду он расширяется, собираясь в пузырьки, и тем самым увеличивает объем льда.</se>
+    <se lang="latin" variant_id="1">Sed glaciei expansio aëris in ea inclusi elasticitati debetur, qui in aqua dispersus vim elasticam tantum non totam amittit: at in glacie in bullulas collectus expanditur, simulque glaciei molem auget.</se>
+    <weight variant_id="1">0,280925</weight>
+  </para>
+  <para id="50">
+    <se lang="russian" variant_id="0">Опытнейший Бургаве, в Элементах химии, часть 2, стр. 621, утверждая это, дает такое объяснение: „Разреженность льда, — говорит он, — вызывается пузырькообразными полостями, наполненными воздухом, образующимися при замерзании в замерзающей воде“.</se>
+    <se lang="latin" variant_id="1">Experientissimus Boerhaavius in Elementis chemiae, parte 2, pag. 621 id affirmans ita explicat: „Raritas, inquit, glaciei debetur spatiis bullulatis aëre plenis, quae inter gelascendum in conglaciata aqua enascuntur“.</se>
+    <weight variant_id="1">0,214925</weight>
+  </para>
+  <para id="51">
+    <se lang="russian" variant_id="0">И далее, на стр. 623: „А самая чистая вода, долго сохранявшаяся в Бойлевской пустоте8 и в этой же пустоте подвергнутая действию ледяного холода, гораздо скорее замерзает, чем замерзла бы при той же степени холода вода, из которой не был удален воздух и которая была выставлена на открытом воздухе.</se>
+    <se lang="latin" variant_id="1">Et porro pag. 623. „Aqua autem purissima, dicit, in vacuo Boyliano diu detenta, tumque in frigore glaciali retenta in eodem hocce vacuo longe citius congelascit ibidem, quam in eodem gradu frigoris concrevisset aqua, unde non eductus aër, et quae exposita manebat aëri aperto.</se>
+    <weight variant_id="1">0,282667</weight>
+  </para>
+  <para id="52">
+    <se lang="russian" variant_id="0">Мало того, лед, образующийся таким образом из воды, лишившейся воздуха в пустоте, был значительно тверже, тяжелее, однороднее, прозрачнее, чем тот обыкновенный лед; это несомненно показывает, что воздух, находившийся в воде, собравшись от ледяного холода, производит эту разреженность и легкость льда.</se>
+    <se lang="latin" variant_id="1">Quin etiam glacies ita formata ex aqua aëre privata in vacuo, multo erat durior, ponderosior, aequabilior, pellucidior, quam vulgaris illa prior glacies: ut ita certo constet, aërem qui in aqua locatus fuerat, frigore glaciali collectum raritatem illam levitatemque producere.</se>
+    <weight variant_id="1">0,269874</weight>
+  </para>
+  <para id="53">
+    <se lang="russian" variant_id="0">При тщательно поставленных по описанному способу опытах получался даже лед, который не плавал на воде“.</se>
+    <se lang="latin" variant_id="1">Imo vero experimentis sedulo captis juxta modum praescriptum parabatur glacies quae aquae non innatabat“.</se>
+    <weight variant_id="1">0,29</weight>
+  </para>
+  <para id="54">
+    <se lang="russian" variant_id="0">Положение II</se>
+    <se lang="latin" variant_id="1">Theorema II</se>
+    <weight variant_id="1">1,27273</weight>
+  </para>
+  <para id="55">
+    <se lang="russian" variant_id="0">26. Когда твердое тело превращается в жидкое, отдельные его частицы должны отходить друг от друга.</se>
+    <se lang="latin" variant_id="1">26. Corpus solidum dum in fluidum transmutatur, singulae ejus massulae a se invicem secedere debent.</se>
+    <weight variant_id="1">0,480523</weight>
+  </para>
+  <para id="56">
+    <se lang="russian" variant_id="0">При превращении твердого тела в жидкое оно занимает большее пространство (§ 24).</se>
+    <se lang="latin" variant_id="1">Dum corpus solidum in fluidum abit, majus spatium occupat (§ 24).</se>
+    <weight variant_id="1">0,725</weight>
+  </para>
+  <para id="57">
+    <se lang="russian" variant_id="0">Поэтому оно содержит то же количество постоянной связанной материи в большем объеме и потому делается реже (Гидростатика, 10).</se>
+    <se lang="latin" variant_id="1">Quare eandem massam materiae cohaerentis constantis sub majore volumine continet, adeoque excedit rarius (Hydrost., 10).</se>
+    <weight variant_id="1">-0,0402857</weight>
+  </para>
+  <para id="58">
+    <se lang="russian" variant_id="0">А когда тело делается менее плотным, должны увеличиваться промежутки между частицами постоянной связанной материи его, поэтому</se>
+    <se lang="latin" variant_id="1">Corpus dum rarius fit, interstitia inter massulas materiae ejus cohaerentis</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="59">
+    <se lang="russian" variant_id="0">27. Когда твердое тело переходит в жидкое, отдельные его частицы должны двигаться.</se>
+    <se lang="latin" variant_id="1">27. Dum corpus solidum in fluidum transmutatur, singulae ejus massulae moveri debent.</se>
+    <weight variant_id="1">0,51844</weight>
+  </para>
+  <para id="60">
+    <se lang="russian" variant_id="0">Так как отдельные частицы его отходят друг от друга (§ 26), то должны менять свое место.</se>
+    <se lang="latin" variant_id="1">Quoniam singulae ejus massulae a se invicem recedere (§ 26) adeoque locum suum mutare debent.</se>
+    <weight variant_id="1">0,463176</weight>
+  </para>
+  <para id="61">
+    <se lang="russian" variant_id="0">А перемена места есть движение тела (Онтология, § 642); следовательно, необходимо, чтобы отдельные частицы твердого тела при переходе его в жидкое передвигались.</se>
+    <se lang="latin" variant_id="1">Loci mutatio est motus corporis (Ontol., § 642). ~~~ Corpus igitur solidum dum in fluidum convertitur, singulae ejus massulae moveantur necesse est.</se>
+    <weight variant_id="1">-0,0165354</weight>
+  </para>
+  <para id="62">
+    <se lang="russian" variant_id="0">Что и требовалось доказать.</se>
+    <se lang="latin" variant_id="1">Q. E. ~~~ D.</se>
+    <weight variant_id="1">-0,225</weight>
+  </para>
+  <para id="63">
+    <se lang="russian" variant_id="0">28. Для расплавления минералы должны быть помещены в огонь; чтобы превратить их в жидкое состояние растворением, необходимо погрузить их в растворитель;</se>
+    <se lang="latin" variant_id="1">28. Mineralia ut fundantur, igni immitti debent; ut vero per solutionem in statum fluidum reducantur, menstruis immergantur opus est.</se>
+    <weight variant_id="1">-0,0210227</weight>
+  </para>
+  <para id="64">
+    <se lang="russian" variant_id="0">пахучие тела выделяют и распространяют в обтекающий со всех сторон воздух свои душистые испарения; лед ожижается окружающей его теплотою; помимо этого никогда не наблюдается никакого ожижения.</se>
+    <se lang="latin" variant_id="1">Exhalant et diffundunt per circumfusum undiquaque aërem corpora odorifera effluvia sua: glacies liquescit ambiente calore: at secus nulla liquatio unquam observatur.</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="65">
+    <se lang="russian" variant_id="0">29. Огонь, воздух, вода и прочие растворители — тела жидкие (§ 3 и 5).</se>
+    <se lang="latin" variant_id="1">29. Ignis, aër, aqua et menstrua caetera sunt corpora fluida (§ 3 et 5).</se>
+    <weight variant_id="1">3,08983</weight>
+  </para>
+  <para id="66">
+    <se lang="russian" variant_id="0">Итак, любое твердое тело, для превращения в жидкое, должно быть помещено в другое жидкое и быть окружено последним.</se>
+    <se lang="latin" variant_id="1">Corpus igitur quodlibet solidum si in fluidum fuerit transmutandum, fluido alio immittatur atque eo circumdetur opus est.</se>
+    <weight variant_id="1">0,278788</weight>
+  </para>
+  <para id="67">
+    <se lang="russian" variant_id="0">30. Для превращения любого твердого тела в жидкое должно предсуществовать другое жидкое тело, в которое оно могло бы быть вложено.</se>
+    <se lang="latin" variant_id="1">30. Corporis cujuslibet solidi in fluidum reductionia aliud fluidum praeexistere debet cui imponatur.</se>
+    <weight variant_id="1">0,441758</weight>
+  </para>
+  <para id="68">
+    <se lang="russian" variant_id="0">31. Без предсуществующей жидкости ни одно твердое тело не может превратиться в жидкое; следовательно, предсуществующая жидкость есть причина его превращения.</se>
+    <se lang="latin" variant_id="1">31. Sine fluido praeexistente nullum corpus solidum in fluidum transmutari potest, adeoque fluidum praeexistens est causa transmutationis hujus.</se>
+    <weight variant_id="1">0,432313</weight>
+  </para>
+  <para id="69">
+    <se lang="russian" variant_id="0">Положение IV</se>
+    <se lang="latin" variant_id="1">Theorema IV</se>
+    <weight variant_id="1">1,27273</weight>
+  </para>
+  <para id="70">
+    <se lang="russian" variant_id="0">32. Предсуществующая жидкость, в которую погружается твердое тело, возбуждает движение отдельных частиц твердого тела, переходящего в жидкое.</se>
+    <se lang="latin" variant_id="1">32. Corporis solidi in fluidum abeuntis singulas massulas movet fluidum praeexistens, cui corpus solidum imponitur.</se>
+    <weight variant_id="1">0,417597</weight>
+  </para>
+  <para id="71">
+    <se lang="russian" variant_id="0">Твердое тело превращается в жидкое посредством другой предсуществующей жидкости (§ 30); но твердое тело не может быть превращено в жидкое состояние без движения частиц (§ 27); следовательно, предсуществующая жидкость, в которую помещают твердое тело, подлежащее ожижению, должна двигать отдельные частицы.</se>
+    <se lang="latin" variant_id="1">Corpus solidum transmutatur in fluidum per aliud fluidum praeexistens (§ 30), at corpus solidum in statum fluidum sine motu massularum reduci nequit (§ 27), fluidum ergo praeexistens, cui corpus solidum liquandum imponitur, singulas massulas movere debet.</se>
+    <weight variant_id="1">0,399719</weight>
+  </para>
+  <para id="72">
+    <se lang="russian" variant_id="0">Что и требовалось доказать.</se>
+    <se lang="latin" variant_id="1">Q. E. ~~~ D.</se>
+    <weight variant_id="1">-0,225</weight>
+  </para>
+  <para id="73">
+    <se lang="russian" variant_id="0">32. Так как каждому очевидно, что никакое тело не может двигать другое, если само не движется, то частицы предсуществующей жидкости должны двигаться, раз они приводят в движение частицы твердого тела, переходящего в жидкое.10</se>
+    <se lang="latin" variant_id="1">32. Quoniam unicuique perspicuum est nullum corpus aliud posse movere, nisi ipsum moveatur, massulae corporis fluidi praeexistentis moveri debent dum massulas corporis solidi in fluidum abeuntis movent.</se>
+    <weight variant_id="1">0,271348</weight>
+  </para>
+  <para id="74">
+    <se lang="russian" variant_id="0">33. Что огонь обладает внутренним движением, будет отрицать разве только тот, кто никогда не видал ни огня, ни его действия.</se>
+    <se lang="latin" variant_id="1">33. Ignem motu intrinseco moveri is forte negabit, qui eum ejusque effectus nunquam viderat:</se>
+    <weight variant_id="1">-0,0134948</weight>
+  </para>
+  <para id="75">
+    <se lang="russian" variant_id="0">Как очевидно каждому, тела, в нем плавящиеся, вскипают под влиянием сильного движения и едва ли не все вынуждаются разлететься по воздуху; тела же, не поддающиеся плавлению, как дерево, огонь распыляет в пепел и разносит по воздуху в виде дыма.</se>
+    <se lang="latin" variant_id="1">corpora namque, ut cuilibet palam est, quae in eo funduntur, pernici agitata motu ebulliunt, et tantum non omnia in aërem avolare coguntur: corpora vero fusioni non obnoxia, uti ligna, ignis dissipat in cineres, et fumi specie per aëra diffundit.</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="76">
+    <se lang="russian" variant_id="0">Постоянное же движение воздуха, хотя и известное каждому, я покажу на следующем опыте, приводимом Бургаве в Элементах химии.</se>
+    <se lang="latin" variant_id="1">Agitationem autem aëris perpetuam etsi cuique notam, a Boerhaavio tamen in Elementis chemiae.</se>
+    <weight variant_id="1">-0,116667</weight>
+  </para>
+  <para id="77">
+    <se lang="" variant_id="0"></se>
+    <se lang="latin" variant_id="1">Hinc clarissime patet transmutationem corporis solidi in fluidum a motu fluidi praexistentis dependere.</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="78">
+    <se lang="russian" variant_id="0">Конец.</se>
+    <se lang="latin" variant_id="1">Finis.</se>
+    <weight variant_id="1">0,3</weight>
+  </para>
+</body>
+</html>

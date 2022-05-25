@@ -1,0 +1,392 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html>
+<head>
+</head>
+<body>
+  <para id="0">
+    <se lang="" variant_id="0">§ 1</se>
+    <se lang="" variant_id="1">§ 1</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="1">
+    <se lang="russian" variant_id="0">Работая недавно над постройкой большой неподвижной небесной трубы для улавливания звезд путем отражения от металлического зеркала, я пытался находить и изобразить полуденную линию, имея в виду соединить трубу с параллактическим устройством, которое должно было, двигая зеркало, непрерывно направлять параллельно оси трубы лучи звезд, отраженные от зеркала; но я встретил при этом серьезные затруднения и неудобства, создающие ущерб и во времени и в точности действия.</se>
+    <se lang="latin" variant_id="1">Cum nuper in construendo tubo celesti magno, immobili per speculum metallicum reflexionis ope sidera excepturo desudarem, atque lineam meridianam pro firmanda ad tubum machina parallactica, qua speculum motum radios siderum reflexos continuo cum axe tubi parallelos dirigat, invenire et describere conarer; gravia inveni praepedimenta et incommoda, quae et tempori et certitudini effectus damno existunt.</se>
+    <weight variant_id="1">0,25483</weight>
+  </para>
+  <para id="2">
+    <se lang="" variant_id="0">§ 2</se>
+    <se lang="" variant_id="1">§ 2</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="3">
+    <se lang="russian" variant_id="0">Прежде всего представилось обременительным тратить по необходимости несколько дней на наблюдение соответственных высот; особенно это было тягостно потому, что нередко утренние ясные часы после полудня сменяются облачными, так что весь труд, затраченный на утренние наблюдения, не дает ожидавшегося успеха.</se>
+    <se lang="latin" variant_id="1">Primum eorum taediosum mihi visum est altitudines correspondentes observando aliquot dies consumere debere, atque eo praesertim molestissimum, quod saepe contingat, ut serenas matutinas horas saepe excipiant nubilae pomeridianae, quo fit, ut omnis opera in matutinis observationibus adhibita expectato successu frustratur.</se>
+    <weight variant_id="1">0,28209</weight>
+  </para>
+  <para id="4">
+    <se lang="" variant_id="0">§ 3</se>
+    <se lang="" variant_id="1">§ 3</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="5">
+    <se lang="russian" variant_id="0">Прошедшей осенью это случалось со мной несколько дней подряд, и я, не желая терпеть потерю времени, начал усердно размышлять об ином, более совершенном способе, что и не осталось безуспешным.</se>
+    <se lang="latin" variant_id="1">Haec cum per aliquot hosce dies autumnales mihi accidissent, impatiens detrimenti temporis de alia meliore methodo sedulo cogitare incepi, nec id in cassum fuit.</se>
+    <weight variant_id="1">0,246043</weight>
+  </para>
+  <para id="6">
+    <se lang="russian" variant_id="0">Именно в тот же самый день 15 сентября сего года я вышел на улицу, чтобы посмотреть и наблюдать замечательное северное сияние; я направил глаза к полюсу и смотрел на прилегающие к нему звезды, и вдруг мне стала вполне ясной мысль, занимавшая мое сознание с полудня; и я пришел к заключению, что весьма пригодным будет следующий способ.</se>
+    <se lang="latin" variant_id="1">Nam eodem ipso 15 die septembres hujus anni, cum insignis aurorae borealis spectator et observator foras prodiissem et polum versus oculos direxissem, stellasque illi vicinas contemplatus essem, distinctissime impressi mihi illam ideam, quae post hanc meridiem animo obversabatur; indeque sequentem methodum optimam esse futuram duxi.</se>
+    <weight variant_id="1">1,00672</weight>
+  </para>
+  <para id="7">
+    <se lang="" variant_id="0">§ 4</se>
+    <se lang="" variant_id="1">§ 4</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="8">
+    <se lang="russian" variant_id="0">Задача 1</se>
+    <se lang="latin" variant_id="1">Problema 1</se>
+    <weight variant_id="1">11,225</weight>
+  </para>
+  <para id="9">
+    <se lang="russian" variant_id="0">Найти и нанести полуденную линию с наибольшей возможной точностью в течение немногих ясных ночных часов.</se>
+    <se lang="latin" variant_id="1">Invenire et describere lineam meridionalem quam proxime veram paucis horis nocturnis serenis.</se>
+    <weight variant_id="1">0,271084</weight>
+  </para>
+  <para id="10">
+    <se lang="russian" variant_id="0">Решение</se>
+    <se lang="latin" variant_id="1">Solutio</se>
+    <weight variant_id="1">0,3</weight>
+  </para>
+  <para id="11">
+    <se lang="russian" variant_id="0">I.</se>
+    <se lang="latin" variant_id="1">I.</se>
+    <weight variant_id="1">1,8</weight>
+  </para>
+  <para id="12">
+    <se lang="russian" variant_id="0">К астрономическому квадранту, которым обыкновенно наблюдают соответствующие высоты для нахождения полудня, надо приделать секстант ABC (фиг. 1) так, чтобы плоскость его была перпендикулярна к плоскости квадранта CDE; он должен быть подвижным в пределах кремальеры hi и легко закрепляться винтом m с правой или левой стороны вертикальной плоскости квадранта.</se>
+    <se lang="latin" variant_id="1">Quadranti astronomico, quo altitudines correspondentes ad inveniendum meridiem observari solent, aptetur sextans ABC (fig. 1), ita ut planum ejus sit perpendiculare ad quadrantis planum CDE, sitque inter crenam hi, mobile, ut facile ad dextrum vel sinistrum latus verticalis plani quadrantis cochlea m firmari possit.</se>
+    <weight variant_id="1">0,456364</weight>
+  </para>
+  <para id="13">
+    <se lang="russian" variant_id="0">Труба квадранта EC должна быть расположена так, чтобы она одновременно обычным образом служила квадранту для нахождения высот звезд и чтобы она могла также двигаться вместе с квадрантом вдоль по дуге AB, разделенной на градусы и т. д.</se>
+    <se lang="latin" variant_id="1">Tubus quadrantis EC disponatur ea ratione, ut et quadranti ad collimandas altitudines siderum inserviat more solito et juxta sextantem per arcum AB in gradus etc. divisum moveri queat simul cum quadrante.</se>
+    <weight variant_id="1">0,352607</weight>
+  </para>
+  <para id="14">
+    <se lang="russian" variant_id="0">II.</se>
+    <se lang="latin" variant_id="1">II.</se>
+    <weight variant_id="1">1,8</weight>
+  </para>
+  <para id="15">
+    <se lang="russian" variant_id="0">Это приспособление должно устанавливать, как обычно, по уровню с возможно большей точностью и направить на полюс, поскольку он может быть определен простым глазом.</se>
+    <se lang="latin" variant_id="1">Haec machina ita comparata constituatur, ut solet, ad libellam accuratissime, dirigatur polum versus utcunque, quantum scilicet nudo oculo determinari potest.</se>
+    <weight variant_id="1">0,295714</weight>
+  </para>
+  <para id="16">
+    <se lang="russian" variant_id="0">III.</se>
+    <se lang="latin" variant_id="1">III.</se>
+    <weight variant_id="1">1,8</weight>
+  </para>
+  <para id="17">
+    <se lang="russian" variant_id="0">Поднять трубу настолько, чтобы нить в квадранте показала высоту полюса, уже известную для данного места; установив все это очень точно и надежно закрепив,</se>
+    <se lang="latin" variant_id="1">Elevetur tubus tantum, ut filum in quadrante ostendat altitudinem poli, jam datam in loco; atque his accuratissime institutis et fidissime firmatis</se>
+    <weight variant_id="1">0,288281</weight>
+  </para>
+  <para id="18">
+    <se lang="russian" variant_id="0">IV. двигать трубу в плоскости квадранта и направить на какую-нибудь звезду, поднимающуюся справа, на востоке, ~~~ или опускающуюся слева, на западе; наблюдатель, уловив ее в поле трубы, должен держать ее в соприкосновении со средней вертикальной нитью сетки все время, пока она удаляется от полюса.</se>
+    <se lang="latin" variant_id="1">IV. moveatur tubus per planum quadrantis et in aliquam stellam dirigatur, quae ad dextram in oriente ascendit vel ad sinistram in occidente descendit; quam tubo exceptam semper teneat observator in contactu ad filum medium verticale reticuli, quam diu recedit a polo.</se>
+    <weight variant_id="1">-0,0177632</weight>
+  </para>
+  <para id="19">
+    <se lang="russian" variant_id="0">V.</se>
+    <se lang="latin" variant_id="1">V.</se>
+    <weight variant_id="1">1,8</weight>
+  </para>
+  <para id="20">
+    <se lang="russian" variant_id="0">Но как только звезда сделается неподвижной в смысле удаления от полюса, т. е. начнет подниматься вертикально на восточной стороне или опускаться вертикально на западной, трубу следует закрепить на дуге винтом m, а придаток c, выступающий за центр квадранта в форме пластинки s, зажать при помощи винта t между двух плоскостей r так, чтобы секстант был прочно и неподвижно скреплен со штативом CPTX.</se>
+    <se lang="latin" variant_id="1">Quam primum autem erit stella stationaria, ratione recessus a polo, nempe in ascensu verticali ad orientem vel in verticali descensu ad occidentem; tubus ad arcum cochlea m firmatur et appendix c ultra centrum quadrantis prominens in forma laminae s, constringatur ope cochleae t, inter duo plana r, ita, ut sextans immotus cohaereat firmiter cum pede CPTX.</se>
+    <weight variant_id="1">0,37061</weight>
+  </para>
+  <para id="21">
+    <se lang="russian" variant_id="0">VI.</se>
+    <se lang="latin" variant_id="1">VI.</se>
+    <weight variant_id="1">1,8</weight>
+  </para>
+  <para id="22">
+    <se lang="russian" variant_id="0">После этого дуга квадранта устанавливается так, чтобы плоскость секстанта стала горизонтальной.</se>
+    <se lang="latin" variant_id="1">Post haec arcus quadrantis ita constituatur, ut planum sextantis fiat horizontale.</se>
+    <weight variant_id="1">0,246575</weight>
+  </para>
+  <para id="23">
+    <se lang="russian" variant_id="0">Взяв из каталога неподвижных звезд расстояние наблюдаемой звезды от полюса, откладывают это расстояние от оси трубы по дуге секстанта в направлении на запад, если звезда наблюдалась на востоке, и на восток, если она наблюдалась на западе.</se>
+    <se lang="latin" variant_id="1">Stellae observatae distantia a polo ex catalogo fixarum depromta numeretur ab axe tubi in arcu sextantis occidentem versus, si ad occidentem.</se>
+    <weight variant_id="1">0,0983607</weight>
+  </para>
+  <para id="24">
+    <se lang="russian" variant_id="0">VII.</se>
+    <se lang="latin" variant_id="1">VII.</se>
+    <weight variant_id="1">1,8</weight>
+  </para>
+  <para id="25">
+    <se lang="russian" variant_id="0">Продвинуть трубу от наблюденной точки до точки, отложенной по каталогу неподвижных; тогда ось ее будет находиться весьма близко к полуденной линии.</se>
+    <se lang="latin" variant_id="1">Tubo a puncto observato ad punctum numeratum ex catalogo fixarum moto erit axis illius in linea meridiana, quam proxime constitutus.</se>
+    <weight variant_id="1">0,263158</weight>
+  </para>
+  <para id="26">
+    <se lang="" variant_id="0">§ 5</se>
+    <se lang="" variant_id="1">§ 5</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="27">
+    <se lang="russian" variant_id="0">Доказательство</se>
+    <se lang="latin" variant_id="1">Demonstratio</se>
+    <weight variant_id="1">0,253846</weight>
+  </para>
+  <para id="28">
+    <se lang="russian" variant_id="0">Пусть ABDC (фиг. 2) будет круг, параллельный экватору и описываемый наблюдаемой звездою в ее суточном движении; линия BC пусть изображает плоскость секстанта, поставленного параллактически.</se>
+    <se lang="latin" variant_id="1">Sit circulus ABDC (fig. 2) aequatori parallelus, quem describit stella observata motu diurno: linea BC repraesentet planum sextantis parallactice collineatum.</se>
+    <weight variant_id="1">0,93</weight>
+  </para>
+  <para id="29">
+    <se lang="russian" variant_id="0">Так как эта линия проходит через полюс p, т. е. через центр круга ABDC, то линии Bp и pD суть полудиаметры того же круга, т. е. точные размеры расстояния самого полюса от наблюдаемой звезды, которая, взятая из каталога постоянных, показывает весьма точно истинный полуденный круг AC.</se>
+    <se lang="latin" variant_id="1">Quoniam haec transit per polum p, scilicet per centrum circuli ABDC; unde lineae Bp, et pD sunt semidiametri ejusdem circuli, nempe C justae mensurae distantiae ipsius poli a stella observata, quae ex catalogo fixarum desumta ostendit quam proxime verum circulum meridianum AC.</se>
+    <weight variant_id="1">0,506771</weight>
+  </para>
+  <para id="30">
+    <se lang="" variant_id="0">§ 6</se>
+    <se lang="" variant_id="1">§ 6</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="31">
+    <se lang="russian" variant_id="0">Задача 2</se>
+    <se lang="latin" variant_id="1">Problema 2</se>
+    <weight variant_id="1">11,225</weight>
+  </para>
+  <para id="32">
+    <se lang="russian" variant_id="0">Нанести полуденную линию какой угодно длины.</se>
+    <se lang="latin" variant_id="1">Describere lineam meridianam quantumvis longam.</se>
+    <weight variant_id="1">0,27</weight>
+  </para>
+  <para id="33">
+    <se lang="russian" variant_id="0">Решение</se>
+    <se lang="latin" variant_id="1">Solutio</se>
+    <weight variant_id="1">0,3</weight>
+  </para>
+  <para id="34">
+    <se lang="russian" variant_id="0">Приготовить белую дощечку с несколькими параллельными черными линиями разной толщины соответственно расстоянию от квадранта, не слишком толстыми, но все же такими, чтобы они были заметны глазу.</se>
+    <se lang="latin" variant_id="1">Paretur tabula alba cum nigris lineis aliquot parallelis diversae crassiciei pro distantia a quadrante assumta, ne crassae nimium, neve visu sint inperceptibiles.</se>
+    <weight variant_id="1">0,242958</weight>
+  </para>
+  <para id="35">
+    <se lang="russian" variant_id="0">Поставить ее по прямому направлению против трубы квадранта так, чтобы ось трубы была перпендикулярна к дощечке, и чтобы линии, проведенные на дощечке, были параллельными вертикальной нити сетки.</se>
+    <se lang="latin" variant_id="1">Opponatur e regione tubo quadrantis, ut axis illius sit ad tabulam perpendicularis, et lineae in tabula ductae filo reticuli verticali parallelae.</se>
+    <weight variant_id="1">0,200787</weight>
+  </para>
+  <para id="36">
+    <se lang="russian" variant_id="0">Дощечка, прикрепленная к столбу или к колонне, или к стенке здания, может двигаться по салазкам; ее двигают вправо или влево, пока нужная линия не совпадет с нитью сетки.</se>
+    <se lang="latin" variant_id="1">Tabula a[d] palum seu columnam, ad parietem alicujus aedificii firmata inter crenas mobilis ducatur dextrorsum sinistrorsumve, donec linea desiderata coincidat cum filo reticuli.</se>
+    <weight variant_id="1">0,272917</weight>
+  </para>
+  <para id="37">
+    <se lang="russian" variant_id="0">Тонкая веревочка или льняная нитка, протянутая от центра трубы к совпадающей линии, будет полуденная линия.</se>
+    <se lang="latin" variant_id="1">Funiculus tenuis sive filum lineum a centro tubi ad lineam coincidentem ductus erit linea meridionalis.</se>
+    <weight variant_id="1">0,286667</weight>
+  </para>
+  <para id="38">
+    <se lang="russian" variant_id="0">Доказательство вполне очевидно из самой операции.</se>
+    <se lang="latin" variant_id="1">Demonstratio ex operatione ipsa facillime cadit sub oculos.</se>
+    <weight variant_id="1">0,246667</weight>
+  </para>
+  <para id="39">
+    <se lang="" variant_id="0">§ 7</se>
+    <se lang="" variant_id="1">§ 7</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="40">
+    <se lang="russian" variant_id="0">Задача 3</se>
+    <se lang="latin" variant_id="1">Problema 3</se>
+    <weight variant_id="1">11,225</weight>
+  </para>
+  <para id="41">
+    <se lang="russian" variant_id="0">Определить часы по нанесенной полуденной линии.</se>
+    <se lang="latin" variant_id="1">Horologia determinare ad descriptam lineam meridionalem.</se>
+    <weight variant_id="1">0,237209</weight>
+  </para>
+  <para id="42">
+    <se lang="russian" variant_id="0">Решение</se>
+    <se lang="latin" variant_id="1">Solutio</se>
+    <weight variant_id="1">0,3</weight>
+  </para>
+  <para id="43">
+    <se lang="russian" variant_id="0">I.</se>
+    <se lang="latin" variant_id="1">I.</se>
+    <weight variant_id="1">1,8</weight>
+  </para>
+  <para id="44">
+    <se lang="russian" variant_id="0">Тонкую черную нитку ab (фиг. 3) с свинцовым грузиком b подвесить в трубе AB, сделанной из четырех планок; для предохранения от ветра окошечки dd внизу и вверху должны закрываться деревянными ставнями до привязывания нитки, а затем раскрыты верхние.</se>
+    <se lang="latin" variant_id="1">Filum tenue, nigrum ab (fig. 3) pondusculo plumbeo oneratum b suspendatur in tubo ex quatuor asseribus constructo AB; propter arcendem ventum ad summam et imam illius partem fenestellae dd sint ligneis operculis id propter claudendae ante adstrictionem fili, post aperiendae superiores.</se>
+    <weight variant_id="1">0,8</weight>
+  </para>
+  <para id="45">
+    <se lang="russian" variant_id="0">Ибо как только эта нитка будет приведена в соприкосновение с ниткою mm, указывающей полдень (меридиан), в r при помощи салазок или тончайшей нити, нужно открыть окошечки, так как теперь привязанная нить более не двигается от ветра.</se>
+    <se lang="latin" variant_id="1">Nam quam primum filum hoc ad contactum fili mm meridianum indicantis constitutum est in r ope crenae vel fili tenuissimi, fenestellae aperiendae sunt, nempe cum jam a vi venti astrictum filum sit non amplius mobile.</se>
+    <weight variant_id="1">0,358608</weight>
+  </para>
+  <para id="46">
+    <se lang="russian" variant_id="0">II.</se>
+    <se lang="latin" variant_id="1">II.</se>
+    <weight variant_id="1">1,8</weight>
+  </para>
+  <para id="47">
+    <se lang="russian" variant_id="0">У северного конца полуденной линии m поместить, как полагается, астрономический квадрант QQ так, чтобы ось трубы совпала с самой линией.</se>
+    <se lang="latin" variant_id="1">Ad extremitatem septentrionalem lineae meridionalis m, constituator more debito quadrans astronomicus QQ, ut axis tubi coincidat cum ipsa.</se>
+    <weight variant_id="1">0,289831</weight>
+  </para>
+  <para id="48">
+    <se lang="russian" variant_id="0">Необходимо, однако, заметить, что квадрант в зависимости от высоты Солнца надо или придвигать ближе, или отодвигать дальше.</se>
+    <se lang="latin" variant_id="1">Notandum autem est, ut quadrans pro ratione altitudinis Solis admoveatur propius vel longius removeatur.</se>
+    <weight variant_id="1">0,247826</weight>
+  </para>
+  <para id="49">
+    <se lang="russian" variant_id="0">Далее, полдень можно обозначить тем точнее, чем дальше удалена от квадранта наблюдаемая в a подвешенная нитка.</se>
+    <se lang="latin" variant_id="1">Porro meridiem eo accuratius designari posse, quo major est distantia fili suspensi spectandi in a a quadrante.</se>
+    <weight variant_id="1">0,476471</weight>
+  </para>
+  <para id="50">
+    <se lang="russian" variant_id="0">III.</se>
+    <se lang="latin" variant_id="1">III.</se>
+    <weight variant_id="1">1,8</weight>
+  </para>
+  <para id="51">
+    <se lang="russian" variant_id="0">Наблюдать Солнце, пока оно передним краем не коснется подвешенной нитки; затем — когда оно перестанет касаться [ее] задним краем; разделенная пополам разница покажет время полудня.</se>
+    <se lang="latin" variant_id="1">Observetur Sol, donec tangat limbo anteriore filum suspensum; deinde postquam a posteriore limbo ex contactu recedat; differentia bipartita ostendet tempus meridiei.</se>
+    <weight variant_id="1">0,277397</weight>
+  </para>
+  <para id="52">
+    <se lang="russian" variant_id="0">Доказательство ясно из самой операции.</se>
+    <se lang="latin" variant_id="1">Demonstratio ex ipsa operatione manifesta est.</se>
+    <weight variant_id="1">0,24</weight>
+  </para>
+  <para id="53">
+    <se lang="" variant_id="0">§ 8</se>
+    <se lang="" variant_id="1">§ 8</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="54">
+    <se lang="russian" variant_id="0">Превосходство и преимущества способа, предлагаемого здесь для нахождения и нанесения полуденной линии, таковы.</se>
+    <se lang="latin" variant_id="1">Praestantia et praerogativae methodi, quae pro invenienda et describenda meridionali linea hic proponitur, hae sunt.</se>
+    <weight variant_id="1">0,287879</weight>
+  </para>
+  <para id="55">
+    <se lang="russian" variant_id="0">1) Рефракция влияет на наблюдения соответственных высот.</se>
+    <se lang="latin" variant_id="1">1) Refractio ingreditur in observationes altitudinum correspondentium.</se>
+    <weight variant_id="1">0,592647</weight>
+  </para>
+  <para id="56">
+    <se lang="russian" variant_id="0">Так как она изменяется с погодою и особенно с разными высотами ртути в барометре, то обычный метод делается от сего неверным и ненадежным.</se>
+    <se lang="latin" variant_id="1">Quae cum varia sit pro varietate tempestatum praesertim vero pro altitudinibus diversis mercurii in barometro; hinc incerta redditur et lubrica illa methodus usitata.</se>
+    <weight variant_id="1">0,228205</weight>
+  </para>
+  <para id="57">
+    <se lang="russian" variant_id="0">Так как в моем методе, наоборот, наибольшие элонгации неподвижных звезд от полюса расположены горизонтально, то рефракция не причиняет никаких неприятностей, так как она отсутствует.</se>
+    <se lang="latin" variant_id="1">Contra vero, cum fixarum maximae elongationes a polo in methodo mea spectentur horizontales, nihil offendit hic refractio, cum nulla sit.</se>
+    <weight variant_id="1">0,196639</weight>
+  </para>
+  <para id="58">
+    <se lang="russian" variant_id="0">2) Наблюдающий высоты не имеет в своем распоряжении ни секунды на определение самой точки; наоборот, когда звезда поднимается на востоке или опускается на западе, то описывается дуга в несколько минут, незначительно отклоняющаяся от прямой линии и почти вертикальная, так что наблюдатель имеет достаточно времени для наблюдения звезды, остающейся в наибольшем удалении; это делать тем удобнее, чем больше расстояние звезды от полюса.</se>
+    <se lang="latin" variant_id="1">2) Observanti altitudines nec minutum secundum conceditur ad punctum ipsum determinandum; at contra ascendente stella in orientali plaga, aut descendente in occidentali describitur arcus per aliquot minuta, non multum a recta linea abludens et fere verticalis, ita ut observator temporis spatium sufficiens habeat ad stationariam in maxima elongatione stellam observandam; id quod eo commodius efficitur, quo distantia sideris a polo major.</se>
+    <weight variant_id="1">0,342772</weight>
+  </para>
+  <para id="59">
+    <se lang="russian" variant_id="0">Благодаря гораздо большему времени получается более точное наблюдение.</se>
+    <se lang="latin" variant_id="1">Multo ergo longiore tempore certior fit observatio.</se>
+    <weight variant_id="1">0,182609</weight>
+  </para>
+  <para id="60">
+    <se lang="russian" variant_id="0">3) В областях, более близких к полюсу, высоты в круге суточного движения различаются гораздо меньше, чем в странах, более близких к экватору; поэтому ошибка в одну секунду, допущенная в наблюденной высоте, дает заметную ошибку в определении полудня.</se>
+    <se lang="latin" variant_id="1">3) In regionibus polo propioribus altitudines in circulo motus diurni multo minus differunt, quam in plagis aequatori magis admotis; hinc fit, ut error unius minuti secundi in altitudine observata admissus, producat errorem sensibilem in determinando meridie.</se>
+    <weight variant_id="1">0,365661</weight>
+  </para>
+  <para id="61">
+    <se lang="russian" variant_id="0">Наш способ это устраняет.</se>
+    <se lang="latin" variant_id="1">Methodus autem nostra haec non admittit.</se>
+    <weight variant_id="1">0,130435</weight>
+  </para>
+  <para id="62">
+    <se lang="russian" variant_id="0">4) Обычный способ требует вычисления разности высот, происходящих от суточного движения солнца, а наш в этом не нуждается.</se>
+    <se lang="latin" variant_id="1">4) Methodus solita exegit calculum differentiarum altitudinum quae ex diurna declinatione Solis oriuntur; nostra autem ejusdem prorsus non indiget.</se>
+    <weight variant_id="1">0,38997</weight>
+  </para>
+  <para id="63">
+    <se lang="russian" variant_id="0">5) Здесь не нужны и соответственные наблюдения [с двух сторон от меридиана], так как любое единственное наблюдение уже само достаточно точно дает то, что требуется.</se>
+    <se lang="latin" variant_id="1">5) Neque etiam correspondentes observationes hic desiderantur cum quaelibet sola per se satis accurate determinet id, quod quaeritur.</se>
+    <weight variant_id="1">0,396356</weight>
+  </para>
+  <para id="64">
+    <se lang="russian" variant_id="0">6) Обыкновенный способ требует раздвоения внимания наблюдателя, именно последний должен и следить за движением звезды и отмечать время; а наш не требует часов, не отвлекает внимания и ничем иным не отвлекает зрение, занятое одним делом.</se>
+    <se lang="latin" variant_id="1">6) Vulgaris methodus postulat duplicem observatoris attentionem, nempe ad stellae motum et ad temporis momenta; at nostra non eget horologio, non dividit vim sensuum, sed uni rei attentum visum nulla re alia perturbat.</se>
+    <weight variant_id="1">0,362567</weight>
+  </para>
+  <para id="65">
+    <se lang="russian" variant_id="0">7) Здесь успехи, достигнутые при ясной утренней погоде, отнюдь не уменьшаются и не уничтожаются послеполуденной облачностью.</se>
+    <se lang="latin" variant_id="1">7) Non hic sereni temporis matutini successus turbantur et frustrantur nubilo pomeridiano.</se>
+    <weight variant_id="1">0,418269</weight>
+  </para>
+  <para id="66">
+    <se lang="russian" variant_id="0">8) Наш способ делает ненужным весь утомительный многодневный труд, идущий на повторение наблюдений соответственных высот и на выверку и сравнение часов.</se>
+    <se lang="latin" variant_id="1">8) Tollitur methodo nostra omnis multorum dierum taediosus labor, qui repetendis observationibus altitudinum correspondentium et dirigendis atque comparandis horologiis insumitur.</se>
+    <weight variant_id="1">0,379699</weight>
+  </para>
+  <para id="67">
+    <se lang="russian" variant_id="0">9) Полуденная линия и самый полдень выводятся тем точнее, чем бо́льшая длина для нее выбирается, а эту длину можно увеличивать по желанию.</se>
+    <se lang="latin" variant_id="1">9) Linea meridionalis et ipsa meridies eo certius deducitur quo longius spatium pro illa assumitur, quod hac ratione pro lubitu extendi potest.</se>
+    <weight variant_id="1">0,417723</weight>
+  </para>
+  <para id="68">
+    <se lang="russian" variant_id="0">10) Благодаря этим удобствам сей новый способ со всех точек зрения должен быть далеко предпочтен другим; я хотел бы, чтобы он был рекомендован нашим наблюдателям, назначенным для определения посредством астрономических наблюдений долгот и широт важнейших мест нашей обширной империи.</se>
+    <se lang="latin" variant_id="1">10) Ob haecce commoda, praeter ea quod hicce novus modus ubique multis parasangis praeferendus sit aliis; commendatum eum esse volo nostris observatoribus, qui ad determinandas longitudines et latitudines praecipuorum locorum in vasto hoc imperio per astronomicas observationes destinati sunt.</se>
+    <weight variant_id="1">0,362805</weight>
+  </para>
+  <para id="69">
+    <se lang="russian" variant_id="0">Таким образом могут быть сбережены время, труд и расходы и быстрее удовлетворены нужды нашего общего отечества.</se>
+    <se lang="latin" variant_id="1">Hac enim ratione parcere tempori, labori et sumptibus, ociusque votis communis Patriae satisfacere possunt.</se>
+    <weight variant_id="1">0,293684</weight>
+  </para>
+  <para id="70">
+    <se lang="" variant_id="0">§ 9</se>
+    <se lang="" variant_id="1">§ 9</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="71">
+    <se lang="russian" variant_id="0">Чтобы, заканчивая статью, вполне показать точность и быстроту операции, добавлю следующее.</se>
+    <se lang="latin" variant_id="1">Ut autem coronidem opusculo imponens certitudinem et brevitatem operationis demonstrem, sequentia adjungo.</se>
+    <weight variant_id="1">0,244444</weight>
+  </para>
+  <para id="72">
+    <se lang="russian" variant_id="0">1) Результат будет гораздо правильнее, даже почти безошибочен, если наблюдать наибольшие элонгации двух или нескольких звезд и путем взаимного сравнения подтверждать данные; разделение разности уменьшит ошибку, если она была, и даже совсем ее устранит.</se>
+    <se lang="latin" variant_id="1">1) Certior multo imo omni fere errore liber erit succesus, si duarum vel plurium stellarum elongationes maximae observentur, quae comparatae se invicem confirmabunt, et divisa differentia error, si quis fuerit, minor reddetur, imo evanescet.</se>
+    <weight variant_id="1">0,369925</weight>
+  </para>
+  <para id="73">
+    <se lang="russian" variant_id="0">2) Сбережение времени очевидно.</se>
+    <se lang="latin" variant_id="1">2) Compendium temporis manifestum est.</se>
+    <weight variant_id="1">0,837931</weight>
+  </para>
+  <para id="74">
+    <se lang="russian" variant_id="0">Ведь можно наблюдать в течение одного часа наибольшую элонгацию нескольких звезд: например, бедро Персея и его же яркая звезда имеют промежуток времени 18′37″.</se>
+    <se lang="latin" variant_id="1">Nam quam plurium stellarum maxima elongatio unius horae curriculo observari potest; ex gr. ~~~ Femur Persei et lucida ejusdem intervallum temporis habent 18′37.</se>
+    <weight variant_id="1">-0,0076087</weight>
+  </para>
+  <para id="75">
+    <se lang="russian" variant_id="0">Северная стопа Большой Медведицы и южная ее стопа 44′30″.</se>
+    <se lang="latin" variant_id="1">Pes borealis ursae majoris a pede australi ejusdem 44′30″.</se>
+    <weight variant_id="1">0,594</weight>
+  </para>
+  <para id="76">
+    <se lang="russian" variant_id="0">Далее предшествующая последней петле Дракона звезда, следующая за петлей и следующий за ней квадрат Малой Медведицы укладываются в промежуток времени 37′50″, а взятых за этот промежуток трех наблюдений будет достаточно для определения меридиана.</se>
+    <se lang="latin" variant_id="1">Porro praecedens ultimo nodo Draconis, sequensque illum, item sequens quadratum ursae minoris inter 37′50″ temporis comprehenduntur, quo intervallo tres occupatae observationes sumtae jam sufficere poterunt ad meridianum determinandum.</se>
+    <weight variant_id="1">0,292823</weight>
+  </para>
+</body>
+</html>

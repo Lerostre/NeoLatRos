@@ -1,0 +1,1162 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html>
+<head>
+</head>
+<body>
+  <para id="0">
+    <se lang="russian" variant_id="0">Очень хорошо известно, что теплота* возбуждается движением: от взаимного трения ру́ки согреваются, дерево загорается пламенем; при ударе кремня об огниво появляются искры; железо накаливается от проковывания частыми и сильными ударами, а если их прекратить, то теплота уменьшается и произведенный огонь в конце концов гаснет.</se>
+    <se lang="latin" variant_id="1">Calorem* motu excitari notissimum est: manus per mutuam frictionem calescunt, ligna flammam concipiunt, silice ad chalybem alliso scintillae prosiliunt, ferrum crebris et validis ictibus malleatum excandescit; quibus cessantibus calor diminuitur et productus ignis tandem extinguitur.</se>
+    <weight variant_id="1">0,261753</weight>
+  </para>
+  <para id="1">
+    <se lang="russian" variant_id="0">Далее, восприняв теплоту, тела или превращаются в нечувствительные частицы и рассеиваются по воздуху, или распадаются в пепел, или в них настолько уменьшается сила сцепления, что они плавятся.</se>
+    <se lang="latin" variant_id="1">Porro calore concepto, corpora vel in partes insensibiles resoluta per aerem dissipantur, vel in cineres fatiscunt, aut debilitata partium cohaesione liquescunt.</se>
+    <weight variant_id="1">0,247183</weight>
+  </para>
+  <para id="2">
+    <se lang="russian" variant_id="0">Наконец, зарождение тел, жизнь, произрастание, брожение, гниение ускоряются теплотою, замедляются холодом.</se>
+    <se lang="latin" variant_id="1">Denique corporum generatio, vita, vegetatio, fermentatio, putrefactio calore promoventur, frigore retardantur.</se>
+    <weight variant_id="1">0,287629</weight>
+  </para>
+  <para id="3">
+    <se lang="russian" variant_id="0">Из всего этого совершенно очевидно, что достаточное основание теплоты заключается в движении.</se>
+    <se lang="latin" variant_id="1">Ex quibus omnibus evidentissime patet, rationem sufficientem caloris in motu esse positam.</se>
+    <weight variant_id="1">0,28875</weight>
+  </para>
+  <para id="4">
+    <se lang="russian" variant_id="0">А так как движение не может происходить без материи, то необходимо, чтобы достаточное основание теплоты заключалось в движении какой-то материи.</se>
+    <se lang="latin" variant_id="1">Quoniam autem motus sine materia fieri non potest, necessum igitur est, ut ratio sufficiens caloris conistat in motu alicujus materiae.</se>
+    <weight variant_id="1">0,276923</weight>
+  </para>
+  <para id="5">
+    <se lang="" variant_id="0">§ 2</se>
+    <se lang="" variant_id="1">§ 2</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="6">
+    <se lang="russian" variant_id="0">И хотя в горячих телах большей частью на вид не заметно какого-либо движения, таковое все-таки очень часто обнаруживается по производимым действиям.</se>
+    <se lang="latin" variant_id="1">Quamvis autem in corporibus calidis plerumque nullus motus visu percipiatur, tamen per effectus saepius se manifestat.</se>
+    <weight variant_id="1">0,227885</weight>
+  </para>
+  <para id="7">
+    <se lang="russian" variant_id="0">Так, железо, нагретое почти до накаливания, кажется на-глаз находящимся в покое; однако одни тела, придвинутые к нему, оно плавит, другие — превращает в пар; т. е., приводя частицы их в движение, оно тем самым показывает, что и в нем имеется движение какой-то материи.</se>
+    <se lang="latin" variant_id="1">Ita ferrum ad ignitionem prope calefactum, licet ad oculum quiescere videatur, corpora tamen sibi admota alia fundit, alia in vapores resolvit, hoc est, partibus eorum in motum excitatis, sibi quoque motum alicujus materiae inesse ostendit.</se>
+    <weight variant_id="1">-0,0256849</weight>
+  </para>
+  <para id="8">
+    <se lang="" variant_id="0">* Под каковым именем мы понимаем и более напряженную ее силу, обычно называемую огнем.</se>
+    <se lang="" variant_id="1">* quo nomine et vim ejus intensiorem, ignem vulgo dictam, intelligimus. </se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="9">
+    <se lang="russian" variant_id="0">Ведь нельзя отрицать существование движения там, где его не видно: кто, в самом деле, будет отрицать, что, когда через лес проносится сильный ветер, то листья и сучки дерев колышатся, хотя при рассматривании издали и не видно движения.</se>
+    <se lang="latin" variant_id="1">Equidem non ibi motus adeo negandus est, ubi nullus in oculos incurrit: quis enim negabit, vento impetuoso sylvam perflante, folia arborum et ramos agitari, licet e longinquo spectans nullum motum visu assequeretur?</se>
+    <weight variant_id="1">0,275676</weight>
+  </para>
+  <para id="10">
+    <se lang="russian" variant_id="0">Точно так же, как здесь вследствие расстояния, так и в теплых телах вследствие малости частиц движущейся материи движение ускользает от взора; в обоих случаях угол зрения так остр, что нельзя видеть ни самых частиц, расположенных под этим углом, ни движения их.</se>
+    <se lang="latin" variant_id="1">Quemadmodum vero hic ob distantiam, sic in corporibus calidis, ob tenuitatem particularum motae materiae, agitatio visum effugit: in utroque enim casu angulus visionis tam acutus est, ut neque ipsae particulae sub eo constitutae, neque motus earum videri possit.</se>
+    <weight variant_id="1">0,294595</weight>
+  </para>
+  <para id="11">
+    <se lang="russian" variant_id="0">Но мы считаем, что никто — разве что он приверженец скрытых качеств — не будет теплоту, источник стольких изменений, приписывать материи спокойной, лишенной всякого движения, а следовательно, и двигательной силы.</se>
+    <se lang="latin" variant_id="1">Sed neminem nisi qualitatum occultarum patronum aliquem fore arbitramur, qui calorem, tot mutationum instrumentum, otiosae cuidam et omni motu, adeoque et vi movendi destitutae materiae tribuat.</se>
+    <weight variant_id="1">0,275294</weight>
+  </para>
+  <para id="12">
+    <se lang="" variant_id="0">§ 3</se>
+    <se lang="" variant_id="1">§ 3</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="13">
+    <se lang="russian" variant_id="0">Так как тела могут двигаться двояким движением — общим, при котором все тело непрерывно меняет свое место при покоящихся друг относительно друга частях, и внутренним, которое есть перемена места нечувствительных частиц материи, и так как при самом быстром общем движении часто не наблюдается теплоты, а при отсутствии такового движения наблюдается большая теплота, то очевидно, что теплота состоит во внутреннем движении материи.</se>
+    <se lang="latin" variant_id="1">Quoniam vero corpora duplici motu agitari possunt, totali, quo, quiescentibus juxta se invicem partibus, totum corpus mutare continuo suum locum, vel intestino, qui in mutatione situs insensibilium partium materiae concipitur; et quia totali saepius pernicissimo nullus, et nullo magnus calor observatur; patet ergo calorem consistere in motu materiae intestino.</se>
+    <weight variant_id="1">0,247619</weight>
+  </para>
+  <para id="14">
+    <se lang="" variant_id="0">§ 4</se>
+    <se lang="" variant_id="1">§ 4</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="15">
+    <se lang="russian" variant_id="0">В телах материя двоякого рода: связанная, именно движущаяся и производящая напор вместе со всем телом, и протекающая, подобно реке, через поры первой.</se>
+    <se lang="latin" variant_id="1">Materia in corporibus duplex est, cohaerens, nempe quae cum toto corpore movetur et impetum facit, atque fluminis instar poros illius interlabens.</se>
+    <weight variant_id="1">0,292913</weight>
+  </para>
+  <para id="16">
+    <se lang="russian" variant_id="0">Спрашивается, которая из них, приведенная в движение, производит теплоту?</se>
+    <se lang="latin" variant_id="1">Quaeritur itaque, quaenam earum in motu constituta calorem gignat.</se>
+    <weight variant_id="1">0,264407</weight>
+  </para>
+  <para id="17">
+    <se lang="russian" variant_id="0">Чтобы ответить на этот вопрос, надо обратиться к главным явлениям, наблюдаемым для горячих тел.</se>
+    <se lang="latin" variant_id="1">Huic quaestioni ut satisfiat, excutienda sunt palmaria phaenomena, quae circa corpora calida observantur.</se>
+    <weight variant_id="1">0,260241</weight>
+  </para>
+  <para id="18">
+    <se lang="russian" variant_id="0">Рассматривающему их ясно, что 1) в телах имеется тем больше теплоты, чем плотнее их связанная материя, и наоборот.</se>
+    <se lang="latin" variant_id="1">Ea vero consideranti occurrit: 1) calorem in corporibus eo majorem existere, quo cohaerens eorum materia est densior, et contra.</se>
+    <weight variant_id="1">0,333333</weight>
+  </para>
+  <para id="19">
+    <se lang="russian" variant_id="0">Так, рыхлая пакля загорается бо́льшим пламенем, но дающим гораздо меньше жару, чем она же, сжатая более плотно.</se>
+    <se lang="latin" variant_id="1">Ita laxior stupa flammam concipit magnam quidem, sed aestu multo minore praeditam, quam, ubi illa strictius compacta incenditur.</se>
+    <weight variant_id="1">0,142857</weight>
+  </para>
+  <para id="20">
+    <se lang="russian" variant_id="0">Соломою, которая в обычных условиях горит легким пламенем, обитатели плодородных областей России, лишенных лесов, пользуются вместо дров, предварительно связав ее в плотные, толстые жгуты.</se>
+    <se lang="latin" variant_id="1">Stramine, quod in mitem flammam alias expandi solet, fertilium Russiae camporum, sylvis carentium, incolae lignorum instar utuntur, in densos et crassos rudentes contorto; </se>
+    <weight variant_id="1">0,155357</weight>
+  </para>
+  <para id="21">
+    <se lang="russian" variant_id="0">Более пористые дрова при горении дают меньше жара, чем более плотные, а ископаемые угли, содержащие в своих порах каменистую материю, производят более сильный жар, чем древесные угли, имеющие, наподобие губок, пустые промежутки.</se>
+    <se lang="latin" variant_id="1">ligna porosiora leniore aestu ardent, quam quae solidiora sunt, et carbones fossiles lapideam materiam poris suis continentes validius urunt, quam carbones lignorum vacuis interstitiis spongiosi:</se>
+    <weight variant_id="1">-0,151571</weight>
+  </para>
+  <para id="22">
+    <se lang="russian" variant_id="0">Затем, воздух нижней атмосферы, который плотнее воздуха более высокой атмосферы, более чем последний согревает обтекаемые им тела, как свидетельствуют теплые долины, окруженные покрытыми вечным льдом горами.</se>
+    <se lang="latin" variant_id="1">Denique aër inferioris atmosphaerae densior aura superioris, majore, quae ambit, afficit tepore, quam illa, ut calidissimae valles montibus aeternam glaciem sustinentibus cinctae loquuntur;</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="23">
+    <se lang="russian" variant_id="0">2) Более плотные тела в том же объеме содержат, конечно, больше связанной материи, чем протекающей.</se>
+    <se lang="latin" variant_id="1">2) constat corpora densiora sub eodem volumine plus materiae cohaerentis continere, quam interlabentis.</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="24">
+    <se lang="russian" variant_id="0">А так как из законов механики известно, что количество движения тем значительнее, чем большее количество материи находится в движении, и наоборот, то если бы достаточное основание теплоты заключалось во внутреннем движении протекающей материи, более редкие тела, в порах коих находится больший запас протекающей материи, должны были бы обладать большей емкостью для теплоты, чем более плотные.</se>
+    <se lang="latin" variant_id="1">Quoniam autem ex legibus mechanicis notum est, quantitatem motus eo majorem esse, quo copiosior est materia mota, et contra; itaque si caloris ratio sufficiens posita esset in motu intestino materiae interlabentis, corpora rariora, ob majorem copiam in poris eorum materiae interlabentis, majoris caloris capacia essent, quam quae densiora sunt.</se>
+    <weight variant_id="1">0,257718</weight>
+  </para>
+  <para id="25">
+    <se lang="russian" variant_id="0">Но так как, наоборот, количество теплоты скорее соответствует количеству связанной материи тел, то очевидно, что достаточная причина теплоты заключается во внутреннем движении связанной материи тел.</se>
+    <se lang="latin" variant_id="1">Verum quoniam contra quantitas caloris respondet potius materiae corporum cohaerenti, patet igitur caloris rationem sufficientem contineri in motu corporum intestino materiae cohaerentis.</se>
+    <weight variant_id="1">0,285629</weight>
+  </para>
+  <para id="26">
+    <se lang="" variant_id="0">§ 5</se>
+    <se lang="" variant_id="1">§ 5</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="27">
+    <se lang="russian" variant_id="0">Эта истина подтверждается действием небесного огня, направляемого на тела зажигательными приборами: по удалении из фокуса этот огонь в них сохраняется тем дольше, чем они плотнее, так что в самом разреженном из тел — воздухе — она не остается ни на малейшее ощутимое время.</se>
+    <se lang="latin" variant_id="1">Confirmatur haec veritas actione coelestis illius ignis, causticarum ope machinarum corporibus impressi, qui, remoto foco, eo diutius in illis vivit, quo magis sunt solida, ita ut in rarissimo illorum aëre nullum sensibile tempusculum duret.</se>
+    <weight variant_id="1">-0,00963303</weight>
+  </para>
+  <para id="28">
+    <se lang="russian" variant_id="0">Сюда же присоединяется, что теплота оказывается различной, в соответствии с различной тяжестью и твердостью тел, и опыт показывает, что интенсивность ее пропорциональна весу тела, соответствующему степени сцепления его частей, — очевидное указание на то, что связанная материя тел есть материя их теплоты.</se>
+    <se lang="latin" variant_id="1">Accedit insuper, quod pro diversa corporum gravitate atque duricie diversus deprehendatur, ita ut ejus intensionem ponderi corporis cum ratione cohaesionis partium illius conspiranti proportionalem esse experientia edocuerit, manifesto indicio, cohaerentem materiam corporum materiam caloris eorum esse.</se>
+    <weight variant_id="1">0,296565</weight>
+  </para>
+  <para id="29">
+    <se lang="russian" variant_id="0">И хотя связанная материя двояка — собственная, из которой состоит тело, и посторонняя, находящаяся в пустотах, лишенных собственной материи, —</se>
+    <se lang="latin" variant_id="1">Quamvis autem materia cohaerens duplex sit, propria, ex qua corpus constat, et peregrina, quae in spatiolis a propria materia vacuis hospitatur;</se>
+    <weight variant_id="1">0,269479</weight>
+  </para>
+  <para id="30">
+    <se lang="russian" variant_id="0">однако, так как обе движутся вместе с самим телом и сочетались в одну общую массу, то не может быть, чтобы при возбуждении собственной материи к теплотворному движению не приходила в такое же движение посторонняя материя, и наоборот, —</se>
+    <se lang="latin" variant_id="1">verum tamen quoniam utraque cum ipso corpore movetur, et in unam massam coaluit, fieri profecto non potest, quin propria in motum calorificum exagitata, eodem simul moveatur peregrina, et vice versa:</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="31">
+    <se lang="russian" variant_id="0">подобно тому как теплая губка нагревает проникающую в поры ее более холодную воду и, обратно, более теплая вода согревает более холодную губку.</se>
+    <se lang="latin" variant_id="1">quemadmodum spongia calida frigidiorem aquam in poros receptam calefacit, et vicissim, calidior aqua frigidiorem spongiam.</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="32">
+    <se lang="" variant_id="0">§ 6</se>
+    <se lang="" variant_id="1">§ 6</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="33">
+    <se lang="russian" variant_id="0">Внутреннее движение мы представляем себе происходящим трояким образом: 1) нечувствительные частицы непрерывно изменяют место, или 2) вращаются, оставаясь на месте, или, наконец, 3) непрерывно колеблются взад и вперед на нечувствительном пространстве, в нечувствительные промежутки времени.</se>
+    <se lang="latin" variant_id="1">Motum intestinum triplici ratione fieri posse concipimus; nimirum 1) si particulae corporis insensibiles locum continuo mutant, vel 2) in eodem loco persistendo continuo gyrantur, aut denique 3) per insensibile spatiolum insensibili tempusculo ultro citroque continuo agitantur.</se>
+    <weight variant_id="1">0,535246</weight>
+  </para>
+  <para id="34">
+    <se lang="russian" variant_id="0">Первое мы назовем поступательным, второе вращательным, третье колебательныма внутренним движением.</se>
+    <se lang="latin" variant_id="1">Primum genus progressivi, alterum gyratorii, tertium tremulia motus intestini nomine salutamus.</se>
+    <weight variant_id="1">0,286047</weight>
+  </para>
+  <para id="35">
+    <se lang="russian" variant_id="0">Теперь следует рассмотреть, которое же из этих движений производит теплоту.</se>
+    <se lang="latin" variant_id="1">Rursum itaque ratio reddenda est, a quonam istorum motuum calor proficiscatur.</se>
+    <weight variant_id="1">0,291045</weight>
+  </para>
+  <para id="36">
+    <se lang="russian" variant_id="0">Чтобы это выяснить, мы примем за основу следующие положения.</se>
+    <se lang="latin" variant_id="1">Quod ut appareat, principiorum loco sequentia ponenda sunt.</se>
+    <weight variant_id="1">0,3</weight>
+  </para>
+  <para id="37">
+    <se lang="russian" variant_id="0">1) То внутреннее движение не есть причина теплоты, отсутствие которого будет доказано в горячих телах.</se>
+    <se lang="latin" variant_id="1">1) Eum motum intestinum caloris causam non esse, si quem in quibusdam corporibus calidis nullum esse fuerit demonstratum.</se>
+    <weight variant_id="1">0,433567</weight>
+  </para>
+  <para id="38">
+    <se lang="russian" variant_id="0">2) Не является причиной теплоты и то внутреннее движение, которое имеется у тела менее горячего, чем другое тело, лишенное этого движения.</se>
+    <se lang="latin" variant_id="1">2) Nec eum motum intestinum causam caloris existere, quo praeditum est corpus minus calidum, quam aliud, quod eodem motu caret.</se>
+    <weight variant_id="1">0,415334</weight>
+  </para>
+  <para id="39">
+    <se lang="" variant_id="0">§ 7 </se>
+    <se lang="" variant_id="1">§ 7 </se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="40">
+    <se lang="" variant_id="0">§ 7 ~~~ Частицы жидких тел связаны друг с другом так слабо, что растекаются, если не сдерживаются каким-либо твердым телом, и не требуется почти никакой внешней силы, чтобы уничтожить их сцепление, но они могут самопроизвольно расходиться, удаляться друг от друга и двигаться поступательно.</se>
+    <se lang="latin" variant_id="1">Corporum liquidorum particulae tam levi nexu inter se cohaerent, ut diffluant, nisi duro aliquo corpore cohibeantur, atque nulla fere vi externa opus sit ad tollendam earum cohaesionem, sed sponte sua divelli, a se invicem recedere atque motu progressivo moveri possint.</se>
+    <weight variant_id="1">-0,00775862</weight>
+  </para>
+  <para id="41">
+    <se lang="russian" variant_id="0">Поэтому на жидкости нельзя запечатлеть постоянные знаки, но все они мгновенно исчезают.</se>
+    <se lang="latin" variant_id="1">Unde fit, quod nulla signa durabilia liquoribus imprimi queant, sed omnia momento obliterentur.</se>
+    <weight variant_id="1">0,272727</weight>
+  </para>
+  <para id="42">
+    <se lang="russian" variant_id="0">Имеется ли налицо в каждом жидком теле, даже более холодном, чем жизненный уровень тепла, внутреннее поступательное движение или нет — не будем здесь исследовать; мы не сомневаемся, что для нашей цели достаточно будет показать, что есть очень много случаев, в которых оно проявляется совершенно ясно.</se>
+    <se lang="latin" variant_id="1">An progressivus intestinus motus in omni corpore liquido, etiam gradu caloris vitalis frigidiore, actu fiat necne, non hic disquirimus, cum proposito nostro satisfactum iri non dubitemus, si ostenderimus dari casus frequentissimos, in quibus ille clarissime patet.</se>
+    <weight variant_id="1">0,264783</weight>
+  </para>
+  <para id="43">
+    <se lang="russian" variant_id="0">Для этого начнем прежде всего с растворов солей в воде.</se>
+    <se lang="latin" variant_id="1">Idcirco solutiones salium in aqua primo in medium producimus.</se>
+    <weight variant_id="1">0,255319</weight>
+  </para>
+  <para id="44">
+    <se lang="russian" variant_id="0">Неизменно наблюдается, что вода, на ощущение совершенно спокойная, сообщающая руке ощутительный холод, растворяя помещенные на дно сосуда соли — морскую, селитру, нашатырь, — разносит их по всему своему объему.</se>
+    <se lang="latin" variant_id="1">Fit enim lege constanti, ut aqua ad sensum quieta manui sensibile frigus imprimens salem marinum, nitrum, salemve ammoniacum in medio fundo vasis positum solvens, eum quaqua versus distrahat per totum sui volumen.</se>
+    <weight variant_id="1">0,3</weight>
+  </para>
+  <para id="45">
+    <se lang="russian" variant_id="0">А так как это может происходить лишь если частицы воды удаляют молекулы соли, оторванные от куска, то вполне очевидно, что сами водяные частицы движутся поступательно, когда растворяют какую-либо соль.</se>
+    <se lang="latin" variant_id="1">Quod cum fieri alias nequeat nisi aqueae particulae abreptas salinas moleculas a frusto salis removeant; satis ergo elucet aqueas particulas ipsas motu progressivo ferri, ubi salem aliquem dissolvunt.</se>
+    <weight variant_id="1">0,3</weight>
+  </para>
+  <para id="46">
+    <se lang="russian" variant_id="0">То же — никто не станет отрицать этого — происходит и в ртути, когда она разъедает металлы и разносит их частицы; в винном спирте, при извлечении им красящих веществ из растений.</se>
+    <se lang="latin" variant_id="1">Idem contingere in argento vivo, cum metalla corrodit et particulas eorum distrahit, in spiritu vini, cum tincturas ex vegetabilibus elicit, nemo ibit inficias.</se>
+    <weight variant_id="1">0,278417</weight>
+  </para>
+  <para id="47">
+    <se lang="" variant_id="0">§ 8</se>
+    <se lang="" variant_id="1">§ 8</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="48">
+    <se lang="russian" variant_id="0">Наоборот, частицы твердых тел, особенно более твердых неорганических, оказываются соединенными такой тесной связью, что энергично сопротивляются внешней силе, стремящейся их разъединить.</se>
+    <se lang="latin" variant_id="1">Contra autem particulae corporum solidorum, praesertim duriorum inorganicorum, tam arcto nexu vinctae deprehenduntur, ut vi externae eas dividenti admodum resistant:</se>
+    <weight variant_id="1">-0,022093</weight>
+  </para>
+  <para id="49">
+    <se lang="russian" variant_id="0">Вследствие этого им невозможно самопроизвольно, разрушив связь сцепления, отойти друг от друга и двигаться внутренним поступательным движением.</se>
+    <se lang="latin" variant_id="1">quamobrem fieri non potest, ut sponte sua rupto cohaesionis vinculo a se invicem recedant et motu intestino progressivo ferantur.</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="50">
+    <se lang="russian" variant_id="0">Поэтому даже самые незначительные знаки, вырезанные на них, сохраняются веками и уничтожаются лишь от постоянного употребления, или от действия воздуха, или от перехода самого тела в жидкое состояние.</se>
+    <se lang="latin" variant_id="1">Unde fit, quod etiam subtilissima signa illis incisa per saecula durent, nec nisi continuo usu aut aëris injuria, aut denique corpore ~~~ ipso in statum fluiditatis reducto obliterentur.</se>
+    <weight variant_id="1">-0,0141509</weight>
+  </para>
+  <para id="51">
+    <se lang="russian" variant_id="0">В этом отношении хорошим доказательством служит пример золота, которое, будучи нанесено на поверхность серебряных изделий, долгое время остается на ней и стирается только от частого пользования.</se>
+    <se lang="latin" variant_id="1">Magnum his momentum affert aurum, quod superficiei utensilium ex argento fabrefactorum inductum per longum tempus eidem adhaeret, nec nisi frequenti usu diminuitur.</se>
+    <weight variant_id="1">0,245833</weight>
+  </para>
+  <para id="52">
+    <se lang="russian" variant_id="0">Наоборот, оно мгновенно оставляет поверхность и распространяется по всей массе серебра, как только серебряная позолоченная вещь плавится на огне.</se>
+    <se lang="latin" variant_id="1">Contra vero momento temporis superficiem relinquit et per totam argenti massam distrahitur, quam primum res ex eo facta et deaurata igne funditur.</se>
+    <weight variant_id="1">0,295238</weight>
+  </para>
+  <para id="53">
+    <se lang="russian" variant_id="0">Все это ясно показывает, что частицы твердых тел, особенно более твердых и неорганических, не имеют поступательного движения.</se>
+    <se lang="latin" variant_id="1">Haec omnia manifesto indicant particulas corporum solidorum, praesertim duriorum et inorganicorum, motu progressivo haud moveri.</se>
+    <weight variant_id="1">0,286364</weight>
+  </para>
+  <para id="54">
+    <se lang="" variant_id="0">§ 9</se>
+    <se lang="" variant_id="1">§ 9</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="55">
+    <se lang="russian" variant_id="0">Установив это, рассмотрим, во-первых, какой-нибудь серебряный сосуд или другой предмет из этого металла, покрытый золотом и снабженный самыми мелкими вырезанными знаками, нагретый до такой степени тепла, при которой кипит вода.</se>
+    <se lang="latin" variant_id="1">His ita comparatis, consideremus primo vas aliquod argenteum, seu aliam rem ex ejusmodi metallo fabrefactam, auro obductam et subtilissimis signis incisis caelatam, ad eum gradum calefactam, in quo aqua ebullire solet.</se>
+    <weight variant_id="1">0,284127</weight>
+  </para>
+  <para id="56">
+    <se lang="russian" variant_id="0">Мы увидим, что золото на поверхности остается незатронутым и знаки нимало не изменившимися; самая твердость сосуда остается прежней, и этим совершенно исключена возможность отделения нечувствительных частиц.</se>
+    <se lang="latin" variant_id="1">Videbimus aurum in superficie inconcussum, signa nec minimum immutata, ipsam duriciem corporis eandem persistere, eaque separationem insensibilium particularum prorsus excludi.</se>
+    <weight variant_id="1">0,252532</weight>
+  </para>
+  <para id="57">
+    <se lang="russian" variant_id="0">Отсюда совершенно очевидно, что тело может быть сильно нагрето без внутреннего поступательного движения.</se>
+    <se lang="latin" variant_id="1">Hoc autem clarissime ostenditur corpus posse esse magnopere calidum sine motu intestino progressivo.</se>
+    <weight variant_id="1">0,286517</weight>
+  </para>
+  <para id="58">
+    <se lang="russian" variant_id="0">Во-вторых, сравним какой-нибудь очень твердый камень, например алмаз, нагретый до температуры плавления свинца (что мастера часто делают, собираясь его шлифовать, безо всякого вреда или изменения драгоценного камня), с довольно холодною водою, растворяющей соль и тем самым еще более охлаждающейся, или со ртутью, разъедающей серебро.</se>
+    <se lang="latin" variant_id="1">Secundo conferemus durissimum aliquem lapidem, ex. gr. adamantem, qui ad gradum liquefacti plumbi calefactus est (quod saepius sine damno et ulla mutatione gemmae artifices eum polituri facere solent), cum aqua utcunque frigida salem solvente, eoque ipso frigidiore facta, vel cum mercurio argentum corrodente;</se>
+    <weight variant_id="1">-0,12093</weight>
+  </para>
+  <para id="59">
+    <se lang="russian" variant_id="0">Первый мы найдем очень горячим без внутреннего поступательного движения, а вода и ртуть, обладающие таким движением, показывают очень малую степень теплоты.</se>
+    <se lang="latin" variant_id="1">priorem inveniemus sine motu intestino progressivo calidissimum, posteriorem eodem motu agitari, calorem tamen adeo exiguum in se prodere,</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="60">
+    <se lang="russian" variant_id="0">Это самым наглядным образом свидетельствует, что весьма часто тела, обладающие внутренним поступательным движением, нагреты гораздо меньше, чем те, которые не обладают таковым движением.</se>
+    <se lang="latin" variant_id="1">evidentissimeque ostendere, saepius fieri, ut corpora motu progressivo intestino praedita multo minus calida sint iis, quae eodem motu destituuntur.</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="61">
+    <se lang="russian" variant_id="0">Отсюда, в силу положений, приведенных в § 6, следует, что внутреннее поступательное движение связанной материи не есть причина теплоты.</se>
+    <se lang="latin" variant_id="1">Ex his autem vi principiorum superius (§ 6) allatorum ~~~ sequitur motum materiae cohaerentis intestinum progressivum caloris causam non esse.</se>
+    <weight variant_id="1">-0,00635593</weight>
+  </para>
+  <para id="62">
+    <se lang="" variant_id="0">§ 10</se>
+    <se lang="" variant_id="1">§ 10</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="63">
+    <se lang="russian" variant_id="0">Из определения внутреннего колебательного движения (§ 6) ясно видно, что при таком движении частицы тел не могут быть в сцеплении друг с другом.</se>
+    <se lang="latin" variant_id="1">Ex definitione motus intestini tremuli (§ 6) clare perspicitur, llo corporis partes agitante, ipsas cohaerere non posse.</se>
+    <weight variant_id="1">0,581905</weight>
+  </para>
+  <para id="64">
+    <se lang="russian" variant_id="0">Хотя расстояния, в которых совершаются их крайне малые колебания, весьма незначительны, однако невозможно, чтобы при этом частицы не лишались взаимного касания и по большей части не оказывались вне его.</se>
+    <se lang="latin" variant_id="1">Quamvis enim distantiae, quibus subtilissimae vibrationes absolvuntur, sint maxime exiguae, fieri tamen non potest, quin particulae a mutuo contactu recedant, et plerumque extra illum versentur.</se>
+    <weight variant_id="1">0,292982</weight>
+  </para>
+  <para id="65">
+    <se lang="russian" variant_id="0">Для ощутительного сцепления частиц тела требуется непрерывное взаимное соприкосновение их; следовательно, частицы тела не могут находиться в ощутительном сцеплении, если они сотрясаются внутренним колебательным движением.</se>
+    <se lang="latin" variant_id="1">Ad sensibilem cohaesionem partium corporis requiritur non interruptus earundem mutuus contactus; corporis ergo partes nulla cohaesione sensibili vinciri possunt, si illae tremulo intestino motu concutiuntur.</se>
+    <weight variant_id="1">0,277174</weight>
+  </para>
+  <para id="66">
+    <se lang="russian" variant_id="0">Но так как большинство тел при нагревании до огненного каления сохраняет очень сильное сцепление частей, то очевидно, что теплота тел не происходит от внутреннего колебательного движения связанной материи (§ 6).</se>
+    <se lang="latin" variant_id="1">Verum quoniam pleraque corpora ad ignitionem usque ustulata fortissimam partium cohaesionem conservant; idcirco patet calorem corporum a motu intestino tremulo materiae cohaerentis haud proficisci (§ 6).</se>
+    <weight variant_id="1">0,515518</weight>
+  </para>
+  <para id="67">
+    <se lang="" variant_id="0">§ 11</se>
+    <se lang="" variant_id="1">§ 11</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="68">
+    <se lang="russian" variant_id="0">Итак, после того как мы отвергли поступательное и колебательное внутренние движения, с необходимостью следует, что теплота состоит во внутреннем вращательном движении (§ 6) связанной материи (§ 4) — ведь ее необходимо приписать которому-нибудь из трех движений.</se>
+    <se lang="latin" variant_id="1">Remotis igitur progressivo et tremulo intestinis motibus, necessario sequitur calorem consistere in motu intestino gyratorio (§ 6) materiae cohaerentis (§ 4), necesse enim est, ut cuidam ex tribus tribuatur.</se>
+    <weight variant_id="1">0,521667</weight>
+  </para>
+  <para id="69">
+    <se lang="" variant_id="0">§ 12</se>
+    <se lang="" variant_id="1">§ 12</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="70">
+    <se lang="russian" variant_id="0">Здесь можно, однако, задать вопрос: могут ли частицы твердых тел, находясь в непрерывном и совершенном сцеплении, вращаться одна около другой?</se>
+    <se lang="latin" variant_id="1">Quaeri autem hic potest, utrum particulae corporum solidorum durante firma cohaesione mutua juxta se invicem gyrari possint.</se>
+    <weight variant_id="1">0,258716</weight>
+  </para>
+  <para id="71">
+    <se lang="russian" variant_id="0">Чтобы ответить на него, достаточно вспомнить, что два куска мрамора, сложенные полированными поверхностями, легко движутся по отношению друг к другу и этому нисколько не препятствует взаимное сильное сцепление;</se>
+    <se lang="latin" variant_id="1">Huic quaestioni ut satisfiat, sufficit in mentem revocare ~~~ duo marmora politis superficiebus in contactu posita juxta se invicem facile moveri, fortissima cohaesione, qua vinciuntur, nihil obstante;</se>
+    <weight variant_id="1">-0,00553846</weight>
+  </para>
+  <para id="72">
+    <se lang="russian" variant_id="0">также стеклянные чечевицы при шлифовке столь плотно пристают к быстро вращающимся формам, что не могут быть сдвинуты по линии, перпендикулярной к плоскости касания, без порчи их.</se>
+    <se lang="latin" variant_id="1">item vitra lenticularia ubi poliuntur, formae celerrime in gyrum agitatae ita adhaerere, ut ea secundum lineam plano contactus perpendicularem sine damno removeri nequeant.</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="73">
+    <se lang="russian" variant_id="0">Приняв это во внимание, мы можем ясно представить себе, что мельчайшие частицы тел могут вращаться одна вокруг другой, несмотря на сцепление, тем легче, чем в меньшем отношении находятся их плоскости соприкосновения ко всей поверхности.</se>
+    <se lang="latin" variant_id="1">His consideratis clarissime concipi potest, particulas corporum minutissimas juxta se invicem cohaesione haud obstante gyrari posse eo facilius, quo plana contactus ad superficies integras fuerint in ratione minore.</se>
+    <weight variant_id="1">0,27619</weight>
+  </para>
+  <para id="74">
+    <se lang="russian" variant_id="0">Что касается жидкостей, то вполне очевидно, что их частицы, которые в большинстве двигаются внутренним поступательным движением, вследствие отсутствия сопротивления, производимого сцеплением, могут иметь и вращательное движение, сохраняя первое.</se>
+    <se lang="latin" variant_id="1">Ceterum fluidorum particulas, cum plerumque motu intestino progressivo moveantur, cohaesione nil morante, etiam in gyrum agi posse, salva eadem, aperte patet.</se>
+    <weight variant_id="1">0,127338</weight>
+  </para>
+  <para id="75">
+    <se lang="" variant_id="0">§ 13</se>
+    <se lang="" variant_id="1">§ 13</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="76">
+    <se lang="russian" variant_id="0">Из этой нашей теории выводятся такие следствия: 1) Для нашего теплотворного движения самой подходящей является шарообразная форма корпускул материи, так как такие частицы могут взаимно касаться только в одной точке и не производят по отношению друг к другу почти никакого трения.</se>
+    <se lang="latin" variant_id="1">Ex hac nostra theoria sequentia corollaria deducuntur. ~~~ 1) Ad motum nostrum calorificum nulla corpuscula materiae sphaericis esse aptiora, cum non nisi in puncto unico se mutuo contingere possint, et frictionem vix aliquam in se invicem exercere.</se>
+    <weight variant_id="1">-0,0190141</weight>
+  </para>
+  <para id="77">
+    <se lang="russian" variant_id="0">2) Так как каждое движение, будучи величиной, может увеличиваться и уменьшаться, то надо то же предполагать и для теплотворного движения.</se>
+    <se lang="latin" variant_id="1">2) Cum omnis motus prout quantitas intendi et remitti possit, idem ergo de calorifico motu est sentiendum.</se>
+    <weight variant_id="1">0,374359</weight>
+  </para>
+  <para id="78">
+    <se lang="russian" variant_id="0">Но чем больше это движение, тем значительнее будет его действие; отсюда, при увеличении теплотворного движения, т. е. при более быстром вращении частиц связанной материи, теплота должна увеличиваться, а при более медленном — уменьшаться.</se>
+    <se lang="latin" variant_id="1">Quo autem motus est major, eo effectus validior esse debet; unde crescente motu calorifico, hoc est, actis celerius in gyrum particulis materiae cohaerentis, calorem intendi, decrescente remitti necesse est.</se>
+    <weight variant_id="1">0,256667</weight>
+  </para>
+  <para id="79">
+    <se lang="russian" variant_id="0">3) Частицы горячих тел вращаются быстрее, более холодных — медленнее.</se>
+    <se lang="latin" variant_id="1">3) Corporum calidorum particulas celerius gyrari, frigidiorum tardius.</se>
+    <weight variant_id="1">0,618579</weight>
+  </para>
+  <para id="80">
+    <se lang="russian" variant_id="0">4) Горячие тела должны охлаждаться при соприкосновении с холодными, так как оно замедляет теплотворное движение частиц; наоборот, холодные тела должны нагреваться вследствие ускорения движения при соприкосновении.</se>
+    <se lang="latin" variant_id="1">4) Corpora calida contactu frigidorum refrigerari, retardato per illum motu calorifico, et contra frigida calefieri, eodem per contactum accelerato.</se>
+    <weight variant_id="1">0,317176</weight>
+  </para>
+  <para id="81">
+    <se lang="russian" variant_id="0">5) Итак, когда рука ощущает теплоту в каком-либо теле, то частицы связанной материи руки приводятся в более быстрое вращательное движение; а при ощущении холода — их вращательное движение замедляется.</se>
+    <se lang="latin" variant_id="1">5) Quando itaque manus calorem sentit in aliquo corpore, particulae materiae cohaerentis manus in celeriorem motum gyratorium excitantur; ~~~ sin vero sensu frigidioris materiae afficitur, gyratorius illarum motus retardatur.</se>
+    <weight variant_id="1">0,0144846</weight>
+  </para>
+  <para id="82">
+    <se lang="" variant_id="0">§ 14</se>
+    <se lang="" variant_id="1">§ 14</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="83">
+    <se lang="russian" variant_id="0">Нет более надежного способа доказательства, чем способ математиков, которые подтверждают выведенные a priori положения примерами и проверкой a posteriori.</se>
+    <se lang="latin" variant_id="1">Nulla demonstrandi methodus certior est ea mathematicorum, qui deductas a priori propositiones exemplis vel examine instituto a posteriore confirmare solent.</se>
+    <weight variant_id="1">0,74562</weight>
+  </para>
+  <para id="84">
+    <se lang="russian" variant_id="0">Поэтому мы, чтобы развить далее нашу теорию, по примеру математиков объясним важнейшие явления, наблюдаемые для огня и теплоты, и тем подтвердим полную правильность выдвинутого в § 11 положения.</se>
+    <se lang="latin" variant_id="1">Idcirco nostram theoriam ulterius prosecuturi, ad exemplum eorum phaenomena praecipua, quae circa ignem et calorem observantur, explicando assertum § 11 verissimum esse confirmabimus.</se>
+    <weight variant_id="1">1,78889</weight>
+  </para>
+  <para id="85">
+    <se lang="" variant_id="0">§ 15</se>
+    <se lang="" variant_id="1">§ 15</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="86">
+    <se lang="russian" variant_id="0">Явление 1. При взаимном трении твердых тел одно из них движется по другому и скребет его; отсюда следует, что частицы, расположенные на поверхностях трения, ударяются друг о друга.</se>
+    <se lang="latin" variant_id="1">Phaenom. ~~~ 1. Corporibus duris se mutuo fricantibus, unum eorum super alterum movetur superincessu radente, unde sequitur particulas in superficiebus frictionis constitutas in se mutuo impingere.</se>
+    <weight variant_id="1">0,0522581</weight>
+  </para>
+  <para id="87">
+    <se lang="russian" variant_id="0">Итак пусть тело AB движется по телу CD из B в A; частица ab частью своей поверхности b ударяет в часть c поверхности частицы cd, так что частица ab возбудит к движению частицу cd и, наоборот, частица cd силою своего сопротивления возбудит к обратному движению частицу ab.</se>
+    <se lang="latin" variant_id="1">Ponamus ergo corpus AB moveri super corpus CD ex B versus A; particula ab impinget parte superficiei b in partem superficiei c paticulae cd, adeoque particula ab sollicitabit ad motum particulam cd, et contra particula cd vi resistentiae suae sollicitabit ad motum contrarium particulam ab.</se>
+    <weight variant_id="1">0,989515</weight>
+  </para>
+  <para id="88">
+    <se lang="russian" variant_id="0">Так как и та и другая входят в состав твердого тела, то они не могут оставить своего места и двигаться поступательно; но движение тела AB не прекращается, следовательно частица cd будет двигаться вокруг своего центра в том направлении, в каком ее толкает частица ab; а частица ab — около своего центра в том направлении, в котором ее задерживает частица cd; т. е. обе будут двигаться вращательно.</se>
+    <se lang="latin" variant_id="1">Cum vero utraque corpori duro inhaereat, ideo loco suo cedere et motu progressivo moveri non potest, motus autem corporis AB non cessat; consequenter particula cd movebitur circa centrum suum versus eam directionem, secundum quam urgetur a particula ~~~ ab; particula vero ab movebitur circa centrum suum secundum eam directionem, versus quam retardatur a particula cd, hoc est utraque movebitur motu gyratorio.</se>
+    <weight variant_id="1">0,070363</weight>
+  </para>
+  <para id="89">
+    <se lang="russian" variant_id="0">Когда, таким образом, придут во вращательное движение отдельные частицы, которые расположены в плоскости трения, то вследствие распространения трения придут во вращательное движение и остальные частицы, составляющие тела AB и CD.</se>
+    <se lang="latin" variant_id="1">Hac ratione singulis particulis, quae in plano frictionis constitutae sunt, in gyrum actis, etiam reliquae particulae, corpora AB et CD constituentes, propagata frictione in motum gyratorium excitantur.</se>
+    <weight variant_id="1">0,366465</weight>
+  </para>
+  <para id="90">
+    <se lang="russian" variant_id="0">Отсюда ясно, каким образом твердые тела нагреваются от взаимного трения. ~~~ Далее, отсюда происходят такие следствия.</se>
+    <se lang="latin" variant_id="1">Hinc igitur patet, qui fiat, ut corpora solida per frictionem mutuam incalescant; denique sequentia corollaria eliciuntur.</se>
+    <weight variant_id="1">-0,00728155</weight>
+  </para>
+  <para id="91">
+    <se lang="russian" variant_id="0">1) Явление 2. Чем сильнее при трении сжимаются поверхности тел AB и CD и чем скорее они двигаются друг возле друга, тем сильнее возбуждаются к вращательному движению частицы ab и cd и тем быстрее разогреваются тела.</se>
+    <se lang="latin" variant_id="1">1) Phaenom. ~~~ 2. Quo fortius fricandae superficies corporum AB et CD comprimuntur, quoque celerius juxta se invicem moventur, eo validius particulas ab et cd ad motum gyratorium sollicitari, eoque celerius corpora ipsa incalescere.</se>
+    <weight variant_id="1">0,228606</weight>
+  </para>
+  <para id="92">
+    <se lang="russian" variant_id="0">2) Явление 3. Так как частицы жидких тел очень слабо сцеплены друг с другом и очень легко уходят со своего места, то частицы ab и cd, если они находятся на поверхностях жидких тел, уступая место друг другу, не могут воспринять то вращательное движение, которое получают частицы, входящие в состав твердого тела.</se>
+    <se lang="latin" variant_id="1">2) Phaenom. ~~~ 3. Quoniam corporum liquidorum particulae levissime inter se cohaerent, et loco facillime cedunt, particulae igitur ab et cd, si fuerint in superficiebus corporum liquidorum, cedendo sibi invicem, eum motum gyratorium concipere nequeunt, quem solidis affixae acquirunt.</se>
+    <weight variant_id="1">0,112549</weight>
+  </para>
+  <para id="93">
+    <se lang="russian" variant_id="0">Вследствие всего этого жидкие тела не только не нагреваются заметным образом от трения, возникающего между массами взбалтываемой жидкости, но не нагреваются заметным образом и твердые тела, если поверхность их смочена жидкостью.</se>
+    <se lang="latin" variant_id="1">Hoc autem efficitur, ut non solum fluida per frictionem, quae inter massas liquoris exagitati exoritur, sed ne solida quidem, quam diu superficies liquido corpore delibutas habent, unquam sensibiliter incalescant.</se>
+    <weight variant_id="1">0,279032</weight>
+  </para>
+  <para id="94">
+    <se lang="" variant_id="0">§ 16</se>
+    <se lang="" variant_id="1">§ 16</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="95">
+    <se lang="russian" variant_id="0">Явление 4. Если тереть гвоздь более длинным железным прутом, то отдельные частицы, расположенные на поверхности прута, ударяют во встречающиеся им частицы гвоздя.</se>
+    <se lang="latin" variant_id="1">Phaenom. ~~~ 4. Quando virga ferrea longiore fricatur clavus, tum singulae particulae in superficie virgae constitutae impingunt in particulas clavi, sibi obvias.</se>
+    <weight variant_id="1">0,0589286</weight>
+  </para>
+  <para id="96">
+    <se lang="russian" variant_id="0">Но так как трущая поверхность прута больше, чем поверхность гвоздя, то в поверхность гвоздя ударяет большее число частиц, чем в поверхность прута; вследствие этого частицы гвоздя, возбуждаемые более частыми ударами, должны приходить во вращательное движение скорее, чем частицы прута.</se>
+    <se lang="latin" variant_id="1">Quoniam autem superficies virgae radens major est, quam superficies clavi, major ergo vis particularum impingit in superficiem clavi, quam in superficiem virgae; consequenter particulae clavum constituentes, crebrioribus ictibus exagitatae, promptius in motum gyratorium excitari debent, quam particulae, ex quibus virga constat.</se>
+    <weight variant_id="1">0,247773</weight>
+  </para>
+  <para id="97">
+    <se lang="russian" variant_id="0">Поэтому не удивительно, что гвоздь нагревается раньше, чем прут.</se>
+    <se lang="latin" variant_id="1">Unde mirum non est, clavum prius incalescere, quam virgam.</se>
+    <weight variant_id="1">0,264706</weight>
+  </para>
+  <para id="98">
+    <se lang="" variant_id="0">§ 17</se>
+    <se lang="" variant_id="1">§ 17</se>
+    <weight variant_id="1">-0,075</weight>
+  </para>
+  <para id="99">
+    <se lang="russian" variant_id="0">Явление 5. Когда холодное железо расковывается молотами, в особенности если они ударяют под косыми углами, то часть железной массы уступает ударам молота, надвигается на соседнюю часть, не подвергаемую ударам, и трет ее, совершенно как тело, очень тесно приложенное к поверхности другого и двигающееся по нему с сильным трением. ~~~ Под влиянием более частых ударов трение между возбуждаемыми частями железной массы увеличивается, и вращательное движение частиц возрастает до того, что железо иногда накаливается докрасна.</se>
+    <se lang="latin" variant_id="1">Phaenom. 5. Ferrum frigidum ubi exagitatur malleis, praesertim ad angulos obliquos illisis, pars massae ferreae malleo impetita cedit, juxta sibi vicinam, quae ictum non sensit, pellitur, et non secus ac corpus arctissime alteri superficie tenus applicatum, validissimoque superincessu radente incedens eam fricat; ingruente vero frequentiore ictuum impetu, frictio inter exagitatas ferreae massae partes multiplicatur, motusque gyratorius particularum ferri usque adeo increscit, ut illud aliquando ad rubedinem ignescat.</se>
+    <weight variant_id="1">-0,150333</weight>
+  </para>
+  <para id="100">
+    <se lang="russian" variant_id="0">Явление 6. Совершенно то же наблюдается в любой металлической палке, в особенности не упругой, при многократном перегибании: в самом деле, части массы ее, находящиеся на выгнутой стороне, расходятся в противоположных направлениях, проходят друг по другу скребущим движением, трутся, получают вращение, и сгиб палки нагревается.</se>
+    <se lang="latin" variant_id="1">6. Non aliter fit, quando bacillus quicunque metallicus, non elasticus praesertim, reciprocis inflexionibus multoties incurvatur: etenim in latere ejus convexo partes massae secundum directiones contrarias distrahuntur, juxta se invicem superincessu radente serpunt, fricantur, gyrantur, et curvatura bacilli incalescit.</se>
+    <weight variant_id="1">0,37587</weight>
+  </para>
+  <para id="101">
+    <se lang="" variant_id="0">§ 18</se>
+    <se lang="" variant_id="1">§ 18</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="102">
+    <se lang="russian" variant_id="0">Явление 7. Если более теплое тело A находится в соприкосновении с другим телом B, менее теплым, то находящиеся в точках соприкосновения частицы тела A, вращаясь быстрее, чем соседние с ними частицы тела B (§ 13), более быстрым вращением ускоряют вращательное движение частиц тела В, т. е. передают им часть своего движения; столько же движения уходит от первых, сколько прибавляется у вторых;</se>
+    <se lang="latin" variant_id="1">Phaenom. ~~~ 7. Si corpus magis calidum A est in contactu cum alio corpore B, quod est minus calidum, particulae corporis A in contactu constitutae, quoniam celerius gyrantur, quam particulae corporis B illis contiguae (§ 13), celeriore igitur rotatione accelerant motum gyratorium particularum corporis B, scilicet partem motus sui illis communicant; adeoque tantum his decedit, quantum accedit illis: </se>
+    <weight variant_id="1">0,16169</weight>
+  </para>
+  <para id="103">
+    <se lang="russian" variant_id="0">т. е. когда частицы тела A ускоряют вращательное движение частиц тела B, то замедляют свое собственное.</se>
+    <se lang="latin" variant_id="1">hoc est, quando particulae corporis A motum gyratorium particularum corporis B accelerant, suum tardiorem reddunt.</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="104">
+    <se lang="russian" variant_id="0">Вследствие этого, когда тело A при соприкосновении нагревает тело B, то само оно охлаждается.</se>
+    <se lang="latin" variant_id="1">Hinc fit, ut corpus A, per contactum calefaciens corpus B, ipsum refrigeretur.</se>
+    <weight variant_id="1">0,473416</weight>
+  </para>
+  <para id="105">
+    <se lang="" variant_id="0">§ 19</se>
+    <se lang="" variant_id="1">§ 19</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="106">
+    <se lang="russian" variant_id="0">Явление 8. Далее, частицы тела B, расположенные в поверхности касания, приходя в движение, соприкасаются с другими частицами того же тела, более отдаленными от поверхности касания; эти, ускорив свое движение от взаимного трения с первыми, приводят во вращение и другие соседние, и так внутреннее вращательное движение последовательно распространяется от плоскости касания до противоположной поверхности.</se>
+    <se lang="latin" variant_id="1">Phaenom. ~~~ 8. Ceterum particulae corporis B in superficie contactus motae contingunt alias particulas ejusdem corporis a superficie contactus remotiores, quae motu suo per mutuam frictionem cum anterioribus accelerato etiam alias sibi vicinas in gyrum agunt, et sic motus intestinus gyratorius a superficie contactus usque ad superficiem oppositam successive propagatur.</se>
+    <weight variant_id="1">-0,147704</weight>
+  </para>
+  <para id="107">
+    <se lang="russian" variant_id="0">Наоборот, частицы тела A, находящиеся в плоскости касания, замедляются в своем движении (§ 18), а от них замедление передается соседним с ними, затем последовательно все новым и новым вплоть до поверхности, противоположной касанию.</se>
+    <se lang="latin" variant_id="1">Contra vero particulae corporis A, in plano contactus constitutae, quoniam in motu suo retardantur (§ 18), ideoque alias sibi contiguas, hae vero alias atque alias successive usque ad superficiem contactui oppositam praepediunt, </se>
+    <weight variant_id="1">0,242857</weight>
+  </para>
+  <para id="108">
+    <se lang="russian" variant_id="0">Отсюда уясняется, почему находящаяся в соприкосновении поверхность менее нагретого тела, приложенного к более горячему, нагревается раньше, чем противоположная, а соприкасающаяся поверхность более горячего тела, придвинутого к более холодному, охлаждается раньше, чем противолежащая ей.</se>
+    <se lang="latin" variant_id="1">hine perspicitur, unde fiat, ut corporis minus calidi, appositi corpori magis calido, superficies in contactu constituta prius incalescat, quam aversa, et corporis calidioris admoti corpori frigidiori contigua superficies prius refrigeretur, quam eidem opposita.</se>
+    <weight variant_id="1">0,0964706</weight>
+  </para>
+  <para id="109">
+    <se lang="" variant_id="0">§ 20</se>
+    <se lang="" variant_id="1">§ 20</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="110">
+    <se lang="russian" variant_id="0">Явление 9. Если к противоположным поверхностям менее теплого тела A придвинуты два более теплые тела B и C, то от каждой поверхности касания будет распространяться по направлению к другой внутреннее вращательное движение, а потому оно охватит все тело A быстрее, чем если бы это движение, начавшись с одной стороны, должно было распространиться до другой стороны, т. е. если бы было придвинуто только либо тело B, либо тело C.</se>
+    <se lang="latin" variant_id="1">Phaenom. ~~~ 9. Si corporis minus calidi A superficiebus oppositis admoventur duo corpora magis calida B et C, ab utraque superficie propagabitur motus intestinus gyratorius versus alteram, adeoque integrum corpus A celerius occupabit, quam si ab uno latere profectus ad alterum pertingere opus haberet, admoto nempe corpore alterutro B vel C;</se>
+    <weight variant_id="1">0,142109</weight>
+  </para>
+  <para id="111">
+    <se lang="russian" variant_id="0">Точно так же, если тело A теплее придвинутых к нему с обеих сторон тел B и C, вращательное движение его частиц должно замедлиться скорее, чем если бы тело A было в соприкосновении с одним менее горячим телом B или C только одной стороной.</se>
+    <se lang="latin" variant_id="1">pariter si corpus A est magis calidum, quam B et C, corpora utrinque illi admota, motus gyratorius particularum ejus celerius debet retardari, quam si corpus A uno latere esset in contactu cum corpore minus calido B vel C.</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="112">
+    <se lang="russian" variant_id="0">Отсюда следует, что вращательное движение частиц увеличивается или замедляется тем быстрее, чем бо́льшая поверхность приходит в соприкосновение с приложенным более горячим или более холодным телом.</se>
+    <se lang="latin" variant_id="1">Hinc sequitur particularum motum gyratorium eo celerius intendi vel remitti, quo major superficies exponitur corpori calidiori vel frigidiori ambienti.</se>
+    <weight variant_id="1">0,217241</weight>
+  </para>
+  <para id="113">
+    <se lang="russian" variant_id="0">А так как поверхности подобных тел находятся в двойном, а объемы — в тройном отношении диаметров, то выясняется также, почему теплые тела одного рода и одинаковой фигуры, но большего объема, в одной и той же окружающей среде, напр. в воздухе, медленнее охлаждаются, а холодные медленнее нагреваются, чем если бы были того же объема.</se>
+    <se lang="latin" variant_id="1">Quoniam autem superficies corporum similium sunt in duplicata, soliditates vero in triplicata ratione diametrorum, rursum igitur evidens est, quare corpora calida ejusdem generis, majoris voluminis in eodem medio ambiente, ex. gr. aëre, et ejusdem figurae tardius refrigerantur, frigida vero tardius calefiunt, quam si ejusdem voluminis essent.</se>
+    <weight variant_id="1">-0,467089</weight>
+  </para>
+  <para id="114">
+    <se lang="" variant_id="0">§ 21</se>
+    <se lang="" variant_id="1">§ 21</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="115">
+    <se lang="russian" variant_id="0">Явление 10. Движущиеся и покоящиеся тела оказывают сопротивление в соответствии с инерцией, как известно, пропорциональной их весу; поэтому одной и той же силой более тяжелые частицы возбуждаются к теплотворному движению труднее или, находясь в движении, замедляют таковое труднее, чем более легкие.</se>
+    <se lang="latin" variant_id="1">Phaenom. ~~~ 10. Corpora mota et quiescentia resistunt pro ratione inertiae, quam gravitati proportionalem esse constat; particulae igitur graviores difficilius eadem vi in motum calorificum excitantur, vel motae retardantur, quam quae leviores sunt.</se>
+    <weight variant_id="1">0,00955443</weight>
+  </para>
+  <para id="116">
+    <se lang="russian" variant_id="0">Отсюда опять-таки очевидно, почему холодные тела, удельно более тяжелые, в одной и той же согревающей среде нагреваются медленнее, а теплые в одной и той же охлаждающей среде охлаждаются медленнее, чем удельно более легкие.</se>
+    <se lang="latin" variant_id="1">Iterum ergo perspicuum est, cur corpora frigida specifice graviora in eodem medio calefaciente tardius calefiant, calida vero in eodem medio frigido tardius refrigerentur, quam specifice leviora.</se>
+    <weight variant_id="1">0,263158</weight>
+  </para>
+  <para id="117">
+    <se lang="" variant_id="0">§ 22</se>
+    <se lang="" variant_id="1">§ 22</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="118">
+    <se lang="russian" variant_id="0">Явление 11. Несомненно, что частицы более твердых тел сцеплены прочнее, чем частицы более мягких.</se>
+    <se lang="latin" variant_id="1">Phaenom. ~~~ 11. Duriorum corporum particulas fortius cohaerere, quam molliorum, certum est.</se>
+    <weight variant_id="1">0,107197</weight>
+  </para>
+  <para id="119">
+    <se lang="russian" variant_id="0">Отсюда представляется уместным дальнейший вывод, что первые связываются друг с другом бо́льшими площадями соприкосновения.</se>
+    <se lang="latin" variant_id="1">Inde vero amplioribus planis contactus easdem jungi haud incongruum videtur.</se>
+    <weight variant_id="1">0,114706</weight>
+  </para>
+  <para id="120">
+    <se lang="russian" variant_id="0">Соответственно площадям соприкосновения, как можно, рассуждая далее, предполагать, и самые частицы должны быть крупнее, т. е. частицы более твердых тел должны иметь бо́льшую массу, чем частицы более мягких.</se>
+    <se lang="latin" variant_id="1">Pro ratione vero planorum contactus etiam particulas ipsas crassiores esse oportere probabili adeo conjectura consequimur, hoc est corporum duriorum particulas esse mole majores iis, quae molliora constituunt.</se>
+    <weight variant_id="1">0,293333</weight>
+  </para>
+  <para id="121">
+    <se lang="russian" variant_id="0">К тому же частицы более твердых тел по большей части наощупь шероховаты и таким образом обнаруживают чувствам свою бо́льшую величину.</se>
+    <se lang="latin" variant_id="1">Accedit, quod duriorum corporum particulae plerumque ad tactum sint asperae atque adeo sensibus crassitudinem suam exerant.</se>
+    <weight variant_id="1">0,283486</weight>
+  </para>
+  <para id="122">
+    <se lang="russian" variant_id="0">Так как при прочих равных условиях тела большего объема труднее могут возбуждаться от покоя к движению и труднее замедляют и прекращают движение, чем тела меньшего объема, то более крупные частицы более твердых тел получают и отдают теплотворное движение не так легко, как более мелкие частицы тел более мягких.</se>
+    <se lang="latin" variant_id="1">Quoniam autem corpora majoris voluminis, ceteris paribus, difficilius ex quiete in motum excitari, et mota retardari atque cohiberi possunt, quam minora; unde crassiores particulae duriorum corporum haud tam facile calorificum motum et recipiunt et amittunt, quam subtiliores molliorum.</se>
+    <weight variant_id="1">0,282</weight>
+  </para>
+  <para id="123">
+    <se lang="russian" variant_id="0">Отсюда ясна причина, отчего более твердые тела медленнее воспринимают и отдают теплоту, чем тела более мягкие.</se>
+    <se lang="latin" variant_id="1">Non obscure igitur hinc colligi potest ratio, cur duriora corpora ad calorem ~~~ concipiendum et amittendum sunt tardiora, quam illa, quae molliora sunt.</se>
+    <weight variant_id="1">-0,0546875</weight>
+  </para>
+  <para id="124">
+    <se lang="" variant_id="0">§ 23</se>
+    <se lang="" variant_id="1">§ 23</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="125">
+    <se lang="russian" variant_id="0">Явление 12. Так как частицы нагретых тел вращаются, то рассуждение требует принять, что своими движущимися поверхностями они действуют одна на другую, так что каждая отталкивает другую тем сильнее, чем энергичнее вращательное движение.</se>
+    <se lang="latin" variant_id="1">Phaenom. ~~~ 12. Particulae corporum calidorum quoniam gyrantur, rationi itaque consentaneum est, eas motis superficiebus suis in se invicem agere, adeoque unamquamque ab alia sibi vicina pelli, eo fortius, quo motus gyratorius est pernicior.</se>
+    <weight variant_id="1">0,0409545</weight>
+  </para>
+  <para id="126">
+    <se lang="russian" variant_id="0">Так как этому отталкиванию противодействует сцепление частиц, то одно уменьшает другое, и при возрастающем вращательном движении должно уменьшаться сцепление частиц.</se>
+    <se lang="latin" variant_id="1">Huic repulsioni quoniam contraria est cohaesio particularum, idcirco una earum alteri derogat, atque adeo crescente motu gyratorio cohaesionem particularum minui oportet.</se>
+    <weight variant_id="1">0,291837</weight>
+  </para>
+  <para id="127">
+    <se lang="russian" variant_id="0">Поэтому совсем не удивительно, что твердость твердых тел уменьшается силой теплоты, даже в конце концов ослабевает настолько, что уничтожается вообще сцепление частиц; первое мы наблюдаем, когда тела превращены в жидкость, второе — когда тела разошлись в виде паров.</se>
+    <se lang="latin" variant_id="1">Unde minime mirum est vi caloris solidorum etiam corporum duritiem debilitari, imo ita infringi, ut prorsus tollatur particularum cohaesio, quorum prius in liquefactis, posterius in resolutis in vapores experimur.</se>
+    <weight variant_id="1">0,229032</weight>
+  </para>
+  <para id="128">
+    <se lang="" variant_id="0">§ 24</se>
+    <se lang="" variant_id="1">§ 24</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="129">
+    <se lang="russian" variant_id="0">Отсюда следует, что 1) причина текучести и газообразности тел есть вращательное движение частиц и возбуждаемая им отталкивательная сила достаточна для нарушения сцепления частиц в такой степени, что частицы могут или свободно скользить друг около друга и растекаться, или при полном уничтожении их связи рассеиваться в воздухе;</se>
+    <se lang="latin" variant_id="1">Hinc sequitur 1) liquiditatis et fluiditatis corporum causam esse motum particularum gyratorium, cujus vis repulsiva sufficit ad illarum cohaesionem eousque infringendam, donec vel libere juxta se invicem labi et diffluere possint, vel sublato prorsus earum nexu per auras dissipari.</se>
+    <weight variant_id="1">-0,117721</weight>
+  </para>
+  <para id="130">
+    <se lang="russian" variant_id="0">2) причина улетучивания и испарения состоит главным образом в том, что благодаря различному состоянию воздуха, а также тому, что ему содействует с различной силой теплотворное, или, что то же, центробежное движение, частицы тел, оторвавшись, рассеиваются;</se>
+    <se lang="latin" variant_id="1">2) Evaporationum et exhalationum causam plerumque in eo consistere, ut pro vario aëris statu, varia vi concurrente calorifico, eoque centrifugo simul motu, particulae corporum avulsae dissipentur.</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="131">
+    <se lang="russian" variant_id="0">3) тела газообразные и жидкие всегда имеют в себе теплоту, хотя бы и небольшую, какими бы холодными ни казались.</se>
+    <se lang="latin" variant_id="1">3) Corpora fluida et liquida semper calorem in se, licet minimum, habere, quantumvis frigida appareant.</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="132">
+    <se lang="" variant_id="0">§ 25</se>
+    <se lang="" variant_id="1">§ 25</se>
+    <weight variant_id="1">-0,075</weight>
+  </para>
+  <para id="133">
+    <se lang="russian" variant_id="0">Явление 13. Тело A, действуя на тело B, не может придать последнему бо́льшую скорость движения, чем какую имеет само.</se>
+    <se lang="latin" variant_id="1">Phaenom. 13. Corpus A agens in corpus B majorem celeritatem motus illi imprimere non potest, quam habet ipsum.</se>
+    <weight variant_id="1">0,418391</weight>
+  </para>
+  <para id="134">
+    <se lang="russian" variant_id="0">Поэтому, если тело B холодно и погружено в теплое жидкое тело A, то тепловое движение частиц тела A приведет в тепловое движение частицы тела B; но в частицах тела B не может быть возбуждено более быстрое движение, чем какое имеется в частицах тела A, и поэтому холодное тело B, погруженное в тело A, очевидно, не может воспринять бо́льшую степень теплоты, чем какую имеет A.</se>
+    <se lang="latin" variant_id="1">Si igitur corpus B fuerit frigidum et immersum corpori fluido calido A; particularum corporis A motus calorificus excitabit in motum calorificum particulas corporis B; verum in particulis corporis B celerior motus excitari non poterit, quam qui est in particulis corporis A, atque adeo corpus frigidum B immersum corpori A majorem calorem, quam A habet, concipere non posse patet.</se>
+    <weight variant_id="1">-0,0566123</weight>
+  </para>
+  <para id="135">
+    <se lang="russian" variant_id="0">Явление 14. А отсюда ясно, почему дно оловянного сосуда, наполненного водою, противостоит нагреванию очень сильным пламенем, которое иначе легко плавит этот металл.</se>
+    <se lang="latin" variant_id="1">Phaenom. ~~~ 14. Hinc autem perspicitur ratio, ob quam stannei vasis, aqua pleni, fundum validae adeo flammae, qua alias hoc metallum facile funditur, resistere solet.</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="136">
+    <se lang="russian" variant_id="0">Действительно, хотя пламя приводит частицы олова в очень быстрое движение, но находящаяся поверх его вода не может приобрести ту скорость теплового движения, которая необходима для уничтожения сцепления частиц олова; поэтому вода замедляет вращательное движение их и не позволяет металлу расплавляться.</se>
+    <se lang="latin" variant_id="1">Etenim quamvis flamma particulas stanni in celerrimum motum sollicitet, aqua tamen superincumbens, cum eam celeritatem motus calorifici acquirere non possit, qua stanneae particulae indigent ad suam cohaesionem infringendam, retardat ergo earum motum gyratorium, nec fundi metallum permittit.</se>
+    <weight variant_id="1">0,291829</weight>
+  </para>
+  <para id="137">
+    <se lang="" variant_id="0">§ 26</se>
+    <se lang="" variant_id="1">§ 26</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="138">
+    <se lang="russian" variant_id="0">Здесь представляется уместным указать и причину расширения тел, которые обыкновенно увеличиваются и уменьшаются соответственно их теплоте.</se>
+    <se lang="latin" variant_id="1">Reddenda hic videtur esse etiam ratio extensionis corporum, quae plerumque cum calore eorum augeri et minui solent.</se>
+    <weight variant_id="1">0,228</weight>
+  </para>
+  <para id="139">
+    <se lang="russian" variant_id="0">Но так как расширение происходит не непосредственно от теплоты, но от упругого воздуха, включенного в поры тела, то мы оставляем рассмотрение этого явления до другого раза.</se>
+    <se lang="latin" variant_id="1">Verum quoniam ea non a calore immediate, sed ab aëre elastico, poris corporum incluso, proficiscitur; ad aliam ergo occasionem hujus phaenomeni expositionem reservamus.</se>
+    <weight variant_id="1">0,297959</weight>
+  </para>
+  <para id="140">
+    <se lang="russian" variant_id="0">Далее, нельзя назвать такую большую скорость движения, чтобы мысленно нельзя было представить себе другую, еще бо́льшую.</se>
+    <se lang="latin" variant_id="1">Ceterum nulla motus celeritas tam pernix assignari potest, qua alia major mente non concipiatur.</se>
+    <weight variant_id="1">0,221429</weight>
+  </para>
+  <para id="141">
+    <se lang="russian" variant_id="0">Это по справедливости относится, конечно, и к теплотворному движению; поэтому невозможна высшая и последняя степень теплоты как движения.</se>
+    <se lang="latin" variant_id="1">Quod cum etiam ad calorificum motum jure referri possit; caloris ergo summus et ultimus gradus possibilis respectu motus non est.</se>
+    <weight variant_id="1">0,272973</weight>
+  </para>
+  <para id="142">
+    <se lang="russian" variant_id="0">Наоборот, то же самое движение может настолько уменьшиться, что тело достигает, наконец, состояния совершенного покоя и никакое дальнейшее уменьшение движения невозможно.</se>
+    <se lang="latin" variant_id="1">Contra vero idem motus eousque diminui potest, ut tandem corpus prorsus quiescat, nec ulla motus diminutio ulterius subsequi possit.</se>
+    <weight variant_id="1">0,206087</weight>
+  </para>
+  <para id="143">
+    <se lang="russian" variant_id="0">Следовательно, по необходимости должна существовать наибольшая и последняя степень холода, которая должна состоять в полном прекращении вращательного движения частиц.</se>
+    <se lang="latin" variant_id="1">Summum igitur gradum et ~~~ ultimum frigoris in absoluta quiete a motu gyratorio particularum consistere et dari posse necesse est.</se>
+    <weight variant_id="1">-0,0495536</weight>
+  </para>
+  <para id="144">
+    <se lang="" variant_id="0">§ 27</se>
+    <se lang="" variant_id="1">§ 27</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="145">
+    <se lang="russian" variant_id="0">Итак, хотя высшая степень холода возможна, однако нет недостатка в данных, говорящих о том, что таковая на земноводном шаре нигде не существует.</se>
+    <se lang="latin" variant_id="1">Quamvis autem summus frigoris gradus sit possibilis, verum documenta non desunt, quibus asseritur, illum in hoc orbe terraqueo haud uspiam dari.</se>
+    <weight variant_id="1">0,297581</weight>
+  </para>
+  <para id="146">
+    <se lang="russian" variant_id="0">Действительно, все, что нам кажется холодным, лишь менее тепло, чем наши органы чувств.</se>
+    <se lang="latin" variant_id="1">Etenim omne, quod nobis frigidum apparet, est solummodo minus calidum, quam organa nostra, quibus sentimus.</se>
+    <weight variant_id="1">0,228947</weight>
+  </para>
+  <para id="147">
+    <se lang="russian" variant_id="0">Так, самая холодная вода еще тепла, так как лед, в который вода замерзает на более сильном морозе, холоднее ее, т. е. менее тепел.</se>
+    <se lang="latin" variant_id="1">Ita frigidissima aqua est adhuc calida, cum glacies, in quam aqua acutiore gelu constringitur, sit illa frigidior, hoc est minus calida.</se>
+    <weight variant_id="1">0,277982</weight>
+  </para>
+  <para id="148">
+    <se lang="russian" variant_id="0">Если плавящийся воск действительно горяч, то почему воде, которая кажется нам очень холодной, на самом деле не быть теплой — она ведь не что иное, как расплавленный лед.</se>
+    <se lang="latin" variant_id="1">Profecto si cera, quae liquescit, sit vere calida, cur igitur aqua, quae nobis frigidissima apparet, re vera calida non sit, cum nil aliud sit, quam glacies liquefacta.</se>
+    <weight variant_id="1">0,3</weight>
+  </para>
+  <para id="149">
+    <se lang="russian" variant_id="0">Не следует, однако, считать замерзание тел признаком наибольшего холода: ведь металлы, затвердевшие тотчас после плавления, представляют собою своего рода лед, но они настолько горячи, что зажигают приближенные к ним горячие тела.</se>
+    <se lang="latin" variant_id="1">Nec tamen putandum est congelationem corporum summi frigoris esse criterium: etenim metalla statim post liquefactionem consolidata sunt etiam glacies sui generis, sunt tamen ita calida, ut corpora combustilia sibi admota accendant.</se>
+    <weight variant_id="1">0,298507</weight>
+  </para>
+  <para id="150">
+    <se lang="russian" variant_id="0">Впрочем, существуют жидкие тела, которые не замерзают ни при какой известной степени холода.</se>
+    <se lang="latin" variant_id="1">Ceterum dantur corpora fluida, quae nullo gradu frigoris cognito congelantur.</se>
+    <weight variant_id="1">0,247826</weight>
+  </para>
+  <para id="151">
+    <se lang="russian" variant_id="0">Так как их жидкое состояние обусловлено теплотворным движением (§ 24), то ясно, что эти жидкие тела всегда в какой-то степени обладают теплотою.</se>
+    <se lang="latin" variant_id="1">Quorum fluiditas quoniam a motu calorifico proficiscitur (§ 24), patet igitur fluida illa corpora calore, quantuscunque ille sit, semper gaudere.</se>
+    <weight variant_id="1">0,578456</weight>
+  </para>
+  <para id="152">
+    <se lang="russian" variant_id="0">Далее, тела обыкновенно имеют степень теплоты, присущую среде, в которой они находятся значительное время.</se>
+    <se lang="latin" variant_id="1">Porro corpora eundem gradum caloris habere solent, quo praeditum est medium, in quo illa tempus notabile versantur.</se>
+    <weight variant_id="1">0,280851</weight>
+  </para>
+  <para id="153">
+    <se lang="russian" variant_id="0">А так как воздух, всегда и везде наблюдаемый, жидок, т. е. ~~~ (в силу показанного) тепел, то все тела, окруженные земной атмосферою, хотя бы и казались чувствам холодными, теплы; и поэтому высшей степени холода на нашем земноводном шаре не существует.</se>
+    <se lang="latin" variant_id="1">Cum vero aër semper et ubique fluidus observatur; adeoque calidus (per demonstrata) existit, omnia ergo corpora, quae ambit atmosphaera telluris, sunt calida, licet sensibus frigida appareant; adeoque summus gradus frigoris in globo nostro terraqueo non datur.</se>
+    <weight variant_id="1">-0,00915493</weight>
+  </para>
+  <para id="154">
+    <se lang="" variant_id="0">§ 28</se>
+    <se lang="" variant_id="1">§ 28</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="155">
+    <se lang="russian" variant_id="0">Таким образом, мы доказали a priori и подтвердили a posteriori, что причиною теплоты является внутреннее вращательное движение связанной материи. Теперь переходим к  к рассмотрению мнений, которые большинство современных ученых высказывают относительно теплоты.</se>
+    <se lang="latin" variant_id="1">Cum itaque motum intestinum gyratorium materiae cohaerentis causam caloris esse a priori demonstratum et a posteriori confirmatum habeamus, ad mentem, quam moderni philosophi ~~~ plerique de calore habent, examinandam convertimur.</se>
+    <weight variant_id="1">0,0724138</weight>
+  </para>
+  <para id="156">
+    <se lang="russian" variant_id="0">В наше время причина теплоты приписывается особой материи, которую большинство называет теплотворной, другие — эфиром, а некоторые — элементарным огнем.</se>
+    <se lang="latin" variant_id="1">Tribuitur hac nostra tempestate caloris causa peculiari cuidam materiae, quam plerique calorificam, quidam aetherem, nonnulli etiam ignem elementarem appellant.</se>
+    <weight variant_id="1">0,279851</weight>
+  </para>
+  <para id="157">
+    <se lang="russian" variant_id="0">Говорят, что тем большее количество ее находится в теле, чем бо́льшая степень теплоты в нем наблюдается, так что в соответствии со степенью теплоты данного тела количество теплотворной материи в нем увеличивается или уменьшается.</se>
+    <se lang="latin" variant_id="1">Eo autem major quantitas ejus in quocunque corpore adesse dicitur, quo major in eo calor observatur, ita ut pro diverso gradu caloris ejusdem corporis etiam quantitas materiae calorificae in illo augeatur minuaturve.</se>
+    <weight variant_id="1">0,280645</weight>
+  </para>
+  <para id="158">
+    <se lang="russian" variant_id="0">И хотя иногда принимают, что теплота тела увеличивается силою движения этой вошедшей в нее материи, но чаще всего считают истинной причиною увеличения или уменьшения теплоты простой приход или уход разных количеств ее.</se>
+    <se lang="latin" variant_id="1">Et licet aliquando intensitate motus hujusce materiae corpus ingressae calorem in eo augeri doceatur, maxime tamen ingressus et decessus illius in diversa quantitate pro genuina causa aucti vel diminuti caloris celebratur.</se>
+    <weight variant_id="1">0,292021</weight>
+  </para>
+  <para id="159">
+    <se lang="russian" variant_id="0">Это мнение в умах многих пустило такие глубокие корни и настолько укрепилось, что повсюду приходится читать в физических сочинениях о внедрении в поры тел названной выше теплотворной материи, как бы привлекаемой каким-то приворотным зельем; или, наоборот, — о бурном выходе ее из пор, как бы объятой ужасом.</se>
+    <se lang="latin" variant_id="1">Quae opinio cum in multorum mentibus tam altas egit radices, tantumque invaluit, ut passim in Physicorum scriptis legas, memoratam superius materiam quasi philtro quodam amatorio allectam in corporum poros irruere, aut contra horrore quasi exagitatam ex poris erumpere;</se>
+    <weight variant_id="1">-0,0156566</weight>
+  </para>
+  <para id="160">
+    <se lang="russian" variant_id="0">Поэтому мы считаем нашей обязанностью подвергнуть эту гипотезу проверке.</se>
+    <se lang="latin" variant_id="1">quamobrem muneris nostri esse ducimus hanc hypothesim ad examen revocare.</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="161">
+    <se lang="russian" variant_id="0">Прежде всего надо осветить самые источники, из которых проистекло это мнение.</se>
+    <se lang="latin" variant_id="1">Praesertim autem fontes ipsi lustrandi sunt, ex quibus haec opinio permanavit.</se>
+    <weight variant_id="1">0,295588</weight>
+  </para>
+  <para id="162">
+    <se lang="russian" variant_id="0">Важнейшие из них четыре, которые следовало бы скорее обратить на истолкование других явлений природы.</se>
+    <se lang="latin" variant_id="1">Eorum autem praecipui sunt quattuor, quos equidem ad alia potius naturae phaenomena diluenda derivari oporteret.</se>
+    <weight variant_id="1">0,266292</weight>
+  </para>
+  <para id="163">
+    <se lang="" variant_id="0">§ 29</se>
+    <se lang="" variant_id="1">§ 29</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="164">
+    <se lang="russian" variant_id="0">После того как ученые начали более внимательно изучать явления, связанные с нагреванием тел, они легко заметили, что при увеличении теплоты растет и объем каждого тела.</se>
+    <se lang="latin" variant_id="1">Postquam calescentium corporum phaenomena attentius considerare coeperunt philosophi, facile animadverterunt, crescente calore, etiam volumen corporis cujusque augeri,</se>
+    <weight variant_id="1">-0,00483871</weight>
+  </para>
+  <para id="165">
+    <se lang="russian" variant_id="0">И так как они точно знали, что к телам не прибавилось ничего кроме теплоты, а в умах еще крепко держалось представление древних об элементарном огне, то они не поколебались заключить, что при накаливании в поры тел входит какая-то материя, свойственная огню, и расширяет их; а при выходе ее тела охлаждаются и сжимаются.</se>
+    <se lang="latin" variant_id="1">Et cum nihil praeter calorem illis accessisse certo scirent, atque elementaris antiquorum ignis animis adhuc inhaereret; concludere inde non dubitarunt, materiam aliquam igni propriam poros corporum, cum incalescunt, intrare, eaque distendere; qua decedente eadem refrigerari, contrahi.</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="166">
+    <se lang="russian" variant_id="0">Охотно согласились бы мы с ними, если бы было так же легко, как предположить это, и показать, чем именно теплотворная материя загоняется во внезапно нагревающиеся тела.</se>
+    <se lang="latin" variant_id="1">Lubenter equidem his assensum praeberemus, si quam facile sit haec supponere, tam pronum quoque esset ostendere id, quo calorifica materia in corpora subito incalescentia compellatur.</se>
+    <weight variant_id="1">0,28</weight>
+  </para>
+  <para id="167">
+    <se lang="russian" variant_id="0">Каким образом, спрашивается, в самую холодную зиму, когда все охвачено лютым морозом, или в самой холодной морской глубине,* где, согласно этой гипотезе, теплотворной материи почти совершенно нет, порох, зажженный малейшей внезапно зародившейся искрою, вспыхивает вдруг огромным пламенем?</se>
+    <se lang="latin" variant_id="1">Qui enim fit, quaeso, ut hieme frigidissimo gelu late omnia occupante, aut in gelidissimo fundo maris,* adeoque juxta hanc hypothesim, calorifica materia fere prorsus deficiente, pulvis pyrius exigua scintilla, repente nata, accensus stupenda flamma subito expandatur?</se>
+    <weight variant_id="1">-0,00474308</weight>
+  </para>
+  <para id="168">
+    <se lang="russian" variant_id="0">Откуда и в силу какой удивительной способности материя эта мгновенно стягивается в одно место?</se>
+    <se lang="latin" variant_id="1">Unde et qua tam mirabili virtute ignea illa materia momento temporis contrahitur?</se>
+    <weight variant_id="1">0,253521</weight>
+  </para>
+  <para id="169">
+    <se lang="russian" variant_id="0">Но пусть она слетается столь стремительно, по какой бы то ни было причине, из самых отдаленных мест и, зажигая, расширяет порох.</se>
+    <se lang="latin" variant_id="1">Verum tamen convolet ea ocissime, quacunque de causa id fiat, ex remotissimis etiam locis et pulverem pyrium accendat, expandat.</se>
+    <weight variant_id="1">0,294495</weight>
+  </para>
+  <para id="170">
+    <se lang="russian" variant_id="0">Но ведь в этом случае необходимо, или чтобы другие тела, окружающие порох, раньше его нагрелись от прилетевшего огня и расширились, или чтобы этот летучий огонь ничего, кроме пороха, не мог зажигать и расширять, то есть должен был бы позабыть свою природу. ~~~ Первое, очевидно, противоречит опыту, а второе — здравому смыслу.</se>
+    <se lang="latin" variant_id="1">Sed tum necessum erit, aut alia corpora illum ambientia advolante igne prius quam ipsum calefieri et expandi, aut ignem illum advolantem extra pulverem nec calefacere nec expandere aliquid, adeoque naturae suae oblivisci fatendum erit, quorum tamen prius experientiae, posterius sanae rationi apertissime repugnat.</se>
+    <weight variant_id="1">-0,00164835</weight>
+  </para>
+  <para id="171">
+    <se lang="" variant_id="0">§ 30</se>
+    <se lang="" variant_id="1">§ 30</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="172">
+    <se lang="russian" variant_id="0">Вообще природа вещей такова, что при возрастании причины растет и ее действие и, наоборот, при ее убывании уменьшается и действие.</se>
+    <se lang="latin" variant_id="1">Ceterum rerum natura ita comparata est, ut causa crescente, etiam effectus ejus augeatur, et contra, eadem decrescente, effectus quoque minuatur.</se>
+    <weight variant_id="1">0,259821</weight>
+  </para>
+  <para id="173">
+    <se lang="russian" variant_id="0">Поэтому когда одна и та же степень теплоты наблюдается в двух телах, то, при прочих равных условиях, должно было бы быть одно и то же увеличение или уменьшение протяжения каждого тела.</se>
+    <se lang="latin" variant_id="1">Quamobrem ubi in duobus corporibus idem gradus caloris observatur, tum, ceteris paribus, etiam idem extensionis incrementum aut decrementum in utroque esse debet.</se>
+    <weight variant_id="1">0,272535</weight>
+  </para>
+  <para id="174">
+    <se lang="russian" variant_id="0">Но какое разнообразие наблюдается в этом отношении!</se>
+    <se lang="latin" variant_id="1">At quanta in hoc diversitas deprehenditur!</se>
+    <weight variant_id="1">0,236842</weight>
+  </para>
+  <para id="175">
+    <se lang="russian" variant_id="0">Умалчиваю о воздухе, который от градуса замерзания до градуса кипения воды расширяется на третью часть, тогда как вода в это время получает увеличение на одну двадцать шестую часть своего объема.</se>
+    <se lang="latin" variant_id="1">Praetereo aërem, qui a gradu congelationis ad ebullitionem aquae tertia sui parte extenditur, cum ea interim una vigesima sexta parte totius voluminis augeatur.</se>
+    <weight variant_id="1">0,244311</weight>
+  </para>
+  <para id="176">
+    <se lang="russian" variant_id="0">Даже тела почти одинаково жидкие, как то: ртуть, вода, винный спирт, разные масла, также и твердые тела, как металлы, стекло и т. д., показывают удивительное разнообразие в приращении протяженности, приобретенном от той же степени теплоты.</se>
+    <se lang="latin" variant_id="1">Ipsa ejusdem fere liquiditatis corpora, ut mercurius, aqua, spiritus vini, et olea diversa, item et solida, ut metalla, vitrum etc., mirum quantum discriminis habent inter extensionis incrementa in eodem gradu caloris acquisita.</se>
+    <weight variant_id="1">0,237624</weight>
+  </para>
+  <para id="177">
+    <se lang="russian" variant_id="0">Пусть, однако, не подумает кто-нибудь, что более значительное сцепление частей служит препятствием для расширения: сталь ведь обладает более крепким сцеплением частей, чем железо, как известно каждому; однако опыт показал, что сталь расширяется больше, железо — меньше.</se>
+    <se lang="latin" variant_id="1">Ne hic tamen majorem partium cohaesionem expansionis impedimento esse quis putet: quippe chalybem fortiore partium cohaesione gaudere, quam ferrum, nemo est, qui ignorat, majora tamen incrementa extensionis capere, ferrum autem minora experientia docuit.</se>
+    <weight variant_id="1">0,0268293</weight>
+  </para>
+  <para id="178">
+    <se lang="russian" variant_id="0">Также и бронза, тело более твердое, чем медь, расширяется от той же степени теплоты больше последней.</se>
+    <se lang="latin" variant_id="1">Sic et aurichalcum, corpus cupro durius, eodem calore magis, quam id, expanditur.</se>
+    <weight variant_id="1">0,232394</weight>
+  </para>
+  <para id="179">
+    <se lang="russian" variant_id="0">Нельзя приписать и какое-либо замедление в накаливании большему весу тел или назвать какое-либо другое обстоятельство, которое в разных телах препятствовало бы расширению их, чтобы не представлялись противоположные примеры, говорящие против сделанных предположений, пока расширение нагретых тел приписывается входящей материи.</se>
+    <se lang="latin" variant_id="1">Nec etiam aliqua retardatio incalescentiae a majore pondere profecta, aut quaecunque alia circumstantia, quae in diversis corporibus expansionis impedimento foret, fingi potest, quin exempla contraria occurrant, quae ficta destruant, quam diu expansio calefactorum ingredienti materiae tribuitur.</se>
+    <weight variant_id="1">0,269084</weight>
+  </para>
+  <para id="180">
+    <se lang="russian" variant_id="0">Но это случай различных тел; а иногда одно и то же тело при увеличении теплоты сжимается — например вода, происшедшая от таяния льда, удельно тяжелее его, так что она даже при значительной степени нагревания не позволяет льду опускаться на дно.</se>
+    <se lang="latin" variant_id="1">Sed haec in diversis. ~~~ At unum idemque corpus aliquando crescente calore in minus spatium contrahitur, e. g. aqua, ex glacie nata, est specifice gravior illa, ut etiam ad insignem gradum calefacta eandem fundum petere prohibeat.</se>
+    <weight variant_id="1">-0,00765306</weight>
+  </para>
+  <para id="181">
+    <se lang="russian" variant_id="0">Так и железо и большинство других тел, будучи еще в твердом состоянии, плавают в этих самых телах, находящихся в расплавленном состоянии, так как занимают больший объем, хотя и не обладают еще той степенью теплоты, при которой обычно плавятся.</se>
+    <se lang="latin" variant_id="1">Sic ferrum et pleraque alia corpora, quamdiu dura sunt, iisdem ipsis liquefactis ob majus volumen innatant, quamvis eum gradum caloris nondum habeant, quo liquescere solent.</se>
+    <weight variant_id="1">0,186</weight>
+  </para>
+  <para id="182">
+    <se lang="russian" variant_id="0">Из всего этого вполне очевидно, что расширением накаливаемых тел и их сжатием при охлаждении отнюдь нельзя доказать эти удивительные перемещения теплотворной материи.</se>
+    <se lang="latin" variant_id="1">Ex his autem omnibus clarissime apparet, expansione incalescentium contractioneque eorum, quae refrigerantur, calorificae materiae miram illam peregrinationem minime probari.</se>
+    <weight variant_id="1">0,277397</weight>
+  </para>
+  <para id="183">
+    <se lang="" variant_id="0">§ 31</se>
+    <se lang="" variant_id="1">§ 31</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="184">
+    <se lang="russian" variant_id="0">Однако этого бойца, уже поколебленного собственной своей громадностью, может быть воздвигнет другой, приходящий ему на помощь, и подавит нас бо́льшей тяжестью.</se>
+    <se lang="latin" variant_id="1">Sed hunc pugilem, propria sua extensionis vastitate jam labefactum, alius forte qui succedit eriget, et majore gravitate nos opprimet.</se>
+    <weight variant_id="1">0,241026</weight>
+  </para>
+  <para id="185">
+    <se lang="russian" variant_id="0">Ведь ученым, а особенно химикам, представляется, что этот блуждающий огонь обнаруживает свое присутствие в телах не только увеличением объема их, но и увеличением веса.</se>
+    <se lang="latin" variant_id="1">Nempe non molis modo, sed etiam ponderis incremento vagabundus ille ignis praesentiam suam in corporibus demonstrare philosophis videtur, praesertim chymicis.</se>
+    <weight variant_id="1">-0,0753846</weight>
+  </para>
+  <para id="186">
+    <se lang="russian" variant_id="0">Первым, если не ошибаюсь, знаменитый Роберт Бойль показал на опыте, что тела увеличиваются в весе при обжигании* и что можно сделать части огня и пламени стойкими и весомыми.</se>
+    <se lang="latin" variant_id="1">Celeberrimus Robertus Boyle primus, ni fallor, experimentis docuit corpora per calcinationem pondere augeri* adeoque ignis et flammae partes stabiles et ponderabiles reddi posse.</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="187">
+    <se lang="russian" variant_id="0">Если бы это действительно могло быть показано для некоего элементарного огня, то опровергаемое нами мнение нашло бы себе здесь твердый оплот.</se>
+    <se lang="latin" variant_id="1">Quod si de igne aliquo elementari intelligi posset, firmum haberet infirmanda hic opinio propugnaculum.</se>
+    <weight variant_id="1">0,248077</weight>
+  </para>
+  <para id="188">
+    <se lang="russian" variant_id="0">Однако бо́льшая часть, почти что все опыты его над увеличением веса при действии огня сводятся к тому, что весом обладают либо части пламени, сожигающего тело, либо части воздуха, во время обжигания проходящего над прокаливаемым телом.</se>
+    <se lang="latin" variant_id="1">Verum tamen pleraque fere omnia experimenta illius, circa augmentum ponderis per ignem instituta, huc redeunt, ut vel flammae, quae corpora ustulavit, aut aëris, calcinationis tempore super corpus calcinandum fluentis, partes graves esse iis demonstretur.</se>
+    <weight variant_id="1">0,268812</weight>
+  </para>
+  <para id="189">
+    <se lang="russian" variant_id="0">Так, металлическая пластинка, обжигаемая в пламени горящей серы, действительно разбухает и увеличивается в весе: но здесь причиною увеличения веса является не что иное, как кислота серы, которую можно освободить от флогистона, собрать и заключить под колокол; она проникает в поры меди и серебра и, соединяясь с ними, производит увеличение веса.</se>
+    <se lang="latin" variant_id="1">Etenim ubi lamina metallica flamma sulphuris accensi ustulatur, intumescit quidem et pondere augetur; nihil aliud tamen aucti ponderis causa est, praeter acidum sulphuris, quod a phlogisto liberari et campana colligi et capi solet, tum poros cupri et argenti penetrat, illisque concretum, pondus auget.</se>
+    <weight variant_id="1">0,258621</weight>
+  </para>
+  <para id="190">
+    <se lang="russian" variant_id="0">Так, когда свинец пережигается в сурик, мастера намеренно направляют на расплавленный металл дымящее, сильно коптящее пламя: именно оно украшает окалину свинца красным цветом и увеличивает вес ее, с выгодой для мастеров.</se>
+    <se lang="latin" variant_id="1">Sic ubi plumbum in minium calcinatur, flammam atram et fuligine turgidam in liquefactum metallum consulto dirigunt artifices: haec enim sola plumbi calcem rutilo illo colore ornat, et pondus ejus cum lucro artificum auget.</se>
+    <weight variant_id="1">0,3</weight>
+  </para>
+  <para id="191">
+    <se lang="russian" variant_id="0">Остальные опыты прославленного автора в приложении к упомянутому сочинению кажутся, правда, более показательными, однако отнюдь не свободны от подозрения, так как сам автор при них не присутствовал, а их выполнение часто поручал какому-либо работнику.</se>
+    <se lang="latin" variant_id="1">Reliqua laudati auctoris experimenta in mantissa opusculo subjuncta majoris quidem momenti esse videntur, verum omni suspicione prorsus libera non sunt, cum auctor ipse illis praesto non adfuerit, verum operatori cuidam saepius peragenda remiserit.</se>
+    <weight variant_id="1">0,297235</weight>
+  </para>
+  <para id="192">
+    <se lang="russian" variant_id="0">Но допустим, что кроме частей зажженного тела или частиц, летающих вокруг в воздухе, который непрерывно обтекает обжигаемые тела, к металлу прибавляется во время обжигания какая-нибудь другая материя, увеличивающая вес окалины его.</se>
+    <se lang="latin" variant_id="1">At esto, quod praeter partes corporis accensi vel particulas in aëre circumvolitantes, qui super calcinata continuo fluit, accedat metallis calcinatione durante quaedam alia materia, quae pondus calcium auget.</se>
+    <weight variant_id="1">0,268852</weight>
+  </para>
+  <para id="193">
+    <se lang="russian" variant_id="0">Но так как окалины, удаленные из огня, сохраняют приобретенный вес даже на самом лютом морозе и, однако, не обнаруживают в себе какого-либо избытка теплоты, то, следовательно, при процессе обжигания к телам присоединяется некоторая материя, только не та, которая приписывается собственно огню:</se>
+    <se lang="latin" variant_id="1">Quoniam autem calces ab igne remotae acquisitum pondus etiam frigidissimo gelu continuo servant, nullum tamen excessum caloris in se ostendunt; accedit igitur calcinationis actu materia quaedam corporibus, verum non illa, quae igni propria esse praedicatur.</se>
+    <weight variant_id="1">-0,0167411</weight>
+  </para>
+  <para id="194">
+    <se lang="russian" variant_id="0">ибо я не вижу, почему последняя в окалинах могла бы забыть о своей природе.</se>
+    <se lang="latin" variant_id="1">Cur enim ea in calcibus naturae suae oblivisceretur, non video.</se>
+    <weight variant_id="1">0,229091</weight>
+  </para>
+  <para id="195">
+    <se lang="russian" variant_id="0">Далее, металлические окалины, восстановленные до металлов, теряют приобретенный вес.</se>
+    <se lang="latin" variant_id="1">Porro calces metallorum in formam metallicam reductae pondus acquisitum amittunt.</se>
+    <weight variant_id="1">0,283562</weight>
+  </para>
+  <para id="196">
+    <se lang="russian" variant_id="0">А так как восстановление производится тем же, что и прокаливание, даже более сильным огнем, то нельзя привести никакого основания, почему один и тот же огонь то внедряется в тела, то из них уходит.</se>
+    <se lang="latin" variant_id="1">Cum vero reductio aeque ac calcinatio eodem imo fortiore igne perficiatur, nulla profecto ratio reddi potest, cur idem ignis modo corporibus semet insinuet, modo ex iisdem excutiatur.</se>
+    <weight variant_id="1">-0,00759494</weight>
+  </para>
+  <para id="197">
+    <se lang="russian" variant_id="0">Наконец, подобные же опыты делали известные Бургаве* и Дюкло,** повидимому с противоположными результатами.</se>
+    <se lang="latin" variant_id="1">Ceterum non absimilia experimenta instituerunt viri celebres Boerhaavlus* et du Clos,** quae contrarium tueri videntur.</se>
+    <weight variant_id="1">0,26875</weight>
+  </para>
+  <para id="198">
+    <se lang="russian" variant_id="0">Первый взвесил до накаливания, а затем снова после накаливания и остывания пять фунтов и восемь унций железа, но не нашел какого-либо приращения или уменьшения веса.</se>
+    <se lang="latin" variant_id="1">Prior enim ferri libras quinque et uncias octo, ut ante ignitionem ita quoque ignitum et extinctum ponderavit, sed nullum ponderis incrementum decrementumve deprehendit.</se>
+    <weight variant_id="1">0,287324</weight>
+  </para>
+  <para id="199">
+    <se lang="russian" variant_id="0">Второй же приписал увеличение веса минералов при прокаливании серным частицам, носящимся (как мы сказали выше) в воздухе, который непрерывно течет над минералами, подвергаемыми прокаливанию, и внедряет в последние при их распадении в огне упомянутые частицы.</se>
+    <se lang="latin" variant_id="1">Posterior ponderis augmentum, quod mineralibus per calcinationem accedit, deducit a partibus sulphureis, aëri (ut supra diximus) innatantibus, qui super mineralia ad calcinandum exposita continuo fluit, et illas igne ita resolutis insinuat;</se>
+    <weight variant_id="1">0,0506667</weight>
+  </para>
+  <para id="200">
+    <se lang="russian" variant_id="0">Это он показывает на опыте, а именно: он наблюдал, что из королька сурьмы, обожженного на открытом воздухе, извлекается при помощи винного спирта красная вытяжка, по отделении которой оставшаяся масса имеет тот вес, как и королек до обжигания;</se>
+    <se lang="latin" variant_id="1">id autem experimento demonstrat: nimirum quod ex regulo antimonii in aëre libero calcinato ope spiritus vini tincturam rubram extrahi observavit, qua separata, massam relinqui ejus ponderis, quod regulus habebat ante calcinationem.</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="201">
+    <se lang="russian" variant_id="0">2) что королек сурьмы, обожженный иначе, — именно без увеличения веса, — не дает такой вытяжки.</se>
+    <se lang="latin" variant_id="1">2) Regulum antimonii aliter, nempe sine augmento ponderis, calcinatum ejusmodi tincturam non suppeditare.</se>
+    <weight variant_id="1">-0,104863</weight>
+  </para>
+  <para id="202">
+    <se lang="russian" variant_id="0">Итак, не убедительны и те доказательства, приводимые в защиту особенной, свойственной огню материи, которые основаны на увеличении веса обожженных тел.</se>
+    <se lang="latin" variant_id="1">Firma igitur non sunt etiam illa argumenta, quae ad peculiarem igni materiam vindicandam ex augmento ponderis calcinatorum corporum afferuntur.</se>
+    <weight variant_id="1">0,283333</weight>
+  </para>
+  <para id="203">
+    <se lang="" variant_id="0">§ 32</se>
+    <se lang="" variant_id="1">§ 32</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="204">
+    <se lang="russian" variant_id="0">Солнечные лучи, уловленные и собранные стеклянным зажигательным зеркалом, дают весьма сильный жар, как и яркий свет; считают, что этим наглядно доказывается, — и само солнце тому свидетель, — что теплотворная материя или элементарный огонь, вышедший из солнца, сгущается в фокусе [зеркала] и этим усиливается жар и свет.</se>
+    <se lang="latin" variant_id="1">Radii solis speculo vitreo caustico excepti et collecti non minus valide urunt, quam vivide lucent, qua re ad oculum et quidem sole teste demonstrari creditur, calorificam materiam seu ignem elementarem a sole profectum in foco condensari, eoque splendorem et calorem intendi.</se>
+    <weight variant_id="1">-0,0144385</weight>
+  </para>
+  <para id="205">
+    <se lang="russian" variant_id="0">Легко видеть, что здесь предполагается, будто материя света распространяется от солнца, как река из источника.</se>
+    <se lang="latin" variant_id="1">Facile autem apparet supponi hic luminis materiam a sole tanquam a fonte fluminis instar diffundi.</se>
+    <weight variant_id="1">0,257647</weight>
+  </para>
+  <para id="206">
+    <se lang="russian" variant_id="0">Но эта гипотеза очень похожа на то, как если бы мы стали утверждать, что воздух от звучащего тела распространяется во все стороны со скоростью, равной скорости звука.</se>
+    <se lang="latin" variant_id="1">Quae hypothesis ei simillima est, ae si aërem a corpore sonoro eadem, qua sonus propagatur, celeritate quaqua versum diffundi doceretur.</se>
+    <weight variant_id="1">0,241525</weight>
+  </para>
+  <para id="207">
+    <se lang="russian" variant_id="0">Очевидно, при этом смешивают эфир и лучи, которые друг от друга отличаются так же, как различаются друг от друга движение и материя.</se>
+    <se lang="latin" variant_id="1">Nec minus evidens est ibidem aetherem et radium confundi, qui tantum inter se differunt, quantum motus et materia inter se diversa sunt,</se>
+    <weight variant_id="1">-0,00339367</weight>
+  </para>
+  <para id="208">
+    <se lang="russian" variant_id="0">И ясно, что следует отбросить уплотнение огненной материи в фокусе зеркала и заменить его сгущением теплотворного движения.</se>
+    <se lang="latin" variant_id="1">atque adeo ex foco speculi condensationem materiae igneae removeri et conspirationem motus calorifici substitui posse liquet.</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="209">
+    <se lang="russian" variant_id="0">По-моему, утверждающий, что в фокусе зажигательного стекла или зеркала сгущается материя эфира, не иначе мыслит, как если бы говорил, что в фокусе элиптического свода не звуковые лучи собираются, но сжимается самая материя воздуха.</se>
+    <se lang="latin" variant_id="1">Materiam aetheris in foco vitri vel speculi caustici condensari qui affirmat, is, me judice, non aliter sentit, ac si contenderet in foco fornicis elliptici non radios sonoros conspirare, sed materiam aëris ipsam comprimi.</se>
+    <weight variant_id="1">0,285864</weight>
+  </para>
+  <para id="210">
+    <se lang="russian" variant_id="0">Что солнечный фокус весьма горяч не вследствие большей плотности эфирной материи, но вследствие ее теплотворного движения, достаточно доказывает фокус солнечных лучей, отраженных от луны.</se>
+    <se lang="latin" variant_id="1">Ceterum focum solarem non propter majorem densitatem materiae aethereae, sed propter motum ejus calorificum urentissimum esse focus a lunari sidere reflexorum solis radiorum manifesto indicat.</se>
+    <weight variant_id="1">0,292727</weight>
+  </para>
+  <para id="211">
+    <se lang="russian" variant_id="0">Так как он весьма ярок, то должен был бы быть и весьма горячим, если бы он сам и теплота происходили от уплотнения эфирной материи.</se>
+    <se lang="latin" variant_id="1">Is enim cum sit lucidissimus, urentissimum quoque esse oporteret, si ille ipse et calor a densitate materiae proficisceretur.</se>
+    <weight variant_id="1">0,3</weight>
+  </para>
+  <para id="212">
+    <se lang="russian" variant_id="0">Но теплоты в нем нет; итак, пусть светящийся фокус производится или уплотнением эфирной материи, или сгущением ее движения.</se>
+    <se lang="latin" variant_id="1">Sed abest calor; aut ergo materiae aethereae condensatio, aut conspiratio motus ejus lucidum focum efficiat.</se>
+    <weight variant_id="1">0,262105</weight>
+  </para>
+  <para id="213">
+    <se lang="russian" variant_id="0">Исключить уплотнение материи — значит итти против условия, отклонить сгущение движения — значит признать, что огненная материя может быть и холодной, т. е. что огонь — не огонь.</se>
+    <se lang="latin" variant_id="1">Materiae condensationem excludere est pugnare contra hypothesim; conspirationem motus removere est materiam igneam saepe frigidam, hoc est ignem non ignem esse, fatendum erit.</se>
+    <weight variant_id="1">0,29404</weight>
+  </para>
+  <para id="214">
+    <se lang="russian" variant_id="0">Кто рассмотрит это без предвзятости, конечно согласится с нами, что никак нельзя доказать существование теплотворной материи возникновением жара в фокусе зажигательного прибора.</se>
+    <se lang="latin" variant_id="1">Haec qui mente a praejudiciis libera considerabit, nobiscum sentiet, aestu qui in foco causticae machinae generatur, materiam calori propriam minime demonstrari posse.</se>
+    <weight variant_id="1">0,279592</weight>
+  </para>
+  <para id="215">
+    <se lang="" variant_id="0">§ 33</se>
+    <se lang="" variant_id="1">§ 33</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="216">
+    <se lang="russian" variant_id="0">Смешением поваренной соли со снегом или толченым льдом физики получают материю, называемую по производимому ею действию холодильной, так как вода, поставленная в нее в каком-либо сосуде, превращается в лед.</se>
+    <se lang="latin" variant_id="1">Sale culinari nivi vel glaciei rasae mixto confici solet a physicis materia, frigorifica ab effectu dicta, quod aquam sibi in vase aliquo insertam in glaciem convertere soleat.</se>
+    <weight variant_id="1">0,244371</weight>
+  </para>
+  <para id="217">
+    <se lang="russian" variant_id="0">Пока это происходит, самый снег с солью ожижается.</se>
+    <se lang="latin" variant_id="1">Quod dum ~~~ fit, nix ipsa cum sale liquescit.</se>
+    <weight variant_id="1">-0,0236842</weight>
+  </para>
+  <para id="218">
+    <se lang="russian" variant_id="0">Отсюда обычно также заключают, что огненная материя из воды переселяется в окружающий снег и от присоединения ее последний плавится, а вода от ухода ее превращается в лед.</se>
+    <se lang="latin" variant_id="1">Hinc rursum concludi solet, materiam illam igneam ex aqua in nivem circumpositam demigrare et accessu illius hanc liquescere, illam vero ob decessum ejusdem in glaciem constringi.</se>
+    <weight variant_id="1">0,281507</weight>
+  </para>
+  <para id="219">
+    <se lang="russian" variant_id="0">Прекрасно!</se>
+    <se lang="latin" variant_id="1">Egregie quidem!</se>
+    <weight variant_id="1">0,190909</weight>
+  </para>
+  <para id="220">
+    <se lang="russian" variant_id="0">Но можно кое-что предпринять, прежде чем позволить вырвать у нас трофеи победы.</se>
+    <se lang="latin" variant_id="1">Sed restat aliquid tentandum, priusquam palmam nobis eripi patiamur.</se>
+    <weight variant_id="1">0,260656</weight>
+  </para>
+  <para id="221">
+    <se lang="russian" variant_id="0">Вставь, пожалуйста, в снег термометр и склянку с водою; примешай к снегу соль, и ты увидишь, что в то время как вода превращается в лед и холодильная смесь ожижается, спирт в термометре все-таки опускается; ясный признак того, что одновременно с замерзанием воды холодильная смесь делается холоднее.</se>
+    <se lang="latin" variant_id="1">Insere, quaeso, nivi thermometrum simul cum aqua in vitro contenta, admisce nivi salem, videbis quidem aquam in glaciem converti et mixturam frigorificam deliquescere, spiritum tamen in thermometro deprimi, manifesto indicio, eo ipso tempore, quo aqua conglaciatur, mixturam frigorificam frigidiorem reddi,</se>
+    <weight variant_id="1">-0,00215827</weight>
+  </para>
+  <para id="222">
+    <se lang="russian" variant_id="0">Таким образом, никакой элементарный огонь не врывается в нее из воды; но скорее снег, растаявший от соприкосновения с более теплой водой, действует на соль, растворяет ее, охлаждается и приобретает меньшуюа степень теплоты, чем имеет вода, переходящая в лед; от этого чистая вода в сосуде замерзает, а самый снег, вследствие поглощенной соли, остается жидким.</se>
+    <se lang="latin" variant_id="1">adeoque nullum ignem elementarem in eam ex aqua propumpere; sed potius nivem tepidioris aquae contactu prius resolutam salem aggredi, solvere, refrigerari, minoremquea gradum caloris, quam aqua in glaciem abiens habere solet, acquirere, inde aquam puram in vase congelascere, ipsam vero nivem ob salem absorbtum liquidam perseverare.</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="223">
+    <se lang="russian" variant_id="0">Кто, в самом деле, не знает, что чистая вода, помещенная в стеклянном сосуде в воду, насыщенную солью, превращается в лед при 26° термометра Фаренгейта, тогда как рассол остается жидким?</se>
+    <se lang="latin" variant_id="1">Quis enim ignorat in aqua, sale impregnata, aliam puram, vitro inclusam, ad gradum thermometri Fahrenheitiani 26 in glaciem converti, salsa liquida manente.</se>
+    <weight variant_id="1">0,249265</weight>
+  </para>
+  <para id="224">
+    <se lang="" variant_id="0">§ 34</se>
+    <se lang="" variant_id="1">§ 34</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="225">
+    <se lang="russian" variant_id="0">На основании всего изложенного выше мы утверждаем, что нельзя приписывать теплоту тел сгущению какой-то тонкой, специально для того предназначенной материи, но что теплота состоит во внутреннем вращательном движении связанной материи нагретого тела.</se>
+    <se lang="latin" variant_id="1">His omnibus nil aliud contendimus, quam calorem corporum condensationi subtilis alicujus et ad illum dumtaxat destinatae materiae vindicandum non esse, sed eum consistere in motu intestino gyratorio materiae cohaerentis corporis calidi;</se>
+    <weight variant_id="1">0,0205479</weight>
+  </para>
+  <para id="226">
+    <se lang="russian" variant_id="0">Тем самым мы не только говорим, что такое движение и теплота свойственны и той тончайшей материи эфира, которой заполнены все пространства, не содержащие чувствительных тел, но и утверждаем, что материя эфира может сообщать полученное от солнца теплотворное движение нашей земле и остальным телам мира и их нагревать, являясь той средой, при помощи которой тела, отдаленные друг от друга, сообщают теплоту без посредничества чего-либо ощутимого.</se>
+    <se lang="latin" variant_id="1">eoque ipso non solum asserimus etiam subtilissimam illam materiam aetheris, qua omnia spatia a sensibilibus corporibus vacua replentur, ejusdem motus et caloris esse capacem; verum etiam affirmamus, illam impressum sibi a sole motum calorificum etiam telluri nostrae et reliquis corporibus mundi communicare, eaque calida reddere, atque adeo eam esse medium, quo corpora a se invicem remota, nullo sensibili intercedente, calorem communicent.</se>
+    <weight variant_id="1">-0,088024</weight>
+  </para>
+  <para id="227">
+    <se lang="" variant_id="0">§ 35</se>
+    <se lang="" variant_id="1">§ 35</se>
+    <weight variant_id="1">12,3</weight>
+  </para>
+  <para id="228">
+    <se lang="russian" variant_id="0">Отвергнув материю, которую принимают иные авторы исключительно ради объяснения теплоты, можно было бы и окончить речь, если бы с противной стороны для нас не возникала новая задача.</se>
+    <se lang="latin" variant_id="1">Remota materia calori alias unice consecrata finis verbis imponendus esset, si a parte contraria novum nobis negotium non insurgeret.</se>
+    <weight variant_id="1">0,196552</weight>
+  </para>
+  <para id="229">
+    <se lang="russian" variant_id="0">Ведь есть и такие, что наделили и холод особой субстанцией, усмотрев положительное основание этого в солях, вследствие производимого при растворении их холода.</se>
+    <se lang="latin" variant_id="1">Non enim desunt, qui etiam frigori specialem substantiam dicaverint, nimirum causam ejus positivam in salibus statuerint, producto per solutionem eorum in aqua frigore moti.</se>
+    <weight variant_id="1">0,274101</weight>
+  </para>
+  <para id="230">
+    <se lang="russian" variant_id="0">Но так как те же соли нередко производят и теплоту (так, обыкновенная соль при приливании купоросного масла вскипает и нагревается), то мы с таким же правом могли бы приписать солям и причину теплоты, если бы не считали такой неразумный спор ниже нашего достоинства.</se>
+    <se lang="latin" variant_id="1">At quoniam iidem sales etiam calorem non raro gignunt, ut sal communis affuso oleo vitrioli fervet et incalescit; idcirco nos quoque pari jure caloris causam salibus adscribere possemus, si tam incondite disputare non indignum esse putaremus.</se>
+    <weight variant_id="1">0,275481</weight>
+  </para>
+</body>
+</html>

@@ -1,0 +1,307 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html>
+<head>
+</head>
+<body>
+  <para id="0">
+    <se lang="russian" variant_id="0">Красота, важность, обширность, величие астрономии не только возвышают дух мудрых, возбуждая их пытливость и усердие, не только прельщают умы граждан просвещенных и находящих отраду в науках, но и необразованную толпу приводят в изумление.</se>
+    <se lang="latin" variant_id="1">Astronomiae pulchritudo, gravitas, amplitudo, majestas non solum sapientum judicia elevare, studia et industriam excitare, non solum eorum, qui optimis in republica praeceptis instituti scientiarum amoenitatibus delectantur, animos maxime omnium allicere, verum etiam plebis incultae mentes in stuporem rapere solent.</se>
+    <weight variant_id="1">0,194203</weight>
+  </para>
+  <para id="1">
+    <se lang="russian" variant_id="0">Поэтому неудивительно, что с незапамятных времен являлись мужи, выдающиеся природными дарованиями, которые всю свою жизнь посвящали занятиям астрономией, побужденные, как представляется нам, не стремлением к выгоде, а страстью насытить свой дух приятностью самого дела.</se>
+    <se lang="latin" variant_id="1">Hinc mirum non est ab omni hominum memoria viros praecellenti ingenii dote praeditos exstitisse, qui non tantum, ut videtur, lucri desiderio, quantum animi cupidinem satiandi jucunditate rei ducti omnem suam aetatem in astronomiae studium impendissent.</se>
+    <weight variant_id="1">0,275342</weight>
+  </para>
+  <para id="2">
+    <se lang="russian" variant_id="0">Что порождено их старанием и неутомимым трудом, ныне признает ученый свет, счастливый их превосходным наследием и с равным рвением стремящийся, помня о благодетельном искусстве предков, еще более обогатить своих преемников в потомстве, чье изъявление благодарности уже явственно представляется нашим глазам.</se>
+    <se lang="latin" variant_id="1">Quid opera eorum atque indefessus labor, pepererit, fatetur eruditus hodie orbis, optima eorum haereditate felix; ipse quoque majorum solertiae et beneficii memor pari conatu desudat, posteros ditiores redditurus successores; quorum futura grati animi significatio jam oculis observari videtur.</se>
+    <weight variant_id="1">0,287209</weight>
+  </para>
+  <para id="3">
+    <se lang="russian" variant_id="0">Мысленно обозревая и как бы пробегая в некоем атлетическом состязании всеобщность вещей, я не упоминаю здесь героев, из коих одни, протекая мыслью пространство небес, предсказали потомству то, что ныне мы усматриваем из наблюдений светил, другие счастливо измышленными, построенными и искусно применяемыми орудиями открыли более, нежели первые могли надеяться.</se>
+    <se lang="latin" variant_id="1">Non hic commemoro in pervestiganda animo, et quasi quodam athletico impetu percurrenda hac rerum universitate heroes, quorum pars vastitatem coeli cogitatione peragrando, ea posteris vaticinati sunt, quae hodie observatis astris deprehendimus, pars felicissimo successu excogitatis, constructis et in usum sedulo vocatis machinis majora detexerunt, quam quae illi sperare potuissent.</se>
+    <weight variant_id="1">0,278981</weight>
+  </para>
+  <para id="4">
+    <se lang="russian" variant_id="0">Посему никто не должен думать, что какая-либо наука или какое-либо искусство достигли такой степени совершенства, чтобы нельзя было надеяться на еще большие успехи в будущем.</se>
+    <se lang="latin" variant_id="1">Unde nemo sibi persuasum habeat scientiam aut artem aliquam ad eum gradum perfectionis pertigisse, ut nulli amplius meliores successuri sperari potuerint profectus.</se>
+    <weight variant_id="1">0,285417</weight>
+  </para>
+  <para id="5">
+    <se lang="russian" variant_id="0">Ибо многое сокрывает в настоящем премудрый бог, чтобы открыть это нашим потомкам.</se>
+    <se lang="latin" variant_id="1">Multa enim in praesens occultat prudens Deus, posteris reservaturus.</se>
+    <weight variant_id="1">0,25082</weight>
+  </para>
+  <para id="6">
+    <se lang="russian" variant_id="0">Итак, нельзя сомневаться, что может еще улучшиться и то, что почитается наилучшим.</se>
+    <se lang="latin" variant_id="1">Quam ob rem nemo dubitet, in melius posse converti id, quod optimum esse existimatur.</se>
+    <weight variant_id="1">0,295833</weight>
+  </para>
+  <para id="7">
+    <se lang="russian" variant_id="0">Размышляя об этом и повинуясь влечению ума к естественным наукам, я всегда был одержим желанием, вернее некоей страстью, обогащать их новыми приращениями.</se>
+    <se lang="latin" variant_id="1">Haec expendenti et animo propenso ad scientiam naturalem obtemperanti nunquam mihi defuit voluntas, imo cupido quaedam potius, illam novis incrementis locupletandi.</se>
+    <weight variant_id="1">0,275373</weight>
+  </para>
+  <para id="8">
+    <se lang="russian" variant_id="0">А так как астрономия, занимаясь изучением природы светил, составляет большую и притом важнейшую часть физики и для своего усовершенствования нуждается в помощи оптики, а именно в астрономических трубах, то я всегда лелеял желание, чтобы эти превосходные небесные орудия, коих изобретение составляет славу Ньютона и Грегори, не по размерам только, как это обычно происходило, возрастали, но получили и иные, почерпнутые из сокровищ оптики усовершенствования, которые позволили бы применять их с большей пользой.</se>
+    <se lang="latin" variant_id="1">Cum vero Astronomia ea nimirum, quae circa naturam siderum contemplandam versatur, magnam partem physices eamque nobilissimam constituat; turn ad culturam sui optices opem, tubos nempe astronomicos requirat; idcirco semper in votis habui, ut excellentissimae illae caelestes machinae, quarum inventio Nevtono et Gregorio insigni honori fuit, non mole tantum, uti solent, sed aliis etiam correctionibus ex optices thesauro petendis, ad meliores usus promoveri possent.</se>
+    <weight variant_id="1">0,274138</weight>
+  </para>
+  <para id="9">
+    <se lang="russian" variant_id="0">Рассматривая конструкцию труб, содержащих металлические зеркала и стеклянные линзы, я пришел к мысли, что они нуждаются в устранении скорее некоторого избытка, чем недостатка; а именно, что надо удалить малое отражающее зеркало.</se>
+    <se lang="latin" variant_id="1">Consideranti structuram tuborum, qui ex speculis metallicis et lentibus vitreis constant, incidit mihi in mentem, eos in excessu potius, quam in defectu meliorandos esse; nempe speculum reflectens parvum esse removendum.</se>
+    <weight variant_id="1">0,289063</weight>
+  </para>
+  <para id="10">
+    <se lang="russian" variant_id="0">Возникала необходимость придумать, каким образом, по его удалении, можно направить фокус зеркала, служащего объективом, к линзам окуляра, и каких от этого можно ожидать результатов, а также проверить это испытанием.</se>
+    <se lang="latin" variant_id="1">Eo eliminato, quo modo focus speculi objectivi dirigendus ad lentes oculares, et qui exinde fructus expectari posset, excogitari, et rem ipsam experientia exequi necessarium esse duxi.</se>
+    <weight variant_id="1">0,2475</weight>
+  </para>
+  <para id="11">
+    <se lang="russian" variant_id="0">Какой успех имели мои попытки, ныне представляю в подробностях вашему просвещенному суждению.</se>
+    <se lang="latin" variant_id="1">Quibus conatus mei mactati sunt successibus, singula gravissimo judicio vestro inpraesentiarum expono.</se>
+    <weight variant_id="1">0,26747</weight>
+  </para>
+  <para id="12">
+    <se lang="russian" variant_id="0">В намерении устранить направляющее зеркало ради премуществ, которые будут показаны в дальнейшем, я счел необходимым направить фокус служащего объективом зеркала так, чтобы отраженные лучи не встречались сами с собой на его оси, как это обыкновенно бывает, а несколько отклонялись в сторону, образуя угол, насколько возможно малый, чтобы изменение очертаний изображаемого предмета оказалось едва чувствительным или вовсе нечувствительным, а вершина фокуса находилась вне отверстия трубы, или, точнее, вне цилиндра лучей, отражающегося как на основание на отверстие объектива.</se>
+    <se lang="latin" variant_id="1">Sublaturus speculum reflectens, propter praerogativas in sequentibus ostendendas, eo modo focum speculi objectivi dirigendum esse censui, ut in axi illius non, ut alias solet, redeuntes radii cum semetipsis coincidant, sed aliquantum ad latus inflectantur efficiendo angulum quam fieri potest, exiguum, quo mutatio figurae objecti repraesentandi vix aut ne vix quidem sensibilis prodiret, et apex foci esset extra aperturam tubi, sive potius extra cylindrum radiorum, qui aperturae speculi objectivi tanquam basi incumbunt.</se>
+    <weight variant_id="1">0,269604</weight>
+  </para>
+  <para id="13">
+    <se lang="russian" variant_id="0">При таком устройстве линза окуляра легко может воспринять, как это требуется, фокус, привести лучи в параллельное расположение и представить глазу предмет, увеличенный соответственно отношению фокусов.</se>
+    <se lang="latin" variant_id="1">Quibus ita comparatis facile potest lens ocularis more debito focum excipere, radios in situm parallelum redigere, et objectum pro ratione focorum amplificatum oculo exhibere.</se>
+    <weight variant_id="1">0,25098</weight>
+  </para>
+  <para id="14">
+    <se lang="russian" variant_id="0">Это я проверил на опыте 15 мая сего года, применив металлическое зеркало, изготовленное Лейтманом для построения ньютоновой трубы.</se>
+    <se lang="latin" variant_id="1">Id quod die 15 Maii anni hujus re vera expertus sum adhibito speculo metallico, quod olim Leitmannus, pro tubo Nevtoniano construendo, paravit.</se>
+    <weight variant_id="1">2,01316</weight>
+  </para>
+  <para id="15">
+    <se lang="russian" variant_id="0">Эта первая попытка имела больший успех, чем я надеялся, что не только послужило для меня, оправлявшегося от тяжелой болезни, великим утешением, но придало сил и бодрости для построения большего и лучшего астрономического орудия этого рода; и чего я достиг в этом деле, предлагаю на рассмотрение досточтимому собранию.</se>
+    <se lang="latin" variant_id="1">Primum hoc tentamen, cum felicius, quam sperarem, successisset; non tantum magno mihi solatio, ex morbo gravissimo revalescenti, fuit; verum etiam vires et animum auxit ad majorem et meliorem istiusmodi machinam astronomicam construendam, in quo opere exequendo, quantum effeci, spectandum huic celeberrimo coetui exhibeo.</se>
+    <weight variant_id="1">0,290074</weight>
+  </para>
+  <para id="16">
+    <se lang="russian" variant_id="0">По начертании и описании этого нового астрономического орудия здесь необходимо рассмотреть, чего недоставало до сих пор, как мне кажется, катадиоптрическим трубам Ньютона и Грегори для наблюдения с большим успехом вооруженным ими глазом небесных предметов.</se>
+    <se lang="latin" variant_id="1">Post delineationem et descriptionem novae hujus machinae astronomicae recensenda hic sunt necessario, quae hucusque in tubis catadioptricis Nevtoniano scilicet atque Gregoriano desiderari mihi videntur, ad res coelestes meliore cum successu armato oculo contemplandas.</se>
+    <weight variant_id="1">0,282589</weight>
+  </para>
+  <para id="17">
+    <se lang="russian" variant_id="0">Наконец, нужно вкратце изложить те выгоды, которые сами собою проистекают из этого изобретения.</se>
+    <se lang="latin" variant_id="1">Denique illa commoda subjungenda sunt breviter, quae ex hoc invento sponte resultant.</se>
+    <weight variant_id="1">0,264</weight>
+  </para>
+  <para id="18">
+    <se lang="russian" variant_id="0">Для сообщения меньшему зеркалу точной и соответствующей объективу сферичности требуется величайшее искусство мастера, и если принять во внимание, помимо трудности изготовления его самого, стойку, к которой оно прикреплено и при помощи которой оно устанавливается на оси трубы, и винты, которыми оно закрепляется в нужном положении, то это требует больше труда и осмотрительности, чем все остальное, необходимое для устройства и движения трубы.</se>
+    <se lang="latin" variant_id="1">Ad speculi minoris accuratam et speculo objectivo aptam ephaericitatem obtinendam requiritur summa artificis industria, quae si praeter difficultatem conficiendi ipsum, ansam, cui annexum in axi tubi haeret, cochleas, quibus in situ requisito sisti debet, consideres, plus laboris et circumspectionis requirit, quam reliqua omnia, quae ad tubum construendum et movendum necessaria sunt.</se>
+    <weight variant_id="1">0,25816</weight>
+  </para>
+  <para id="19">
+    <se lang="russian" variant_id="0">А так как опытных в этом искусстве и внимательных к делу мало, то неудивительно, что катадиоптрические трубы редки и потому дороги, так что не всякий преданный астрономии может приобрести себе такую трубу, откуда возникает великое препятствие для их успехов; и, что более всего прискорбно, это происходит в наш век, ознаменованный выдающимся учением о светилах.</se>
+    <se lang="latin" variant_id="1">Hinc cum hujus artis periti pauci, et simul ad rem attenti reperiantur; mirum non est, tubos catadioptricos esse raros; ideoque caros, ita ut non quilibet, rei astronomicae deitus, ejusmodi machinam sibi comparare possit, unde magnum obstaculum successibus illorum oritur; et quod maxime dolendum est, fit istud nostro aevo distinctissima de astris doctrina illustrato.</se>
+    <weight variant_id="1">0,291262</weight>
+  </para>
+  <para id="20">
+    <se lang="russian" variant_id="0">В-третьих, никто сведущий в естественных науках не станет отрицать, что при отражении от тела, как бы хорошо оно ни было отполировано, отражаются не все лучи, но часть их, притупляясь, или, так сказать, отмирая, не возвращается назад.</se>
+    <se lang="latin" variant_id="1">Tertio scientiae naturalis gnarus nemo ibit inficias, radios, a corpore quocunque reflexos, quantumvis politissimum sit, non omnes reflecti, sed partem eorum hebefactam, sive, ut ita dicam, emortuam, non reverti.</se>
+    <weight variant_id="1">0,275676</weight>
+  </para>
+  <para id="21">
+    <se lang="russian" variant_id="0">Отсюда ясно и не вызывает никакого сомнения, что от направляющего зеркала отражается меньшее количество лучей, чем было им воспринято, и яркость изображения уменьшается.</se>
+    <se lang="latin" variant_id="1">Unde minorem a speculo reflectente copiam radiorum, quam quos receperit, redire, claritati objecti derogari, omni caret dubio.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="22">
+    <se lang="russian" variant_id="0">Посмотрим, сколько выделывается больших зеркал для объективов, имеющих надлежащую форму и отвечающих правилам оптики?</se>
+    <se lang="latin" variant_id="1">Consideremus, quot adaequatae figurae et regulis opticis respondentia conficiantur majora objectiva specula?</se>
+    <weight variant_id="1">0,217143</weight>
+  </para>
+  <para id="23">
+    <se lang="russian" variant_id="0">Ни одного: сошлюсь на честное признание самих мастеров.</se>
+    <se lang="latin" variant_id="1">nullum; ipsorum artificium testor fidem.</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="24">
+    <se lang="russian" variant_id="0">Ибо 1) они никогда не производят желательного фокусного расстояния;</se>
+    <se lang="latin" variant_id="1">Nam 1) nunquam desideratam producunt focorum distantiam.</se>
+    <weight variant_id="1">0,287755</weight>
+  </para>
+  <para id="25">
+    <se lang="russian" variant_id="0">2) собранные в фокусе лучи всегда образуют больший кружок, чем должны были бы образовать согласно вычислению;</se>
+    <se lang="latin" variant_id="1">2) Radii collecti in foco semper ampliore comprehenduntur circulo, quam secundum calculum esse deberent.</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="26">
+    <se lang="russian" variant_id="0">3) они по большей части так неправильно расположены, что, рассматривая сечения их вдоль оси, мы найдем бо́льшую часть кружков то более, то менее яркими — явный признак того, что поверхность объективного зеркала не везде имеет одну и ту же сферичность, вследствие чего лучи около фокуса и должны быть перепутаны.</se>
+    <se lang="latin" variant_id="1">3) Plerumque sunt distorti ita, ut ab axe coni sectiones radiorum contemplando, plerosque anulos tum vividiores turn obscuriores invenias, manifesto indicio superficiem speculi objectivi non ubique eandem habere sphaericitatem, et radios circa focum debere esse confusos.</se>
+    <weight variant_id="1">0,000995086</weight>
+  </para>
+  <para id="27">
+    <se lang="russian" variant_id="0">Но меньшее зеркало, при изготовлении которого допускаются бо́льшие погрешности, еще больше перепутывает перепутанные объективным зеркалом лучи и делает изображения гораздо темнее, чем они должны были бы получиться согласно теории.</se>
+    <se lang="latin" variant_id="1">At speculum minus, in quo conficiendo majora committuntur vitia, confusos ab objective speculo radios magis confundit; imagines reddit multo obscuriores, quam quae ex theoria prodire deberent.</se>
+    <weight variant_id="1">0,2375</weight>
+  </para>
+  <para id="28">
+    <se lang="russian" variant_id="0">Общеизвестно, что крепление малого зеркала слабо, неустойчиво и допускает отклонения и изменения установки, которые без самого мастера едва могут или вовсе не могут быть исправлены, вследствие чего весьма ценные орудия этого рода лежат без употребления и пользы.</se>
+    <se lang="latin" variant_id="1">Notissima est applicatio speculi minoris, debilis, delicata, prona ad declinationes et situs detortos, quae omnia sine artifice ipso vix aut ne vix quidem corrigi possunt.</se>
+    <weight variant_id="1">0,139865</weight>
+  </para>
+  <para id="29">
+    <se lang="russian" variant_id="0">Наконец, любое движение вызывает в направляющем зеркале, особенно в больших трубах, некоторое дрожание.</se>
+    <se lang="latin" variant_id="1">Unde fit, quod magni pretii hujusmodi instrumenta sine usu et fructu jaceant.</se>
+    <weight variant_id="1">0,18806</weight>
+  </para>
+  <para id="30">
+    <se lang="russian" variant_id="0">Между тем движение необходимо для того, чтобы следовать за ходом наблюдаемого светила.</se>
+    <se lang="latin" variant_id="1">Denique a quolibet motu producitur in speculo reflectente, praesertim in tubis majoribus, quaedam tremulatio.</se>
+    <weight variant_id="1">0,217105</weight>
+  </para>
+  <para id="31">
+    <se lang="russian" variant_id="0">Отсюда возникает немалая потеря времени при наблюдениях, особенно когда для приведения в движение большой трубы нужен более грубый механизм, а направляющее зеркало имеет большой вес.</se>
+    <se lang="latin" variant_id="1">Motus autem ad persequendum cursum sideris observandi est necessarius; unde oritur non contemnendum temporis in observando damnum; potissimum cum ad tubum majorem movendum rudior requiratur machina et ponderosius speculum reflectens.</se>
+    <weight variant_id="1">0,213208</weight>
+  </para>
+  <para id="32">
+    <se lang="russian" variant_id="0">Наконец, хотя некоторые знаменитые астрономы считают параллельными и потому не имеющими никакого значения те лучи, которые, будучи задержаны меньшим направляющим зеркалом, не достигают объектива, я, основываясь 1) на самой оптической теории, 2) на практике и даже 3) противных примерах других астрономов, здесь утверждаю, что они сами должны были бы думать иначе, если бы обычное устройство катадиоптрических труб не было запечатлено в их умах долгим употреблением и авторитетом изобретателей.</se>
+    <se lang="latin" variant_id="1">Ultimo quamvis celebres quidam astronomi radios, qui reflectente minore speculo prohibiti ad objectivum non pertingunt, nullius esse frugis existiment, cum reputent parallelos; at ego 1) teste ipsa theoria optica, 2) praxi, imo, 3) exemplis contrariis astronomorum hic ostendo aliter ipsos sentire debuisse, si solita tuborum catadioptricorum structura temporis usu et auctorum gravitate mentibus illorum impressa non fuisset.</se>
+    <weight variant_id="1">0,409889</weight>
+  </para>
+  <para id="33">
+    <se lang="russian" variant_id="0">Действительно, нельзя представить ни одного случая, в котором приблизительно пятая часть зеркала, а именно средняя, при вытачивании оказалась совершенно плоской; а если это допустить, то можно предположить плоскою и любую часть поверхности зеркала.</se>
+    <se lang="latin" variant_id="1">Nullus equidem casus assignari potest, quo fieret, ut quinta circiter et quidem media pars speculi tornando redderetur pro[r]sus plana; et, hoc posito, omni in parte superficiei speculi fingi potest plana.</se>
+    <weight variant_id="1">0,232203</weight>
+  </para>
+  <para id="34">
+    <se lang="russian" variant_id="0">Итак, мы не можем признать ни одну из существующих доныне труб хоть сколько-нибудь удовлетворяющей требованиям практики, вопреки свидетельствам всех астрономов.</se>
+    <se lang="latin" variant_id="1">Nullum ergo tubum hucusque possumus existimare vel utcunque esse utilem contra testimonia omnium astronomorum.</se>
+    <weight variant_id="1">0,165306</weight>
+  </para>
+  <para id="35">
+    <se lang="russian" variant_id="0">Вот что говорит теория и практика.</se>
+    <se lang="latin" variant_id="1">Haec sunt, quae theoria dictat et praxis.</se>
+    <weight variant_id="1">0,24</weight>
+  </para>
+  <para id="36">
+    <se lang="russian" variant_id="0">Наконец, отверстия линз, действие которых при собирании лучей таково же (за исключением различия в способе преломления), как и у зеркал, уменьшаются задержанием не ближайших к оси лучей, а тех, которые наиболее удалены от нее в направлении к периферии, то есть тех, которые более всего отступают от ясного фокуса.</se>
+    <se lang="latin" variant_id="1">Ultimo lentium quarum ratio in collectione radiorum (excepta varia refrangibilitate) eadem est, speculorum aperturae non solent minui prohibitis radiis, axi propioribus, sed eis, qui ab ipso ad peripheriam remotissimi sunt, nempe qui maxime ab distincto foco recedunt.</se>
+    <weight variant_id="1">0,256223</weight>
+  </para>
+  <para id="37">
+    <se lang="russian" variant_id="0">Ибо чего хотят достигнуть опытнейшие астрономы, уменьшая по краям отверстия стекол, как не того, чтобы для получения более отчетливых изображений задержать более спутанные лучи и использовать более отчетливые, а именно ближайшие к оси, которые в известных доныне катадиоптрических трубах совершенно погашаются преградой меньшего зеркала.</se>
+    <se lang="latin" variant_id="1">Quid enim exercitatissimi illi astronomi desiderant, cum aperturas a superficie vitrorum diminuunt quam quod ad distinctiorem visionem obtinendam, confusiores radios arceant, distinctioribus, nempe ad axem propioribus, utantur; qui in cognitis tubis catadioptricis prorsus extinguuntur, objectu minoris speculi.</se>
+    <weight variant_id="1">0,279348</weight>
+  </para>
+  <para id="38">
+    <se lang="russian" variant_id="0">Вот что я стараюсь устранить, уничтожив совершенно причину всех недостатков, а именно меньшее отражающее зеркало.</se>
+    <se lang="latin" variant_id="1">Hae sunt, quae removere studeo, prorsus sublata omnium defectuum causa, scilicet speculo minore reflectente.</se>
+    <weight variant_id="1">0,2875</weight>
+  </para>
+  <para id="39">
+    <se lang="russian" variant_id="0">Действительно, этим будет устранен докучный труд его изготовления, недоступность и дороговизна орудия, ослабление лучей вторичным отражением и происходящее отсюда уменьшение яркости, расстройство лучей при вторичном отражении и вызываемое им ухудшение отчетливости изображения предмета, неустойчивое положение самого малого зеркала и его дрожание при любом движении, преграждение наиболее полезных (для отчетливого изображения) лучей; а присоединяются сюда и новые выгоды при наблюдениях светил.</se>
+    <se lang="latin" variant_id="1">Quippe taediosus labor in ipso conficiendo, raritas et caritas instrumenti, hebetatio post secundam reflexionem radiorum, et inde orta minor claritas, confusio ex secunda reflexione radiorum, et inde visio objecti minus distincta, vacillans situs ipsius minoris speculi, et tremulatio ejusdem a motu quolibet; praestrictio optimorum (ad distinctam visionem) radiorum, cessant; et nova astrorum observationibus accedunt emolumenta.</se>
+    <weight variant_id="1">0,252255</weight>
+  </para>
+  <para id="40">
+    <se lang="russian" variant_id="0">Ибо, во-первых, расположение трубы, хотя и кажется не имеющим большого значения и почти одинаковым с трубою Ньютона, благоприятствует удобству наблюдателя, освобождая его от напряженного положения шеи и глаза, которое немало утомляет его при пользовании трубой Грегори, особенно когда перед самым наблюдением он должен для приведения в соответствие расположения фокусов зеркал не без утомления смотреть вверх.</se>
+    <se lang="latin" variant_id="1">Siquidem primo hic situs tubi, quamvis non adeo magni esse videatur momenti et fere communis cum tubo Nevtoniano, commoditati favet observatoris, cum a colli et oculi retorsione liberet, quae in usu tubi Gregoriani ipsum non parum fatigare solent, praesertim cum ante ipsam observationem focos speculorum ad congruum situm reducendo non sine molestia sursum tuetur observator.</se>
+    <weight variant_id="1">0,26935</weight>
+  </para>
+  <para id="41">
+    <se lang="russian" variant_id="0">Благодаря же нашему изобретению сохраняется привычное положение головы и глаза, и даже чем выше поднимается наблюдаемое светило, тем бо́льшим удобством пользуется астроном, видя светила у себя под ногами.</se>
+    <se lang="latin" variant_id="1">Contra vero hujus inventi beneficio consuetus magis capitis et oculi situs retinetur, imo quo observandum sidus surgit, altius, eo majore commoditate fruitur astronomus, sub pedibusque videt sidera.</se>
+    <weight variant_id="1">0,291329</weight>
+  </para>
+  <para id="42">
+    <se lang="russian" variant_id="0">Но еще больше пользы представляет следующее.</se>
+    <se lang="latin" variant_id="1">Sed plus utilitatis habent sequentia.</se>
+    <weight variant_id="1">0,247059</weight>
+  </para>
+  <para id="43">
+    <se lang="russian" variant_id="0">Катадиоптрические трубы не допускают применения тех пластинок с круглыми отверстиями, посредством которых обыкновенно задерживаются отклоняющиеся лучи, смутно увеличивающие пространство фокуса, ибо они заслонили бы все или большую часть лучей, идущих к большому зеркалу.</se>
+    <se lang="latin" variant_id="1">Nimirum tubi catadioptrici non possunt admittere circa focum pertusos illos rotundo foramine orbes, quibus radii divergentes et foci amplitudinem confuse augentes arceri solent: quippe omnem aut magnam radiorum copiam, ad speculum magnum tendentium, praecluderent.</se>
+    <weight variant_id="1">0,290948</weight>
+  </para>
+  <para id="44">
+    <se lang="russian" variant_id="0">В нашей трубе, напротив, легко могут применяться полезные приспособления этого рода, сильно содействующие отчетливости изображений, как это явствует из самого описания и чертежа.</se>
+    <se lang="latin" variant_id="1">Contra vero in tubo nostro utilissima istiusmodi adminicula, ad distinctam visionem multum contribuentia, facile possunt adhiberi: ut patet ex ipsa descriptione et delineatione.</se>
+    <weight variant_id="1">0,298077</weight>
+  </para>
+  <para id="45">
+    <se lang="russian" variant_id="0">Отверстие объектива обыкновенно суживают для улучшения отчетливости изображений, чем, однако, уменьшается их яркость.</se>
+    <se lang="latin" variant_id="1">Apertura speculi objectivi solet contrahi ob promovendam distinctiorem visionem, quo tamen claritati derogatur.</se>
+    <weight variant_id="1">0,282</weight>
+  </para>
+  <para id="46">
+    <se lang="russian" variant_id="0">Но при устранении меньшего зеркала наиболее полезные лучи, ближайшие к оси, свободно проходят к объективу, и, так как они увеличивают яркость, то можно без ущерба в большем количестве пресечь лучи, падающие на периферию зеркала, с наибольшей выгодой и для ясности и для отчетливости изображений.</se>
+    <se lang="latin" variant_id="1">Rejecto autem speculo minore optimi radii axem stipantes libère ad objectivum speculum admittuntur, quibus claritatem augentibus reprimi sine damno possunt majore copia radii, circa peripheriam speculi incidentes, quo clariori et distinctiori visioni optime consultum est.</se>
+    <weight variant_id="1">0,282427</weight>
+  </para>
+  <para id="47">
+    <se lang="russian" variant_id="0">Так как лучи от объективного зеркала непосредственно, не претерпевая какого-либо другого отражения, достигают линзы окуляра и потому меньше перепутываются и ближе подходят к оптической теории, то можно применять окуляры с гораздо более коротким фокусом, чем обычно; таким образом предметы, наблюдаемые через эти трубы, гораздо сильнее увеличиваются без ущерба для отчетливости изображения и т. д.</se>
+    <se lang="latin" variant_id="1">Radiis a speculo objectivo ad lentem ocularem immediate pertingentibus nullam reflexionem alteram passis; hinc multo minus confusis et ad theoriam opticam propius accedentibus possunt adhiberi lentes oculares multo brevioris foci, quam vulgo solent; atque adeo objecta per ejusmodi tubos spectanda multo magis augeri, distincta visione illibata, etc.</se>
+    <weight variant_id="1">0,261639</weight>
+  </para>
+  <para id="48">
+    <se lang="russian" variant_id="0">Немалое увеличение в этой нашей трубе яркости изображения — как вследствие пропускания серединных лучей, так и вследствие сохранения их количества, ибо они не претерпевают второго отражения — допускает в большей степени, чем это бывает в других случаях, употребление нескольких окулярных стекол, фокусы которых, правильно расположенные и последовательно воспринимающие друг друга, должны чрезвычайно способствовать увеличению предметов, если стекла будут тщательно обработаны.</se>
+    <se lang="latin" variant_id="1">Claritas objectorum in hoc nostro tubo cum propter admissos per medium ajus radios, turn ob conservatam eorum copiam, quia secundam reflexionem passi non sunt, non exiguum adaucta, facilius, quam fit alias, admittit plura vitra ocularia, quorum foci rite dispositi et se mutuo accurate excipientes stupendum quantum ad augenda objecta conferre debent; si vitra sollicite fuerint elaborata.</se>
+    <weight variant_id="1">0,225672</weight>
+  </para>
+  <para id="49">
+    <se lang="russian" variant_id="0">Неудобства, связанные, повидимому, с этим изобретением, таковы: 1) наклонение зеркала объектива, которое должно изменять очертания предмета.</se>
+    <se lang="latin" variant_id="1">Incommoda, quae hoc inventum secum afferre videtur, sunt 1) speculi objectivi inclinatio, quae objecti figuram immutare debet.</se>
+    <weight variant_id="1">0,43593</weight>
+  </para>
+  <para id="50">
+    <se lang="russian" variant_id="0">Однако это изменение столь незначительно, что им можно пренебречь.</se>
+    <se lang="latin" variant_id="1">Haec tamen tam est exigua, ut in considerationem non sit vocanda.</se>
+    <weight variant_id="1">0,283929</weight>
+  </para>
+  <para id="51">
+    <se lang="russian" variant_id="0">В самом деле, пусть зеркало наклонено настолько, что его ось отступает от обычного положения на четыре градуса, что, удвоившись через отражение, составит восемь — наклонение, достаточное для выхода фокуса за окружность трубы;</se>
+    <se lang="latin" variant_id="1">Quia inclinato tantum speculo, ut axis ejus a solito situ recidat gradus quatuor, quod per refractionem duplicatum efficit octo, quae inclinatio sufficit ad focum exerendum extra tubi ambitum.</se>
+    <weight variant_id="1">-0,0184385</weight>
+  </para>
+  <para id="52">
+    <se lang="russian" variant_id="0">такое наклонение производит разность между наибольшим и наименьшим диаметрами зеркала, равную 1/120 их части, так что и изображение в глазу будет настолько же сужено.</se>
+    <se lang="latin" variant_id="1">Haec inclinatio producit differentiam inter diametros speculi, maximam et minimam 1/120 partem eorum; adeoque et imago in oculo erit tantundem angustior.</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="53">
+    <se lang="russian" variant_id="0">Такое различие между кругом и эллиптической фигурой в наблюдениях этого рода может быть сочтено ничтожным; если же кто не захочет им пренебречь, то может легким приведением придать наблюдаемому предмету истинную фигуру.</se>
+    <se lang="latin" variant_id="1">Quae diversitas circuli et ellipticae figurae in ejusmodi observationibus pro nulla censeri solet; et si quis contemnere nolit, facili reductione veram figuram objecto observato dare potest.</se>
+    <weight variant_id="1">0,256627</weight>
+  </para>
+  <para id="54">
+    <se lang="russian" variant_id="0">Во-вторых, могут возразить, что в трубе Грегори направляющее зеркало увеличивает изображение предмета, а потому, отбросив его, наблюдатель многое теряет.</se>
+    <se lang="latin" variant_id="1">Secundo objici potest in tubo Gregoriano speculo reflectente objecti imaginem amplificari. ~~~ Et ideirco illo rejecto multum observatori detrahi.</se>
+    <weight variant_id="1">-0,009375</weight>
+  </para>
+  <para id="55">
+    <se lang="russian" variant_id="0">Но на это легко ответить, ибо это увеличение едва достигает двукратности и весьма легко может быть возмещено посредством линз окуляра, с выгодой для яркости и отчетливости изображения.</se>
+    <se lang="latin" variant_id="1">Facilis tamen responsio est: etenim amplificatio haec vix duplum adaequat et facillime per lentes oculares referciri potest, cum foenore clarioris et distinctioris visionis.</se>
+    <weight variant_id="1">0,286184</weight>
+  </para>
+  <para id="56">
+    <se lang="russian" variant_id="0">Но это лучше покажет время и практика; ныне же прошу вас довольствоваться добрым началом и, утвердившись в благой надежде, никогда не утрачивать уверенности, что под покровительством августейшего самодержца нашего Петра Третьего, наследника дедовских доблестей, вместе с сонмом прочих наук возрастет и астрономия, которую блаженной памяти Петр Великий удостоил особым попечением, поддерживал и почитал, и что славнейшая из муз Урания здесь в нашем отечестве преимущественно перед всеми народами утвердит свое пребывание.</se>
+    <se lang="latin" variant_id="1">Sed hoc tempus et usus docebit melius; nunc bono initio rogo vos esse contentos, atque optima spe fretos nunquam aliter sentire ac sperare, quam quod suspiciis augustissimi autocratoris nostri Petri Tertii avitarum virtutum haeredis cum reliquo scientiarum coitu etiam astronomiae, quam divus Petrus Magnus sungulari benevolentia excepit, sustentavit, coluit, incrementa augeantur; et musarum clarissima Urania, maxime gentium hic in Patria nostra sedem suam figat.</se>
+    <weight variant_id="1">0,263524</weight>
+  </para>
+  <para id="57">
+    <se lang="russian" variant_id="0">Пусть августейший дом Петров по укрощении военной бури, подобно Солнцу, центру и размерителю движения планет, привлечет к себе как центру все тела в системе целого мира, заимствующие от него свет и тепло.</se>
+    <se lang="latin" variant_id="1">Atque Augustissima Petri Domus post sopitam belli tempestatem tanquam sol in planetarum decursu medius et moderator, omnia corpora in systemato universi orbis terrarum ad se tanquam ad centrum flectat lucem et teporem ab ipso mutuantia.</se>
+    <weight variant_id="1">0,25</weight>
+  </para>
+  <para id="58">
+    <se lang="russian" variant_id="0">Эти живейшие желания наши мы соединяем с молитвами всей Российской империи в день, который уже почти целое столетие от колыбели Петра Великого знаменуется радостными кликами, рукоплесканиями и плясками верноподданных.</se>
+    <se lang="latin" variant_id="1">Haec nostra ardentissima desideria cum votis totius Rossiarum Imperii isto potissimum die coniungimus, qui jam fere seculum integrum a Petri Magni usque incunabulis fidelium subditorum la[e]tissima voce, plausibus, tripudiis colebratus est.</se>
+    <weight variant_id="1">0,266842</weight>
+  </para>
+  <para id="59">
+    <se lang="russian" variant_id="0">Да возвращается этот радостный и счастливый день отныне все более радостным и более счастливым, с удвоенным торжеством Петра, отца отечества, и сына, возлюбленнейшего главы юношества, и да принесет он общее нерушимое веселье в далекое потомство.</se>
+    <se lang="latin" variant_id="1">Hinc ipse dies nunc duplicata solemnitate Petri Patris Patriae et Filii, carissimi Principis juventutis laetissimus felicissimus semper laetior semper felicior redeat, et communia non interrupta gaudia ad seros usque transferat nepotes.</se>
+    <weight variant_id="1">0,292754</weight>
+  </para>
+</body>
+</html>

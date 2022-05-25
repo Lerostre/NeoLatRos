@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html>
+<head>
+</head>
+<body>
+  <para id="0">
+    <se lang="russian" variant_id="0">Среди бесчисленных явлений, которые природа свершает силой солнечных лучей и дает наблюдать любознательным взорам при содействии усердного труда ученых, первое место, по справедливости, занимает изумительное свойство зажигательных зеркал и линз.</se>
+    <se lang="latin" variant_id="1">Inter innumera, quae radiorum solarium virtute natura perpetrat, et industria eruditorum manu opem ferente, curiosis oculis usurpanda sistit, mirabilis speculorum et lentium causticarum vis principem locum jure obtinet.</se>
+    <weight variant_id="1">0,262694</weight>
+  </para>
+  <para id="1">
+    <se lang="russian" variant_id="0">Многочисленные ученые, а равно опытные и искусные мастера положили огромный труд на их изготовление и постарались, насколько могли, отлить их наибольшего размера, сделать их с превосходным искусством и довести до такой степени совершенства, что современникам почти недостижимой кажется их мощная зажигательная сила.</se>
+    <se lang="latin" variant_id="1">Etenim plerique viri docti aeque ac artifices periti et solertes summam operam in illis elaborandis posuerunt, atque, ut potuerant, maxima mole illa conflare, arte politissima perficere et ad id perfectionis deducere adnixi sunt, ut validissimus eorum in comburendo vigor fere inimitabilis esse moderno tempore credatur.</se>
+    <weight variant_id="1">0,297818</weight>
+  </para>
+  <para id="2">
+    <se lang="russian" variant_id="0">У лионского мастера Виллета было зажигательное зеркало с диаметром в 30 дюймов и фокусом в половину луидора такой зажигательной силы, что поднесенное к нему зеленое дерево сразу вспыхивало, в твердых металлах проплавлялись отверстия, а кремни расплавлялись в стекло.</se>
+    <se lang="latin" variant_id="1">Artifex Lugdunensis Vilettus speculum causticum habebat, cujus diameter erat 30 pollices longa, focus autem dimidium Ludovici nummum aureum adaequabat, ejus virtutis causticae, qua lignum viride admotum statim exardescebat; metalla duriora perforata, silices in vitrum conflati fuerunt.</se>
+    <weight variant_id="1">1,16603</weight>
+  </para>
+  <para id="3">
+    <se lang="russian" variant_id="0">Господин фон Чирнгаузен достигал своими зеркалами большего: они обращали в стекло не только металлы, но и шифер, самые прочные тигли, кирпичи, обожженные на сильном огне, и даже пемзу, выброшенную буйным пламенем из огнедышащих гор.</se>
+    <se lang="latin" variant_id="1">Dn. de Tschirnhausen majora speculis suis praestitit; quae non solum metalla, verum etiam Ardesiam, validissima crucibula, lateres ingenti igne excoctos atque etiam pumices ex montibus ignivomis rapaci flamma ejectos in vitrum convertebant.</se>
+    <weight variant_id="1">0,286567</weight>
+  </para>
+  <para id="4">
+    <se lang="russian" variant_id="0">Этот же муж, прославившийся заслугами своими в ученом мире, изготовлял зажигательные линзы такой величины, что никто не осмеливался даже взяться за изготовление более крупных.</se>
+    <se lang="latin" variant_id="1">Idem vir mentis suis in orbe litterario praeclarus lentes causticas confecerat tantae molis, ut nemo tandem illis majores parare aggredi ausus fuerit.</se>
+    <weight variant_id="1">0,246923</weight>
+  </para>
+  <para id="5">
+    <se lang="russian" variant_id="0">Самая большая имела у него четыре фута в диаметре; твердое, смоченное водой дерево, будучи поднесено к ее фокусу, немедленно вспыхивало; фарфоровая посуда, пемза, асбест, древесная зола превращались в стекло.</se>
+    <se lang="latin" variant_id="1">Maximum omnium quatuor pedes diametro adaequabat, cujus foco lignum durum et humectatum admotum momento temporis flammas conceperat, vasa porcellana, pumex, Asbestus, cineres lignorum ibidem in vitrum abiverant.</se>
+    <weight variant_id="1">0,291713</weight>
+  </para>
+  <para id="6">
+    <se lang="russian" variant_id="0">Силу этой линзы увеличивала другая, меньшего размера, называемая собирательной.</se>
+    <se lang="latin" variant_id="1">Vires lentis illius alia minor, collectiva dicta, intendebat.</se>
+    <weight variant_id="1">0,207273</weight>
+  </para>
+  <para id="7">
+    <se lang="russian" variant_id="0">Но на этом искусство достохвальных мужей остановилось, вероятно вследствие трудностей, которые неизбежно связаны с этой работой.</se>
+    <se lang="latin" variant_id="1">Sed hic laudatorum virorum solertia substitit, difficultatibus forte, quae in hoc negotio occurere solent, impedita.</se>
+    <weight variant_id="1">0,267961</weight>
+  </para>
+  <para id="8">
+    <se lang="russian" variant_id="0">Изготовлению больших линз, кроме прочих обстоятельств, мешает следующее.</se>
+    <se lang="latin" variant_id="1">Lentibus majoribus elaborandis sequens prae reliquis incommodum officit.</se>
+    <weight variant_id="1">0,3</weight>
+  </para>
+  <para id="9">
+    <se lang="russian" variant_id="0">Когда жидкое стекло льется из печи в формы, оно увлекает с собой воздух, который в конце концов, при охлаждении массы, собирается пузырьками и уменьшает прозрачность линзы, ибо солнечные лучи многократно преломляются в ней, и от этого прежний фокус слабеет, искажаясь и увеличиваясь в размерах.</se>
+    <se lang="latin" variant_id="1">Quippe vitrum liquefactum dum ex fornace formae infunditur, aërem secum corripit, qui tandem, massa refrigerate, in bullas colligitur, lentisque pelluciditatem minuit, radiis solis multoties refractis; quo focus admodum haebetatur, deformis et amplior redditus.</se>
+    <weight variant_id="1">0,271304</weight>
+  </para>
+  <para id="10">
+    <se lang="russian" variant_id="0">Далее, если форма не будет достаточно нагрета, то раскаленное стекло, вследствие происходящего отсюда внезапного охлаждения, при этом охлаждении трескается.</se>
+    <se lang="latin" variant_id="1">Tumque si forma non satis calefacta fuerit; fervidissimum vitrum, repentino frigore inde occurrente, refrigeratum rumpitur.</se>
+    <weight variant_id="1">0,220909</weight>
+  </para>
+  <para id="11">
+    <se lang="russian" variant_id="0">Легче приготовлять большие зеркала, но у этих превосходных приборов имеется следующее неудобство: они направляют собранные лучи так, что ось фокуса параллельна лучам, идущим от солнца к поверхности зеркала.</se>
+    <se lang="latin" variant_id="1">Specula ampliora facilius parantur; sed praestantissima haec instrumenta hoc incommodi habent, quod radios collectos ita dirigant, ut axis foci sit cum radiis a sole ad faciem speculi tendentibus parallelus.</se>
+    <weight variant_id="1">0,3</weight>
+  </para>
+  <para id="12">
+    <se lang="russian" variant_id="0">Вследствие этого предметы, выставляемые в фокусе, заслоняют свет и отнимают у фокуса силу жара.</se>
+    <se lang="latin" variant_id="1">Quo fit, ut objecta foco exposita lumen praepediant, atque aestui in foco derogent.</se>
+    <weight variant_id="1">0,254167</weight>
+  </para>
+  <para id="13">
+    <se lang="russian" variant_id="0">Направление это, однако, едва можно изменить даже в самой малой степени, особенно если сферичность зеркала мала и само оно представляет собой сегмент сферы больше чем в 20°.</se>
+    <se lang="latin" variant_id="1">Quae directio tamen vix tantillum mutari potest, praesertim si speculi sphaericitas fuerit minor, ipsumque majus quam 20° segmentum sphaerae sit.</se>
+    <weight variant_id="1">0,250394</weight>
+  </para>
+  <para id="14">
+    <se lang="russian" variant_id="0">Кроме того, имеется еще не малое препятствие, особенно для частных лиц, которые любят опыты, требующие сильного огня, а именно — высокая цена таких линз и зеркал.</se>
+    <se lang="latin" variant_id="1">Caeterum non minus praepedimentum, praecipue vero privatis, qui experimentis vigoroso igne tentandis delectantur, obstat; scilicet magnum hujusmodi lentium et speculorum praetium.</se>
+    <weight variant_id="1">0,252174</weight>
+  </para>
+  <para id="15">
+    <se lang="russian" variant_id="0">Вознамерившись ввести в области химии приборы физиков, а также истины, ими открытые, чтобы до известной степени устранить или облегчить трудности, встречающиеся в этой науке, и осветить области темные и скрытые глубоким неведением, я счел за благо по мере сил моих уничтожить каким-либо способом упомянутые трудности и попытаться увеличить зажигательную силу этих приборов, которые прославлены столькими работниками, двинувшими вперед естествознание, и которые, я не сомневаюсь, придут на помощь в химических работах, требующих сильного огня.</se>
+    <se lang="latin" variant_id="1">Quoniam autem mihi animus est instrumenta Physicorum, non secus veritates ab iisdem detectas in Chymiam introducendi, quo difficultates in ea obvenientes aliquatenus tollantur vel subleventur; similiter ea, quae obscura sunt et in profunda ignorantia sepulta jacent, in lucem prodeant: ideo non indignum judicavi celebrate a tot scientiae naturalis promotoribus haec instrumenta, quae laboribus Chymicis violento igne perficiendis auxilio ventura fore non dubito, quacunque ratione a memoratis difficultatibus pro modulo meo liberare, et vim eorum causticam promovere tentare.</se>
+    <weight variant_id="1">0,280892</weight>
+  </para>
+  <para id="16">
+    <se lang="russian" variant_id="0">В этих размышлениях мне представилось возможным достигнуть цели только одним способом, а именно: собиранием фокусов нескольких линз или зеркал в одно и то же место, где соединенными силами они и произведут жар больший, чем известный до сих пор.</se>
+    <se lang="latin" variant_id="1">Quo mihi mentem dirigenti nulla alia via hoc praestari posse videbatur, nisi aliquot lentium vel speculorum foci in unum eundemque locum cogantur, ubi sociatis viribus calorem producant noto hucusque majorem.</se>
+    <weight variant_id="1">0,253333</weight>
+  </para>
+  <para id="17">
+    <se lang="russian" variant_id="0">Чтобы после такой установки зеркал и линз лучи солнца, непрерывно меняющего место, одинаково отражались зеркалами и преломлялись в линзах, а общий фокус оставался неизменным во время любого длительного опыта, нужно ножку столика сделать составной, подвижной в двух соединениях (фиг. 3):</se>
+    <se lang="latin" variant_id="1">Ut vero, speculis et vitris ita ordinatis, radii solis locum continuo mutantis eodem modo reflectantur a speculis, in lentibus refringantur atque focus communis maneat immutatus tempore cujuslibet experimenti longius durantis, oportet pedem mensulae articulatum conficere, in duabus juncturis versatilem (fig. 3);</se>
+    <weight variant_id="1">-0,0855769</weight>
+  </para>
+  <para id="18">
+    <se lang="russian" variant_id="0">одно нужно сделать так, чтобы доску ABCD, на которой должны быть помещены линзы и зеркала, можно было наклонять к горизонту по произволу; другое F должно представлять собой цилиндр, вставленный в равное и подобное ему отверстие, вырезанное в шаре abcd. ~~~ </se>
+    <se lang="latin" variant_id="1">quarum altera ita comparata sit, ut tabula ABCD, super qua lentes et specula collocanda sunt, ad horizontem pro lubitu inclinari possit; altera F constet ex cilindro, qui aequali et simili sibi cavitati, globo abcd incisae, infixus esse debet;</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="19">
+    <se lang="russian" variant_id="0">С его помощью прибор можно будет поворачивать в любую сторону света.</se>
+    <se lang="latin" variant_id="1">quo versus quamlibet mundi plagam machina dirigi </se>
+    <weight variant_id="1">-0,00387454</weight>
+  </para>
+  <para id="20">
+    <se lang="russian" variant_id="0">При таком устройстве зеркала будут всегда одинаково отражать лучи солнца, куда бы оно ни отклонилось, а линзы всегда будут иметь один и тот же фокус, если луч, пропущенный через диоптру H, пройдет через диоптру Q.</se>
+    <se lang="latin" variant_id="1">Sic sole quocunque vergente specula semper radios eodem more flectent, lentes focum communem unum eundemque habebunt, si radius, per dioptram H transmissus, per dioptram Q transeat possit.</se>
+    <weight variant_id="1">0,241935</weight>
+  </para>
+  <para id="21">
+    <se lang="russian" variant_id="0">Нижняя часть ножки G должна быть нагружена</se>
+    <se lang="latin" variant_id="1">Pedis pars inferior G plumbo oneretur, ne totum instrumentum vacillet. ~~~ </se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="22">
+    <se lang="russian" variant_id="0">Так как я не сомневаюсь в возможности этого (ибо причины для сомнений нет), то я убежден, что цель, к которой я стремлюсь, легко достижима.</se>
+    <se lang="latin" variant_id="1">Quae cum ita fieri posse nullus dubitem; nulla enim dubitandi causa est; scopum illum ad quem contendo accessu facilem esse persuasus sum. ~~~</se>
+    <weight variant_id="1">0,197436</weight>
+  </para>
+  <para id="23">
+    <se lang="russian" variant_id="0">Тут не нужно потеть за отливкой огромных стекол и заниматься докучнейшим трудом, полируя их, ибо несколько меньших стекол произведут то же действие.</se>
+    <se lang="latin" variant_id="1">Etenim non hic ingentia vitra multo sudore conflare et taediosissimo labore polire necessum erit, cum aliquot minora idem praestare possint;</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="24">
+    <se lang="russian" variant_id="0">Они потребуют сравнительно небольших расходов, а для их изготовления не нужно будет большого труда и усилий.</se>
+    <se lang="latin" variant_id="1">quibus comparandis nec magnos sumptus impendere opus erit, nec conficiendis summum laborem et operam navare.</se>
+    <weight variant_id="1">0,223404</weight>
+  </para>
+  <para id="25">
+    <se lang="russian" variant_id="0">Тот, кто возьмется сделать весь прибор, предлагаемый в этой статье, истратит не больше 40 флоринов, если удовольствуется восемью стеклами диаметром в три дюйма и семью сюда относящимися зеркалами требуемой величины.</se>
+    <se lang="latin" variant_id="1">Machinam integram hoc tractatulo propositam constructurus plus quam quadraginta florenos non impendet, si ea octo vitris diametri tripollicaris et speculis septem huc spectantibus, requisitae amplitudinis, duntaxat habebit.</se>
+    <weight variant_id="1">0,284043</weight>
+  </para>
+  <para id="26">
+    <se lang="russian" variant_id="0">Те же большие стекла и линзы, изготовляемые лишь при щедрой поддержке императоров и королей, можно видеть в кунсткамерах последних.</se>
+    <se lang="latin" variant_id="1">Verum magna illa specula et lentes sola Imperatorum et Regum munificentia comparata in eorundem technophylaciis spectantur.</se>
+    <weight variant_id="1">0,283486</weight>
+  </para>
+  <para id="27">
+    <se lang="russian" variant_id="0">Конец.</se>
+    <se lang="latin" variant_id="1">Finis.</se>
+    <weight variant_id="1">0,3</weight>
+  </para>
+</body>
+</html>

@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html>
+<head>
+</head>
+<body>
+  <para id="0">
+    <se lang="russian" variant_id="0">Славнейшей Шведской королевской академии наука службу свою преданнейше предлагает и нижайший привет шлет Михайло Ломоносов</se>
+    <se lang="latin" variant_id="1">Illustrissimae Academiae Regiae Scientiarum Sveciae studia et officia sua devoto offert animo simulque ~~~ S. ~~~ P.. D. Michaël Lomonosow ~~~ </se>
+    <weight variant_id="1">-0,114737</weight>
+  </para>
+  <para id="1">
+    <se lang="russian" variant_id="0">Удостоившись чести получения любезной и благожелательной грамоты, которой славнейшая Академия наук пожелала удостоверить избрание мое в члены, почел я за долг свой незамедлительно изъявить благодарность за столь великую и особенную милость, от знаменитейшего обществад полученную.</se>
+    <se lang="latin" variant_id="1">Quum primum id honoris mihi obtigit, ut plenum humanitatis atque favoris diploma acceperim, quo illustrissima Academia Scientiarum testari voluit me in Societatem Illius esse cooptatum; officium fuit meum sine ulla mora gratum significare animum pro tanto tamque singulari a celeberrima Societate accepto beneficio.</se>
+    <weight variant_id="1">-0,0163968</weight>
+  </para>
+  <para id="2">
+    <se lang="russian" variant_id="0">Чтобы, однако, обратиться мне к собранию таковых мужей не с одной только пустой благодарностью,а но как члену уже членскую работу предъявить,б вменилв я себе в обязанность предложить некий образец моей благодарности и усердия.</se>
+    <se lang="latin" variant_id="1">Verum tamen, ne vacuus gratiarum actor tantorum virorum coetum litteris alloquerer, sed ut jam socius sociam Illi commodarem operam, muneris mei esse existimavi, exhibere aliquod grati animi atque studii mei specimen.</se>
+    <weight variant_id="1">0,28883</weight>
+  </para>
+  <para id="3">
+    <se lang="russian" variant_id="0">Итак, дерзаю преподнести книжку, где вкратце изъясняютсяе явления, свойственные родному вам и нам Северу, которые, как мне по крайней мере то ведомо, в кругу ученом известны не так, как они того заслуживают.</se>
+    <se lang="latin" variant_id="1">Offerre igitur ausus sum libellum, quaedam communis nostri Septentrionis phaenomena breviter exponentem. ~~~ Quae, quantum mihi quidem constat, non utc merentur, in orbe litterario sunt cognita.</se>
+    <weight variant_id="1">-0,00710059</weight>
+  </para>
+  <para id="4">
+    <se lang="russian" variant_id="0">Действительнейшим доказательством верности будет суждение о них славнейшей Королевской шведской академии наук, милостивое внимание которой никогда не забуду чтить я благодарной душой.</se>
+    <se lang="latin" variant_id="1">Solidissimum veritatis erit argumentumf de illis sententia illustrissimae Regiae Academiae Scientiarum Sveciae, cujus beneficium et favorem gratissimo animo colere nunquam desistam.</se>
+    <weight variant_id="1">0,298148</weight>
+  </para>
+  <para id="5">
+    <se lang="russian" variant_id="0">Петербург 15 июля 1760 г.</se>
+    <se lang="latin" variant_id="1">Dabam Petropoli die 15 julii. A. ~~~ S.. 1760</se>
+    <weight variant_id="1">-0,18</weight>
+  </para>
+</body>
+</html>
